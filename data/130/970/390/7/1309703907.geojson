@@ -1,0 +1,67 @@
+{
+  "id": 1309703907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.52583,-12.18,35.52583,-12.18",
+    "geom:latitude":-12.18,
+    "geom:longitude":35.52583,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Madeira",
+    "gn:country_code":"MZ",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085388,
+    "gn:latitude":-12.18,
+    "gn:longitude":35.52583,
+    "gn:modification_date":"1995-06-21",
+    "gn:name":"Madeira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091701443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085388
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"96567d1ed7cde0287e7c0f8ea6ec4be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701443,
+            "locality_id":1309703907,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1309703907,
+    "wof:lastmodified":1537075011,
+    "wof:name":"Madeira",
+    "wof:parent_id":1091701443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.52583,
+    -12.18,
+    35.52583,
+    -12.18
+],
+  "geometry": {"coordinates":[35.52583,-12.18],"type":"Point"}
+}

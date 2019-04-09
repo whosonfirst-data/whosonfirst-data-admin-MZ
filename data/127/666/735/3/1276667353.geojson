@@ -1,0 +1,67 @@
+{
+  "id": 1276667353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.02028,-12.13139,40.02028,-12.13139",
+    "geom:latitude":-12.13139,
+    "geom:longitude":40.02028,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Liutua",
+    "gn:country_code":"MZ",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085607,
+    "gn:latitude":-12.13139,
+    "gn:longitude":40.02028,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Liutua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091698583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085607
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a442e2e97528b9f1475b874a2ba8f6d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698583,
+            "locality_id":1276667353,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276667353,
+    "wof:lastmodified":1536827171,
+    "wof:name":"Liutua",
+    "wof:parent_id":1091698583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.02028,
+    -12.13139,
+    40.02028,
+    -12.13139
+],
+  "geometry": {"coordinates":[40.02028,-12.13139],"type":"Point"}
+}

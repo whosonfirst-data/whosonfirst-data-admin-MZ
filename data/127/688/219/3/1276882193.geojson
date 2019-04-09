@@ -1,0 +1,67 @@
+{
+  "id": 1276882193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.98,-24.83833,32.98,-24.83833",
+    "geom:latitude":-24.83833,
+    "geom:longitude":32.98,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Timoteo",
+    "gn:country_code":"MZ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025936,
+    "gn:latitude":-24.83833,
+    "gn:longitude":32.98,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Tim\u00f3teo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025936
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4d8f28bd1c387fe875e901241f77ccc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696361,
+            "locality_id":1276882193,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1276882193,
+    "wof:lastmodified":1537036358,
+    "wof:name":"Timoteo",
+    "wof:parent_id":1091696361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.98,
+    -24.83833,
+    32.98,
+    -24.83833
+],
+  "geometry": {"coordinates":[32.98,-24.83833],"type":"Point"}
+}

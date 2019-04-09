@@ -1,0 +1,67 @@
+{
+  "id": 1243384789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.3175,-14.47333,37.3175,-14.47333",
+    "geom:latitude":-14.47333,
+    "geom:longitude":37.3175,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mantoanacala",
+    "gn:country_code":"MZ",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040900,
+    "gn:latitude":-14.47333,
+    "gn:longitude":37.3175,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Mantoanacala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040900
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"076ac94de0334539a58e4baebe47f28f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699845,
+            "locality_id":1243384789,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1243384789,
+    "wof:lastmodified":1536894296,
+    "wof:name":"Mantoanacala",
+    "wof:parent_id":1091699845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.3175,
+    -14.47333,
+    37.3175,
+    -14.47333
+],
+  "geometry": {"coordinates":[37.3175,-14.47333],"type":"Point"}
+}

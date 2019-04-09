@@ -1,0 +1,67 @@
+{
+  "id": 1243079173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.4675,-24.72194,34.4675,-24.72194",
+    "geom:latitude":-24.72194,
+    "geom:longitude":34.4675,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Eusebio Ofisso",
+    "gn:country_code":"MZ",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1100371,
+    "gn:latitude":-24.72194,
+    "gn:longitude":34.4675,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Eus\u00e9bio Ofisso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1100371
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c0f4cdd8a396425f6b844bfdb383cbce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701681,
+            "locality_id":1243079173,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1243079173,
+    "wof:lastmodified":1536836859,
+    "wof:name":"Eusebio Ofisso",
+    "wof:parent_id":1091701681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.4675,
+    -24.72194,
+    34.4675,
+    -24.72194
+],
+  "geometry": {"coordinates":[34.4675,-24.72194],"type":"Point"}
+}

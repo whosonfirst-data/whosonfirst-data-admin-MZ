@@ -1,0 +1,72 @@
+{
+  "id": 1243270051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.36556,-25.40417,32.36556,-25.40417",
+    "geom:latitude":-25.40417,
+    "geom:longitude":32.36556,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Loguaja",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037845,
+    "gn:latitude":-25.40417,
+    "gn:longitude":32.36556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Loguaja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u2019guaja",
+        "Loguaja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037845
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5ba45d2f7acc5c1b7bbd7ca066b922f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699925,
+            "locality_id":1243270051,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1243270051,
+    "wof:lastmodified":1537674527,
+    "wof:name":"Loguaja",
+    "wof:parent_id":1091699925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.36556,
+    -25.40417,
+    32.36556,
+    -25.40417
+],
+  "geometry": {"coordinates":[32.36556,-25.40417],"type":"Point"}
+}

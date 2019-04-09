@@ -1,0 +1,67 @@
+{
+  "id": 1260383727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.47389,-15.465,38.47389,-15.465",
+    "geom:latitude":-15.465,
+    "geom:longitude":38.47389,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Valiuleque",
+    "gn:country_code":"MZ",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024825,
+    "gn:latitude":-15.465,
+    "gn:longitude":38.47389,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Valiul\u00e9que",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024825
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6fa4aa641da2e8a4435bac397ebd540d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700589,
+            "locality_id":1260383727,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1260383727,
+    "wof:lastmodified":1537071617,
+    "wof:name":"Valiuleque",
+    "wof:parent_id":1091700589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.47389,
+    -15.465,
+    38.47389,
+    -15.465
+],
+  "geometry": {"coordinates":[38.47389,-15.465],"type":"Point"}
+}

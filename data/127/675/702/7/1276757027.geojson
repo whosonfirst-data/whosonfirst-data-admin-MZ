@@ -1,0 +1,67 @@
+{
+  "id": 1276757027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.70694,-14.75944,40.70694,-14.75944",
+    "geom:latitude":-14.75944,
+    "geom:longitude":40.70694,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Muedo",
+    "gn:country_code":"MZ",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036259,
+    "gn:latitude":-14.75944,
+    "gn:longitude":40.70694,
+    "gn:modification_date":"1994-04-21",
+    "gn:name":"Mu\u00e9do",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036259
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8d176b1a8402f5b45d3793411892db24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700287,
+            "locality_id":1276757027,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1276757027,
+    "wof:lastmodified":1536708461,
+    "wof:name":"Muedo",
+    "wof:parent_id":1091700287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.70694,
+    -14.75944,
+    40.70694,
+    -14.75944
+],
+  "geometry": {"coordinates":[40.70694,-14.75944],"type":"Point"}
+}

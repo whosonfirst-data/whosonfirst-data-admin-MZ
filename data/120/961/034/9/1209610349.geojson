@@ -1,0 +1,61 @@
+{
+  "id": 1209610349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.51472,-18.04917,33.51472,-18.04917",
+    "geom:latitude":-18.04917,
+    "geom:longitude":33.51472,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Fombe",
+    "gn:country_code":"MZ",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046298,
+    "gn:latitude":-18.04917,
+    "gn:longitude":33.51472,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Fombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046298
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7536237606866cfb9c6b69c4bdcc8089",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209610349
+        }
+    ],
+    "wof:id":1209610349,
+    "wof:lastmodified":1536281868,
+    "wof:name":"Fombe",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.514720000000004,
+    -18.04917,
+    33.514720000000004,
+    -18.04917
+],
+  "geometry": {"coordinates":[33.51472,-18.04917],"type":"Point"}
+}

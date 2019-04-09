@@ -1,0 +1,67 @@
+{
+  "id": 1243274249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.9,-16.33333,39.9,-16.33333",
+    "geom:latitude":-16.33333,
+    "geom:longitude":39.9,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Namicate",
+    "gn:country_code":"MZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1033774,
+    "gn:latitude":-16.33333,
+    "gn:longitude":39.9,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Namicate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091696277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1033774
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bd000f87211dcee03b325aaa98e457fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696277,
+            "locality_id":1243274249,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1243274249,
+    "wof:lastmodified":1537051507,
+    "wof:name":"Namicate",
+    "wof:parent_id":1091696277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.9,
+    -16.33333,
+    39.9,
+    -16.33333
+],
+  "geometry": {"coordinates":[39.9,-16.33333],"type":"Point"}
+}

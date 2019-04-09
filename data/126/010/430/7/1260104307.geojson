@@ -1,0 +1,67 @@
+{
+  "id": 1260104307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.26667,-25.46667,32.26667,-25.46667",
+    "geom:latitude":-25.46667,
+    "geom:longitude":32.26667,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Manhambaxeea",
+    "gn:country_code":"MZ",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041031,
+    "gn:latitude":-25.46667,
+    "gn:longitude":32.26667,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Manhambaxeea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041031
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"085bfdbae3c0142c35f9459824535c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699925,
+            "locality_id":1260104307,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1260104307,
+    "wof:lastmodified":1536958080,
+    "wof:name":"Manhambaxeea",
+    "wof:parent_id":1091699925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.26667,
+    -25.46667,
+    32.26667,
+    -25.46667
+],
+  "geometry": {"coordinates":[32.26667,-25.46667],"type":"Point"}
+}

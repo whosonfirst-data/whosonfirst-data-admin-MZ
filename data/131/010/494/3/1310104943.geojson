@@ -1,0 +1,72 @@
+{
+  "id": 1310104943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.61278,-20.53639,33.61278,-20.53639",
+    "geom:latitude":-20.53639,
+    "geom:longitude":33.61278,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Chicubesi",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049618,
+    "gn:latitude":-20.53639,
+    "gn:longitude":33.61278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chicubesi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiculezi",
+        "Chicubesi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049618
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"08e4cf943683613117ff1c47a2dc74e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1310104943,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1310104943,
+    "wof:lastmodified":1537674592,
+    "wof:name":"Chicubesi",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.61278,
+    -20.53639,
+    33.61278,
+    -20.53639
+],
+  "geometry": {"coordinates":[33.61278,-20.53639],"type":"Point"}
+}

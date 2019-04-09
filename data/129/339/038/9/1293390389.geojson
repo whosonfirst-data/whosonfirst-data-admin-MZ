@@ -1,0 +1,67 @@
+{
+  "id": 1293390389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.67667,-25.81444,32.67667,-25.81444",
+    "geom:latitude":-25.81444,
+    "geom:longitude":32.67667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mateu",
+    "gn:country_code":"MZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106331,
+    "gn:latitude":-25.81444,
+    "gn:longitude":32.67667,
+    "gn:modification_date":"2000-10-11",
+    "gn:name":"Mateu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106331
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"68292f439ba98b5c94ac61000d374eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699175,
+            "locality_id":1293390389,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1293390389,
+    "wof:lastmodified":1536927723,
+    "wof:name":"Mateu",
+    "wof:parent_id":1091699175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.67667,
+    -25.81444,
+    32.67667,
+    -25.81444
+],
+  "geometry": {"coordinates":[32.67667,-25.81444],"type":"Point"}
+}

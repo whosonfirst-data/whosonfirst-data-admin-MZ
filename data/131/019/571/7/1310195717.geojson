@@ -1,0 +1,67 @@
+{
+  "id": 1310195717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.80472,-15.11556,30.80472,-15.11556",
+    "geom:latitude":-15.11556,
+    "geom:longitude":30.80472,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zambue",
+    "gn:country_code":"MZ",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024306,
+    "gn:latitude":-15.11556,
+    "gn:longitude":30.80472,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Zambue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091701729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024306
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"71796725f3f7d8c8027c915736cfccb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701729,
+            "locality_id":1310195717,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1310195717,
+    "wof:lastmodified":1536865118,
+    "wof:name":"Zambue",
+    "wof:parent_id":1091701729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.80472,
+    -15.11556,
+    30.80472,
+    -15.11556
+],
+  "geometry": {"coordinates":[30.80472,-15.11556],"type":"Point"}
+}

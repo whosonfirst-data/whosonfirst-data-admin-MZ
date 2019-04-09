@@ -1,0 +1,67 @@
+{
+  "id": 1344251575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.96694,-17.27333,37.96694,-17.27333",
+    "geom:latitude":-17.27333,
+    "geom:longitude":37.96694,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Carramali",
+    "gn:country_code":"MZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050997,
+    "gn:latitude":-17.27333,
+    "gn:longitude":37.96694,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Carramali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050997
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"826b1c3eb74ce9121c2b80b36a4dde3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698671,
+            "locality_id":1344251575,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1344251575,
+    "wof:lastmodified":1537093868,
+    "wof:name":"Carramali",
+    "wof:parent_id":1091698671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.96694,
+    -17.27333,
+    37.96694,
+    -17.27333
+],
+  "geometry": {"coordinates":[37.96694,-17.27333],"type":"Point"}
+}

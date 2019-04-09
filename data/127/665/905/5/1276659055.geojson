@@ -1,0 +1,67 @@
+{
+  "id": 1276659055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.35917,-24.40139,34.35917,-24.40139",
+    "geom:latitude":-24.40139,
+    "geom:longitude":34.35917,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mateus Enisse",
+    "gn:country_code":"MZ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097751,
+    "gn:latitude":-24.40139,
+    "gn:longitude":34.35917,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Mateus Enisse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097751
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4f66c0f13c7d2802f27f2f4d0e816539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698019,
+            "locality_id":1276659055,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1276659055,
+    "wof:lastmodified":1536838259,
+    "wof:name":"Mateus Enisse",
+    "wof:parent_id":1091698019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.35917,
+    -24.40139,
+    34.35917,
+    -24.40139
+],
+  "geometry": {"coordinates":[34.35917,-24.40139],"type":"Point"}
+}

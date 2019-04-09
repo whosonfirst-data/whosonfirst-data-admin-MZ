@@ -1,0 +1,67 @@
+{
+  "id": 1360069689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.6275,-17.23083,36.6275,-17.23083",
+    "geom:latitude":-17.23083,
+    "geom:longitude":36.6275,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Uadaga",
+    "gn:country_code":"MZ",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025426,
+    "gn:latitude":-17.23083,
+    "gn:longitude":36.6275,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"U\u00e1dag\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025426
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9bbf2085c26910d5bc2361a5acf11bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700047,
+            "locality_id":1360069689,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1360069689,
+    "wof:lastmodified":1536967639,
+    "wof:name":"Uadaga",
+    "wof:parent_id":1091700047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.6275,
+    -17.23082999999999,
+    36.6275,
+    -17.23082999999999
+],
+  "geometry": {"coordinates":[36.6275,-17.23082999999999],"type":"Point"}
+}

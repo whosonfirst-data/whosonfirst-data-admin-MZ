@@ -1,0 +1,67 @@
+{
+  "id": 1226549903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98333,-14.83333,35.98333,-14.83333",
+    "geom:latitude":-14.83333,
+    "geom:longitude":35.98333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Buena-uzi",
+    "gn:country_code":"MZ",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051955,
+    "gn:latitude":-14.83333,
+    "gn:longitude":35.98333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Buena-uzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051955
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a4b267907d146d326219e8efc8fddd14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699553,
+            "locality_id":1226549903,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1226549903,
+    "wof:lastmodified":1536991140,
+    "wof:name":"Buena-uzi",
+    "wof:parent_id":1091699553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98333,
+    -14.83333,
+    35.98333,
+    -14.83333
+],
+  "geometry": {"coordinates":[35.98333,-14.83333],"type":"Point"}
+}

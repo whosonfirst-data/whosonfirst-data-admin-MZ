@@ -1,0 +1,72 @@
+{
+  "id": 1293095749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7275,-13.28361,35.7275,-13.28361",
+    "geom:latitude":-13.28361,
+    "geom:longitude":35.7275,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Uasusa",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024966,
+    "gn:latitude":-13.28361,
+    "gn:longitude":35.7275,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Uasusa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unsusa",
+        "Uasusa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024966
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"86502069b0d2ec15176bcd11126f6e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698283,
+            "locality_id":1293095749,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1293095749,
+    "wof:lastmodified":1537674473,
+    "wof:name":"Uasusa",
+    "wof:parent_id":1091698283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7275,
+    -13.28361,
+    35.7275,
+    -13.28361
+],
+  "geometry": {"coordinates":[35.7275,-13.28361],"type":"Point"}
+}

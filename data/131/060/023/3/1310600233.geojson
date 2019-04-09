@@ -1,0 +1,67 @@
+{
+  "id": 1310600233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11694,-19.09222,35.11694,-19.09222",
+    "geom:latitude":-19.09222,
+    "geom:longitude":35.11694,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chenapamimba",
+    "gn:country_code":"MZ",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096872,
+    "gn:latitude":-19.09222,
+    "gn:longitude":35.11694,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chenapamimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091700377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096872
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"708b9ad21932725c08c09e4d9b0d090d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700377,
+            "locality_id":1310600233,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1310600233,
+    "wof:lastmodified":1536780817,
+    "wof:name":"Chenapamimba",
+    "wof:parent_id":1091700377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11694,
+    -19.09222,
+    35.11694,
+    -19.09222
+],
+  "geometry": {"coordinates":[35.11694,-19.09222],"type":"Point"}
+}

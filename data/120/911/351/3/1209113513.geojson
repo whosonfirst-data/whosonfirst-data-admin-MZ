@@ -1,0 +1,66 @@
+{
+  "id": 1209113513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.52778,-24.49694,34.52778,-24.49694",
+    "geom:latitude":-24.49694,
+    "geom:longitude":34.52778,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"M. Nhalungoe",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034532,
+    "gn:latitude":-24.49694,
+    "gn:longitude":34.52778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"M. Nhal\u00fangoe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na\u00edla",
+        "M. Nhal\u00fangoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034532
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7b7df737acdc9d9a9b3f8eadad889bd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209113513
+        }
+    ],
+    "wof:id":1209113513,
+    "wof:lastmodified":1537674509,
+    "wof:name":"M. Nhalungoe",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.52778,
+    -24.49694,
+    34.52778,
+    -24.49694
+],
+  "geometry": {"coordinates":[34.52778,-24.49694],"type":"Point"}
+}

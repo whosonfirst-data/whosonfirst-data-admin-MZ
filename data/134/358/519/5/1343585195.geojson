@@ -1,0 +1,67 @@
+{
+  "id": 1343585195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.49056,-24.72806,32.49056,-24.72806",
+    "geom:latitude":-24.72806,
+    "geom:longitude":32.49056,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Constantino",
+    "gn:country_code":"MZ",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047817,
+    "gn:latitude":-24.72806,
+    "gn:longitude":32.49056,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Constantino",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047817
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4cec179786166ae1811ba6744d0879d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1343585195,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1343585195,
+    "wof:lastmodified":1537061070,
+    "wof:name":"Constantino",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.49056,
+    -24.72806,
+    32.49056,
+    -24.72806
+],
+  "geometry": {"coordinates":[32.49056,-24.72806],"type":"Point"}
+}

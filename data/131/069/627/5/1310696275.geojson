@@ -1,0 +1,72 @@
+{
+  "id": 1310696275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.84667,-15.08556,36.84667,-15.08556",
+    "geom:latitude":-15.08556,
+    "geom:longitude":36.84667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chefe Chicopera",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026236,
+    "gn:latitude":-15.08556,
+    "gn:longitude":36.84667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Chicopera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchicobera",
+        "Chefe Chicopera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026236
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"72500cc8f5b02ca844006fc28d865240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697801,
+            "locality_id":1310696275,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1310696275,
+    "wof:lastmodified":1537674480,
+    "wof:name":"Chefe Chicopera",
+    "wof:parent_id":1091697801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.84667,
+    -15.08556,
+    36.84667,
+    -15.08556
+],
+  "geometry": {"coordinates":[36.84667,-15.08556],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243357993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.185,-12.98806,35.185,-12.98806",
+    "geom:latitude":-12.98806,
+    "geom:longitude":35.185,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Malema",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":1335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041472,
+    "gn:latitude":-12.98806,
+    "gn:longitude":35.185,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Malema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maleme",
+        "Malema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091701443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041472
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2e593b79391e99d8fab2e57ab31ba7fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701443,
+            "locality_id":1243357993,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1243357993,
+    "wof:lastmodified":1537674547,
+    "wof:name":"Malema",
+    "wof:parent_id":1091701443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.185,
+    -12.98806,
+    35.185,
+    -12.98806
+],
+  "geometry": {"coordinates":[35.185,-12.98806],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343750755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.07667,-20.27833,33.07667,-20.27833",
+    "geom:latitude":-20.27833,
+    "geom:longitude":33.07667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nhacha",
+    "gn:country_code":"MZ",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096803,
+    "gn:latitude":-20.27833,
+    "gn:longitude":33.07667,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Nhacha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091700331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096803
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c831889a02e0ca76a02fcf327de00b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700331,
+            "locality_id":1343750755,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1343750755,
+    "wof:lastmodified":1536824006,
+    "wof:name":"Nhacha",
+    "wof:parent_id":1091700331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.07667,
+    -20.27833,
+    33.07667,
+    -20.27833
+],
+  "geometry": {"coordinates":[33.07667,-20.27833],"type":"Point"}
+}

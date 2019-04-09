@@ -1,0 +1,67 @@
+{
+  "id": 1343473363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.88333,-16.28333,32.88333,-16.28333",
+    "geom:latitude":-16.28333,
+    "geom:longitude":32.88333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Candia",
+    "gn:country_code":"MZ",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051308,
+    "gn:latitude":-16.28333,
+    "gn:longitude":32.88333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Candia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051308
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9f3e9cefc90932793d00a56552b5562a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696467,
+            "locality_id":1343473363,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1343473363,
+    "wof:lastmodified":1536727807,
+    "wof:name":"Candia",
+    "wof:parent_id":1091696467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.88333,
+    -16.28333,
+    32.88333,
+    -16.28333
+],
+  "geometry": {"coordinates":[32.88333,-16.28333],"type":"Point"}
+}

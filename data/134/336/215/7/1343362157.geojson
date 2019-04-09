@@ -1,0 +1,70 @@
+{
+  "id": 1343362157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.54861,-22.44139,31.54861,-22.44139",
+    "geom:latitude":-22.44139,
+    "geom:longitude":31.54861,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Chisselane",
+    "gn:country_code":"MZ",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048709,
+    "gn:latitude":-22.44139,
+    "gn:longitude":31.54861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chisselane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chitelane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048709
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7c3a766923326732cc45ce78d7a89c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696621,
+            "locality_id":1343362157,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1343362157,
+    "wof:lastmodified":1537674587,
+    "wof:name":"Chisselane",
+    "wof:parent_id":1091696621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.54861,
+    -22.44139,
+    31.54861,
+    -22.44139
+],
+  "geometry": {"coordinates":[31.54861,-22.44139],"type":"Point"}
+}

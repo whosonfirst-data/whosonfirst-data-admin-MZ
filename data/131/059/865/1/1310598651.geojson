@@ -1,0 +1,67 @@
+{
+  "id": 1310598651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.07917,-14.64056,38.07917,-14.64056",
+    "geom:latitude":-14.64056,
+    "geom:longitude":38.07917,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nicotolaca",
+    "gn:country_code":"MZ",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088559,
+    "gn:latitude":-14.64056,
+    "gn:longitude":38.07917,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Nicotolaca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091698233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088559
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9847856ab0e0002fd1e74acee8e9c30b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698233,
+            "locality_id":1310598651,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1310598651,
+    "wof:lastmodified":1536783091,
+    "wof:name":"Nicotolaca",
+    "wof:parent_id":1091698233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.07917,
+    -14.64056,
+    38.07917,
+    -14.64056
+],
+  "geometry": {"coordinates":[38.07917,-14.64056],"type":"Point"}
+}

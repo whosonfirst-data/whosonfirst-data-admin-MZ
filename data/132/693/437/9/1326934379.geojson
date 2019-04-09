@@ -1,0 +1,67 @@
+{
+  "id": 1326934379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.91111,-13.52583,39.91111,-13.52583",
+    "geom:latitude":-13.52583,
+    "geom:longitude":39.91111,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Trocue",
+    "gn:country_code":"MZ",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087419,
+    "gn:latitude":-13.52583,
+    "gn:longitude":39.91111,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Tr\u00f3cu\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087419
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2d83891f11cc7483750ab4ebdf8119ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696771,
+            "locality_id":1326934379,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1326934379,
+    "wof:lastmodified":1536901698,
+    "wof:name":"Trocue",
+    "wof:parent_id":1091696771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.91111,
+    -13.52583,
+    39.91111,
+    -13.52583
+],
+  "geometry": {"coordinates":[39.91111,-13.52583],"type":"Point"}
+}

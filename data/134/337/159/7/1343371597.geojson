@@ -1,0 +1,67 @@
+{
+  "id": 1343371597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3275,-24.04917,33.3275,-24.04917",
+    "geom:latitude":-24.04917,
+    "geom:longitude":33.3275,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Nalazi",
+    "gn:country_code":"MZ",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034457,
+    "gn:latitude":-24.04917,
+    "gn:longitude":33.3275,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Nal\u00e1zi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091697721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034457
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ccc8fdb269f9a882d4321835d21c778a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697721,
+            "locality_id":1343371597,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1343371597,
+    "wof:lastmodified":1536873384,
+    "wof:name":"Nalazi",
+    "wof:parent_id":1091697721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3275,
+    -24.04917,
+    33.3275,
+    -24.04917
+],
+  "geometry": {"coordinates":[33.3275,-24.04917],"type":"Point"}
+}

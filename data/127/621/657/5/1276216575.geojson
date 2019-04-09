@@ -1,0 +1,72 @@
+{
+  "id": 1276216575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.86611,-16.90944,37.86611,-16.90944",
+    "geom:latitude":-16.90944,
+    "geom:longitude":37.86611,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Regulo Mucubela",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027789,
+    "gn:latitude":-16.90944,
+    "gn:longitude":37.86611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00e9gulo Mucubela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sab\u00e3o",
+        "R\u00e9gulo Mucubela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027789
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"59fa3815fcc44da2e4ebc83cf96cfec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698671,
+            "locality_id":1276216575,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1276216575,
+    "wof:lastmodified":1537674487,
+    "wof:name":"Regulo Mucubela",
+    "wof:parent_id":1091698671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.86611,
+    -16.90944,
+    37.86611,
+    -16.90944
+],
+  "geometry": {"coordinates":[37.86611,-16.90944],"type":"Point"}
+}

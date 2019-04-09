@@ -1,0 +1,67 @@
+{
+  "id": 1193270533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.13917,-15.65056,39.13917,-15.65056",
+    "geom:latitude":-15.65056,
+    "geom:longitude":39.13917,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Toleia",
+    "gn:country_code":"MZ",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025810,
+    "gn:latitude":-15.65056,
+    "gn:longitude":39.13917,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Toleia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025810
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7440fef08a3a6661e30fe569c940d7e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700133,
+            "locality_id":1193270533,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1193270533,
+    "wof:lastmodified":1536371176,
+    "wof:name":"Toleia",
+    "wof:parent_id":1091700133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.13917,
+    -15.65056,
+    39.13917,
+    -15.65056
+],
+  "geometry": {"coordinates":[39.13917,-15.65056],"type":"Point"}
+}

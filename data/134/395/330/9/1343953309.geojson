@@ -1,0 +1,67 @@
+{
+  "id": 1343953309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.18639,-15.76472,40.18639,-15.76472",
+    "geom:latitude":-15.76472,
+    "geom:longitude":40.18639,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nota",
+    "gn:country_code":"MZ",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029566,
+    "gn:latitude":-15.76472,
+    "gn:longitude":40.18639,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Nota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029566
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c4fbd3c4983271b8813bbf151a89063a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700091,
+            "locality_id":1343953309,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1343953309,
+    "wof:lastmodified":1537029120,
+    "wof:name":"Nota",
+    "wof:parent_id":1091700091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.18639,
+    -15.76472,
+    40.18639,
+    -15.76472
+],
+  "geometry": {"coordinates":[40.18639,-15.76472],"type":"Point"}
+}

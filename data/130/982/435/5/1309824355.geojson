@@ -1,0 +1,67 @@
+{
+  "id": 1309824355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.66583,-20.735,33.66583,-20.735",
+    "geom:latitude":-20.735,
+    "geom:longitude":33.66583,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mazechita",
+    "gn:country_code":"MZ",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039511,
+    "gn:latitude":-20.735,
+    "gn:longitude":33.66583,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mazechita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039511
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a456f3551865e40b3a01db140862edb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1309824355,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1309824355,
+    "wof:lastmodified":1536904588,
+    "wof:name":"Mazechita",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.66583,
+    -20.735,
+    33.66583,
+    -20.735
+],
+  "geometry": {"coordinates":[33.66583,-20.735],"type":"Point"}
+}

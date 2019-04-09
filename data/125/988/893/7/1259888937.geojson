@@ -1,0 +1,67 @@
+{
+  "id": 1259888937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4225,-24.25333,32.4225,-24.25333",
+    "geom:latitude":-24.25333,
+    "geom:longitude":32.4225,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Mequenetai",
+    "gn:country_code":"MZ",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038587,
+    "gn:latitude":-24.25333,
+    "gn:longitude":32.4225,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Mequenetai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091699347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038587
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5a29b2858555debeea99513797807396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699347,
+            "locality_id":1259888937,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1259888937,
+    "wof:lastmodified":1536771745,
+    "wof:name":"Mequenetai",
+    "wof:parent_id":1091699347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4225,
+    -24.25333,
+    32.4225,
+    -24.25333
+],
+  "geometry": {"coordinates":[32.4225,-24.25333],"type":"Point"}
+}

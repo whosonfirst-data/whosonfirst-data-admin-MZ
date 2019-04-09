@@ -1,0 +1,67 @@
+{
+  "id": 1259495137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.10361,-24.14444,35.10361,-24.14444",
+    "geom:latitude":-24.14444,
+    "geom:longitude":35.10361,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chefe C. Mangarane",
+    "gn:country_code":"MZ",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101629,
+    "gn:latitude":-24.14444,
+    "gn:longitude":35.10361,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chefe C. Mangarane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101629
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4e9110e60d4db19ef1912e05d73faa24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698147,
+            "locality_id":1259495137,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1259495137,
+    "wof:lastmodified":1536841009,
+    "wof:name":"Chefe C. Mangarane",
+    "wof:parent_id":1091698147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.10361,
+    -24.14444,
+    35.10361,
+    -24.14444
+],
+  "geometry": {"coordinates":[35.10361,-24.14444],"type":"Point"}
+}

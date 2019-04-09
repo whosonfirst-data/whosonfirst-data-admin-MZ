@@ -1,0 +1,61 @@
+{
+  "id": 1209615547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.87167,-26.61861,32.87167,-26.61861",
+    "geom:latitude":-26.61861,
+    "geom:longitude":32.87167,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chefe Joge",
+    "gn:country_code":"MZ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089530,
+    "gn:latitude":-26.61861,
+    "gn:longitude":32.87167,
+    "gn:modification_date":"1997-09-02",
+    "gn:name":"Chefe Joge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089530
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"61744c455fb11559d3e6bbee6903e3e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209615547
+        }
+    ],
+    "wof:id":1209615547,
+    "wof:lastmodified":1536281701,
+    "wof:name":"Chefe Joge",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.87167,
+    -26.61861,
+    32.87167,
+    -26.61861
+],
+  "geometry": {"coordinates":[32.87167,-26.61861],"type":"Point"}
+}

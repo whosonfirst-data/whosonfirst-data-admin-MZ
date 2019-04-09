@@ -1,0 +1,67 @@
+{
+  "id": 1225845253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.39778,-25.98667,32.39778,-25.98667",
+    "geom:latitude":-25.98667,
+    "geom:longitude":32.39778,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Matucota",
+    "gn:country_code":"MZ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039790,
+    "gn:latitude":-25.98667,
+    "gn:longitude":32.39778,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Matucota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091696363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039790
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"adc1f3a03b7774aed5bafe1310bf7820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696363,
+            "locality_id":1225845253,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1225845253,
+    "wof:lastmodified":1537013674,
+    "wof:name":"Matucota",
+    "wof:parent_id":1091696363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.39778,
+    -25.98667,
+    32.39778,
+    -25.98667
+],
+  "geometry": {"coordinates":[32.39778,-25.98667],"type":"Point"}
+}

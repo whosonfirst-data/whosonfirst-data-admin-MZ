@@ -1,0 +1,67 @@
+{
+  "id": 1260386881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.67861,-14.61472,40.67861,-14.61472",
+    "geom:latitude":-14.61472,
+    "geom:longitude":40.67861,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Abudala",
+    "gn:country_code":"MZ",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084959,
+    "gn:latitude":-14.61472,
+    "gn:longitude":40.67861,
+    "gn:modification_date":"1994-04-21",
+    "gn:name":"Abudala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084959
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d8d95ff93331c77a30f82060d0df8da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700685,
+            "locality_id":1260386881,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1260386881,
+    "wof:lastmodified":1537067519,
+    "wof:name":"Abudala",
+    "wof:parent_id":1091700685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.67861,
+    -14.61472,
+    40.67861,
+    -14.61472
+],
+  "geometry": {"coordinates":[40.67861,-14.61472],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209309531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.93278,-20.22444,32.93278,-20.22444",
+    "geom:latitude":-20.22444,
+    "geom:longitude":32.93278,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Pasemane",
+    "gn:country_code":"MZ",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029053,
+    "gn:latitude":-20.22444,
+    "gn:longitude":32.93278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pasemane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Pasemane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029053
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d397fc7034003ec376c8949d12a3788c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209309531
+        }
+    ],
+    "wof:id":1209309531,
+    "wof:lastmodified":1537674494,
+    "wof:name":"Pasemane",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.93278,
+    -20.22444,
+    32.93278,
+    -20.22444
+],
+  "geometry": {"coordinates":[32.93278,-20.22444],"type":"Point"}
+}

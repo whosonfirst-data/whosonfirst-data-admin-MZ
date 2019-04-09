@@ -1,0 +1,67 @@
+{
+  "id": 1310028071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.91389,-15.1625,32.91389,-15.1625",
+    "geom:latitude":-15.1625,
+    "geom:longitude":32.91389,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Cossongo",
+    "gn:country_code":"MZ",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047734,
+    "gn:latitude":-15.1625,
+    "gn:longitude":32.91389,
+    "gn:modification_date":"1997-06-03",
+    "gn:name":"Cossongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047734
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e995427cf9d2797d290276a5c08f6942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696659,
+            "locality_id":1310028071,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1310028071,
+    "wof:lastmodified":1536608004,
+    "wof:name":"Cossongo",
+    "wof:parent_id":1091696659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.91389,
+    -15.1625,
+    32.91389,
+    -15.1625
+],
+  "geometry": {"coordinates":[32.91389,-15.1625],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276884903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.15778,-21.95167,35.15778,-21.95167",
+    "geom:latitude":-21.95167,
+    "geom:longitude":35.15778,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Corneta",
+    "gn:country_code":"MZ",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047782,
+    "gn:latitude":-21.95167,
+    "gn:longitude":35.15778,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Corneta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047782
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"39c8875b92409f7fee430f56437d92ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701605,
+            "locality_id":1276884903,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1276884903,
+    "wof:lastmodified":1537032939,
+    "wof:name":"Corneta",
+    "wof:parent_id":1091701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15778,
+    -21.95167,
+    35.15778,
+    -21.95167
+],
+  "geometry": {"coordinates":[35.15778,-21.95167],"type":"Point"}
+}

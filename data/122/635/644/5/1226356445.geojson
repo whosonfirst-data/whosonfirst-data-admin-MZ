@@ -1,0 +1,67 @@
+{
+  "id": 1226356445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.55722,-13.35333,38.55722,-13.35333",
+    "geom:latitude":-13.35333,
+    "geom:longitude":38.55722,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pora",
+    "gn:country_code":"MZ",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028612,
+    "gn:latitude":-13.35333,
+    "gn:longitude":38.55722,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Pora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028612
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cb7aa94a6fb454ba351ac849edab18f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696349,
+            "locality_id":1226356445,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1226356445,
+    "wof:lastmodified":1536774653,
+    "wof:name":"Pora",
+    "wof:parent_id":1091696349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.55722,
+    -13.35333,
+    38.55722,
+    -13.35333
+],
+  "geometry": {"coordinates":[38.55722,-13.35333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310403349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.66778,-16.30083,39.66778,-16.30083",
+    "geom:latitude":-16.30083,
+    "geom:longitude":39.66778,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chefe Marrucha",
+    "gn:country_code":"MZ",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095357,
+    "gn:latitude":-16.30083,
+    "gn:longitude":39.66778,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Chefe Marrucha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091696277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095357
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d711ba4c376ae8721f3a0b6c87b79c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696277,
+            "locality_id":1310403349,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1310403349,
+    "wof:lastmodified":1537061656,
+    "wof:name":"Chefe Marrucha",
+    "wof:parent_id":1091696277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.66778,
+    -16.30083,
+    39.66778,
+    -16.30083
+],
+  "geometry": {"coordinates":[39.66778,-16.30083],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327226349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.71639,-14.77306,40.71639,-14.77306",
+    "geom:latitude":-14.77306,
+    "geom:longitude":40.71639,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Fatima",
+    "gn:country_code":"MZ",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046406,
+    "gn:latitude":-14.77306,
+    "gn:longitude":40.71639,
+    "gn:modification_date":"1994-04-21",
+    "gn:name":"F\u00e1tima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046406
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"499902e2a69ee8542e837979e9e7542a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700287,
+            "locality_id":1327226349,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1327226349,
+    "wof:lastmodified":1536977782,
+    "wof:name":"Fatima",
+    "wof:parent_id":1091700287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.71639,
+    -14.77306,
+    40.71639,
+    -14.77306
+],
+  "geometry": {"coordinates":[40.71639,-14.77306],"type":"Point"}
+}

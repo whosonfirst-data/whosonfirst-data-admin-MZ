@@ -1,0 +1,67 @@
+{
+  "id": 1326541625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.79583,-21.4175,33.79583,-21.4175",
+    "geom:latitude":-21.4175,
+    "geom:longitude":33.79583,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Nhaquene",
+    "gn:country_code":"MZ",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1030425,
+    "gn:latitude":-21.4175,
+    "gn:longitude":33.79583,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Nhaquene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1030425
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a19cf2729ca42e794001c228f4a054c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698405,
+            "locality_id":1326541625,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1326541625,
+    "wof:lastmodified":1536970112,
+    "wof:name":"Nhaquene",
+    "wof:parent_id":1091698405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.79583,
+    -21.4175,
+    33.79583,
+    -21.4175
+],
+  "geometry": {"coordinates":[33.79583,-21.4175],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260093853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.9725,-12.19889,39.9725,-12.19889",
+    "geom:latitude":-12.19889,
+    "geom:longitude":39.9725,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Cassimueto",
+    "gn:country_code":"MZ",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050917,
+    "gn:latitude":-12.19889,
+    "gn:longitude":39.9725,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Cassimu\u00eato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091698583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050917
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6bae6b31a26dca6c2e714d0e4736acf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698583,
+            "locality_id":1260093853,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1260093853,
+    "wof:lastmodified":1536972635,
+    "wof:name":"Cassimueto",
+    "wof:parent_id":1091698583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.9725,
+    -12.19889,
+    39.9725,
+    -12.19889
+],
+  "geometry": {"coordinates":[39.9725,-12.19889],"type":"Point"}
+}

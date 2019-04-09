@@ -1,0 +1,67 @@
+{
+  "id": 1360088267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.06972,-22.99861,32.06972,-22.99861",
+    "geom:latitude":-22.99861,
+    "geom:longitude":32.06972,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Macassela",
+    "gn:country_code":"MZ",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042809,
+    "gn:latitude":-22.99861,
+    "gn:longitude":32.06972,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Macassela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042809
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2909dca3f065bb9048b9c0ab8b150489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696621,
+            "locality_id":1360088267,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1360088267,
+    "wof:lastmodified":1536941628,
+    "wof:name":"Macassela",
+    "wof:parent_id":1091696621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.06972,
+    -22.99861,
+    32.06972,
+    -22.99861
+],
+  "geometry": {"coordinates":[32.06972,-22.99861],"type":"Point"}
+}

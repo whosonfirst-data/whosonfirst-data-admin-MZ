@@ -1,0 +1,67 @@
+{
+  "id": 1327249159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.1775,-11.5625,40.1775,-11.5625",
+    "geom:latitude":-11.5625,
+    "geom:longitude":40.1775,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Cunhonha",
+    "gn:country_code":"MZ",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047450,
+    "gn:latitude":-11.5625,
+    "gn:longitude":40.1775,
+    "gn:modification_date":"1995-02-06",
+    "gn:name":"Cunhonha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047450
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bfeeede25e0c8e88851eae11f3565be8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700013,
+            "locality_id":1327249159,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1327249159,
+    "wof:lastmodified":1536945763,
+    "wof:name":"Cunhonha",
+    "wof:parent_id":1091700013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.1775,
+    -11.5625,
+    40.1775,
+    -11.5625
+],
+  "geometry": {"coordinates":[40.1775,-11.5625],"type":"Point"}
+}

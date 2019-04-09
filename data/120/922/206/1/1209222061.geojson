@@ -1,0 +1,66 @@
+{
+  "id": 1209222061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.41917,-22.35028,35.41917,-22.35028",
+    "geom:latitude":-22.35028,
+    "geom:longitude":35.41917,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Levene",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046323,
+    "gn:latitude":-22.35028,
+    "gn:longitude":35.41917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Levene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fiosso",
+        "Levene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046323
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c59f65b7089ecf33c8faf6992aebbd08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209222061
+        }
+    ],
+    "wof:id":1209222061,
+    "wof:lastmodified":1537674575,
+    "wof:name":"Levene",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.41917,
+    -22.35028,
+    35.41917,
+    -22.35028
+],
+  "geometry": {"coordinates":[35.41917,-22.35028],"type":"Point"}
+}

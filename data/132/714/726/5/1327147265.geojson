@@ -1,0 +1,67 @@
+{
+  "id": 1327147265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.01667,-24.41361,33.01667,-24.41361",
+    "geom:latitude":-24.41361,
+    "geom:longitude":33.01667,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Chamusca",
+    "gn:country_code":"MZ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050388,
+    "gn:latitude":-24.41361,
+    "gn:longitude":33.01667,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chamusca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091697721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050388
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1eb1324a62f1cc0efe56d1ee46c75cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697721,
+            "locality_id":1327147265,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1327147265,
+    "wof:lastmodified":1537089257,
+    "wof:name":"Chamusca",
+    "wof:parent_id":1091697721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.01667,
+    -24.41361,
+    33.01667,
+    -24.41361
+],
+  "geometry": {"coordinates":[33.01667,-24.41361],"type":"Point"}
+}

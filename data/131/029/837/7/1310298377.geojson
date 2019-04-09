@@ -1,0 +1,67 @@
+{
+  "id": 1310298377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.27722,-15.40806,33.27722,-15.40806",
+    "geom:latitude":-15.40806,
+    "geom:longitude":33.27722,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Malemia",
+    "gn:country_code":"MZ",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041470,
+    "gn:latitude":-15.40806,
+    "gn:longitude":33.27722,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Malemia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041470
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7832ca3dc166221a4c2c3bfb30e3a6ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696825,
+            "locality_id":1310298377,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1310298377,
+    "wof:lastmodified":1536718571,
+    "wof:name":"Malemia",
+    "wof:parent_id":1091696825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.27722,
+    -15.40806,
+    33.27722,
+    -15.40806
+],
+  "geometry": {"coordinates":[33.27722,-15.40806],"type":"Point"}
+}

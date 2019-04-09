@@ -1,0 +1,67 @@
+{
+  "id": 1276137093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.55722,-11.37306,39.55722,-11.37306",
+    "geom:latitude":-11.37306,
+    "geom:longitude":39.55722,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Nhanga",
+    "gn:country_code":"MZ",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085125,
+    "gn:latitude":-11.37306,
+    "gn:longitude":39.55722,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Nhanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085125
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bbfe80233901d6e47375c91f62740011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701043,
+            "locality_id":1276137093,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276137093,
+    "wof:lastmodified":1537039889,
+    "wof:name":"Nhanga",
+    "wof:parent_id":1091701043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.55722,
+    -11.37306,
+    39.55722,
+    -11.37306
+],
+  "geometry": {"coordinates":[39.55722,-11.37306],"type":"Point"}
+}

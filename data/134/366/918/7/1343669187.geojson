@@ -1,0 +1,67 @@
+{
+  "id": 1343669187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.15528,-23.91556,35.15528,-23.91556",
+    "geom:latitude":-23.91556,
+    "geom:longitude":35.15528,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Siginguir",
+    "gn:country_code":"MZ",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026978,
+    "gn:latitude":-23.91556,
+    "gn:longitude":35.15528,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Siginguir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026978
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6f84ba4201a9383b572554f0dba67b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697853,
+            "locality_id":1343669187,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1343669187,
+    "wof:lastmodified":1536942983,
+    "wof:name":"Siginguir",
+    "wof:parent_id":1091697853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15528,
+    -23.91556,
+    35.15528,
+    -23.91556
+],
+  "geometry": {"coordinates":[35.15528,-23.91556],"type":"Point"}
+}

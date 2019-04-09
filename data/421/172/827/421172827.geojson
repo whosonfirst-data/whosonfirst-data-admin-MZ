@@ -1,0 +1,114 @@
+{
+  "id": 421172827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.02722,-17.44167,35.02722,-17.44167",
+    "geom:latitude":-17.44167,
+    "geom:longitude":35.02722,
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Vila de Sena"
+    ],
+    "name:chi_x_preferred":[
+        "\u585e\u7d0d\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "Vila de Sena"
+    ],
+    "name:eng_x_preferred":[
+        "Vila de Sena"
+    ],
+    "name:fin_x_preferred":[
+        "Sena"
+    ],
+    "name:fre_x_preferred":[
+        "Vila de Sena"
+    ],
+    "name:ger_x_preferred":[
+        "Vila de Sena"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u0430 \u0434\u0435 \u0421\u0435\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Vila de Sena"
+    ],
+    "name:unk_x_variant":[
+        "Sena"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u7d0d\u93ae"
+    ],
+    "qs:gn_country":"MZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1024698,
+    "qs:gn_pop":0,
+    "qs:name":"Vila de Sena",
+    "qs:name_adm0":"Mo\u00e7ambique",
+    "qs:name_adm1":"Sofala",
+    "qs:photos":20,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":20,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":479128,
+    "qs:woe_adm0":23424902,
+    "qs:woe_id":1556238,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-17.4417,
+    "wd:longitude":35.0272,
+    "wd:wordcount":128,
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024698,
+        "gp:id":1556238,
+        "qs:id":479128,
+        "wd:id":"Q1112826",
+        "wk:page":"Vila de Sena"
+    },
+    "wof:country":"MZ",
+    "wof:created":1459008956,
+    "wof:geomhash":"1d7d41a6977dd61e11de02372bad2454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696493,
+            "locality_id":421172827,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":421172827,
+    "wof:lastmodified":1527716300,
+    "wof:name":"Vila de Sena",
+    "wof:parent_id":1091696493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.02722,
+    -17.44167,
+    35.02722,
+    -17.44167
+],
+  "geometry": {"coordinates":[35.02722,-17.44167],"type":"Point"}
+}

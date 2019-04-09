@@ -1,0 +1,61 @@
+{
+  "id": 1209129951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.32917,-25.31389,32.32917,-25.31389",
+    "geom:latitude":-25.31389,
+    "geom:longitude":32.32917,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Vacha",
+    "gn:country_code":"MZ",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1105599,
+    "gn:latitude":-25.31389,
+    "gn:longitude":32.32917,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Vacha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105599
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d2c5e5b7a18f44684b310dfc41c4a7d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209129951
+        }
+    ],
+    "wof:id":1209129951,
+    "wof:lastmodified":1536296835,
+    "wof:name":"Vacha",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.32917,
+    -25.31389,
+    32.32917,
+    -25.31389
+],
+  "geometry": {"coordinates":[32.32917,-25.31389],"type":"Point"}
+}

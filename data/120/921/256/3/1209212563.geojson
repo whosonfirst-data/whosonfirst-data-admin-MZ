@@ -1,0 +1,61 @@
+{
+  "id": 1209212563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.23472,-15.64389,39.23472,-15.64389",
+    "geom:latitude":-15.64389,
+    "geom:longitude":39.23472,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Muapo",
+    "gn:country_code":"MZ",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036668,
+    "gn:latitude":-15.64389,
+    "gn:longitude":39.23472,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Muapo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036668
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c20534a3092ea65942ce68ebcc210ca4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209212563
+        }
+    ],
+    "wof:id":1209212563,
+    "wof:lastmodified":1536294241,
+    "wof:name":"Muapo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.23472,
+    -15.64389,
+    39.23472,
+    -15.64389
+],
+  "geometry": {"coordinates":[39.23472,-15.64389],"type":"Point"}
+}

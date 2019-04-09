@@ -1,0 +1,61 @@
+{
+  "id": 1209530321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.56667,-25.45,32.56667,-25.45",
+    "geom:latitude":-25.45,
+    "geom:longitude":32.56667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Babala",
+    "gn:country_code":"MZ",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052679,
+    "gn:latitude":-25.45,
+    "gn:longitude":32.56667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Babala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052679
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f85c2032ed5b207a400638fab7b84fee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209530321
+        }
+    ],
+    "wof:id":1209530321,
+    "wof:lastmodified":1536284301,
+    "wof:name":"Babala",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.56667,
+    -25.45,
+    32.56667,
+    -25.45
+],
+  "geometry": {"coordinates":[32.56667,-25.45],"type":"Point"}
+}

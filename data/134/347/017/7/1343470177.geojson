@@ -1,0 +1,67 @@
+{
+  "id": 1343470177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.70333,-21.68444,34.70333,-21.68444",
+    "geom:latitude":-21.68444,
+    "geom:longitude":34.70333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"France",
+    "gn:country_code":"MZ",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1105422,
+    "gn:latitude":-21.68444,
+    "gn:longitude":34.70333,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"France",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105422
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cfa9b6b2e2fb5e8960b256d14185b6b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698063,
+            "locality_id":1343470177,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1343470177,
+    "wof:lastmodified":1536732302,
+    "wof:name":"France",
+    "wof:parent_id":1091698063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.70333,
+    -21.68444,
+    34.70333,
+    -21.68444
+],
+  "geometry": {"coordinates":[34.70333,-21.68444],"type":"Point"}
+}

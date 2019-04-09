@@ -1,0 +1,67 @@
+{
+  "id": 1343570781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.53028,-13.09611,40.53028,-13.09611",
+    "geom:latitude":-13.09611,
+    "geom:longitude":40.53028,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Atolo",
+    "gn:country_code":"MZ",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052721,
+    "gn:latitude":-13.09611,
+    "gn:longitude":40.53028,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Atolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091699683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052721
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a67ecf6c4a1c2f47dc39f69ae3476182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699683,
+            "locality_id":1343570781,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1343570781,
+    "wof:lastmodified":1537081339,
+    "wof:name":"Atolo",
+    "wof:parent_id":1091699683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.53028,
+    -13.09611,
+    40.53028,
+    -13.09611
+],
+  "geometry": {"coordinates":[40.53028,-13.09611],"type":"Point"}
+}

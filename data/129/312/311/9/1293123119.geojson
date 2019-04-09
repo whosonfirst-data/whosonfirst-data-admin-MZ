@@ -1,0 +1,67 @@
+{
+  "id": 1293123119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.6875,-14.47361,40.6875,-14.47361",
+    "geom:latitude":-14.47361,
+    "geom:longitude":40.6875,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Namaequeeque",
+    "gn:country_code":"MZ",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034291,
+    "gn:latitude":-14.47361,
+    "gn:longitude":40.6875,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Nam\u00e0\u00e8queeque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034291
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"767f4227442c912792379fc38cdf4b9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700685,
+            "locality_id":1293123119,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1293123119,
+    "wof:lastmodified":1536814688,
+    "wof:name":"Namaequeeque",
+    "wof:parent_id":1091700685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.6875,
+    -14.47361,
+    40.6875,
+    -14.47361
+],
+  "geometry": {"coordinates":[40.6875,-14.47361],"type":"Point"}
+}

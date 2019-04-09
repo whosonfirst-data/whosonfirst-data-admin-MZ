@@ -1,0 +1,67 @@
+{
+  "id": 1259582429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.89389,-17.16444,34.89389,-17.16444",
+    "geom:latitude":-17.16444,
+    "geom:longitude":34.89389,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Chemba",
+    "gn:country_code":"MZ",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050087,
+    "gn:latitude":-17.16444,
+    "gn:longitude":34.89389,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Chemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050087
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"98d95902e3593cee1696a033c741d29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696557,
+            "locality_id":1259582429,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1259582429,
+    "wof:lastmodified":1536716705,
+    "wof:name":"Chemba",
+    "wof:parent_id":1091696557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.89389,
+    -17.16444,
+    34.89389,
+    -17.16444
+],
+  "geometry": {"coordinates":[34.89389,-17.16444],"type":"Point"}
+}

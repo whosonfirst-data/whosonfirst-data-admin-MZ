@@ -1,0 +1,67 @@
+{
+  "id": 1343559073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.42917,-15.47528,39.42917,-15.47528",
+    "geom:latitude":-15.47528,
+    "geom:longitude":39.42917,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quilate",
+    "gn:country_code":"MZ",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028370,
+    "gn:latitude":-15.47528,
+    "gn:longitude":39.42917,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Quilate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028370
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bb96517fd41527996cc5c1aabfe838d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699601,
+            "locality_id":1343559073,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1343559073,
+    "wof:lastmodified":1536600761,
+    "wof:name":"Quilate",
+    "wof:parent_id":1091699601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.42917,
+    -15.47528,
+    39.42917,
+    -15.47528
+],
+  "geometry": {"coordinates":[39.42917,-15.47528],"type":"Point"}
+}

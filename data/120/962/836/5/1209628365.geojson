@@ -1,0 +1,61 @@
+{
+  "id": 1209628365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.86111,-22.3925,31.86111,-22.3925",
+    "geom:latitude":-22.3925,
+    "geom:longitude":31.86111,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sambula",
+    "gn:country_code":"MZ",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1098179,
+    "gn:latitude":-22.3925,
+    "gn:longitude":31.86111,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Sambula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1098179
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1750e4c15116c91e3bf4c0c85b0debd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209628365
+        }
+    ],
+    "wof:id":1209628365,
+    "wof:lastmodified":1536281276,
+    "wof:name":"Sambula",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.86111,
+    -22.3925,
+    31.86111,
+    -22.3925
+],
+  "geometry": {"coordinates":[31.86111,-22.3925],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310104927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.92,-20.40667,33.92,-20.40667",
+    "geom:latitude":-20.40667,
+    "geom:longitude":33.92,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Juga",
+    "gn:country_code":"MZ",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044252,
+    "gn:latitude":-20.40667,
+    "gn:longitude":33.92,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Juga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044252
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1543b5f627b06c9940b0793182a61b2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696561,
+            "locality_id":1310104927,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1310104927,
+    "wof:lastmodified":1536996538,
+    "wof:name":"Juga",
+    "wof:parent_id":1091696561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.92,
+    -20.40667,
+    33.92,
+    -20.40667
+],
+  "geometry": {"coordinates":[33.92,-20.40667],"type":"Point"}
+}

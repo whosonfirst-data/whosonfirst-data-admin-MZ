@@ -1,0 +1,61 @@
+{
+  "id": 1209215645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.40056,-24.94361,32.40056,-24.94361",
+    "geom:latitude":-24.94361,
+    "geom:longitude":32.40056,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Patimane",
+    "gn:country_code":"MZ",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1102116,
+    "gn:latitude":-24.94361,
+    "gn:longitude":32.40056,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Patimane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1102116
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f23281035f82a001acb4530e2c0fe721",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209215645
+        }
+    ],
+    "wof:id":1209215645,
+    "wof:lastmodified":1536294141,
+    "wof:name":"Patimane",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.40056,
+    -24.94361,
+    32.40056,
+    -24.94361
+],
+  "geometry": {"coordinates":[32.40056,-24.94361],"type":"Point"}
+}

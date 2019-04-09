@@ -1,0 +1,70 @@
+{
+  "id": 1309789573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9038,-20.41968,32.9038,-20.41968",
+    "geom:latitude":-20.41968,
+    "geom:longitude":32.9038,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Batani",
+    "gn:country_code":"MZ",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052428,
+    "gn:latitude":-20.41968,
+    "gn:longitude":32.9038,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Batani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Batani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091700331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052428
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1a0f52a37d9272a5a6af2d7c114ff08d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700331,
+            "locality_id":1309789573,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1309789573,
+    "wof:lastmodified":1537674609,
+    "wof:name":"Batani",
+    "wof:parent_id":1091700331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9038,
+    -20.41968,
+    32.9038,
+    -20.41968
+],
+  "geometry": {"coordinates":[32.9038,-20.41968],"type":"Point"}
+}

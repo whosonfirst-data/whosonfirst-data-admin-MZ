@@ -1,0 +1,67 @@
+{
+  "id": 1226740487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.39722,-16.19639,33.39722,-16.19639",
+    "geom:latitude":-16.19639,
+    "geom:longitude":33.39722,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Polevera",
+    "gn:country_code":"MZ",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028671,
+    "gn:latitude":-16.19639,
+    "gn:longitude":33.39722,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Polevera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028671
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3de50b258f69cc1c61a803255fe6845c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696537,
+            "locality_id":1226740487,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1226740487,
+    "wof:lastmodified":1536723463,
+    "wof:name":"Polevera",
+    "wof:parent_id":1091696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.39722,
+    -16.19639,
+    33.39722,
+    -16.19639
+],
+  "geometry": {"coordinates":[33.39722,-16.19639],"type":"Point"}
+}

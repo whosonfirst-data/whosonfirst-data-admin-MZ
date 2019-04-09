@@ -1,0 +1,71 @@
+{
+  "id": 1310507689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.64306,-26.2275,32.64306,-26.2275",
+    "geom:latitude":-26.2275,
+    "geom:longitude":32.64306,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Madjuva",
+    "gn:country_code":"MZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041600,
+    "gn:latitude":-26.2275,
+    "gn:longitude":32.64306,
+    "gn:modification_date":"2014-09-04",
+    "gn:name":"Madjuva",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zoopela",
+        "Majuba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041600
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"00a95ae1c743631920eb1802fa0510eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699383,
+            "locality_id":1310507689,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1310507689,
+    "wof:lastmodified":1537674548,
+    "wof:name":"Madjuva",
+    "wof:parent_id":1091699383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.64306,
+    -26.2275,
+    32.64306,
+    -26.2275
+],
+  "geometry": {"coordinates":[32.64306,-26.2275],"type":"Point"}
+}

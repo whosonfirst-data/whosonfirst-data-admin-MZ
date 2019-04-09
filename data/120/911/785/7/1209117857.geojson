@@ -1,0 +1,61 @@
+{
+  "id": 1209117857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.61667,-21.42083,34.61667,-21.42083",
+    "geom:latitude":-21.42083,
+    "geom:longitude":34.61667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cassamo",
+    "gn:country_code":"MZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104273,
+    "gn:latitude":-21.42083,
+    "gn:longitude":34.61667,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Cassamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104273
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6db3d5ccb50b2871d0c260f479730e62",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209117857
+        }
+    ],
+    "wof:id":1209117857,
+    "wof:lastmodified":1536297199,
+    "wof:name":"Cassamo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.61667,
+    -21.42083,
+    34.61667,
+    -21.42083
+],
+  "geometry": {"coordinates":[34.61667,-21.42083],"type":"Point"}
+}

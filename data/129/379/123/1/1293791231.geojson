@@ -1,0 +1,67 @@
+{
+  "id": 1293791231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.22722,-21.97444,34.22722,-21.97444",
+    "geom:latitude":-21.97444,
+    "geom:longitude":34.22722,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Fainda",
+    "gn:country_code":"MZ",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046444,
+    "gn:latitude":-21.97444,
+    "gn:longitude":34.22722,
+    "gn:modification_date":"1998-04-29",
+    "gn:name":"Fainda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046444
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"658d77732ba7e237ef2234b1c5531a2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698405,
+            "locality_id":1293791231,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1293791231,
+    "wof:lastmodified":1536845104,
+    "wof:name":"Fainda",
+    "wof:parent_id":1091698405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.22722,
+    -21.97444,
+    34.22722,
+    -21.97444
+],
+  "geometry": {"coordinates":[34.22722,-21.97444],"type":"Point"}
+}

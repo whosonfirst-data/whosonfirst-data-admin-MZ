@@ -1,0 +1,67 @@
+{
+  "id": 1293610549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.39833,-13.68056,37.39833,-13.68056",
+    "geom:latitude":-13.68056,
+    "geom:longitude":37.39833,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ratixe",
+    "gn:country_code":"MZ",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028159,
+    "gn:latitude":-13.68056,
+    "gn:longitude":37.39833,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Ratixe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028159
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"21a15308c361000e675cd2c1c1397f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699411,
+            "locality_id":1293610549,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1293610549,
+    "wof:lastmodified":1536606921,
+    "wof:name":"Ratixe",
+    "wof:parent_id":1091699411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.39833,
+    -13.68056,
+    37.39833,
+    -13.68056
+],
+  "geometry": {"coordinates":[37.39833,-13.68056],"type":"Point"}
+}

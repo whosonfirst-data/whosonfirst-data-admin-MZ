@@ -1,0 +1,67 @@
+{
+  "id": 1276869911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.0825,-14.34417,40.0825,-14.34417",
+    "geom:latitude":-14.34417,
+    "geom:longitude":40.0825,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mepenharate",
+    "gn:country_code":"MZ",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038741,
+    "gn:latitude":-14.34417,
+    "gn:longitude":40.0825,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Mepenharate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038741
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3b74bb04c20eec76ac4b691ca0925fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700773,
+            "locality_id":1276869911,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1276869911,
+    "wof:lastmodified":1537052309,
+    "wof:name":"Mepenharate",
+    "wof:parent_id":1091700773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.0825,
+    -14.34417,
+    40.0825,
+    -14.34417
+],
+  "geometry": {"coordinates":[40.0825,-14.34417],"type":"Point"}
+}

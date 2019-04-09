@@ -1,0 +1,67 @@
+{
+  "id": 1226660183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.33639,-11.355,39.33639,-11.355",
+    "geom:latitude":-11.355,
+    "geom:longitude":39.33639,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Machindua",
+    "gn:country_code":"MZ",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042586,
+    "gn:latitude":-11.355,
+    "gn:longitude":39.33639,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Machindua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042586
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1a98cedbd0bfb1a0fcd0608576ad70eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1226660183,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1226660183,
+    "wof:lastmodified":1536837550,
+    "wof:name":"Machindua",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.33639,
+    -11.355,
+    39.33639,
+    -11.355
+],
+  "geometry": {"coordinates":[39.33639,-11.355],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209118829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.28556,-24.40556,33.28556,-24.40556",
+    "geom:latitude":-24.40556,
+    "geom:longitude":33.28556,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Regulo Fungane",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046209,
+    "gn:latitude":-24.40556,
+    "gn:longitude":33.28556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00e9gulo Fungane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Funguane",
+        "R\u00e9gulo Fungane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046209
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c9d3a12d45bb40a75f0d9cf72149a6fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209118829
+        }
+    ],
+    "wof:id":1209118829,
+    "wof:lastmodified":1537674574,
+    "wof:name":"Regulo Fungane",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.28556,
+    -24.40556,
+    33.28556,
+    -24.40556
+],
+  "geometry": {"coordinates":[33.28556,-24.40556],"type":"Point"}
+}

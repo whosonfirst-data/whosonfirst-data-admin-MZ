@@ -1,0 +1,67 @@
+{
+  "id": 1276329927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.77583,-16.14694,33.77583,-16.14694",
+    "geom:latitude":-16.14694,
+    "geom:longitude":33.77583,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Chipenga",
+    "gn:country_code":"MZ",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048959,
+    "gn:latitude":-16.14694,
+    "gn:longitude":33.77583,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Chipenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048959
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d49c4ba1c602fc4d0acdfd3d945726a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699971,
+            "locality_id":1276329927,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1276329927,
+    "wof:lastmodified":1536783619,
+    "wof:name":"Chipenga",
+    "wof:parent_id":1091699971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.77583,
+    -16.14694,
+    33.77583,
+    -16.14694
+],
+  "geometry": {"coordinates":[33.77583,-16.14694],"type":"Point"}
+}

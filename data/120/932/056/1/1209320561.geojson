@@ -1,0 +1,61 @@
+{
+  "id": 1209320561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1,-26.05,32.1,-26.05",
+    "geom:latitude":-26.05,
+    "geom:longitude":32.1,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Manhuenta",
+    "gn:country_code":"MZ",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040969,
+    "gn:latitude":-26.05,
+    "gn:longitude":32.1,
+    "gn:modification_date":"1997-09-02",
+    "gn:name":"Manhuenta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040969
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"829ee759de028f7304e1d31ab2823b83",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209320561
+        }
+    ],
+    "wof:id":1209320561,
+    "wof:lastmodified":1536290709,
+    "wof:name":"Manhuenta",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1,
+    -26.05,
+    32.1,
+    -26.05
+],
+  "geometry": {"coordinates":[32.1,-26.05],"type":"Point"}
+}

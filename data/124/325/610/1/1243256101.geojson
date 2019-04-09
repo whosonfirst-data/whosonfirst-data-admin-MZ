@@ -1,0 +1,67 @@
+{
+  "id": 1243256101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.09417,-14.2825,39.09417,-14.2825",
+    "geom:latitude":-14.2825,
+    "geom:longitude":39.09417,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nacauela",
+    "gn:country_code":"MZ",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088288,
+    "gn:latitude":-14.2825,
+    "gn:longitude":39.09417,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Nacauela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088288
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"12ed45a1e3b6444131b43a44dd5aabfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699653,
+            "locality_id":1243256101,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1243256101,
+    "wof:lastmodified":1537076822,
+    "wof:name":"Nacauela",
+    "wof:parent_id":1091699653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.09417,
+    -14.2825,
+    39.09417,
+    -14.2825
+],
+  "geometry": {"coordinates":[39.09417,-14.2825],"type":"Point"}
+}

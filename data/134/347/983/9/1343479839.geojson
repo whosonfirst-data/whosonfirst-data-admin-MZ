@@ -1,0 +1,67 @@
+{
+  "id": 1343479839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.20111,-16.91778,38.20111,-16.91778",
+    "geom:latitude":-16.91778,
+    "geom:longitude":38.20111,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chefe Muamua",
+    "gn:country_code":"MZ",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095153,
+    "gn:latitude":-16.91778,
+    "gn:longitude":38.20111,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Chefe Muamua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095153
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ab6a8efc1cd49c59621c9f3ebb54fb4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701291,
+            "locality_id":1343479839,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1343479839,
+    "wof:lastmodified":1536718556,
+    "wof:name":"Chefe Muamua",
+    "wof:parent_id":1091701291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.20111,
+    -16.91778,
+    38.20111,
+    -16.91778
+],
+  "geometry": {"coordinates":[38.20111,-16.91778],"type":"Point"}
+}

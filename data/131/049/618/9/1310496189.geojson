@@ -1,0 +1,67 @@
+{
+  "id": 1310496189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.11972,-17.06917,37.11972,-17.06917",
+    "geom:latitude":-17.06917,
+    "geom:longitude":37.11972,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Muicoma",
+    "gn:country_code":"MZ",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036008,
+    "gn:latitude":-17.06917,
+    "gn:longitude":37.11972,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Muicoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036008
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"310baa4e5ab80ceec6155291aa722f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700047,
+            "locality_id":1310496189,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1310496189,
+    "wof:lastmodified":1536931098,
+    "wof:name":"Muicoma",
+    "wof:parent_id":1091700047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.11972,
+    -17.06917,
+    37.11972,
+    -17.06917
+],
+  "geometry": {"coordinates":[37.11972,-17.06917],"type":"Point"}
+}

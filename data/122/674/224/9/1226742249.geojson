@@ -1,0 +1,67 @@
+{
+  "id": 1226742249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.02222,-15.63389,39.02222,-15.63389",
+    "geom:latitude":-15.63389,
+    "geom:longitude":39.02222,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Matipela",
+    "gn:country_code":"MZ",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039886,
+    "gn:latitude":-15.63389,
+    "gn:longitude":39.02222,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Matipela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039886
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cda94cd9272acc7c24614dede31125e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700133,
+            "locality_id":1226742249,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1226742249,
+    "wof:lastmodified":1536720935,
+    "wof:name":"Matipela",
+    "wof:parent_id":1091700133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.02222,
+    -15.63389,
+    39.02222,
+    -15.63389
+],
+  "geometry": {"coordinates":[39.02222,-15.63389],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242601643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.85556,-24.83056,32.85556,-24.83056",
+    "geom:latitude":-24.83056,
+    "geom:longitude":32.85556,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Aldeia Comunais Unguca",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024995,
+    "gn:latitude":-24.83056,
+    "gn:longitude":32.85556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aldeia Comunais Unguca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unguca",
+        "Aldeia Comunais Unguca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024995
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"93a00f99dc6935b7617748b0c8b09328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1242601643,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1242601643,
+    "wof:lastmodified":1537674474,
+    "wof:name":"Aldeia Comunais Unguca",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.85556,
+    -24.83056,
+    32.85556,
+    -24.83056
+],
+  "geometry": {"coordinates":[32.85556,-24.83056],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276222623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.52611,-14.84806,34.52611,-14.84806",
+    "geom:latitude":-14.84806,
+    "geom:longitude":34.52611,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Metengo-wa-Mbalame",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":1370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038131,
+    "gn:latitude":-14.84806,
+    "gn:longitude":34.52611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Metengo-wa-Mbalame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mtengo-ua-Balamb",
+        "Metengobalame",
+        "Metengo Balama",
+        "Metengo-wa-Mbalame"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091701561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038131
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ce03af117cc434bb8ca63e80142428c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701561,
+            "locality_id":1276222623,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1276222623,
+    "wof:lastmodified":1537674528,
+    "wof:name":"Metengo-wa-Mbalame",
+    "wof:parent_id":1091701561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.52611,
+    -14.84806,
+    34.52611,
+    -14.84806
+],
+  "geometry": {"coordinates":[34.52611,-14.84806],"type":"Point"}
+}

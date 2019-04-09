@@ -1,0 +1,67 @@
+{
+  "id": 1293023581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.21667,-20.29361,34.21667,-20.29361",
+    "geom:latitude":-20.29361,
+    "geom:longitude":34.21667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pondo",
+    "gn:country_code":"MZ",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028643,
+    "gn:latitude":-20.29361,
+    "gn:longitude":34.21667,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Pondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028643
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"58fd0c9c1437fdceed583b92f591c116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696395,
+            "locality_id":1293023581,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1293023581,
+    "wof:lastmodified":1536958849,
+    "wof:name":"Pondo",
+    "wof:parent_id":1091696395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.21667,
+    -20.29361,
+    34.21667,
+    -20.29361
+],
+  "geometry": {"coordinates":[34.21667,-20.29361],"type":"Point"}
+}

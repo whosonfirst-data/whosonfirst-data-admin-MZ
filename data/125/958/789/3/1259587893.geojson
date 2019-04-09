@@ -1,0 +1,67 @@
+{
+  "id": 1259587893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.20139,-17.72,35.20139,-17.72",
+    "geom:latitude":-17.72,
+    "geom:longitude":35.20139,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Chibongalaua",
+    "gn:country_code":"MZ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049884,
+    "gn:latitude":-17.72,
+    "gn:longitude":35.20139,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Chibongalaua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049884
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"12589e3c836de93aaf724fd4a7d3508f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696493,
+            "locality_id":1259587893,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1259587893,
+    "wof:lastmodified":1536708719,
+    "wof:name":"Chibongalaua",
+    "wof:parent_id":1091696493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20139,
+    -17.72,
+    35.20139,
+    -17.72
+],
+  "geometry": {"coordinates":[35.20139,-17.72],"type":"Point"}
+}

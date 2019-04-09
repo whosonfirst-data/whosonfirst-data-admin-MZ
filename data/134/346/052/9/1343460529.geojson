@@ -1,0 +1,72 @@
+{
+  "id": 1343460529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.7125,-24.4575,34.7125,-24.4575",
+    "geom:latitude":-24.4575,
+    "geom:longitude":34.7125,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Cabo Boquisso",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052054,
+    "gn:latitude":-24.4575,
+    "gn:longitude":34.7125,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cabo Boquisso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boqui\u00e7o",
+        "Cabo Boquisso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052054
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7bb2fa2878957e6aeae10511b467e990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698019,
+            "locality_id":1343460529,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1343460529,
+    "wof:lastmodified":1537674606,
+    "wof:name":"Cabo Boquisso",
+    "wof:parent_id":1091698019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.7125,
+    -24.4575,
+    34.7125,
+    -24.4575
+],
+  "geometry": {"coordinates":[34.7125,-24.4575],"type":"Point"}
+}

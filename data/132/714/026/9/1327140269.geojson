@@ -1,0 +1,72 @@
+{
+  "id": 1327140269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.26056,-26.47528,32.26056,-26.47528",
+    "geom:latitude":-26.47528,
+    "geom:longitude":32.26056,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Guba",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045713,
+    "gn:latitude":-26.47528,
+    "gn:longitude":32.26056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Guba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cuba",
+        "Guba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045713
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f25c8680401d2b3bffbba8187d323cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699383,
+            "locality_id":1327140269,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1327140269,
+    "wof:lastmodified":1537674571,
+    "wof:name":"Guba",
+    "wof:parent_id":1091699383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.26056,
+    -26.47528,
+    32.26056,
+    -26.47528
+],
+  "geometry": {"coordinates":[32.26056,-26.47528],"type":"Point"}
+}

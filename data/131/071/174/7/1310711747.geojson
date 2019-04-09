@@ -1,0 +1,67 @@
+{
+  "id": 1310711747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.08333,-16.8,33.08333,-16.8",
+    "geom:latitude":-16.8,
+    "geom:longitude":33.08333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Chimessolo",
+    "gn:country_code":"MZ",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049275,
+    "gn:latitude":-16.8,
+    "gn:longitude":33.08333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Chimessolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049275
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"72d158b18dbb09d53c1171eb3918ee20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696537,
+            "locality_id":1310711747,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1310711747,
+    "wof:lastmodified":1536617041,
+    "wof:name":"Chimessolo",
+    "wof:parent_id":1091696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.08333,
+    -16.8,
+    33.08333,
+    -16.8
+],
+  "geometry": {"coordinates":[33.08333,-16.8],"type":"Point"}
+}

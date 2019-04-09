@@ -1,0 +1,72 @@
+{
+  "id": 1226250331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.60556,-23.53694,34.60556,-23.53694",
+    "geom:latitude":-23.53694,
+    "geom:longitude":34.60556,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Hilario",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048407,
+    "gn:latitude":-23.53694,
+    "gn:longitude":34.60556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hil\u00e1rio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chizel",
+        "Hil\u00e1rio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048407
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"58e418f8a48977a68d9d988bd7a8b9b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697505,
+            "locality_id":1226250331,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1226250331,
+    "wof:lastmodified":1537674585,
+    "wof:name":"Hilario",
+    "wof:parent_id":1091697505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.60556,
+    -23.53694,
+    34.60556,
+    -23.53694
+],
+  "geometry": {"coordinates":[34.60556,-23.53694],"type":"Point"}
+}

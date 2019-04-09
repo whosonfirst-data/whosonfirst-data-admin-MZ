@@ -1,0 +1,72 @@
+{
+  "id": 1243077175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.15667,-13.59611,39.15667,-13.59611",
+    "geom:latitude":-13.59611,
+    "geom:longitude":39.15667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chefe Tabulua",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026361,
+    "gn:latitude":-13.59611,
+    "gn:longitude":39.15667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Tabulua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tapulua",
+        "Chefe Tabulua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026361
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c0541f6ccf83fed80cac8563db9a2edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700995,
+            "locality_id":1243077175,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1243077175,
+    "wof:lastmodified":1537674481,
+    "wof:name":"Chefe Tabulua",
+    "wof:parent_id":1091700995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.15667,
+    -13.59611,
+    39.15667,
+    -13.59611
+],
+  "geometry": {"coordinates":[39.15667,-13.59611],"type":"Point"}
+}

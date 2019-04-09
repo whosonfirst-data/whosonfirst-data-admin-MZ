@@ -1,0 +1,67 @@
+{
+  "id": 1293022991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2525,-14.92528,37.2525,-14.92528",
+    "geom:latitude":-14.92528,
+    "geom:longitude":37.2525,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mocorri",
+    "gn:country_code":"MZ",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088179,
+    "gn:latitude":-14.92528,
+    "gn:longitude":37.2525,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Mocorri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091698863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088179
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a15766ebf5e068519763c96efbba686b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698863,
+            "locality_id":1293022991,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1293022991,
+    "wof:lastmodified":1536959713,
+    "wof:name":"Mocorri",
+    "wof:parent_id":1091698863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2525,
+    -14.92528,
+    37.2525,
+    -14.92528
+],
+  "geometry": {"coordinates":[37.2525,-14.92528],"type":"Point"}
+}

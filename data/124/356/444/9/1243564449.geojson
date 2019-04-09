@@ -1,0 +1,67 @@
+{
+  "id": 1243564449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.78333,-22.86667,33.78333,-22.86667",
+    "geom:latitude":-22.86667,
+    "geom:longitude":33.78333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Dolela",
+    "gn:country_code":"MZ",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046955,
+    "gn:latitude":-22.86667,
+    "gn:longitude":33.78333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Dolela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046955
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"88bffb1754fe887bd926147f75ccd417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697505,
+            "locality_id":1243564449,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1243564449,
+    "wof:lastmodified":1536634061,
+    "wof:name":"Dolela",
+    "wof:parent_id":1091697505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.78333,
+    -22.86667000000001,
+    33.78333,
+    -22.86667000000001
+],
+  "geometry": {"coordinates":[33.78333,-22.86667000000001],"type":"Point"}
+}

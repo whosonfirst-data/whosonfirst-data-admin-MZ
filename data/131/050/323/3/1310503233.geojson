@@ -1,0 +1,67 @@
+{
+  "id": 1310503233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.37417,-24.39167,34.37417,-24.39167",
+    "geom:latitude":-24.39167,
+    "geom:longitude":34.37417,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mapetule Picanisso",
+    "gn:country_code":"MZ",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097740,
+    "gn:latitude":-24.39167,
+    "gn:longitude":34.37417,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Mapetule Picanisso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097740
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"154fd4800a492050b8ac9443cfbe4fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698019,
+            "locality_id":1310503233,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1310503233,
+    "wof:lastmodified":1536920828,
+    "wof:name":"Mapetule Picanisso",
+    "wof:parent_id":1091698019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.37417,
+    -24.39167,
+    34.37417,
+    -24.39167
+],
+  "geometry": {"coordinates":[34.37417,-24.39167],"type":"Point"}
+}

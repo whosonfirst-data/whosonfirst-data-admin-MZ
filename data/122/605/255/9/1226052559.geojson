@@ -1,0 +1,67 @@
+{
+  "id": 1226052559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.15,-14.08333,40.15,-14.08333",
+    "geom:latitude":-14.08333,
+    "geom:longitude":40.15,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Chomola",
+    "gn:country_code":"MZ",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048346,
+    "gn:latitude":-14.08333,
+    "gn:longitude":40.15,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Chomola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048346
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c13678190611a870797068cfe30ea6df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699799,
+            "locality_id":1226052559,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1226052559,
+    "wof:lastmodified":1536715570,
+    "wof:name":"Chomola",
+    "wof:parent_id":1091699799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.15,
+    -14.08333,
+    40.15,
+    -14.08333
+],
+  "geometry": {"coordinates":[40.15,-14.08333],"type":"Point"}
+}

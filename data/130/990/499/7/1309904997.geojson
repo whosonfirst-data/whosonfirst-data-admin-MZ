@@ -1,0 +1,73 @@
+{
+  "id": 1309904997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.34417,-17.82028,35.34417,-17.82028",
+    "geom:latitude":-17.82028,
+    "geom:longitude":35.34417,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Caia",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024692,
+    "gn:latitude":-17.82028,
+    "gn:longitude":35.34417,
+    "gn:modification_date":"2017-08-29",
+    "gn:name":"Caia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vila Fontes",
+        "Caia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024692,
+        "wk:page":"Caia,_Mozambique"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"33c348a9a3c3e2501a871b13df39a006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696493,
+            "locality_id":1309904997,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1309904997,
+    "wof:lastmodified":1537674472,
+    "wof:name":"Caia",
+    "wof:parent_id":1091696493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.34417,
+    -17.82028,
+    35.34417,
+    -17.82028
+],
+  "geometry": {"coordinates":[35.34417,-17.82028],"type":"Point"}
+}

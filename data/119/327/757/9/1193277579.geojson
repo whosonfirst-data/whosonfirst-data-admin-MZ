@@ -1,0 +1,67 @@
+{
+  "id": 1193277579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.8225,-24.07694,34.8225,-24.07694",
+    "geom:latitude":-24.07694,
+    "geom:longitude":34.8225,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Met. Adonixa Cuambe",
+    "gn:country_code":"MZ",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097186,
+    "gn:latitude":-24.07694,
+    "gn:longitude":34.8225,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Met. Adonixa Cuambe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097186
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"132d980509d56a019d01b4073037d241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701265,
+            "locality_id":1193277579,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1193277579,
+    "wof:lastmodified":1536364902,
+    "wof:name":"Met. Adonixa Cuambe",
+    "wof:parent_id":1091701265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.8225,
+    -24.07694,
+    34.8225,
+    -24.07694
+],
+  "geometry": {"coordinates":[34.8225,-24.07694],"type":"Point"}
+}

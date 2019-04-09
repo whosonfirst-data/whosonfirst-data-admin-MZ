@@ -1,0 +1,67 @@
+{
+  "id": 1344246739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.89889,-18.00417,36.89889,-18.00417",
+    "geom:latitude":-18.00417,
+    "geom:longitude":36.89889,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gazela",
+    "gn:country_code":"MZ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096397,
+    "gn:latitude":-18.00417,
+    "gn:longitude":36.89889,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Gazela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096397
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"dcc8661e4882c4d4a59b5d134e90bc23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698097,
+            "locality_id":1344246739,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1344246739,
+    "wof:lastmodified":1536603722,
+    "wof:name":"Gazela",
+    "wof:parent_id":1091698097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.89889,
+    -18.00417000000001,
+    36.89889,
+    -18.00417000000001
+],
+  "geometry": {"coordinates":[36.89889,-18.00417000000001],"type":"Point"}
+}

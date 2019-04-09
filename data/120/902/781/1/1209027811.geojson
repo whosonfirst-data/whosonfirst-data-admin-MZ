@@ -1,0 +1,66 @@
+{
+  "id": 1209027811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.855,-14.02806,37.855,-14.02806",
+    "geom:latitude":-14.02806,
+    "geom:longitude":37.855,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Nipepe",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029770,
+    "gn:latitude":-14.02806,
+    "gn:longitude":37.855,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nipepe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nibebe",
+        "Nipepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029770
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c81c5f4dd51c80ef0385d7171028a0d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209027811
+        }
+    ],
+    "wof:id":1209027811,
+    "wof:lastmodified":1537674497,
+    "wof:name":"Nipepe",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.855,
+    -14.02806,
+    37.855,
+    -14.02806
+],
+  "geometry": {"coordinates":[37.855,-14.02806],"type":"Point"}
+}

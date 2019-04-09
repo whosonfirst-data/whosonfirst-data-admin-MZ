@@ -1,0 +1,67 @@
+{
+  "id": 1293289153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.80111,-15.28889,36.80111,-15.28889",
+    "geom:latitude":-15.28889,
+    "geom:longitude":36.80111,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Regulo Metovola",
+    "gn:country_code":"MZ",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091970,
+    "gn:latitude":-15.28889,
+    "gn:longitude":36.80111,
+    "gn:modification_date":"1998-05-14",
+    "gn:name":"R\u00e9gulo Metovola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091970
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8568c455b16339e8ad470d9b02ac8175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697801,
+            "locality_id":1293289153,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1293289153,
+    "wof:lastmodified":1537069908,
+    "wof:name":"Regulo Metovola",
+    "wof:parent_id":1091697801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.80111,
+    -15.28889,
+    36.80111,
+    -15.28889
+],
+  "geometry": {"coordinates":[36.80111,-15.28889],"type":"Point"}
+}

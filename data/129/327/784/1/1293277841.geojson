@@ -1,0 +1,67 @@
+{
+  "id": 1293277841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11861,-17.38389,35.11861,-17.38389",
+    "geom:latitude":-17.38389,
+    "geom:longitude":35.11861,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Chapotoca",
+    "gn:country_code":"MZ",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050263,
+    "gn:latitude":-17.38389,
+    "gn:longitude":35.11861,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Chap\u00f2t\u00f3ca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091700637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050263
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ce7cf43e39a379ba844b007ced79a97f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700637,
+            "locality_id":1293277841,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1293277841,
+    "wof:lastmodified":1537086107,
+    "wof:name":"Chapotoca",
+    "wof:parent_id":1091700637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11861,
+    -17.38389,
+    35.11861,
+    -17.38389
+],
+  "geometry": {"coordinates":[35.11861,-17.38389],"type":"Point"}
+}

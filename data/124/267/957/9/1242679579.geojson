@@ -1,0 +1,67 @@
+{
+  "id": 1242679579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11111,-24.03556,35.11111,-24.03556",
+    "geom:latitude":-24.03556,
+    "geom:longitude":35.11111,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tafula",
+    "gn:country_code":"MZ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026524,
+    "gn:latitude":-24.03556,
+    "gn:longitude":35.11111,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Tafula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026524
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a45019a9f5da190b08a7fc4bb4416764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697853,
+            "locality_id":1242679579,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1242679579,
+    "wof:lastmodified":1536917425,
+    "wof:name":"Tafula",
+    "wof:parent_id":1091697853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11111,
+    -24.03556,
+    35.11111,
+    -24.03556
+],
+  "geometry": {"coordinates":[35.11111,-24.03556],"type":"Point"}
+}

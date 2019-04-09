@@ -1,0 +1,67 @@
+{
+  "id": 1292917263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.00917,-12.16444,40.00917,-12.16444",
+    "geom:latitude":-12.16444,
+    "geom:longitude":40.00917,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tchanja",
+    "gn:country_code":"MZ",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026257,
+    "gn:latitude":-12.16444,
+    "gn:longitude":40.00917,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Tchanja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091698583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026257
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c7c8a4085e648c34b542655080590ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698583,
+            "locality_id":1292917263,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1292917263,
+    "wof:lastmodified":1536612451,
+    "wof:name":"Tchanja",
+    "wof:parent_id":1091698583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.00917000000001,
+    -12.16444,
+    40.00917000000001,
+    -12.16444
+],
+  "geometry": {"coordinates":[40.00917000000001,-12.16444],"type":"Point"}
+}

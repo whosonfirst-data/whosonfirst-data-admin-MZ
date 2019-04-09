@@ -1,0 +1,67 @@
+{
+  "id": 1209915883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.38333,-23.41583,35.38333,-23.41583",
+    "geom:latitude":-23.41583,
+    "geom:longitude":35.38333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Malova",
+    "gn:country_code":"MZ",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041369,
+    "gn:latitude":-23.41583,
+    "gn:longitude":35.38333,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Malova",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091699313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041369
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c967f7fc7cb4f7ab5f1bd51eaacff4e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699313,
+            "locality_id":1209915883,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1209915883,
+    "wof:lastmodified":1536373800,
+    "wof:name":"Malova",
+    "wof:parent_id":1091699313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38333,
+    -23.41583,
+    35.38333,
+    -23.41583
+],
+  "geometry": {"coordinates":[35.38333,-23.41583],"type":"Point"}
+}

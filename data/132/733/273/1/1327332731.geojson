@@ -1,0 +1,67 @@
+{
+  "id": 1327332731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.30389,-18.73611,34.30389,-18.73611",
+    "geom:latitude":-18.73611,
+    "geom:longitude":34.30389,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Casaco",
+    "gn:country_code":"MZ",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050974,
+    "gn:latitude":-18.73611,
+    "gn:longitude":34.30389,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Casaco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091697631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050974
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7d8ccf32ab74c3023aa8cbb5ee9cc2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697631,
+            "locality_id":1327332731,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1327332731,
+    "wof:lastmodified":1536823828,
+    "wof:name":"Casaco",
+    "wof:parent_id":1091697631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.30389,
+    -18.73611,
+    34.30389,
+    -18.73611
+],
+  "geometry": {"coordinates":[34.30389,-18.73611],"type":"Point"}
+}

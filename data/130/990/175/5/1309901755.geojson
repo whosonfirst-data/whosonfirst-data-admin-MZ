@@ -1,0 +1,67 @@
+{
+  "id": 1309901755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1275,-17.38472,36.1275,-17.38472",
+    "geom:latitude":-17.38472,
+    "geom:longitude":36.1275,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sapanda",
+    "gn:country_code":"MZ",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027271,
+    "gn:latitude":-17.38472,
+    "gn:longitude":36.1275,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Sapanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027271
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fb233856b7c99bd98840360847928229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700255,
+            "locality_id":1309901755,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1309901755,
+    "wof:lastmodified":1536793077,
+    "wof:name":"Sapanda",
+    "wof:parent_id":1091700255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1275,
+    -17.38472,
+    36.1275,
+    -17.38472
+],
+  "geometry": {"coordinates":[36.1275,-17.38472],"type":"Point"}
+}

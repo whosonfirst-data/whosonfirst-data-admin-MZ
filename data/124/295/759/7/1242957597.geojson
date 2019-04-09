@@ -1,0 +1,72 @@
+{
+  "id": 1242957597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.70806,-16.39528,37.70806,-16.39528",
+    "geom:latitude":-16.39528,
+    "geom:longitude":37.70806,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chefe Harrabela",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036451,
+    "gn:latitude":-16.39528,
+    "gn:longitude":37.70806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Harrabela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muchipa",
+        "Chefe Harrabela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036451
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b68bd3642bbc7681f1df6e041c444285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697943,
+            "locality_id":1242957597,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1242957597,
+    "wof:lastmodified":1537674520,
+    "wof:name":"Chefe Harrabela",
+    "wof:parent_id":1091697943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.70806,
+    -16.39528,
+    37.70806,
+    -16.39528
+],
+  "geometry": {"coordinates":[37.70806,-16.39528],"type":"Point"}
+}

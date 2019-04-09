@@ -1,0 +1,67 @@
+{
+  "id": 1310486109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.28639,-17.21278,37.28639,-17.21278",
+    "geom:latitude":-17.21278,
+    "geom:longitude":37.28639,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Bala",
+    "gn:country_code":"MZ",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052633,
+    "gn:latitude":-17.21278,
+    "gn:longitude":37.28639,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Bala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052633
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"eb7b4dcb971a926716a06b2f4597d33f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698671,
+            "locality_id":1310486109,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1310486109,
+    "wof:lastmodified":1536945351,
+    "wof:name":"Bala",
+    "wof:parent_id":1091698671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.28639,
+    -17.21278,
+    37.28639,
+    -17.21278
+],
+  "geometry": {"coordinates":[37.28639,-17.21278],"type":"Point"}
+}

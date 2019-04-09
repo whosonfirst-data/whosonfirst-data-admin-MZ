@@ -1,0 +1,67 @@
+{
+  "id": 1327126879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.62194,-15.01639,40.62194,-15.01639",
+    "geom:latitude":-15.01639,
+    "geom:longitude":40.62194,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Braimo",
+    "gn:country_code":"MZ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052015,
+    "gn:latitude":-15.01639,
+    "gn:longitude":40.62194,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Bra\u00edmo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091697977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052015
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e03dd85162994698928843cce83fc461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697977,
+            "locality_id":1327126879,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1327126879,
+    "wof:lastmodified":1536622039,
+    "wof:name":"Braimo",
+    "wof:parent_id":1091697977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.62194,
+    -15.01639,
+    40.62194,
+    -15.01639
+],
+  "geometry": {"coordinates":[40.62194,-15.01639],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310590985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.59528,-17.67194,36.59528,-17.67194",
+    "geom:latitude":-17.67194,
+    "geom:longitude":36.59528,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Colete",
+    "gn:country_code":"MZ",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048018,
+    "gn:latitude":-17.67194,
+    "gn:longitude":36.59528,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Colete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048018
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5390f7be6291a2337fe331ac0e1f7f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701163,
+            "locality_id":1310590985,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1310590985,
+    "wof:lastmodified":1536793943,
+    "wof:name":"Colete",
+    "wof:parent_id":1091701163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.59528,
+    -17.67194,
+    36.59528,
+    -17.67194
+],
+  "geometry": {"coordinates":[36.59528,-17.67194],"type":"Point"}
+}

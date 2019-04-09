@@ -1,0 +1,67 @@
+{
+  "id": 1293497701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.51667,-19.33333,33.51667,-19.33333",
+    "geom:latitude":-19.33333,
+    "geom:longitude":33.51667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Mepangue",
+    "gn:country_code":"MZ",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038784,
+    "gn:latitude":-19.33333,
+    "gn:longitude":33.51667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Mepangue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038784
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"672b15285241ba99bbc64e62bd1c7874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697585,
+            "locality_id":1293497701,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1293497701,
+    "wof:lastmodified":1536772863,
+    "wof:name":"Mepangue",
+    "wof:parent_id":1091697585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.51667,
+    -19.33333,
+    33.51667,
+    -19.33333
+],
+  "geometry": {"coordinates":[33.51667,-19.33333],"type":"Point"}
+}

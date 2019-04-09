@@ -1,0 +1,67 @@
+{
+  "id": 1293404219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.0325,-11.34167,39.0325,-11.34167",
+    "geom:latitude":-11.34167,
+    "geom:longitude":39.0325,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Miganga",
+    "gn:country_code":"MZ",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037751,
+    "gn:latitude":-11.34167,
+    "gn:longitude":39.0325,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Miganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037751
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e91bae3413be88982dd8cad572c0bf77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1293404219,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1293404219,
+    "wof:lastmodified":1536907237,
+    "wof:name":"Miganga",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.0325,
+    -11.34167,
+    39.0325,
+    -11.34167
+],
+  "geometry": {"coordinates":[39.0325,-11.34167],"type":"Point"}
+}

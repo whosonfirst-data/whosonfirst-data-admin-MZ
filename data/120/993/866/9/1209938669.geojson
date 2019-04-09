@@ -1,0 +1,67 @@
+{
+  "id": 1209938669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.58972,-15.87194,39.58972,-15.87194",
+    "geom:latitude":-15.87194,
+    "geom:longitude":39.58972,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tulula",
+    "gn:country_code":"MZ",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025574,
+    "gn:latitude":-15.87194,
+    "gn:longitude":39.58972,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Tulula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025574
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d03a8f15c381b8c61c55cacd9ebfa9da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700133,
+            "locality_id":1209938669,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1209938669,
+    "wof:lastmodified":1536389470,
+    "wof:name":"Tulula",
+    "wof:parent_id":1091700133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.58972,
+    -15.87194,
+    39.58972,
+    -15.87194
+],
+  "geometry": {"coordinates":[39.58972,-15.87194],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327039837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.98333,-17.08333,32.98333,-17.08333",
+    "geom:latitude":-17.08333,
+    "geom:longitude":32.98333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Metafula",
+    "gn:country_code":"MZ",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038256,
+    "gn:latitude":-17.08333,
+    "gn:longitude":32.98333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Metafula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038256
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b60b0a4134a51ed79f92b21e967e8baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696537,
+            "locality_id":1327039837,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1327039837,
+    "wof:lastmodified":1536749459,
+    "wof:name":"Metafula",
+    "wof:parent_id":1091696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.98333,
+    -17.08333,
+    32.98333,
+    -17.08333
+],
+  "geometry": {"coordinates":[32.98333,-17.08333],"type":"Point"}
+}

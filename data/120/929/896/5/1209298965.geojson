@@ -1,0 +1,61 @@
+{
+  "id": 1209298965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.68722,-16.49861,37.68722,-16.49861",
+    "geom:latitude":-16.49861,
+    "geom:longitude":37.68722,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chefe Impolia",
+    "gn:country_code":"MZ",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095833,
+    "gn:latitude":-16.49861,
+    "gn:longitude":37.68722,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Chefe Impolia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095833
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7f4ca7c565eac4645888eeb026948581",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209298965
+        }
+    ],
+    "wof:id":1209298965,
+    "wof:lastmodified":1536291425,
+    "wof:name":"Chefe Impolia",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.68722,
+    -16.49861,
+    37.68722,
+    -16.49861
+],
+  "geometry": {"coordinates":[37.68722,-16.49861],"type":"Point"}
+}

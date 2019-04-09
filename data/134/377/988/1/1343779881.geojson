@@ -1,0 +1,67 @@
+{
+  "id": 1343779881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.40944,-10.76306,40.40944,-10.76306",
+    "geom:latitude":-10.76306,
+    "geom:longitude":40.40944,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Amisse",
+    "gn:country_code":"MZ",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053045,
+    "gn:latitude":-10.76306,
+    "gn:longitude":40.40944,
+    "gn:modification_date":"1995-02-03",
+    "gn:name":"Amisse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053045
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d510bfd8cf0eb994cbb28a11a9bc2b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701223,
+            "locality_id":1343779881,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1343779881,
+    "wof:lastmodified":1536783432,
+    "wof:name":"Amisse",
+    "wof:parent_id":1091701223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.40944,
+    -10.76306,
+    40.40944,
+    -10.76306
+],
+  "geometry": {"coordinates":[40.40944,-10.76306],"type":"Point"}
+}

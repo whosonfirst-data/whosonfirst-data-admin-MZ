@@ -1,0 +1,67 @@
+{
+  "id": 1243375073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.04861,-22.92,35.04861,-22.92",
+    "geom:latitude":-22.92,
+    "geom:longitude":35.04861,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chico",
+    "gn:country_code":"MZ",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1100610,
+    "gn:latitude":-22.92,
+    "gn:longitude":35.04861,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Chico",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091699313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1100610
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1a7a20da00c2b0aabcaf945e66b309b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699313,
+            "locality_id":1243375073,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1243375073,
+    "wof:lastmodified":1536908763,
+    "wof:name":"Chico",
+    "wof:parent_id":1091699313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.04861,
+    -22.92,
+    35.04861,
+    -22.92
+],
+  "geometry": {"coordinates":[35.04861,-22.92],"type":"Point"}
+}

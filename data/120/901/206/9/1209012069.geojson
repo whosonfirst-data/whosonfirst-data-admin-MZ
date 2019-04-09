@@ -1,0 +1,61 @@
+{
+  "id": 1209012069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.46583,-23.71944,34.46583,-23.71944",
+    "geom:latitude":-23.71944,
+    "geom:longitude":34.46583,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cabo Maheleni",
+    "gn:country_code":"MZ",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1103288,
+    "gn:latitude":-23.71944,
+    "gn:longitude":34.46583,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Cabo Maheleni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1103288
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8383953d35b1383a75bcc9c4801af6ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209012069
+        }
+    ],
+    "wof:id":1209012069,
+    "wof:lastmodified":1536300414,
+    "wof:name":"Cabo Maheleni",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.46583,
+    -23.71944,
+    34.46583,
+    -23.71944
+],
+  "geometry": {"coordinates":[34.46583,-23.71944],"type":"Point"}
+}

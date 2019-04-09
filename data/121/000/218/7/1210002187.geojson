@@ -1,0 +1,73 @@
+{
+  "id": 1210002187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.80944,-15.72667,32.80944,-15.72667",
+    "geom:latitude":-15.72667,
+    "geom:longitude":32.80944,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Aldeia Caho",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027252,
+    "gn:latitude":-15.72667,
+    "gn:longitude":32.80944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aldeia Cah\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarare",
+        "Cah\u00f4o",
+        "Aldeia Cah\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027252
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0977df490533d49cf7dc92678f7e9ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696467,
+            "locality_id":1210002187,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1210002187,
+    "wof:lastmodified":1537674485,
+    "wof:name":"Aldeia Caho",
+    "wof:parent_id":1091696467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.80944,
+    -15.72667,
+    32.80944,
+    -15.72667
+],
+  "geometry": {"coordinates":[32.80944,-15.72667],"type":"Point"}
+}

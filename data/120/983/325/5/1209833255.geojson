@@ -1,0 +1,68 @@
+{
+  "id": 1209833255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.83806,-12.94667,39.83806,-12.94667",
+    "geom:latitude":-12.94667,
+    "geom:longitude":39.83806,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Banjira",
+    "gn:country_code":"MZ",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052487,
+    "gn:latitude":-12.94667,
+    "gn:longitude":39.83806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Banjira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052487,
+        "wk:page":"Banjira"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ab012d035911ad64463d37476ce1555e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696241,
+            "locality_id":1209833255,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1209833255,
+    "wof:lastmodified":1537569938,
+    "wof:name":"Banjira",
+    "wof:parent_id":1091696241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.83806,
+    -12.94667,
+    39.83806,
+    -12.94667
+],
+  "geometry": {"coordinates":[39.83806,-12.94667],"type":"Point"}
+}

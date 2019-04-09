@@ -1,0 +1,67 @@
+{
+  "id": 1209938655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.22306,-14.71889,37.22306,-14.71889",
+    "geom:latitude":-14.71889,
+    "geom:longitude":37.22306,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Cariata",
+    "gn:country_code":"MZ",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088544,
+    "gn:latitude":-14.71889,
+    "gn:longitude":37.22306,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Cariata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091698863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088544
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"80d9254cb58e25b35080c4d9b5b6321a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698863,
+            "locality_id":1209938655,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1209938655,
+    "wof:lastmodified":1536389476,
+    "wof:name":"Cariata",
+    "wof:parent_id":1091698863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.22306,
+    -14.71889,
+    37.22306,
+    -14.71889
+],
+  "geometry": {"coordinates":[37.22306,-14.71889],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209710107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.65944,-15.18972,36.65944,-15.18972",
+    "geom:latitude":-15.18972,
+    "geom:longitude":36.65944,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Moala",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036830,
+    "gn:latitude":-15.18972,
+    "gn:longitude":36.65944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Moala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muala",
+        "Moala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036830
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9b4e57b3f180c5170066a86719ab4cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697801,
+            "locality_id":1209710107,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1209710107,
+    "wof:lastmodified":1537674521,
+    "wof:name":"Moala",
+    "wof:parent_id":1091697801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.65944,
+    -15.18972,
+    36.65944,
+    -15.18972
+],
+  "geometry": {"coordinates":[36.65944,-15.18972],"type":"Point"}
+}

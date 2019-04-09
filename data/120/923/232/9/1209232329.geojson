@@ -1,0 +1,61 @@
+{
+  "id": 1209232329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.54361,-13.24361,40.54361,-13.24361",
+    "geom:latitude":-13.24361,
+    "geom:longitude":40.54361,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Condorre",
+    "gn:country_code":"MZ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086273,
+    "gn:latitude":-13.24361,
+    "gn:longitude":40.54361,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Condorre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086273
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"59884e7a404e687fca14116e89ab07a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209232329
+        }
+    ],
+    "wof:id":1209232329,
+    "wof:lastmodified":1536293598,
+    "wof:name":"Condorre",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.54361,
+    -13.24361,
+    40.54361,
+    -13.24361
+],
+  "geometry": {"coordinates":[40.54361,-13.24361],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327337503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.91556,-13.02028,39.91556,-13.02028",
+    "geom:latitude":-13.02028,
+    "geom:longitude":39.91556,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Macota",
+    "gn:country_code":"MZ",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042411,
+    "gn:latitude":-13.02028,
+    "gn:longitude":39.91556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Macota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042411,
+        "wk:page":"Macota"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e6ccaec3fe1d13f0a99367f830a7c6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696241,
+            "locality_id":1327337503,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1327337503,
+    "wof:lastmodified":1537569931,
+    "wof:name":"Macota",
+    "wof:parent_id":1091696241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.91556,
+    -13.02028,
+    39.91556,
+    -13.02028
+],
+  "geometry": {"coordinates":[39.91556,-13.02028],"type":"Point"}
+}

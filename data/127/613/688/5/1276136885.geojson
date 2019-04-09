@@ -1,0 +1,68 @@
+{
+  "id": 1276136885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.55056,-11.66278,39.55056,-11.66278",
+    "geom:latitude":-11.66278,
+    "geom:longitude":39.55056,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Mueda",
+    "gn:country_code":"MZ",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036263,
+    "gn:latitude":-11.66278,
+    "gn:longitude":39.55056,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Mueda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036263,
+        "wk:page":"Mueda"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bd11221c683c8b8bc15c52e15fddaa70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1276136885,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276136885,
+    "wof:lastmodified":1537569927,
+    "wof:name":"Mueda",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.55056,
+    -11.66278,
+    39.55056,
+    -11.66278
+],
+  "geometry": {"coordinates":[39.55056,-11.66278],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226658957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.22361,-24.94472,33.22361,-24.94472",
+    "geom:latitude":-24.94472,
+    "geom:longitude":33.22361,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Antonio",
+    "gn:country_code":"MZ",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1099498,
+    "gn:latitude":-24.94472,
+    "gn:longitude":33.22361,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Ant\u00f3nio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1099498
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"63be3e9c8e513eb6a08e472cbc736249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696361,
+            "locality_id":1226658957,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1226658957,
+    "wof:lastmodified":1536839323,
+    "wof:name":"Antonio",
+    "wof:parent_id":1091696361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.22361,
+    -24.94472,
+    33.22361,
+    -24.94472
+],
+  "geometry": {"coordinates":[33.22361,-24.94472],"type":"Point"}
+}

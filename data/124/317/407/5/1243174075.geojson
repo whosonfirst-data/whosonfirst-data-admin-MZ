@@ -1,0 +1,72 @@
+{
+  "id": 1243174075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.04472,-22.79111,35.04472,-22.79111",
+    "geom:latitude":-22.79111,
+    "geom:longitude":35.04472,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Cabo Chilomo",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049692,
+    "gn:latitude":-22.79111,
+    "gn:longitude":35.04472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cabo Chilomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chicomo",
+        "Cabo Chilomo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091699313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049692
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"64189e67bce80200fbdc1b38fed86588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699313,
+            "locality_id":1243174075,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1243174075,
+    "wof:lastmodified":1537674592,
+    "wof:name":"Cabo Chilomo",
+    "wof:parent_id":1091699313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.04472,
+    -22.79111,
+    35.04472,
+    -22.79111
+],
+  "geometry": {"coordinates":[35.04472,-22.79111],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226328013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.77528,-16.89639,34.77528,-16.89639",
+    "geom:latitude":-16.89639,
+    "geom:longitude":34.77528,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tchamoronda",
+    "gn:country_code":"MZ",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026258,
+    "gn:latitude":-16.89639,
+    "gn:longitude":34.77528,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Tchamoronda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091700637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026258
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"459e31cba33ed3cea963661dbf0062c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700637,
+            "locality_id":1226328013,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1226328013,
+    "wof:lastmodified":1536814370,
+    "wof:name":"Tchamoronda",
+    "wof:parent_id":1091700637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.77528,
+    -16.89639,
+    34.77528,
+    -16.89639
+],
+  "geometry": {"coordinates":[34.77528,-16.89639],"type":"Point"}
+}

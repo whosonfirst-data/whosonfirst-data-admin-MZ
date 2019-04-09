@@ -1,0 +1,61 @@
+{
+  "id": 1209211607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.89444,-13.76972,36.89444,-13.76972",
+    "geom:latitude":-13.76972,
+    "geom:longitude":36.89444,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Aldeia Muapula",
+    "gn:country_code":"MZ",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085946,
+    "gn:latitude":-13.76972,
+    "gn:longitude":36.89444,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Aldeia Muapula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085946
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1aa54b501e720e0d0faeaf96936e1b2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209211607
+        }
+    ],
+    "wof:id":1209211607,
+    "wof:lastmodified":1536294272,
+    "wof:name":"Aldeia Muapula",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.89444,
+    -13.76972,
+    36.89444,
+    -13.76972
+],
+  "geometry": {"coordinates":[36.89444,-13.76972],"type":"Point"}
+}

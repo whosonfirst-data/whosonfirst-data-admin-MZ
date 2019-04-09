@@ -1,0 +1,67 @@
+{
+  "id": 1260197161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.25556,-13.14444,39.25556,-13.14444",
+    "geom:latitude":-13.14444,
+    "geom:longitude":39.25556,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Senla",
+    "gn:country_code":"MZ",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087638,
+    "gn:latitude":-13.14444,
+    "gn:longitude":39.25556,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Senla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087638
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8d33a2c86a127b239248d42c4634ec5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1260197161,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1260197161,
+    "wof:lastmodified":1536828119,
+    "wof:name":"Senla",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.25556,
+    -13.14444,
+    39.25556,
+    -13.14444
+],
+  "geometry": {"coordinates":[39.25556,-13.14444],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276864265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.25472,-16.21528,39.25472,-16.21528",
+    "geom:latitude":-16.21528,
+    "geom:longitude":39.25472,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nomolone",
+    "gn:country_code":"MZ",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1094948,
+    "gn:latitude":-16.21528,
+    "gn:longitude":39.25472,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Nomolone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1094948
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"34da2aab6f0179f467375f57f2f936e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1276864265,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1276864265,
+    "wof:lastmodified":1537059473,
+    "wof:name":"Nomolone",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.25472,
+    -16.21528,
+    39.25472,
+    -16.21528
+],
+  "geometry": {"coordinates":[39.25472,-16.21528],"type":"Point"}
+}

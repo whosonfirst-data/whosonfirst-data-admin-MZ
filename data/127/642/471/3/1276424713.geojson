@@ -1,0 +1,67 @@
+{
+  "id": 1276424713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.98167,-21.52667,32.98167,-21.52667",
+    "geom:latitude":-21.52667,
+    "geom:longitude":32.98167,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mavue",
+    "gn:country_code":"MZ",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039578,
+    "gn:latitude":-21.52667,
+    "gn:longitude":32.98167,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mavu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039578
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0ae9b50455430e84a3c41a475fcf053e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1276424713,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1276424713,
+    "wof:lastmodified":1536656323,
+    "wof:name":"Mavue",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.98167,
+    -21.52667000000001,
+    32.98167,
+    -21.52667000000001
+],
+  "geometry": {"coordinates":[32.98167,-21.52667000000001],"type":"Point"}
+}

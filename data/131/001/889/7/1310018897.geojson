@@ -1,0 +1,67 @@
+{
+  "id": 1310018897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.97083,-24.68556,33.97083,-24.68556",
+    "geom:latitude":-24.68556,
+    "geom:longitude":33.97083,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sao Pedro",
+    "gn:country_code":"MZ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1098150,
+    "gn:latitude":-24.68556,
+    "gn:longitude":33.97083,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"S\u00e3o Pedro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091698967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1098150
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d140ac99e63e81eb776e0c00e0379817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698967,
+            "locality_id":1310018897,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1310018897,
+    "wof:lastmodified":1536621885,
+    "wof:name":"Sao Pedro",
+    "wof:parent_id":1091698967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.97083,
+    -24.68556,
+    33.97083,
+    -24.68556
+],
+  "geometry": {"coordinates":[33.97083,-24.68556],"type":"Point"}
+}

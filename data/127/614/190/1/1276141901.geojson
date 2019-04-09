@@ -1,0 +1,67 @@
+{
+  "id": 1276141901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23389,-17.13833,35.23389,-17.13833",
+    "geom:latitude":-17.13833,
+    "geom:longitude":35.23389,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Jossene",
+    "gn:country_code":"MZ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044280,
+    "gn:latitude":-17.13833,
+    "gn:longitude":35.23389,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Jossene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091700637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044280
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c096b94d006886c6deb8eb40addc3439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700637,
+            "locality_id":1276141901,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1276141901,
+    "wof:lastmodified":1537033784,
+    "wof:name":"Jossene",
+    "wof:parent_id":1091700637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23389,
+    -17.13833,
+    35.23389,
+    -17.13833
+],
+  "geometry": {"coordinates":[35.23389,-17.13833],"type":"Point"}
+}

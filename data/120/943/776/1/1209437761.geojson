@@ -1,0 +1,67 @@
+{
+  "id": 1209437761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.83583,-20.57694,33.83583,-20.57694",
+    "geom:latitude":-20.57694,
+    "geom:longitude":33.83583,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Muvingue",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035175,
+    "gn:latitude":-20.57694,
+    "gn:longitude":33.83583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Muvingue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muxungue",
+        "Mucheve",
+        "Muvingue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035175
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1b238d09b6cbc1b45b440cd4359aa089",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209437761
+        }
+    ],
+    "wof:id":1209437761,
+    "wof:lastmodified":1537674512,
+    "wof:name":"Muvingue",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.83583,
+    -20.57694,
+    33.83583,
+    -20.57694
+],
+  "geometry": {"coordinates":[33.83583,-20.57694],"type":"Point"}
+}

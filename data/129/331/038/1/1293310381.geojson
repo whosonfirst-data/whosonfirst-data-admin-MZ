@@ -1,0 +1,67 @@
+{
+  "id": 1293310381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.11778,-11.64694,40.11778,-11.64694",
+    "geom:latitude":-11.64694,
+    "geom:longitude":40.11778,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Muia",
+    "gn:country_code":"MZ",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036042,
+    "gn:latitude":-11.64694,
+    "gn:longitude":40.11778,
+    "gn:modification_date":"1995-02-06",
+    "gn:name":"Muia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036042
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0545f9fc13deb33e5c08aff4377b8e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700013,
+            "locality_id":1293310381,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1293310381,
+    "wof:lastmodified":1537040659,
+    "wof:name":"Muia",
+    "wof:parent_id":1091700013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.11778,
+    -11.64694,
+    40.11778,
+    -11.64694
+],
+  "geometry": {"coordinates":[40.11778,-11.64694],"type":"Point"}
+}

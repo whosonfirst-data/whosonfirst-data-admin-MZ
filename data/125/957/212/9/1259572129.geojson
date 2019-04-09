@@ -1,0 +1,67 @@
+{
+  "id": 1259572129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.82694,-19.91972,33.82694,-19.91972",
+    "geom:latitude":-19.91972,
+    "geom:longitude":33.82694,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Jorge",
+    "gn:country_code":"MZ",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044322,
+    "gn:latitude":-19.91972,
+    "gn:longitude":33.82694,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Jorge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091701483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044322
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b374d4f22ef7414564cfd06080291788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701483,
+            "locality_id":1259572129,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1259572129,
+    "wof:lastmodified":1536731520,
+    "wof:name":"Jorge",
+    "wof:parent_id":1091701483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.82694,
+    -19.91972,
+    33.82694,
+    -19.91972
+],
+  "geometry": {"coordinates":[33.82694,-19.91972],"type":"Point"}
+}

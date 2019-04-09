@@ -1,0 +1,72 @@
+{
+  "id": 1326735233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.57917,-19.88111,34.57917,-19.88111",
+    "geom:latitude":-19.88111,
+    "geom:longitude":34.57917,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vila Arriaga",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024709,
+    "gn:latitude":-19.88111,
+    "gn:longitude":34.57917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vila Arriaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vila Guilherme d\u2019Arriaga",
+        "Vila Arriaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024709
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fada49a69596226c5bf5fdff3e6b345f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696395,
+            "locality_id":1326735233,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1326735233,
+    "wof:lastmodified":1537674472,
+    "wof:name":"Vila Arriaga",
+    "wof:parent_id":1091696395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.57917,
+    -19.88111,
+    34.57917,
+    -19.88111
+],
+  "geometry": {"coordinates":[34.57917,-19.88111],"type":"Point"}
+}

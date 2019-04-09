@@ -1,0 +1,67 @@
+{
+  "id": 1209733891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.65,-25.25,32.65,-25.25",
+    "geom:latitude":-25.25,
+    "geom:longitude":32.65,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Piquele",
+    "gn:country_code":"MZ",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028731,
+    "gn:latitude":-25.25,
+    "gn:longitude":32.65,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Piquele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028731
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f6458e0852bebdae0daf31e57e32f35f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699015,
+            "locality_id":1209733891,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1209733891,
+    "wof:lastmodified":1536375773,
+    "wof:name":"Piquele",
+    "wof:parent_id":1091699015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.65,
+    -25.25,
+    32.65,
+    -25.25
+],
+  "geometry": {"coordinates":[32.65,-25.25],"type":"Point"}
+}

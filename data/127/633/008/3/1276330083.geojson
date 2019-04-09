@@ -1,0 +1,67 @@
+{
+  "id": 1276330083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.35,-15.58694,33.35,-15.58694",
+    "geom:latitude":-15.58694,
+    "geom:longitude":33.35,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Xeline",
+    "gn:country_code":"MZ",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024502,
+    "gn:latitude":-15.58694,
+    "gn:longitude":33.35,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Xeline",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024502
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"17157610e48b5e8af7dff9545ada7609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696825,
+            "locality_id":1276330083,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1276330083,
+    "wof:lastmodified":1536783414,
+    "wof:name":"Xeline",
+    "wof:parent_id":1091696825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.35,
+    -15.58694,
+    33.35,
+    -15.58694
+],
+  "geometry": {"coordinates":[33.35,-15.58694],"type":"Point"}
+}

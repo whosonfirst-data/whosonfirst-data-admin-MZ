@@ -1,0 +1,67 @@
+{
+  "id": 1243377275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.85139,-13.34694,38.85139,-13.34694",
+    "geom:latitude":-13.34694,
+    "geom:longitude":38.85139,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Metina",
+    "gn:country_code":"MZ",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086345,
+    "gn:latitude":-13.34694,
+    "gn:longitude":38.85139,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Metina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086345
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bd582acdab8b0f342c4893e34048ca0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1243377275,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1243377275,
+    "wof:lastmodified":1536905461,
+    "wof:name":"Metina",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.85139,
+    -13.34694,
+    38.85139,
+    -13.34694
+],
+  "geometry": {"coordinates":[38.85139,-13.34694],"type":"Point"}
+}

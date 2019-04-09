@@ -1,0 +1,61 @@
+{
+  "id": 1209038271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.08917,-20.08389,34.08917,-20.08389",
+    "geom:latitude":-20.08389,
+    "geom:longitude":34.08917,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Maporga",
+    "gn:country_code":"MZ",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040686,
+    "gn:latitude":-20.08389,
+    "gn:longitude":34.08917,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Maporga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040686
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a7be8ff916fa5cfbf8e4839299bd23e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209038271
+        }
+    ],
+    "wof:id":1209038271,
+    "wof:lastmodified":1536299629,
+    "wof:name":"Maporga",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.08917,
+    -20.08389,
+    34.08917,
+    -20.08389
+],
+  "geometry": {"coordinates":[34.08917,-20.08389],"type":"Point"}
+}

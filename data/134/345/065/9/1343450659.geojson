@@ -1,0 +1,67 @@
+{
+  "id": 1343450659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.62056,-15.30806,37.62056,-15.30806",
+    "geom:latitude":-15.30806,
+    "geom:longitude":37.62056,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Elope",
+    "gn:country_code":"MZ",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046700,
+    "gn:latitude":-15.30806,
+    "gn:longitude":37.62056,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"El\u00f2p\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046700
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"94ae7ae7c4c09265bc542f854d0f7359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696213,
+            "locality_id":1343450659,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1343450659,
+    "wof:lastmodified":1536760581,
+    "wof:name":"Elope",
+    "wof:parent_id":1091696213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.62056,
+    -15.30806,
+    37.62056,
+    -15.30806
+],
+  "geometry": {"coordinates":[37.62056,-15.30806],"type":"Point"}
+}

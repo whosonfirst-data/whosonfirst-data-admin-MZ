@@ -1,0 +1,74 @@
+{
+  "id": 1343681949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.09889,-16.64722,33.09889,-16.64722",
+    "geom:latitude":-16.64722,
+    "geom:longitude":33.09889,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Aldeia Mazoi",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039466,
+    "gn:latitude":-16.64722,
+    "gn:longitude":33.09889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aldeia Mazoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazoe",
+        "Maz\u00f3i",
+        "Meza",
+        "Aldeia Mazoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039466
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"caad372c2f975edd742fd4919ac540b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696537,
+            "locality_id":1343681949,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1343681949,
+    "wof:lastmodified":1537674534,
+    "wof:name":"Aldeia Mazoi",
+    "wof:parent_id":1091696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.09889,
+    -16.64722,
+    33.09889,
+    -16.64722
+],
+  "geometry": {"coordinates":[33.09889,-16.64722],"type":"Point"}
+}

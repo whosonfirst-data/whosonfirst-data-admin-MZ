@@ -1,0 +1,61 @@
+{
+  "id": 1209235697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.08444,-15.11111,36.08444,-15.11111",
+    "geom:latitude":-15.11111,
+    "geom:longitude":36.08444,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Maiava",
+    "gn:country_code":"MZ",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092481,
+    "gn:latitude":-15.11111,
+    "gn:longitude":36.08444,
+    "gn:modification_date":"1998-05-14",
+    "gn:name":"Chefe Maiava",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092481
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8ae6dc3939a7bdc009f63e1fd6ffe04f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209235697
+        }
+    ],
+    "wof:id":1209235697,
+    "wof:lastmodified":1536293490,
+    "wof:name":"Chefe Maiava",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.08444,
+    -15.11111,
+    36.08444,
+    -15.11111
+],
+  "geometry": {"coordinates":[36.08444,-15.11111],"type":"Point"}
+}

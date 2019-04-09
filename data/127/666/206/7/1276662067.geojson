@@ -1,0 +1,67 @@
+{
+  "id": 1276662067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.69444,-21.08889,34.69444,-21.08889",
+    "geom:latitude":-21.08889,
+    "geom:longitude":34.69444,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chefe Macanguice",
+    "gn:country_code":"MZ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1103516,
+    "gn:latitude":-21.08889,
+    "gn:longitude":34.69444,
+    "gn:modification_date":"1998-04-29",
+    "gn:name":"Chefe Macangui\u00e7e",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091698487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1103516
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7a176a15bce76f7b0fcc83f78f7c2049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698487,
+            "locality_id":1276662067,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1276662067,
+    "wof:lastmodified":1536834180,
+    "wof:name":"Chefe Macanguice",
+    "wof:parent_id":1091698487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.69444,
+    -21.08889,
+    34.69444,
+    -21.08889
+],
+  "geometry": {"coordinates":[34.69444,-21.08889],"type":"Point"}
+}

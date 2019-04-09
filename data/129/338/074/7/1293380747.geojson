@@ -1,0 +1,67 @@
+{
+  "id": 1293380747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.40361,-14.96833,34.40361,-14.96833",
+    "geom:latitude":-14.96833,
+    "geom:longitude":34.40361,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Massangano",
+    "gn:country_code":"MZ",
+    "gn:dem":1248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040283,
+    "gn:latitude":-14.96833,
+    "gn:longitude":34.40361,
+    "gn:modification_date":"1997-04-24",
+    "gn:name":"Massangano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091701561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040283
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f415d096219da9b7b55abee3547c1a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701561,
+            "locality_id":1293380747,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1293380747,
+    "wof:lastmodified":1536941517,
+    "wof:name":"Massangano",
+    "wof:parent_id":1091701561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.40361,
+    -14.96833,
+    34.40361,
+    -14.96833
+],
+  "geometry": {"coordinates":[34.40361,-14.96833],"type":"Point"}
+}

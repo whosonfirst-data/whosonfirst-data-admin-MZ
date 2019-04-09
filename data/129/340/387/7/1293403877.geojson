@@ -1,0 +1,72 @@
+{
+  "id": 1293403877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.35528,-11.25139,39.35528,-11.25139",
+    "geom:latitude":-11.25139,
+    "geom:longitude":39.35528,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Maniamba",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040953,
+    "gn:latitude":-11.25139,
+    "gn:longitude":39.35528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maniamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manhamba",
+        "Maniamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040953
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5382f95f2f6e001259ccc4e5ab21c8cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1293403877,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1293403877,
+    "wof:lastmodified":1537674543,
+    "wof:name":"Maniamba",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.35528,
+    -11.25139,
+    39.35528,
+    -11.25139
+],
+  "geometry": {"coordinates":[39.35528,-11.25139],"type":"Point"}
+}

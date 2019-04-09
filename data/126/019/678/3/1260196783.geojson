@@ -1,0 +1,67 @@
+{
+  "id": 1260196783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.58333,-10.85,40.58333,-10.85",
+    "geom:latitude":-10.85,
+    "geom:longitude":40.58333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Siquinia",
+    "gn:country_code":"MZ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026858,
+    "gn:latitude":-10.85,
+    "gn:longitude":40.58333,
+    "gn:modification_date":"1995-02-03",
+    "gn:name":"Siquinia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026858
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b52a2d57989f9bbd9413887ccf1ced4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701223,
+            "locality_id":1260196783,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1260196783,
+    "wof:lastmodified":1536828639,
+    "wof:name":"Siquinia",
+    "wof:parent_id":1091701223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.58333,
+    -10.85,
+    40.58333,
+    -10.85
+],
+  "geometry": {"coordinates":[40.58333,-10.85],"type":"Point"}
+}

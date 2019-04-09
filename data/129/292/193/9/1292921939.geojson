@@ -1,0 +1,67 @@
+{
+  "id": 1292921939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31667,-15.66667,31.31667,-15.66667",
+    "geom:latitude":-15.66667,
+    "geom:longitude":31.31667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Carinde",
+    "gn:country_code":"MZ",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051020,
+    "gn:latitude":-15.66667,
+    "gn:longitude":31.31667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Carinde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091701729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051020
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"15b55b1fe9f556d3be3f6255085debfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701729,
+            "locality_id":1292921939,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1292921939,
+    "wof:lastmodified":1536605259,
+    "wof:name":"Carinde",
+    "wof:parent_id":1091701729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31667,
+    -15.66667,
+    31.31667,
+    -15.66667
+],
+  "geometry": {"coordinates":[31.31667,-15.66667],"type":"Point"}
+}

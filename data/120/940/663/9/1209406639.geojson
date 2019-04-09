@@ -1,0 +1,61 @@
+{
+  "id": 1209406639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.22167,-13.22472,35.22167,-13.22472",
+    "geom:latitude":-13.22472,
+    "geom:longitude":35.22167,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mamade",
+    "gn:country_code":"MZ",
+    "gn:dem":1312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085917,
+    "gn:latitude":-13.22472,
+    "gn:longitude":35.22167,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Mamade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085917
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a8a182c2224182aa98c3cee335b8042c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209406639
+        }
+    ],
+    "wof:id":1209406639,
+    "wof:lastmodified":1536287975,
+    "wof:name":"Mamade",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.22167,
+    -13.22472,
+    35.22167,
+    -13.22472
+],
+  "geometry": {"coordinates":[35.22167,-13.22472],"type":"Point"}
+}

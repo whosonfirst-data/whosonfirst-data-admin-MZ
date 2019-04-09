@@ -1,0 +1,61 @@
+{
+  "id": 1209109387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.67167,-24.18444,32.67167,-24.18444",
+    "geom:latitude":-24.18444,
+    "geom:longitude":32.67167,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Simao",
+    "gn:country_code":"MZ",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104659,
+    "gn:latitude":-24.18444,
+    "gn:longitude":32.67167,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Sim\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104659
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cbd8cd0ffb97279d560d6dddfa733eeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209109387
+        }
+    ],
+    "wof:id":1209109387,
+    "wof:lastmodified":1536297457,
+    "wof:name":"Simao",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.67167,
+    -24.18444,
+    32.67167,
+    -24.18444
+],
+  "geometry": {"coordinates":[32.67167,-24.18444],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293699633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.48028,-24.33889,33.48028,-24.33889",
+    "geom:latitude":-24.33889,
+    "geom:longitude":33.48028,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Issaia",
+    "gn:country_code":"MZ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044862,
+    "gn:latitude":-24.33889,
+    "gn:longitude":33.48028,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Issaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044862
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4836a4e378e26db9c2d817694cbb1734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696583,
+            "locality_id":1293699633,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1293699633,
+    "wof:lastmodified":1536977889,
+    "wof:name":"Issaia",
+    "wof:parent_id":1091696583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.48028,
+    -24.33889,
+    33.48028,
+    -24.33889
+],
+  "geometry": {"coordinates":[33.48028,-24.33889],"type":"Point"}
+}

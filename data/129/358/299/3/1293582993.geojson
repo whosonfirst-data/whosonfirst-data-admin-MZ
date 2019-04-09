@@ -1,0 +1,72 @@
+{
+  "id": 1293582993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.81472,-17.00917,33.81472,-17.00917",
+    "geom:latitude":-17.00917,
+    "geom:longitude":33.81472,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Devo",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048158,
+    "gn:latitude":-17.00917,
+    "gn:longitude":33.81472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Devo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cigano",
+        "Devo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048158
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c2c2e307b478c59f46c8550499cad665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697771,
+            "locality_id":1293582993,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1293582993,
+    "wof:lastmodified":1537674584,
+    "wof:name":"Devo",
+    "wof:parent_id":1091697771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.81472,
+    -17.00917,
+    33.81472,
+    -17.00917
+],
+  "geometry": {"coordinates":[33.81472,-17.00917],"type":"Point"}
+}

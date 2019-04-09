@@ -1,0 +1,67 @@
+{
+  "id": 1260268627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.21778,-16.395,33.21778,-16.395",
+    "geom:latitude":-16.395,
+    "geom:longitude":33.21778,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Catavinha",
+    "gn:country_code":"MZ",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050855,
+    "gn:latitude":-16.395,
+    "gn:longitude":33.21778,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Catavinha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050855
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2c1af663cbc67f744a2625095b0658d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696537,
+            "locality_id":1260268627,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1260268627,
+    "wof:lastmodified":1536732092,
+    "wof:name":"Catavinha",
+    "wof:parent_id":1091696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.21778,
+    -16.395,
+    33.21778,
+    -16.395
+],
+  "geometry": {"coordinates":[33.21778,-16.395],"type":"Point"}
+}

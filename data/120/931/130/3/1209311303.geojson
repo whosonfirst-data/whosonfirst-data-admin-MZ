@@ -1,0 +1,61 @@
+{
+  "id": 1209311303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.88222,-15.16667,31.88222,-15.16667",
+    "geom:latitude":-15.16667,
+    "geom:longitude":31.88222,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Ntembwe",
+    "gn:country_code":"MZ",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089311,
+    "gn:latitude":-15.16667,
+    "gn:longitude":31.88222,
+    "gn:modification_date":"1997-05-30",
+    "gn:name":"Ntembwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089311
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"46a40fa146e8be74106e6d25a9d3f8b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209311303
+        }
+    ],
+    "wof:id":1209311303,
+    "wof:lastmodified":1536291019,
+    "wof:name":"Ntembwe",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.88222,
+    -15.166670000000002,
+    31.88222,
+    -15.166670000000002
+],
+  "geometry": {"coordinates":[31.88222,-15.16667],"type":"Point"}
+}

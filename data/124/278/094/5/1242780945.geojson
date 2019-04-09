@@ -1,0 +1,67 @@
+{
+  "id": 1242780945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.87,-23.48639,33.87,-23.48639",
+    "geom:latitude":-23.48639,
+    "geom:longitude":33.87,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Chibombane",
+    "gn:country_code":"MZ",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049891,
+    "gn:latitude":-23.48639,
+    "gn:longitude":33.87,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chibombane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049891
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5f02ffcf7c88d5d2d48f7e11d89c80be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696709,
+            "locality_id":1242780945,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1242780945,
+    "wof:lastmodified":1536771280,
+    "wof:name":"Chibombane",
+    "wof:parent_id":1091696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.87,
+    -23.48639,
+    33.87,
+    -23.48639
+],
+  "geometry": {"coordinates":[33.87,-23.48639],"type":"Point"}
+}

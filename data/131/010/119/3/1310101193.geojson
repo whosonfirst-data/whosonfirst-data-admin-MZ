@@ -1,0 +1,67 @@
+{
+  "id": 1310101193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58667,-16.01472,33.58667,-16.01472",
+    "geom:latitude":-16.01472,
+    "geom:longitude":33.58667,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Chaleca",
+    "gn:country_code":"MZ",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050482,
+    "gn:latitude":-16.01472,
+    "gn:longitude":33.58667,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Chaleca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050482
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7006ec38948e0738c9bf0c06b101843e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699971,
+            "locality_id":1310101193,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1310101193,
+    "wof:lastmodified":1537001974,
+    "wof:name":"Chaleca",
+    "wof:parent_id":1091699971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58667,
+    -16.01472,
+    33.58667,
+    -16.01472
+],
+  "geometry": {"coordinates":[33.58667,-16.01472],"type":"Point"}
+}

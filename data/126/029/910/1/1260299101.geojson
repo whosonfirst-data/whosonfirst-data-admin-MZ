@@ -1,0 +1,67 @@
+{
+  "id": 1260299101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.12639,-12.98861,40.12639,-12.98861",
+    "geom:latitude":-12.98861,
+    "geom:longitude":40.12639,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Mogido",
+    "gn:country_code":"MZ",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037288,
+    "gn:latitude":-12.98861,
+    "gn:longitude":40.12639,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Mogido",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037288
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bda47ab509abce105cd4e22219031b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696241,
+            "locality_id":1260299101,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1260299101,
+    "wof:lastmodified":1536691055,
+    "wof:name":"Mogido",
+    "wof:parent_id":1091696241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.12639,
+    -12.98861,
+    40.12639,
+    -12.98861
+],
+  "geometry": {"coordinates":[40.12639,-12.98861],"type":"Point"}
+}

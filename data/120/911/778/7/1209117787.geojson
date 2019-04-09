@@ -1,0 +1,66 @@
+{
+  "id": 1209117787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.33639,-22.09667,34.33639,-22.09667",
+    "geom:latitude":-22.09667,
+    "geom:longitude":34.33639,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Filimone",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042643,
+    "gn:latitude":-22.09667,
+    "gn:longitude":34.33639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Filimone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Macheco",
+        "Filimone"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042643
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fa7ee1ee131a46095fb17494d3cbe701",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209117787
+        }
+    ],
+    "wof:id":1209117787,
+    "wof:lastmodified":1537674555,
+    "wof:name":"Filimone",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.33639,
+    -22.09667,
+    34.33639,
+    -22.09667
+],
+  "geometry": {"coordinates":[34.33639,-22.09667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310600455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.2025,-21.2425,34.2025,-21.2425",
+    "geom:latitude":-21.2425,
+    "geom:longitude":34.2025,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Motongue",
+    "gn:country_code":"MZ",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1100638,
+    "gn:latitude":-21.2425,
+    "gn:longitude":34.2025,
+    "gn:modification_date":"1998-04-29",
+    "gn:name":"Motongue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091698487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1100638
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d901735bb89a74b3db140efbaff9f1f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698487,
+            "locality_id":1310600455,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1310600455,
+    "wof:lastmodified":1536780478,
+    "wof:name":"Motongue",
+    "wof:parent_id":1091698487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.2025,
+    -21.2425,
+    34.2025,
+    -21.2425
+],
+  "geometry": {"coordinates":[34.2025,-21.2425],"type":"Point"}
+}

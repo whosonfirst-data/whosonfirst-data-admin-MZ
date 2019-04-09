@@ -1,0 +1,67 @@
+{
+  "id": 1277161189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.75278,-20.74361,33.75278,-20.74361",
+    "geom:latitude":-20.74361,
+    "geom:longitude":33.75278,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Magava",
+    "gn:country_code":"MZ",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041960,
+    "gn:latitude":-20.74361,
+    "gn:longitude":33.75278,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Magava",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041960
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"109187d02bb10f6a8d2589da1cdfd1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1277161189,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1277161189,
+    "wof:lastmodified":1536654614,
+    "wof:name":"Magava",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.75278,
+    -20.74361,
+    33.75278,
+    -20.74361
+],
+  "geometry": {"coordinates":[33.75278,-20.74361],"type":"Point"}
+}

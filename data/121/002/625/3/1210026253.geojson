@@ -1,0 +1,72 @@
+{
+  "id": 1210026253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.93333,-17.93333,36.93333,-17.93333",
+    "geom:latitude":-17.93333,
+    "geom:longitude":36.93333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Inhangulue",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045037,
+    "gn:latitude":-17.93333,
+    "gn:longitude":36.93333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Inhangulue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inrangulue",
+        "Inhangulue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045037
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d5345f31bf6a413644dd36935bef98c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697259,
+            "locality_id":1210026253,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1210026253,
+    "wof:lastmodified":1537674567,
+    "wof:name":"Inhangulue",
+    "wof:parent_id":1091697259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.93333,
+    -17.93332999999999,
+    36.93333,
+    -17.93332999999999
+],
+  "geometry": {"coordinates":[36.93333,-17.93332999999999],"type":"Point"}
+}

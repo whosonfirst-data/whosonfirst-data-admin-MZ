@@ -1,0 +1,67 @@
+{
+  "id": 1309706463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.355,-19.67556,33.355,-19.67556",
+    "geom:latitude":-19.67556,
+    "geom:longitude":33.355,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Machatine",
+    "gn:country_code":"MZ",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042682,
+    "gn:latitude":-19.67556,
+    "gn:longitude":33.355,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Machatine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091701483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042682
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a04157050a2eeefd3f96cb80efde8c56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701483,
+            "locality_id":1309706463,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1309706463,
+    "wof:lastmodified":1537071289,
+    "wof:name":"Machatine",
+    "wof:parent_id":1091701483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.355,
+    -19.67556,
+    33.355,
+    -19.67556
+],
+  "geometry": {"coordinates":[33.355,-19.67556],"type":"Point"}
+}

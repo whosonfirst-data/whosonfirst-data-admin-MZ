@@ -1,0 +1,67 @@
+{
+  "id": 1276874103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.84778,-24.36417,34.84778,-24.36417",
+    "geom:latitude":-24.36417,
+    "geom:longitude":34.84778,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"N. Sedede",
+    "gn:country_code":"MZ",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097673,
+    "gn:latitude":-24.36417,
+    "gn:longitude":34.84778,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"N. Sedede",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097673
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"665b76adb30b7acc60e0d573b49ca229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698019,
+            "locality_id":1276874103,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1276874103,
+    "wof:lastmodified":1537046916,
+    "wof:name":"N. Sedede",
+    "wof:parent_id":1091698019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.84778,
+    -24.36417,
+    34.84778,
+    -24.36417
+],
+  "geometry": {"coordinates":[34.84778,-24.36417],"type":"Point"}
+}

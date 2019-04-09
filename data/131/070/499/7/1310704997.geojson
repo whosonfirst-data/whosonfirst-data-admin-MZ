@@ -1,0 +1,67 @@
+{
+  "id": 1310704997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.26333,-24.38139,33.26333,-24.38139",
+    "geom:latitude":-24.38139,
+    "geom:longitude":33.26333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Maianga",
+    "gn:country_code":"MZ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097090,
+    "gn:latitude":-24.38139,
+    "gn:longitude":33.26333,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Maianga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091697721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097090
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e189f8dd3d18e17243171503361f7256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697721,
+            "locality_id":1310704997,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1310704997,
+    "wof:lastmodified":1536627284,
+    "wof:name":"Maianga",
+    "wof:parent_id":1091697721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.26333,
+    -24.38139,
+    33.26333,
+    -24.38139
+],
+  "geometry": {"coordinates":[33.26333,-24.38139],"type":"Point"}
+}

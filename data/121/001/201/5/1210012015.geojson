@@ -1,0 +1,67 @@
+{
+  "id": 1210012015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.10917,-15.78889,33.10917,-15.78889",
+    "geom:latitude":-15.78889,
+    "geom:longitude":33.10917,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Rupia",
+    "gn:country_code":"MZ",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027833,
+    "gn:latitude":-15.78889,
+    "gn:longitude":33.10917,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Rupia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027833
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b85ae9be9becdcc969f330a47e74d9e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696537,
+            "locality_id":1210012015,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1210012015,
+    "wof:lastmodified":1536396773,
+    "wof:name":"Rupia",
+    "wof:parent_id":1091696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.10917,
+    -15.78889,
+    33.10917,
+    -15.78889
+],
+  "geometry": {"coordinates":[33.10917,-15.78889],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243161269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.72694,-16.87667,33.72694,-16.87667",
+    "geom:latitude":-16.87667,
+    "geom:longitude":33.72694,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Dalo",
+    "gn:country_code":"MZ",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047318,
+    "gn:latitude":-16.87667,
+    "gn:longitude":33.72694,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"D\u00e1lo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047318
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e6f858e4c02e74434e2b3e3b43d12a9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697771,
+            "locality_id":1243161269,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1243161269,
+    "wof:lastmodified":1536720089,
+    "wof:name":"Dalo",
+    "wof:parent_id":1091697771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.72694,
+    -16.87667,
+    33.72694,
+    -16.87667
+],
+  "geometry": {"coordinates":[33.72694,-16.87667],"type":"Point"}
+}

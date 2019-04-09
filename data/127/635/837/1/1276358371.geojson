@@ -1,0 +1,67 @@
+{
+  "id": 1276358371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.85333,-14.88083,37.85333,-14.88083",
+    "geom:latitude":-14.88083,
+    "geom:longitude":37.85333,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mucona",
+    "gn:country_code":"MZ",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036396,
+    "gn:latitude":-14.88083,
+    "gn:longitude":37.85333,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Mucona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091698863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036396
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ef758e1a1400b2e35b6792d8ade911f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698863,
+            "locality_id":1276358371,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1276358371,
+    "wof:lastmodified":1536744728,
+    "wof:name":"Mucona",
+    "wof:parent_id":1091698863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.85333,
+    -14.88083,
+    37.85333,
+    -14.88083
+],
+  "geometry": {"coordinates":[37.85333,-14.88083],"type":"Point"}
+}

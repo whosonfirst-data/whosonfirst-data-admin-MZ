@@ -1,0 +1,72 @@
+{
+  "id": 1310017443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.35972,-24.19639,35.35972,-24.19639",
+    "geom:latitude":-24.19639,
+    "geom:longitude":35.35972,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Chume Marengula",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048213,
+    "gn:latitude":-24.19639,
+    "gn:longitude":35.35972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chum\u00e9 Marengula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chum\u00e9",
+        "Chum\u00e9 Marengula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048213
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fd0f715722a352739ca9134f9c0ba505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698147,
+            "locality_id":1310017443,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1310017443,
+    "wof:lastmodified":1537674584,
+    "wof:name":"Chume Marengula",
+    "wof:parent_id":1091698147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.35972,
+    -24.19639,
+    35.35972,
+    -24.19639
+],
+  "geometry": {"coordinates":[35.35972,-24.19639],"type":"Point"}
+}

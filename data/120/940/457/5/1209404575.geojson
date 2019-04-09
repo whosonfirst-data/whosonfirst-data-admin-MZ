@@ -1,0 +1,61 @@
+{
+  "id": 1209404575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.05111,-16.25139,38.05111,-16.25139",
+    "geom:latitude":-16.25139,
+    "geom:longitude":38.05111,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Vinte",
+    "gn:country_code":"MZ",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024659,
+    "gn:latitude":-16.25139,
+    "gn:longitude":38.05111,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Vinte",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024659
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"dd2de0ab57c1c11b80e38bba0c0e3b57",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209404575
+        }
+    ],
+    "wof:id":1209404575,
+    "wof:lastmodified":1536288037,
+    "wof:name":"Vinte",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.05111,
+    -16.25139,
+    38.05111,
+    -16.25139
+],
+  "geometry": {"coordinates":[38.05111,-16.25139],"type":"Point"}
+}

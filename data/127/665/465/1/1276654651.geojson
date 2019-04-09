@@ -1,0 +1,68 @@
+{
+  "id": 1276654651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.22222,-16.75944,39.22222,-16.75944",
+    "geom:latitude":-16.75944,
+    "geom:longitude":39.22222,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Moma",
+    "gn:country_code":"MZ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037225,
+    "gn:latitude":-16.75944,
+    "gn:longitude":39.22222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Moma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037225,
+        "wk:page":"Moma_District"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"737acffd33b0bdb497163b5dcc816c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1276654651,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1276654651,
+    "wof:lastmodified":1537569927,
+    "wof:name":"Moma",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.22222,
+    -16.75944,
+    39.22222,
+    -16.75944
+],
+  "geometry": {"coordinates":[39.22222,-16.75944],"type":"Point"}
+}

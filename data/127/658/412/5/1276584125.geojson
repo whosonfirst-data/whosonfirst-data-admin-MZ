@@ -1,0 +1,67 @@
+{
+  "id": 1276584125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.06806,-18.25167,34.06806,-18.25167",
+    "geom:latitude":-18.25167,
+    "geom:longitude":34.06806,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Chaima",
+    "gn:country_code":"MZ",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050532,
+    "gn:latitude":-18.25167,
+    "gn:longitude":34.06806,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Chaima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091697631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050532
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"003f87c31eb3c8e0d2ec19c956468d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697631,
+            "locality_id":1276584125,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1276584125,
+    "wof:lastmodified":1536940960,
+    "wof:name":"Chaima",
+    "wof:parent_id":1091697631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.06806,
+    -18.25167,
+    34.06806,
+    -18.25167
+],
+  "geometry": {"coordinates":[34.06806,-18.25167],"type":"Point"}
+}

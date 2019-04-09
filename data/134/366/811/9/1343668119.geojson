@@ -1,0 +1,67 @@
+{
+  "id": 1343668119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.10417,-26.04139,32.10417,-26.04139",
+    "geom:latitude":-26.04139,
+    "geom:longitude":32.10417,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mocucuane",
+    "gn:country_code":"MZ",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037329,
+    "gn:latitude":-26.04139,
+    "gn:longitude":32.10417,
+    "gn:modification_date":"1997-09-02",
+    "gn:name":"Mocucuane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091700825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037329
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cd3c2c36bd8601b1e67610fcb4e2f5d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700825,
+            "locality_id":1343668119,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1343668119,
+    "wof:lastmodified":1536944453,
+    "wof:name":"Mocucuane",
+    "wof:parent_id":1091700825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.10417,
+    -26.04139,
+    32.10417,
+    -26.04139
+],
+  "geometry": {"coordinates":[32.10417,-26.04139],"type":"Point"}
+}

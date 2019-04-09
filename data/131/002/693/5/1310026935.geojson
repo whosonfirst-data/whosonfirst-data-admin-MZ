@@ -1,0 +1,67 @@
+{
+  "id": 1310026935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.0825,-14.55028,37.0825,-14.55028",
+    "geom:latitude":-14.55028,
+    "geom:longitude":37.0825,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Muacama",
+    "gn:country_code":"MZ",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036885,
+    "gn:latitude":-14.55028,
+    "gn:longitude":37.0825,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Muacama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036885
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e3be8dc6009afd69378fb2ff62e70726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699845,
+            "locality_id":1310026935,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1310026935,
+    "wof:lastmodified":1536609782,
+    "wof:name":"Muacama",
+    "wof:parent_id":1091699845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.0825,
+    -14.55028,
+    37.0825,
+    -14.55028
+],
+  "geometry": {"coordinates":[37.0825,-14.55028],"type":"Point"}
+}

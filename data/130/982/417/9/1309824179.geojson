@@ -1,0 +1,67 @@
+{
+  "id": 1309824179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.06417,-18.73111,33.06417,-18.73111",
+    "geom:latitude":-18.73111,
+    "geom:longitude":33.06417,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Alfandega",
+    "gn:country_code":"MZ",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053212,
+    "gn:latitude":-18.73111,
+    "gn:longitude":33.06417,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Alf\u00e2ndega",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091699043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053212
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bb923ae11fca7e804724a1271736b4a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699043,
+            "locality_id":1309824179,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1309824179,
+    "wof:lastmodified":1536904850,
+    "wof:name":"Alfandega",
+    "wof:parent_id":1091699043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.06417,
+    -18.73111,
+    33.06417,
+    -18.73111
+],
+  "geometry": {"coordinates":[33.06417,-18.73111],"type":"Point"}
+}

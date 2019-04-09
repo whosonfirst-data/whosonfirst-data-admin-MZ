@@ -1,0 +1,67 @@
+{
+  "id": 1242574865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.86139,-15.20278,33.86139,-15.20278",
+    "geom:latitude":-15.20278,
+    "geom:longitude":33.86139,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Cuachera",
+    "gn:country_code":"MZ",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047676,
+    "gn:latitude":-15.20278,
+    "gn:longitude":33.86139,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Cuachera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047676
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"abc583168d6d5a4555bf7b4d2d01e93d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696825,
+            "locality_id":1242574865,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1242574865,
+    "wof:lastmodified":1537064762,
+    "wof:name":"Cuachera",
+    "wof:parent_id":1091696825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.86139,
+    -15.20278,
+    33.86139,
+    -15.20278
+],
+  "geometry": {"coordinates":[33.86139,-15.20278],"type":"Point"}
+}

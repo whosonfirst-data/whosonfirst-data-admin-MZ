@@ -1,0 +1,67 @@
+{
+  "id": 1226464817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.52861,-16.285,39.52861,-16.285",
+    "geom:latitude":-16.285,
+    "geom:longitude":39.52861,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chefe Matico",
+    "gn:country_code":"MZ",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095243,
+    "gn:latitude":-16.285,
+    "gn:longitude":39.52861,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Chefe Matico",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095243
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5bafb454e4b778e7a36e6b776e3340d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1226464817,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1226464817,
+    "wof:lastmodified":1536615713,
+    "wof:name":"Chefe Matico",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.52861,
+    -16.285,
+    39.52861,
+    -16.285
+],
+  "geometry": {"coordinates":[39.52861,-16.285],"type":"Point"}
+}

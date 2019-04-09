@@ -1,0 +1,67 @@
+{
+  "id": 1343286005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2,-25.35,32.2,-25.35",
+    "geom:latitude":-25.35,
+    "geom:longitude":32.2,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Cacepondo",
+    "gn:country_code":"MZ",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051798,
+    "gn:latitude":-25.35,
+    "gn:longitude":32.2,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Cacepondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051798
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5376fe20969a9195b1ffc42bfbad64fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699925,
+            "locality_id":1343286005,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1343286005,
+    "wof:lastmodified":1536997317,
+    "wof:name":"Cacepondo",
+    "wof:parent_id":1091699925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2,
+    -25.35,
+    32.2,
+    -25.35
+],
+  "geometry": {"coordinates":[32.2,-25.35],"type":"Point"}
+}

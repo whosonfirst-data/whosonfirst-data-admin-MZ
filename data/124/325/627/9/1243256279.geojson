@@ -1,0 +1,72 @@
+{
+  "id": 1243256279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.3025,-14.55528,40.3025,-14.55528",
+    "geom:latitude":-14.55528,
+    "geom:longitude":40.3025,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Chire",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048178,
+    "gn:latitude":-14.55528,
+    "gn:longitude":40.3025,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chure",
+        "Chire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048178
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9c8a13d752241f5d749437a407eba035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700177,
+            "locality_id":1243256279,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1243256279,
+    "wof:lastmodified":1537674584,
+    "wof:name":"Chire",
+    "wof:parent_id":1091700177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.3025,
+    -14.55528,
+    40.3025,
+    -14.55528
+],
+  "geometry": {"coordinates":[40.3025,-14.55528],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193140345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.84083,-24.28167,32.84083,-24.28167",
+    "geom:latitude":-24.28167,
+    "geom:longitude":32.84083,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Chicholo",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049755,
+    "gn:latitude":-24.28167,
+    "gn:longitude":32.84083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chicholo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chitolo",
+        "Chicholo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091697721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049755
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"23362efbcb4d6c06ddbba75a70dbade6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697721,
+            "locality_id":1193140345,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1193140345,
+    "wof:lastmodified":1537674593,
+    "wof:name":"Chicholo",
+    "wof:parent_id":1091697721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.84083,
+    -24.28167,
+    32.84083,
+    -24.28167
+],
+  "geometry": {"coordinates":[32.84083,-24.28167],"type":"Point"}
+}

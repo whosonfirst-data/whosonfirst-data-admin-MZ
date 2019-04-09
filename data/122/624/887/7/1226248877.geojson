@@ -1,0 +1,67 @@
+{
+  "id": 1226248877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.95861,-26.00611,32.95861,-26.00611",
+    "geom:latitude":-26.00611,
+    "geom:longitude":32.95861,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Nossa Senhora do Rosario",
+    "gn:country_code":"MZ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089882,
+    "gn:latitude":-26.00611,
+    "gn:longitude":32.95861,
+    "gn:modification_date":"1997-09-02",
+    "gn:name":"Nossa Senhora do Rosario",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674853,
+        1091697125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089882
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cbae1fff8f6750e05b4da6ebac3fd66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697125,
+            "locality_id":1226248877,
+            "region_id":85674853
+        }
+    ],
+    "wof:id":1226248877,
+    "wof:lastmodified":1536929779,
+    "wof:name":"Nossa Senhora do Rosario",
+    "wof:parent_id":1091697125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.95861,
+    -26.00611,
+    32.95861,
+    -26.00611
+],
+  "geometry": {"coordinates":[32.95861,-26.00611],"type":"Point"}
+}

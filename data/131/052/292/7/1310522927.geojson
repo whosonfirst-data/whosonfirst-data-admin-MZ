@@ -1,0 +1,72 @@
+{
+  "id": 1310522927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.855,-14.525,36.855,-14.525",
+    "geom:latitude":-14.525,
+    "geom:longitude":36.855,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Pauge",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029000,
+    "gn:latitude":-14.525,
+    "gn:longitude":36.855,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Pauge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pa\u00fage",
+        "Chefe Pauge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091697375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029000
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3a036e907aaf10c49e21af7c94e4c6de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697375,
+            "locality_id":1310522927,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1310522927,
+    "wof:lastmodified":1537674493,
+    "wof:name":"Chefe Pauge",
+    "wof:parent_id":1091697375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.855,
+    -14.525,
+    36.855,
+    -14.525
+],
+  "geometry": {"coordinates":[36.855,-14.525],"type":"Point"}
+}

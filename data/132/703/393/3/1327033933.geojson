@@ -1,0 +1,67 @@
+{
+  "id": 1327033933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.685,-11.6875,39.685,-11.6875",
+    "geom:latitude":-11.6875,
+    "geom:longitude":39.685,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Mulamba",
+    "gn:country_code":"MZ",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035861,
+    "gn:latitude":-11.6875,
+    "gn:longitude":39.685,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Mulamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035861
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d7f6e295d6001663cbe303faa0a42986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1327033933,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1327033933,
+    "wof:lastmodified":1536758317,
+    "wof:name":"Mulamba",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.685,
+    -11.6875,
+    39.685,
+    -11.6875
+],
+  "geometry": {"coordinates":[39.685,-11.6875],"type":"Point"}
+}

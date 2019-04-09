@@ -1,0 +1,67 @@
+{
+  "id": 1260073985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.53972,-20.6625,33.53972,-20.6625",
+    "geom:latitude":-20.6625,
+    "geom:longitude":33.53972,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Arucato",
+    "gn:country_code":"MZ",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052786,
+    "gn:latitude":-20.6625,
+    "gn:longitude":33.53972,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Arucato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052786
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"651e3bc16b31835ab7fc7bf938f0ee6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1260073985,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1260073985,
+    "wof:lastmodified":1537000991,
+    "wof:name":"Arucato",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.53972,
+    -20.6625,
+    33.53972,
+    -20.6625
+],
+  "geometry": {"coordinates":[33.53972,-20.6625],"type":"Point"}
+}

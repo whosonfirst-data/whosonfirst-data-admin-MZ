@@ -1,0 +1,67 @@
+{
+  "id": 1343561757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.68444,-24.87111,32.68444,-24.87111",
+    "geom:latitude":-24.87111,
+    "geom:longitude":32.68444,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Gonhane",
+    "gn:country_code":"MZ",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045810,
+    "gn:latitude":-24.87111,
+    "gn:longitude":32.68444,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Gonhane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045810
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f5c9dd0d8ce868d5d2104a7e9997e758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1343561757,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1343561757,
+    "wof:lastmodified":1537094394,
+    "wof:name":"Gonhane",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.68444,
+    -24.87111,
+    32.68444,
+    -24.87111
+],
+  "geometry": {"coordinates":[32.68444,-24.87111],"type":"Point"}
+}

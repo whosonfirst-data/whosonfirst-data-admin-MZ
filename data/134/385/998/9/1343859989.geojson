@@ -1,0 +1,67 @@
+{
+  "id": 1343859989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.09194,-24.09528,35.09194,-24.09528",
+    "geom:latitude":-24.09528,
+    "geom:longitude":35.09194,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chefe Mailene",
+    "gn:country_code":"MZ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101562,
+    "gn:latitude":-24.09528,
+    "gn:longitude":35.09194,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chefe Mailene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101562
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"55fdbe5dd048c5e8d2b48687c1f33168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697853,
+            "locality_id":1343859989,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1343859989,
+    "wof:lastmodified":1536667297,
+    "wof:name":"Chefe Mailene",
+    "wof:parent_id":1091697853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.09194,
+    -24.09528,
+    35.09194,
+    -24.09528
+],
+  "geometry": {"coordinates":[35.09194,-24.09528],"type":"Point"}
+}

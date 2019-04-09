@@ -1,0 +1,61 @@
+{
+  "id": 1209638291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.33722,-21.29667,34.33722,-21.29667",
+    "geom:latitude":-21.29667,
+    "geom:longitude":34.33722,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Simanco",
+    "gn:country_code":"MZ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1100751,
+    "gn:latitude":-21.29667,
+    "gn:longitude":34.33722,
+    "gn:modification_date":"1998-04-29",
+    "gn:name":"Simanco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1100751
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"57b6ea2139db5601b839decb895653eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209638291
+        }
+    ],
+    "wof:id":1209638291,
+    "wof:lastmodified":1536280969,
+    "wof:name":"Simanco",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.33722,
+    -21.29667,
+    34.33722,
+    -21.29667
+],
+  "geometry": {"coordinates":[34.33722,-21.29667],"type":"Point"}
+}

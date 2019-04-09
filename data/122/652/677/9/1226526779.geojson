@@ -1,0 +1,67 @@
+{
+  "id": 1226526779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.95056,-16.07917,37.95056,-16.07917",
+    "geom:latitude":-16.07917,
+    "geom:longitude":37.95056,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Vanhiua",
+    "gn:country_code":"MZ",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024809,
+    "gn:latitude":-16.07917,
+    "gn:longitude":37.95056,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Vanhiua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024809
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1223e76ae023eb69ce9dfb4c4e2f7db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696213,
+            "locality_id":1226526779,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1226526779,
+    "wof:lastmodified":1537024332,
+    "wof:name":"Vanhiua",
+    "wof:parent_id":1091696213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.95056,
+    -16.07917,
+    37.95056,
+    -16.07917
+],
+  "geometry": {"coordinates":[37.95056,-16.07917],"type":"Point"}
+}

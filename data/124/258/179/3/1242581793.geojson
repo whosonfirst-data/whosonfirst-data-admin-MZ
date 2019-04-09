@@ -1,0 +1,67 @@
+{
+  "id": 1242581793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.46611,-11.36667,39.46611,-11.36667",
+    "geom:latitude":-11.36667,
+    "geom:longitude":39.46611,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Muanuasi",
+    "gn:country_code":"MZ",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036691,
+    "gn:latitude":-11.36667,
+    "gn:longitude":39.46611,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Muanuasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036691
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a517887c9df723ab59cf73c34a2d3c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1242581793,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1242581793,
+    "wof:lastmodified":1537055176,
+    "wof:name":"Muanuasi",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.46611,
+    -11.36667,
+    39.46611,
+    -11.36667
+],
+  "geometry": {"coordinates":[39.46611,-11.36667],"type":"Point"}
+}

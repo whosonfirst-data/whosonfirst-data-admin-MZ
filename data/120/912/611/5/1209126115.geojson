@@ -1,0 +1,61 @@
+{
+  "id": 1209126115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.41083,-16.21861,33.41083,-16.21861",
+    "geom:latitude":-16.21861,
+    "geom:longitude":33.41083,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Chigamando",
+    "gn:country_code":"MZ",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049477,
+    "gn:latitude":-16.21861,
+    "gn:longitude":33.41083,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Chigamando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049477
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0df090a64cdecf7717dabddbe9eb7430",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209126115
+        }
+    ],
+    "wof:id":1209126115,
+    "wof:lastmodified":1536296952,
+    "wof:name":"Chigamando",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.41083,
+    -16.21861,
+    33.41083,
+    -16.21861
+],
+  "geometry": {"coordinates":[33.41083,-16.21861],"type":"Point"}
+}

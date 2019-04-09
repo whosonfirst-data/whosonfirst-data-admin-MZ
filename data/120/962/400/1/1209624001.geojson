@@ -1,0 +1,61 @@
+{
+  "id": 1209624001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.69083,-24.64972,33.69083,-24.64972",
+    "geom:latitude":-24.64972,
+    "geom:longitude":33.69083,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Chiconelane",
+    "gn:country_code":"MZ",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049676,
+    "gn:latitude":-24.64972,
+    "gn:longitude":33.69083,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chiconelane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049676
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bf5390af3cfa642ab21e22bc1587ba9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209624001
+        }
+    ],
+    "wof:id":1209624001,
+    "wof:lastmodified":1536281418,
+    "wof:name":"Chiconelane",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.69083,
+    -24.64972,
+    33.69083,
+    -24.64972
+],
+  "geometry": {"coordinates":[33.69083,-24.64972],"type":"Point"}
+}

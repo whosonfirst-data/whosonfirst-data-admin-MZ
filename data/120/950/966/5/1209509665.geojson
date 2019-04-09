@@ -1,0 +1,61 @@
+{
+  "id": 1209509665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.54722,-15.19444,36.54722,-15.19444",
+    "geom:latitude":-15.19444,
+    "geom:longitude":36.54722,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Caranguia",
+    "gn:country_code":"MZ",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092137,
+    "gn:latitude":-15.19444,
+    "gn:longitude":36.54722,
+    "gn:modification_date":"1998-05-14",
+    "gn:name":"Chefe Caranguia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092137
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a23880ecc873c73b724e248780646224",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209509665
+        }
+    ],
+    "wof:id":1209509665,
+    "wof:lastmodified":1536284922,
+    "wof:name":"Chefe Caranguia",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.54722,
+    -15.19444,
+    36.54722,
+    -15.19444
+],
+  "geometry": {"coordinates":[36.54722,-15.19444],"type":"Point"}
+}

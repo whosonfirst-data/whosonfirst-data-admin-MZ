@@ -1,0 +1,61 @@
+{
+  "id": 1209424629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.22,-12.90139,40.22,-12.90139",
+    "geom:latitude":-12.90139,
+    "geom:longitude":40.22,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Cadi",
+    "gn:country_code":"MZ",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051722,
+    "gn:latitude":-12.90139,
+    "gn:longitude":40.22,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Cadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051722
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f3328ec8ca6eb1ec11e47bad5a5cc9db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209424629
+        }
+    ],
+    "wof:id":1209424629,
+    "wof:lastmodified":1536287419,
+    "wof:name":"Cadi",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.22,
+    -12.90139,
+    40.22,
+    -12.90139
+],
+  "geometry": {"coordinates":[40.22,-12.90139],"type":"Point"}
+}

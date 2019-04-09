@@ -1,0 +1,67 @@
+{
+  "id": 1344166035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.37583,-23.43556,32.37583,-23.43556",
+    "geom:latitude":-23.43556,
+    "geom:longitude":32.37583,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Malomba",
+    "gn:country_code":"MZ",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097877,
+    "gn:latitude":-23.43556,
+    "gn:longitude":32.37583,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Malomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097877
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c9c28bec4a91eb9ebfc40d8099fda0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696621,
+            "locality_id":1344166035,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1344166035,
+    "wof:lastmodified":1536723495,
+    "wof:name":"Malomba",
+    "wof:parent_id":1091696621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.37583,
+    -23.43556,
+    32.37583,
+    -23.43556
+],
+  "geometry": {"coordinates":[32.37583,-23.43556],"type":"Point"}
+}

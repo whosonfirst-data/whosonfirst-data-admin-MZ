@@ -1,0 +1,67 @@
+{
+  "id": 1327047945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.50222,-12.0375,39.50222,-12.0375",
+    "geom:latitude":-12.0375,
+    "geom:longitude":39.50222,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Garamo",
+    "gn:country_code":"MZ",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046095,
+    "gn:latitude":-12.0375,
+    "gn:longitude":39.50222,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Garam\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046095
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"722896cd3ad37d3a1886b200da9a0a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1327047945,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1327047945,
+    "wof:lastmodified":1536737936,
+    "wof:name":"Garamo",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.50222,
+    -12.0375,
+    39.50222,
+    -12.0375
+],
+  "geometry": {"coordinates":[39.50222,-12.0375],"type":"Point"}
+}

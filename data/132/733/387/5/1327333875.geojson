@@ -1,0 +1,61 @@
+{
+  "id": 1327333875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.66667,-25.95,32.66667,-25.95",
+    "geom:latitude":-25.95,
+    "geom:longitude":32.66667,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mache",
+    "gn:country_code":"MZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042649,
+    "gn:latitude":-25.95,
+    "gn:longitude":32.66667,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Mache",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042649
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"aa49d5349f9ff707789606860c8fe438",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327333875,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327333875,
+    "wof:lastmodified":1536822189,
+    "wof:name":"Mache",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.66667,
+    -25.95,
+    32.66667,
+    -25.95
+],
+  "geometry": {"coordinates":[32.66667,-25.95],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259467559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.065,-16.99417,38.065,-16.99417",
+    "geom:latitude":-16.99417,
+    "geom:longitude":38.065,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chefe Afonso",
+    "gn:country_code":"MZ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095290,
+    "gn:latitude":-16.99417,
+    "gn:longitude":38.065,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Chefe Afonso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095290
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3246119c2e1cbdf99580a07aba865db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701291,
+            "locality_id":1259467559,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1259467559,
+    "wof:lastmodified":1536880947,
+    "wof:name":"Chefe Afonso",
+    "wof:parent_id":1091701291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.065,
+    -16.99417,
+    38.065,
+    -16.99417
+],
+  "geometry": {"coordinates":[38.065,-16.99417],"type":"Point"}
+}

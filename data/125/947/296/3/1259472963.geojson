@@ -1,0 +1,67 @@
+{
+  "id": 1259472963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.61444,-17.32861,37.61444,-17.32861",
+    "geom:latitude":-17.32861,
+    "geom:longitude":37.61444,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Egalante",
+    "gn:country_code":"MZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046738,
+    "gn:latitude":-17.32861,
+    "gn:longitude":37.61444,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Egalante",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046738
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"461dc5e525d14e08f3bf0a6c75516e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698671,
+            "locality_id":1259472963,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1259472963,
+    "wof:lastmodified":1536872975,
+    "wof:name":"Egalante",
+    "wof:parent_id":1091698671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.61444,
+    -17.32861,
+    37.61444,
+    -17.32861
+],
+  "geometry": {"coordinates":[37.61444,-17.32861],"type":"Point"}
+}

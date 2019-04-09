@@ -1,0 +1,67 @@
+{
+  "id": 1226137175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.63583,-13.14306,36.63583,-13.14306",
+    "geom:latitude":-13.14306,
+    "geom:longitude":36.63583,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Aquida",
+    "gn:country_code":"MZ",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052833,
+    "gn:latitude":-13.14306,
+    "gn:longitude":36.63583,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Aquida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052833
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a248b56e5f01d6fd39c599e6066a7e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698823,
+            "locality_id":1226137175,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1226137175,
+    "wof:lastmodified":1537086897,
+    "wof:name":"Aquida",
+    "wof:parent_id":1091698823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.63583,
+    -13.14306,
+    36.63583,
+    -13.14306
+],
+  "geometry": {"coordinates":[36.63583,-13.14306],"type":"Point"}
+}

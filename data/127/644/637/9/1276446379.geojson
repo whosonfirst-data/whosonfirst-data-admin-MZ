@@ -1,0 +1,73 @@
+{
+  "id": 1276446379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.53222,-13.01056,39.53222,-13.01056",
+    "geom:latitude":-13.01056,
+    "geom:longitude":39.53222,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chefe Chinande",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028347,
+    "gn:latitude":-13.01056,
+    "gn:longitude":39.53222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Chinande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quinhante",
+        "Chefe Chinande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028347,
+        "wk:page":"Chefe_Chinande"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9cca637eab2702d6fb7a0df1cf008c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696241,
+            "locality_id":1276446379,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276446379,
+    "wof:lastmodified":1537674489,
+    "wof:name":"Chefe Chinande",
+    "wof:parent_id":1091696241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.53222,
+    -13.01056,
+    39.53222,
+    -13.01056
+],
+  "geometry": {"coordinates":[39.53222,-13.01056],"type":"Point"}
+}

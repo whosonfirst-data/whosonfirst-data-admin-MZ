@@ -1,0 +1,61 @@
+{
+  "id": 1209128233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.18556,-15.345,38.18556,-15.345",
+    "geom:latitude":-15.345,
+    "geom:longitude":38.18556,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"M'taveia",
+    "gn:country_code":"MZ",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036914,
+    "gn:latitude":-15.345,
+    "gn:longitude":38.18556,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"M\u2019taveia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036914
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8b94c676cdf0cb3587ec90b48a3d7200",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209128233
+        }
+    ],
+    "wof:id":1209128233,
+    "wof:lastmodified":1536296889,
+    "wof:name":"M'taveia",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.18556,
+    -15.345,
+    38.18556,
+    -15.345
+],
+  "geometry": {"coordinates":[38.18556,-15.345],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310618829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.81611,-13.26528,39.81611,-13.26528",
+    "geom:latitude":-13.26528,
+    "geom:longitude":39.81611,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chefe Puelia",
+    "gn:country_code":"MZ",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087661,
+    "gn:latitude":-13.26528,
+    "gn:longitude":39.81611,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Chefe Puelia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087661
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7ff24c5174768c8620044f10bb29c2ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696771,
+            "locality_id":1310618829,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1310618829,
+    "wof:lastmodified":1536753453,
+    "wof:name":"Chefe Puelia",
+    "wof:parent_id":1091696771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.81611,
+    -13.26528,
+    39.81611,
+    -13.26528
+],
+  "geometry": {"coordinates":[39.81611,-13.26528],"type":"Point"}
+}

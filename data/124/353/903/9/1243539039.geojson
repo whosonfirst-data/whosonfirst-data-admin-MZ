@@ -1,0 +1,67 @@
+{
+  "id": 1243539039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.53556,-17.38472,37.53556,-17.38472",
+    "geom:latitude":-17.38472,
+    "geom:longitude":37.53556,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Lanterna",
+    "gn:country_code":"MZ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044049,
+    "gn:latitude":-17.38472,
+    "gn:longitude":37.53556,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Lanterna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044049
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b9cfbf1716d7da29d5095f6fde22cc05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698671,
+            "locality_id":1243539039,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1243539039,
+    "wof:lastmodified":1536672064,
+    "wof:name":"Lanterna",
+    "wof:parent_id":1091698671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.53556,
+    -17.38472,
+    37.53556,
+    -17.38472
+],
+  "geometry": {"coordinates":[37.53556,-17.38472],"type":"Point"}
+}

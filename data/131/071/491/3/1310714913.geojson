@@ -1,0 +1,67 @@
+{
+  "id": 1310714913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.05333,-24.48389,33.05333,-24.48389",
+    "geom:latitude":-24.48389,
+    "geom:longitude":33.05333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"C. Chongo",
+    "gn:country_code":"MZ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097235,
+    "gn:latitude":-24.48389,
+    "gn:longitude":33.05333,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"C. Chongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091697721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097235
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ba7ae3794bbbf7566640de67491aa57c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697721,
+            "locality_id":1310714913,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1310714913,
+    "wof:lastmodified":1536612256,
+    "wof:name":"C. Chongo",
+    "wof:parent_id":1091697721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.05333,
+    -24.48389,
+    33.05333,
+    -24.48389
+],
+  "geometry": {"coordinates":[33.05333,-24.48389],"type":"Point"}
+}

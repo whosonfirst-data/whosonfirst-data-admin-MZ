@@ -1,0 +1,68 @@
+{
+  "id": 1210026631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.65,-14.56667,40.65,-14.56667",
+    "geom:latitude":-14.56667,
+    "geom:longitude":40.65,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Namuxa",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1033217,
+    "gn:latitude":-14.56667,
+    "gn:longitude":40.65,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Namuxa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namuxo",
+        "Namuxa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1033217
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fb44b5d6304ed14453789bc615e64160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1210026631,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1210026631,
+    "wof:lastmodified":1537674506,
+    "wof:name":"Namuxa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.65,
+    -14.56667,
+    40.65,
+    -14.56667
+],
+  "geometry": {"coordinates":[40.65,-14.56667],"type":"Point"}
+}

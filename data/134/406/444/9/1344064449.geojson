@@ -1,0 +1,67 @@
+{
+  "id": 1344064449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.61861,-21.33306,34.61861,-21.33306",
+    "geom:latitude":-21.33306,
+    "geom:longitude":34.61861,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Seichene",
+    "gn:country_code":"MZ",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027153,
+    "gn:latitude":-21.33306,
+    "gn:longitude":34.61861,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Seichene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027153
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9068573d88450b174a45be9d4ae07467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697673,
+            "locality_id":1344064449,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1344064449,
+    "wof:lastmodified":1536868572,
+    "wof:name":"Seichene",
+    "wof:parent_id":1091697673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.61861,
+    -21.33306,
+    34.61861,
+    -21.33306
+],
+  "geometry": {"coordinates":[34.61861,-21.33306],"type":"Point"}
+}

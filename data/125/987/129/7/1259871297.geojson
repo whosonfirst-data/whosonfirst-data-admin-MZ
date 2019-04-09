@@ -1,0 +1,67 @@
+{
+  "id": 1259871297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.95361,-14.37444,36.95361,-14.37444",
+    "geom:latitude":-14.37444,
+    "geom:longitude":36.95361,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Maassa",
+    "gn:country_code":"MZ",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088052,
+    "gn:latitude":-14.37444,
+    "gn:longitude":36.95361,
+    "gn:modification_date":"1997-04-30",
+    "gn:name":"Chefe Maassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088052
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9cb71b1b632ca51f251e865ef03f1f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699845,
+            "locality_id":1259871297,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1259871297,
+    "wof:lastmodified":1536796979,
+    "wof:name":"Chefe Maassa",
+    "wof:parent_id":1091699845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.95361,
+    -14.37444,
+    36.95361,
+    -14.37444
+],
+  "geometry": {"coordinates":[36.95361,-14.37444],"type":"Point"}
+}

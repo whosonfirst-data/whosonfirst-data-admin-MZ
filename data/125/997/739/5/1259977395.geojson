@@ -1,0 +1,67 @@
+{
+  "id": 1259977395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28694,-16.73778,39.28694,-16.73778",
+    "geom:latitude":-16.73778,
+    "geom:longitude":39.28694,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chefe Carepa",
+    "gn:country_code":"MZ",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096101,
+    "gn:latitude":-16.73778,
+    "gn:longitude":39.28694,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Chefe Carepa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096101
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"20852328a8394073ef08e5ea79f58449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1259977395,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1259977395,
+    "wof:lastmodified":1536643252,
+    "wof:name":"Chefe Carepa",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28694,
+    -16.73777999999999,
+    39.28694,
+    -16.73777999999999
+],
+  "geometry": {"coordinates":[39.28694,-16.73777999999999],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421187523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.54806,-23.85556,35.54806,-23.85556",
+    "geom:latitude":-23.85556,
+    "geom:longitude":35.54806,
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Praia do Toto"
+    ],
+    "qs:gn_country":"MZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1028575,
+    "qs:gn_pop":0,
+    "qs:name":"Praia do Tofo",
+    "qs:name_adm0":"Mo\u00e7ambique",
+    "qs:name_adm1":"Inhambane",
+    "qs:photos":628,
+    "qs:photos_1k":127,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":628,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083617,
+    "qs:woe_adm0":23424902,
+    "qs:woe_id":1554434,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028575,
+        "gp:id":1554434,
+        "qs:id":1083617
+    },
+    "wof:country":"MZ",
+    "wof:created":1459009516,
+    "wof:geomhash":"bb0a44aa7c16249fa5d73eed065fe21c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697029,
+            "locality_id":421187523,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":421187523,
+    "wof:lastmodified":1501216605,
+    "wof:name":"Praia do Tofo",
+    "wof:parent_id":1091697029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.54806,
+    -23.85556,
+    35.54806,
+    -23.85556
+],
+  "geometry": {"coordinates":[35.54806,-23.85556],"type":"Point"}
+}

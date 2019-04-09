@@ -1,0 +1,72 @@
+{
+  "id": 1243057469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.91417,-15.19083,36.91417,-15.19083",
+    "geom:latitude":-15.19083,
+    "geom:longitude":36.91417,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chefe Nanivacha",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1033132,
+    "gn:latitude":-15.19083,
+    "gn:longitude":36.91417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Nanivacha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanevatcha",
+        "Chefe Nanivacha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1033132
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2f7fcbfa79b6aea37f9be05858e78301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697801,
+            "locality_id":1243057469,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1243057469,
+    "wof:lastmodified":1537674505,
+    "wof:name":"Chefe Nanivacha",
+    "wof:parent_id":1091697801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.91417,
+    -15.19083,
+    36.91417,
+    -15.19083
+],
+  "geometry": {"coordinates":[36.91417,-15.19083],"type":"Point"}
+}

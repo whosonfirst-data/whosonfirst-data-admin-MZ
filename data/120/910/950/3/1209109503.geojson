@@ -1,0 +1,61 @@
+{
+  "id": 1209109503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.60028,-24.23472,33.60028,-24.23472",
+    "geom:latitude":-24.23472,
+    "geom:longitude":33.60028,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Armazem",
+    "gn:country_code":"MZ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096907,
+    "gn:latitude":-24.23472,
+    "gn:longitude":33.60028,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Armaz\u00e9m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096907
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"39f6d1af82e18d27da108ff23b2591d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209109503
+        }
+    ],
+    "wof:id":1209109503,
+    "wof:lastmodified":1536297454,
+    "wof:name":"Armazem",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.60028,
+    -24.234720000000006,
+    33.60028,
+    -24.234720000000006
+],
+  "geometry": {"coordinates":[33.60028,-24.23472000000001],"type":"Point"}
+}

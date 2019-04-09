@@ -1,0 +1,67 @@
+{
+  "id": 1310710769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.46889,-24.91778,33.46889,-24.91778",
+    "geom:latitude":-24.91778,
+    "geom:longitude":33.46889,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chefe Chioza",
+    "gn:country_code":"MZ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1099743,
+    "gn:latitude":-24.91778,
+    "gn:longitude":33.46889,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chefe Chioza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091701651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1099743
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"924f5f86f753914055230421750122f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701651,
+            "locality_id":1310710769,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1310710769,
+    "wof:lastmodified":1536618542,
+    "wof:name":"Chefe Chioza",
+    "wof:parent_id":1091701651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.46889,
+    -24.91778,
+    33.46889,
+    -24.91778
+],
+  "geometry": {"coordinates":[33.46889,-24.91778],"type":"Point"}
+}

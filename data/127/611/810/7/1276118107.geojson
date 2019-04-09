@@ -1,0 +1,67 @@
+{
+  "id": 1276118107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.41667,-25.55,32.41667,-25.55",
+    "geom:latitude":-25.55,
+    "geom:longitude":32.41667,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Maguegua",
+    "gn:country_code":"MZ",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041861,
+    "gn:latitude":-25.55,
+    "gn:longitude":32.41667,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Magu\u00e9gua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041861
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"541e3d80e22ff16ae057ced09e17df46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699925,
+            "locality_id":1276118107,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1276118107,
+    "wof:lastmodified":1537064165,
+    "wof:name":"Maguegua",
+    "wof:parent_id":1091699925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.41667,
+    -25.55,
+    32.41667,
+    -25.55
+],
+  "geometry": {"coordinates":[32.41667,-25.55],"type":"Point"}
+}

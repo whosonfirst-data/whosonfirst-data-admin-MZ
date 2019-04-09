@@ -1,0 +1,66 @@
+{
+  "id": 1209630027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.01667,-15.35,31.01667,-15.35",
+    "geom:latitude":-15.35,
+    "geom:longitude":31.01667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Unguezuca",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024990,
+    "gn:latitude":-15.35,
+    "gn:longitude":31.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ungu\u00e9z\u00f9ca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ungu\u00e9x\u00f9ca",
+        "Ungu\u00e9z\u00f9ca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024990
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4dce7d483f032b023923649a9e27c22c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209630027
+        }
+    ],
+    "wof:id":1209630027,
+    "wof:lastmodified":1537674474,
+    "wof:name":"Unguezuca",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01667,
+    -15.35,
+    31.01667,
+    -15.35
+],
+  "geometry": {"coordinates":[31.01667,-15.35],"type":"Point"}
+}

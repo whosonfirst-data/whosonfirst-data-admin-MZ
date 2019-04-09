@@ -1,0 +1,67 @@
+{
+  "id": 1226067269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.62694,-14.82611,39.62694,-14.82611",
+    "geom:latitude":-14.82611,
+    "geom:longitude":39.62694,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Macassa",
+    "gn:country_code":"MZ",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042822,
+    "gn:latitude":-14.82611,
+    "gn:longitude":39.62694,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Macassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042822
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"da97adaa5b7f2a9fd41bf6f649b9a743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700409,
+            "locality_id":1226067269,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1226067269,
+    "wof:lastmodified":1536694409,
+    "wof:name":"Macassa",
+    "wof:parent_id":1091700409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.62694000000001,
+    -14.82611,
+    39.62694000000001,
+    -14.82611
+],
+  "geometry": {"coordinates":[39.62694000000001,-14.82611],"type":"Point"}
+}

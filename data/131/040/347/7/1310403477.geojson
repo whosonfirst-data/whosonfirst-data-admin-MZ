@@ -1,0 +1,72 @@
+{
+  "id": 1310403477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.01389,-14.47667,40.01389,-14.47667",
+    "geom:latitude":-14.47667,
+    "geom:longitude":40.01389,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mepaio",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038803,
+    "gn:latitude":-14.47667,
+    "gn:longitude":40.01389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mepaio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mapaio",
+        "Mepaio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038803
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e9420a6046944eddaab4cd9e4bfdf7a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700773,
+            "locality_id":1310403477,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1310403477,
+    "wof:lastmodified":1537674531,
+    "wof:name":"Mepaio",
+    "wof:parent_id":1091700773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.01389,
+    -14.47667,
+    40.01389,
+    -14.47667
+],
+  "geometry": {"coordinates":[40.01389,-14.47667],"type":"Point"}
+}

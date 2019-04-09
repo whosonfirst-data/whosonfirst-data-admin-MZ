@@ -1,0 +1,67 @@
+{
+  "id": 1344080713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.51,-25.28556,32.51,-25.28556",
+    "geom:latitude":-25.28556,
+    "geom:longitude":32.51,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chinhanguanine",
+    "gn:country_code":"MZ",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049089,
+    "gn:latitude":-25.28556,
+    "gn:longitude":32.51,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chinhanguanine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049089
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"46392a5e619acea3dce2c0a62bd4a187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699925,
+            "locality_id":1344080713,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1344080713,
+    "wof:lastmodified":1536845333,
+    "wof:name":"Chinhanguanine",
+    "wof:parent_id":1091699925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.51,
+    -25.28556,
+    32.51,
+    -25.28556
+],
+  "geometry": {"coordinates":[32.51,-25.28556],"type":"Point"}
+}

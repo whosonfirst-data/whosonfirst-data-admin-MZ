@@ -1,0 +1,71 @@
+{
+  "id": 1243458593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.86778,-12.88444,39.86778,-12.88444",
+    "geom:latitude":-12.88444,
+    "geom:longitude":39.86778,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Atoto",
+    "gn:country_code":"MZ",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052718,
+    "gn:latitude":-12.88444,
+    "gn:longitude":39.86778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"At\u00f3to",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "At\u00f3to"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052718,
+        "wk:page":"Atoto"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1c7a2e82745bdc80005d02fbbf612b9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696241,
+            "locality_id":1243458593,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1243458593,
+    "wof:lastmodified":1537674610,
+    "wof:name":"Atoto",
+    "wof:parent_id":1091696241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.86778,
+    -12.88444,
+    39.86778,
+    -12.88444
+],
+  "geometry": {"coordinates":[39.86778,-12.88444],"type":"Point"}
+}

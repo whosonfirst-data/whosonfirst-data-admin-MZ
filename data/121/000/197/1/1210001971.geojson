@@ -1,0 +1,70 @@
+{
+  "id": 1210001971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.92693,-16.14528,31.92693,-16.14528",
+    "geom:latitude":-16.14528,
+    "geom:longitude":31.92693,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Chitengo",
+    "gn:country_code":"MZ",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300628,
+    "gn:latitude":-16.14528,
+    "gn:longitude":31.92693,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Chitengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Chitengo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091698723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300628
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"646843a4e8408a6e45a2428d22663d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698723,
+            "locality_id":1210001971,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1210001971,
+    "wof:lastmodified":1537674618,
+    "wof:name":"Chitengo",
+    "wof:parent_id":1091698723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.92693,
+    -16.14528,
+    31.92693,
+    -16.14528
+],
+  "geometry": {"coordinates":[31.92693,-16.14528],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293101761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.09083,-24.59389,34.09083,-24.59389",
+    "geom:latitude":-24.59389,
+    "geom:longitude":34.09083,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Machulane",
+    "gn:country_code":"MZ",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042530,
+    "gn:latitude":-24.59389,
+    "gn:longitude":34.09083,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Machulane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091698967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042530
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"90cb7b74435ae8df0a2088cb4d325f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698967,
+            "locality_id":1293101761,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1293101761,
+    "wof:lastmodified":1536845057,
+    "wof:name":"Machulane",
+    "wof:parent_id":1091698967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.09083,
+    -24.59389,
+    34.09083,
+    -24.59389
+],
+  "geometry": {"coordinates":[34.09083,-24.59389],"type":"Point"}
+}

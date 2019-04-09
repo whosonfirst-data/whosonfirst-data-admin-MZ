@@ -1,0 +1,72 @@
+{
+  "id": 1293790051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.54639,-25.81333,32.54639,-25.81333",
+    "geom:latitude":-25.81333,
+    "geom:longitude":32.54639,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Intaca",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089922,
+    "gn:latitude":-25.81333,
+    "gn:longitude":32.54639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Intaca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C. Intaca",
+        "Intaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091696953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089922
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d80a56d895d6c6e0b951b2a7d10918b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696953,
+            "locality_id":1293790051,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1293790051,
+    "wof:lastmodified":1537674616,
+    "wof:name":"Intaca",
+    "wof:parent_id":1091696953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.54639,
+    -25.81333,
+    32.54639,
+    -25.81333
+],
+  "geometry": {"coordinates":[32.54639,-25.81333],"type":"Point"}
+}

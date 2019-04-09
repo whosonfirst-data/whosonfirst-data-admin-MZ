@@ -1,0 +1,66 @@
+{
+  "id": 1209090841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87806,-15.79389,35.87806,-15.79389",
+    "geom:latitude":-15.79389,
+    "geom:longitude":35.87806,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chefe Ziquia",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024141,
+    "gn:latitude":-15.79389,
+    "gn:longitude":35.87806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Ziquia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ziquia",
+        "Chefe Ziquia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024141
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"062ed1d7a701a6e625adec2a462fb2d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209090841
+        }
+    ],
+    "wof:id":1209090841,
+    "wof:lastmodified":1537674468,
+    "wof:name":"Chefe Ziquia",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87806,
+    -15.79389,
+    35.87806,
+    -15.79389
+],
+  "geometry": {"coordinates":[35.87806,-15.79389],"type":"Point"}
+}

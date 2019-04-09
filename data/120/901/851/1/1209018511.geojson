@@ -1,0 +1,61 @@
+{
+  "id": 1209018511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.67111,-13.34111,39.67111,-13.34111",
+    "geom:latitude":-13.34111,
+    "geom:longitude":39.67111,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Lelia",
+    "gn:country_code":"MZ",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043974,
+    "gn:latitude":-13.34111,
+    "gn:longitude":39.67111,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"L\u00e9lia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043974
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"dcef61569d3d64e7ba33e7a15101d799",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209018511
+        }
+    ],
+    "wof:id":1209018511,
+    "wof:lastmodified":1536300218,
+    "wof:name":"Lelia",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.67111,
+    -13.34111,
+    39.67111,
+    -13.34111
+],
+  "geometry": {"coordinates":[39.67111,-13.34111],"type":"Point"}
+}

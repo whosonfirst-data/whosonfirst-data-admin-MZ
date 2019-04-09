@@ -1,0 +1,67 @@
+{
+  "id": 1310419977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.35472,-11.66583,39.35472,-11.66583",
+    "geom:latitude":-11.66583,
+    "geom:longitude":39.35472,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"N'chilambo",
+    "gn:country_code":"MZ",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1032330,
+    "gn:latitude":-11.66583,
+    "gn:longitude":39.35472,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"N\u2019chilambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1032330
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"777b5a5a2cf702e20d22e9250e58c85a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1310419977,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1310419977,
+    "wof:lastmodified":1537038645,
+    "wof:name":"N'chilambo",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.35472,
+    -11.66583,
+    39.35472,
+    -11.66583
+],
+  "geometry": {"coordinates":[39.35472,-11.66583],"type":"Point"}
+}

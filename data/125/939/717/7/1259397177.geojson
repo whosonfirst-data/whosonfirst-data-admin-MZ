@@ -1,0 +1,67 @@
+{
+  "id": 1259397177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.25,-11.35,40.25,-11.35",
+    "geom:latitude":-11.35,
+    "geom:longitude":40.25,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Malunda",
+    "gn:country_code":"MZ",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041335,
+    "gn:latitude":-11.35,
+    "gn:longitude":40.25,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Malunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041335
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"15c10220131a3548853bf5bf6f90498e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700013,
+            "locality_id":1259397177,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1259397177,
+    "wof:lastmodified":1536981835,
+    "wof:name":"Malunda",
+    "wof:parent_id":1091700013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.25,
+    -11.35,
+    40.25,
+    -11.35
+],
+  "geometry": {"coordinates":[40.25,-11.35],"type":"Point"}
+}

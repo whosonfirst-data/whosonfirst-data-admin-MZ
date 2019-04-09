@@ -1,0 +1,67 @@
+{
+  "id": 1309817937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.64917,-11.38028,39.64917,-11.38028",
+    "geom:latitude":-11.38028,
+    "geom:longitude":39.64917,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chinguechinge",
+    "gn:country_code":"MZ",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049119,
+    "gn:latitude":-11.38028,
+    "gn:longitude":39.64917,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Chingueching\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049119
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cf12c95a94ba33575d0f808aed806461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701043,
+            "locality_id":1309817937,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1309817937,
+    "wof:lastmodified":1536913943,
+    "wof:name":"Chinguechinge",
+    "wof:parent_id":1091701043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.64917,
+    -11.38028,
+    39.64917,
+    -11.38028
+],
+  "geometry": {"coordinates":[39.64917,-11.38028],"type":"Point"}
+}

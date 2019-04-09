@@ -1,0 +1,67 @@
+{
+  "id": 1276544427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.66444,-15.56556,38.66444,-15.56556",
+    "geom:latitude":-15.56556,
+    "geom:longitude":38.66444,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tonlo",
+    "gn:country_code":"MZ",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025706,
+    "gn:latitude":-15.56556,
+    "gn:longitude":38.66444,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Tonlo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025706
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3aab8b4c70571466813cd2e6625153d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700589,
+            "locality_id":1276544427,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1276544427,
+    "wof:lastmodified":1536992345,
+    "wof:name":"Tonlo",
+    "wof:parent_id":1091700589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.66444,
+    -15.56556,
+    38.66444,
+    -15.56556
+],
+  "geometry": {"coordinates":[38.66444,-15.56556],"type":"Point"}
+}

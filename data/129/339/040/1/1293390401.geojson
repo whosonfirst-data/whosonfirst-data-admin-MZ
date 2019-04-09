@@ -1,0 +1,64 @@
+{
+  "id": 1293390401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.87222,-26.26694,32.87222,-26.26694",
+    "geom:latitude":-26.26694,
+    "geom:longitude":32.87222,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chefe Matabele",
+    "gn:country_code":"MZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089636,
+    "gn:latitude":-26.26694,
+    "gn:longitude":32.87222,
+    "gn:modification_date":"1997-09-02",
+    "gn:name":"Chefe Matabel\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089636
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"14495d6b68684d88f636fc4d0d7e1e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "locality_id":1293390401,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293390401,
+    "wof:lastmodified":1536927701,
+    "wof:name":"Chefe Matabele",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.87222,
+    -26.26694,
+    32.87222,
+    -26.26694
+],
+  "geometry": {"coordinates":[32.87222,-26.26694],"type":"Point"}
+}

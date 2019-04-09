@@ -1,0 +1,67 @@
+{
+  "id": 1276747247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.49306,-19.95889,33.49306,-19.95889",
+    "geom:latitude":-19.95889,
+    "geom:longitude":33.49306,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Chinhumbo",
+    "gn:country_code":"MZ",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049072,
+    "gn:latitude":-19.95889,
+    "gn:longitude":33.49306,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chinhumbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091701483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049072
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"35e715cd708b21dd9b8e05fe722038f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701483,
+            "locality_id":1276747247,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1276747247,
+    "wof:lastmodified":1536721662,
+    "wof:name":"Chinhumbo",
+    "wof:parent_id":1091701483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.49306,
+    -19.95889,
+    33.49306,
+    -19.95889
+],
+  "geometry": {"coordinates":[33.49306,-19.95889],"type":"Point"}
+}

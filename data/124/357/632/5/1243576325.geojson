@@ -1,0 +1,67 @@
+{
+  "id": 1243576325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.33556,-13.65667,40.33556,-13.65667",
+    "geom:latitude":-13.65667,
+    "geom:longitude":40.33556,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Natepa",
+    "gn:country_code":"MZ",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1032551,
+    "gn:latitude":-13.65667,
+    "gn:longitude":40.33556,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Natepa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1032551
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a9ff3b1ac3d8822d9dbabac3339cec60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699799,
+            "locality_id":1243576325,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1243576325,
+    "wof:lastmodified":1536616142,
+    "wof:name":"Natepa",
+    "wof:parent_id":1091699799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.33556,
+    -13.65667,
+    40.33556,
+    -13.65667
+],
+  "geometry": {"coordinates":[40.33556,-13.65667],"type":"Point"}
+}

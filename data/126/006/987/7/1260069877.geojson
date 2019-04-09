@@ -1,0 +1,72 @@
+{
+  "id": 1260069877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.98806,-15.94694,36.98806,-15.94694",
+    "geom:latitude":-15.94694,
+    "geom:longitude":36.98806,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Inlia",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034733,
+    "gn:latitude":-15.94694,
+    "gn:longitude":36.98806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Inlia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nacube",
+        "Inlia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034733
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2fc88b7cabd5d4f1946e66f8fab87144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700915,
+            "locality_id":1260069877,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1260069877,
+    "wof:lastmodified":1537674510,
+    "wof:name":"Inlia",
+    "wof:parent_id":1091700915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.98806,
+    -15.94694,
+    36.98806,
+    -15.94694
+],
+  "geometry": {"coordinates":[36.98806,-15.94694],"type":"Point"}
+}

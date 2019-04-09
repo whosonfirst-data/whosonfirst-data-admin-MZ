@@ -1,0 +1,67 @@
+{
+  "id": 1276788887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.78722,-14.37917,39.78722,-14.37917",
+    "geom:latitude":-14.37917,
+    "geom:longitude":39.78722,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Necutuxi",
+    "gn:country_code":"MZ",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088550,
+    "gn:latitude":-14.37917,
+    "gn:longitude":39.78722,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Necutuxi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088550
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8bda7dbe2863e47ed8f15b0225bbd5d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700773,
+            "locality_id":1276788887,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1276788887,
+    "wof:lastmodified":1536665595,
+    "wof:name":"Necutuxi",
+    "wof:parent_id":1091700773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.78722,
+    -14.37917,
+    39.78722,
+    -14.37917
+],
+  "geometry": {"coordinates":[39.78722,-14.37917],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292902589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.63111,-18.04028,35.63111,-18.04028",
+    "geom:latitude":-18.04028,
+    "geom:longitude":35.63111,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Nhamandevo",
+    "gn:country_code":"MZ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1031416,
+    "gn:latitude":-18.04028,
+    "gn:longitude":35.63111,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Nhamandevo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091699215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1031416
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"229bca17a3f7daf63359416d146322d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699215,
+            "locality_id":1292902589,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1292902589,
+    "wof:lastmodified":1536634885,
+    "wof:name":"Nhamandevo",
+    "wof:parent_id":1091699215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.63111,
+    -18.04028,
+    35.63111,
+    -18.04028
+],
+  "geometry": {"coordinates":[35.63111,-18.04028],"type":"Point"}
+}

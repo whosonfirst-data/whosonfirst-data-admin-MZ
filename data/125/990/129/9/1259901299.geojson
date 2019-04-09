@@ -1,0 +1,67 @@
+{
+  "id": 1259901299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.39111,-12.95139,35.39111,-12.95139",
+    "geom:latitude":-12.95139,
+    "geom:longitude":35.39111,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Miala",
+    "gn:country_code":"MZ",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085352,
+    "gn:latitude":-12.95139,
+    "gn:longitude":35.39111,
+    "gn:modification_date":"1995-06-21",
+    "gn:name":"Miala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091701443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085352
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0d22a82e558e9341e8b1974412b88d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701443,
+            "locality_id":1259901299,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1259901299,
+    "wof:lastmodified":1536753505,
+    "wof:name":"Miala",
+    "wof:parent_id":1091701443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.39111,
+    -12.95139,
+    35.39111,
+    -12.95139
+],
+  "geometry": {"coordinates":[35.39111,-12.95139],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293214769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.65917,-11.57667,39.65917,-11.57667",
+    "geom:latitude":-11.57667,
+    "geom:longitude":39.65917,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Calabouco",
+    "gn:country_code":"MZ",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085175,
+    "gn:latitude":-11.57667,
+    "gn:longitude":39.65917,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Calabou\u00e7o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calabou\u00e7o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085175,
+        "wk:page":"Calabou%C3%A7o,_Mozambique"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"05c90ababa3bc4343699436e4e688cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1293214769,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1293214769,
+    "wof:lastmodified":1537674615,
+    "wof:name":"Calabouco",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.65917,
+    -11.57667,
+    39.65917,
+    -11.57667
+],
+  "geometry": {"coordinates":[39.65917,-11.57667],"type":"Point"}
+}

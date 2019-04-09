@@ -1,0 +1,67 @@
+{
+  "id": 1343864535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.63333,-25.7,32.63333,-25.7",
+    "geom:latitude":-25.7,
+    "geom:longitude":32.63333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"T'chale",
+    "gn:country_code":"MZ",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026261,
+    "gn:latitude":-25.7,
+    "gn:longitude":32.63333,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"T\u2019chale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026261
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cf5e93cc9f43fe26ccd666229d0ee587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699175,
+            "locality_id":1343864535,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1343864535,
+    "wof:lastmodified":1536660737,
+    "wof:name":"T'chale",
+    "wof:parent_id":1091699175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.63333,
+    -25.7,
+    32.63333,
+    -25.7
+],
+  "geometry": {"coordinates":[32.63333,-25.7],"type":"Point"}
+}

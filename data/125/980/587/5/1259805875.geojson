@@ -1,0 +1,67 @@
+{
+  "id": 1259805875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.38611,-14.96389,37.38611,-14.96389",
+    "geom:latitude":-14.96389,
+    "geom:longitude":37.38611,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Coelho",
+    "gn:country_code":"MZ",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088212,
+    "gn:latitude":-14.96389,
+    "gn:longitude":37.38611,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Coelho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091698863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088212
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"094f00cedda36a023d45a855234c825b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698863,
+            "locality_id":1259805875,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1259805875,
+    "wof:lastmodified":1536890657,
+    "wof:name":"Coelho",
+    "wof:parent_id":1091698863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.38611,
+    -14.96389,
+    37.38611,
+    -14.96389
+],
+  "geometry": {"coordinates":[37.38611,-14.96389],"type":"Point"}
+}

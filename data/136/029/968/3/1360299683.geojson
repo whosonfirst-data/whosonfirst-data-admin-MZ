@@ -1,0 +1,67 @@
+{
+  "id": 1360299683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.77333,-10.98722,39.77333,-10.98722",
+    "geom:latitude":-10.98722,
+    "geom:longitude":39.77333,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chiodia",
+    "gn:country_code":"MZ",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049052,
+    "gn:latitude":-10.98722,
+    "gn:longitude":39.77333,
+    "gn:modification_date":"1995-02-03",
+    "gn:name":"Chiodia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049052
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"29510cb164119079748ff6e00d130280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701043,
+            "locality_id":1360299683,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1360299683,
+    "wof:lastmodified":1536634672,
+    "wof:name":"Chiodia",
+    "wof:parent_id":1091701043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.77333,
+    -10.98722,
+    39.77333,
+    -10.98722
+],
+  "geometry": {"coordinates":[39.77333,-10.98722],"type":"Point"}
+}

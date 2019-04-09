@@ -1,0 +1,67 @@
+{
+  "id": 1259475679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.58472,-13.85806,39.58472,-13.85806",
+    "geom:latitude":-13.85806,
+    "geom:longitude":39.58472,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nassequia",
+    "gn:country_code":"MZ",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086398,
+    "gn:latitude":-13.85806,
+    "gn:longitude":39.58472,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Nassequia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091697455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086398
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8f6634ea76fc96b701a9293eb93477fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697455,
+            "locality_id":1259475679,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1259475679,
+    "wof:lastmodified":1536868936,
+    "wof:name":"Nassequia",
+    "wof:parent_id":1091697455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.58472,
+    -13.85806,
+    39.58472,
+    -13.85806
+],
+  "geometry": {"coordinates":[39.58472,-13.85806],"type":"Point"}
+}

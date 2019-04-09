@@ -1,0 +1,61 @@
+{
+  "id": 1209091975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.73667,-14.55778,31.73667,-14.55778",
+    "geom:latitude":-14.55778,
+    "geom:longitude":31.73667,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Luatize",
+    "gn:country_code":"MZ",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086448,
+    "gn:latitude":-14.55778,
+    "gn:longitude":31.73667,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Luatize",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086448
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"49bbb75a8c9a9be7325b1e10bc6b3123",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209091975
+        }
+    ],
+    "wof:id":1209091975,
+    "wof:lastmodified":1536298009,
+    "wof:name":"Luatize",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.73667,
+    -14.55778,
+    31.73667,
+    -14.55778
+],
+  "geometry": {"coordinates":[31.73667,-14.55778],"type":"Point"}
+}

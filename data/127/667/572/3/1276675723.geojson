@@ -1,0 +1,68 @@
+{
+  "id": 1276675723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.29417,-13.09667,40.29417,-13.09667",
+    "geom:latitude":-13.09667,
+    "geom:longitude":40.29417,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Nanlia",
+    "gn:country_code":"MZ",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086213,
+    "gn:latitude":-13.09667,
+    "gn:longitude":40.29417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nanlia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091699683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086213,
+        "wk:page":"Nanlia"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"55d8efca62058f0d07851444ea948e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699683,
+            "locality_id":1276675723,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276675723,
+    "wof:lastmodified":1537569940,
+    "wof:name":"Nanlia",
+    "wof:parent_id":1091699683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.29417,
+    -13.09667,
+    40.29417,
+    -13.09667
+],
+  "geometry": {"coordinates":[40.29417,-13.09667],"type":"Point"}
+}

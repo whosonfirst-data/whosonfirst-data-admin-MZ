@@ -1,0 +1,67 @@
+{
+  "id": 1260095027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.81667,-21.08333,34.81667,-21.08333",
+    "geom:latitude":-21.08333,
+    "geom:longitude":34.81667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Chiumuina",
+    "gn:country_code":"MZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048479,
+    "gn:latitude":-21.08333,
+    "gn:longitude":34.81667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Chiumuina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048479
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e29a849b1323499efdd0090836b1f6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697673,
+            "locality_id":1260095027,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1260095027,
+    "wof:lastmodified":1536971005,
+    "wof:name":"Chiumuina",
+    "wof:parent_id":1091697673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.81667,
+    -21.08333,
+    34.81667,
+    -21.08333
+],
+  "geometry": {"coordinates":[34.81667,-21.08333],"type":"Point"}
+}

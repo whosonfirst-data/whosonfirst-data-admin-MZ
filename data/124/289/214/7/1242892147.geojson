@@ -1,0 +1,67 @@
+{
+  "id": 1242892147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.35,-17.41667,35.35,-17.41667",
+    "geom:latitude":-17.41667,
+    "geom:longitude":35.35,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Aguas Quentes",
+    "gn:country_code":"MZ",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053277,
+    "gn:latitude":-17.41667,
+    "gn:longitude":35.35,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"\u00c1guas Quentes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053277
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2e010812f588ae82c198ed80d354d275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700255,
+            "locality_id":1242892147,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1242892147,
+    "wof:lastmodified":1536607807,
+    "wof:name":"Aguas Quentes",
+    "wof:parent_id":1091700255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.35,
+    -17.41667,
+    35.35,
+    -17.41667
+],
+  "geometry": {"coordinates":[35.35,-17.41667],"type":"Point"}
+}

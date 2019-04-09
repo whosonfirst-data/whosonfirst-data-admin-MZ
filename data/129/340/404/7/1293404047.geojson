@@ -1,0 +1,67 @@
+{
+  "id": 1293404047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.38194,-13.17167,39.38194,-13.17167",
+    "geom:latitude":-13.17167,
+    "geom:longitude":39.38194,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Monunene",
+    "gn:country_code":"MZ",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037119,
+    "gn:latitude":-13.17167,
+    "gn:longitude":39.38194,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Monunene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037119
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cbf0dc9e21fdb378dc5347874f8d68bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1293404047,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1293404047,
+    "wof:lastmodified":1536907494,
+    "wof:name":"Monunene",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.38194,
+    -13.17167,
+    39.38194,
+    -13.17167
+],
+  "geometry": {"coordinates":[39.38194,-13.17167],"type":"Point"}
+}

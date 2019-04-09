@@ -1,0 +1,75 @@
+{
+  "id": 1243355401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.24,-13.28417,35.24,-13.28417",
+    "geom:latitude":-13.28417,
+    "geom:longitude":35.24,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Joao",
+    "gn:country_code":"MZ",
+    "gn:dem":1360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044554,
+    "gn:latitude":-13.28417,
+    "gn:longitude":35.24,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Jo\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091697077,
+        1091698283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044554
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e20abd794d9b3495f3d183fe39be1393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697077,
+            "locality_id":1243355401,
+            "region_id":85674821
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698283,
+            "locality_id":1243355401,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1243355401,
+    "wof:lastmodified":1536937620,
+    "wof:name":"Joao",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24,
+    -13.28417,
+    35.24,
+    -13.28417
+],
+  "geometry": {"coordinates":[35.24,-13.28417],"type":"Point"}
+}

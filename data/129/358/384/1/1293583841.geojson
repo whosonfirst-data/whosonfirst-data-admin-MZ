@@ -1,0 +1,67 @@
+{
+  "id": 1293583841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.15722,-17.2675,38.15722,-17.2675",
+    "geom:latitude":-17.2675,
+    "geom:longitude":38.15722,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Regulo Imbina",
+    "gn:country_code":"MZ",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096781,
+    "gn:latitude":-17.2675,
+    "gn:longitude":38.15722,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"R\u00e9gulo Imbina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096781
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8f3d7dd7fe77f3c064d2d7384d6c7cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701291,
+            "locality_id":1293583841,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1293583841,
+    "wof:lastmodified":1536647882,
+    "wof:name":"Regulo Imbina",
+    "wof:parent_id":1091701291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.15722,
+    -17.2675,
+    38.15722,
+    -17.2675
+],
+  "geometry": {"coordinates":[38.15722,-17.2675],"type":"Point"}
+}

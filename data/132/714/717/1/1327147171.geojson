@@ -1,0 +1,67 @@
+{
+  "id": 1327147171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.43139,-25.22222,33.43139,-25.22222",
+    "geom:latitude":-25.22222,
+    "geom:longitude":33.43139,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"C. A. Novela",
+    "gn:country_code":"MZ",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1099362,
+    "gn:latitude":-25.22222,
+    "gn:longitude":33.43139,
+    "gn:modification_date":"1998-11-24",
+    "gn:name":"C. A. Novela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091701651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1099362
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"46bc41f534ea84b4ba67315cb300061c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701651,
+            "locality_id":1327147171,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1327147171,
+    "wof:lastmodified":1537089392,
+    "wof:name":"C. A. Novela",
+    "wof:parent_id":1091701651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.43139,
+    -25.22222,
+    33.43139,
+    -25.22222
+],
+  "geometry": {"coordinates":[33.43139,-25.22222],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293482559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.43472,-13.87444,40.43472,-13.87444",
+    "geom:latitude":-13.87444,
+    "geom:longitude":40.43472,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mepidje",
+    "gn:country_code":"MZ",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038720,
+    "gn:latitude":-13.87444,
+    "gn:longitude":40.43472,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Mepidje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038720
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2b128b9461bc8a2144e5882804548677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699799,
+            "locality_id":1293482559,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1293482559,
+    "wof:lastmodified":1536794453,
+    "wof:name":"Mepidje",
+    "wof:parent_id":1091699799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.43472,
+    -13.87444,
+    40.43472,
+    -13.87444
+],
+  "geometry": {"coordinates":[40.43472,-13.87444],"type":"Point"}
+}

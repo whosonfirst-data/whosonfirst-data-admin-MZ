@@ -1,0 +1,72 @@
+{
+  "id": 1293306673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.76306,-12.93944,38.76306,-12.93944",
+    "geom:latitude":-12.93944,
+    "geom:longitude":38.76306,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Mamacherre",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034382,
+    "gn:latitude":-12.93944,
+    "gn:longitude":38.76306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mamacherre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namacherre",
+        "Mamacherre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034382
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e1362552ff5e66223d65f7707b45344e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1293306673,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1293306673,
+    "wof:lastmodified":1537674509,
+    "wof:name":"Mamacherre",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.76306,
+    -12.93944,
+    38.76306,
+    -12.93944
+],
+  "geometry": {"coordinates":[38.76306,-12.93944],"type":"Point"}
+}

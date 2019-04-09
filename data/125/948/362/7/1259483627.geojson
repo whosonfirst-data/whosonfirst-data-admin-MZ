@@ -1,0 +1,67 @@
+{
+  "id": 1259483627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6825,-25.83278,32.6825,-25.83278",
+    "geom:latitude":-25.83278,
+    "geom:longitude":32.6825,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kushal Natha",
+    "gn:country_code":"MZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106327,
+    "gn:latitude":-25.83278,
+    "gn:longitude":32.6825,
+    "gn:modification_date":"2000-10-11",
+    "gn:name":"Kushal Natha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106327
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d4fae4b4beb85bc8aa8a425608184dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699175,
+            "locality_id":1259483627,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1259483627,
+    "wof:lastmodified":1536857383,
+    "wof:name":"Kushal Natha",
+    "wof:parent_id":1091699175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6825,
+    -25.83278,
+    32.6825,
+    -25.83278
+],
+  "geometry": {"coordinates":[32.6825,-25.83278],"type":"Point"}
+}

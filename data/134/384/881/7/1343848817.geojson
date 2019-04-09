@@ -1,0 +1,72 @@
+{
+  "id": 1343848817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.94611,-16.54222,33.94611,-16.54222",
+    "geom:latitude":-16.54222,
+    "geom:longitude":33.94611,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Aldeia Sunge",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026612,
+    "gn:latitude":-16.54222,
+    "gn:longitude":33.94611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aldeia Sunge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sungo",
+        "Aldeia Sunge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026612
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5ea8dde6c91cd9bf5191333315d54c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699971,
+            "locality_id":1343848817,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1343848817,
+    "wof:lastmodified":1537674482,
+    "wof:name":"Aldeia Sunge",
+    "wof:parent_id":1091699971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.94611,
+    -16.54222,
+    33.94611,
+    -16.54222
+],
+  "geometry": {"coordinates":[33.94611,-16.54222],"type":"Point"}
+}

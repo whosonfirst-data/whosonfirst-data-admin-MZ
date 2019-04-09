@@ -1,0 +1,61 @@
+{
+  "id": 1209298969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.16722,-17.43639,37.16722,-17.43639",
+    "geom:latitude":-17.43639,
+    "geom:longitude":37.16722,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Neuala",
+    "gn:country_code":"MZ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1032046,
+    "gn:latitude":-17.43639,
+    "gn:longitude":37.16722,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Neuala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1032046
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"62334133cd3d5d1e3698371fc38e9594",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209298969
+        }
+    ],
+    "wof:id":1209298969,
+    "wof:lastmodified":1536291425,
+    "wof:name":"Neuala",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.16722,
+    -17.43639,
+    37.16722,
+    -17.43639
+],
+  "geometry": {"coordinates":[37.16722,-17.43639],"type":"Point"}
+}

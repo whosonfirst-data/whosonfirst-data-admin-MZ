@@ -1,0 +1,67 @@
+{
+  "id": 1343256535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.99722,-14.6375,36.99722,-14.6375",
+    "geom:latitude":-14.6375,
+    "geom:longitude":36.99722,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Mucatare",
+    "gn:country_code":"MZ",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088011,
+    "gn:latitude":-14.6375,
+    "gn:longitude":36.99722,
+    "gn:modification_date":"1997-04-30",
+    "gn:name":"Chefe Mucatare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091697375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088011
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3e335dc0f74752790cfa16af46266d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697375,
+            "locality_id":1343256535,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1343256535,
+    "wof:lastmodified":1537038914,
+    "wof:name":"Chefe Mucatare",
+    "wof:parent_id":1091697375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.99722,
+    -14.6375,
+    36.99722,
+    -14.6375
+],
+  "geometry": {"coordinates":[36.99722,-14.6375],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343769491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93,-21.90278,34.93,-21.90278",
+    "geom:latitude":-21.90278,
+    "geom:longitude":34.93,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Massinguitane",
+    "gn:country_code":"MZ",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1105161,
+    "gn:latitude":-21.90278,
+    "gn:longitude":34.93,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Massinguitane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105161
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0ac11985dc10e5c429abafffa5bec616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698063,
+            "locality_id":1343769491,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1343769491,
+    "wof:lastmodified":1536797987,
+    "wof:name":"Massinguitane",
+    "wof:parent_id":1091698063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93,
+    -21.90278,
+    34.93,
+    -21.90278
+],
+  "geometry": {"coordinates":[34.93,-21.90278],"type":"Point"}
+}

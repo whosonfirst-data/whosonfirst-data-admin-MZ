@@ -1,0 +1,67 @@
+{
+  "id": 1243276991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.14167,-24.40389,33.14167,-24.40389",
+    "geom:latitude":-24.40389,
+    "geom:longitude":33.14167,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dezindezine",
+    "gn:country_code":"MZ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097222,
+    "gn:latitude":-24.40389,
+    "gn:longitude":33.14167,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Dezindezine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091697721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097222
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cd6bb4135430094c048b66a1e7082434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697721,
+            "locality_id":1243276991,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1243276991,
+    "wof:lastmodified":1537047746,
+    "wof:name":"Dezindezine",
+    "wof:parent_id":1091697721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.14167,
+    -24.40389,
+    33.14167,
+    -24.40389
+],
+  "geometry": {"coordinates":[33.14167,-24.40389],"type":"Point"}
+}

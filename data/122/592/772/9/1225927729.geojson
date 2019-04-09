@@ -1,0 +1,67 @@
+{
+  "id": 1225927729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.65194,-19.21944,33.65194,-19.21944",
+    "geom:latitude":-19.21944,
+    "geom:longitude":33.65194,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Manhemba",
+    "gn:country_code":"MZ",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041009,
+    "gn:latitude":-19.21944,
+    "gn:longitude":33.65194,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Manhemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041009
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1bae4fae9a6984c5b4516bd4e80667b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697585,
+            "locality_id":1225927729,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1225927729,
+    "wof:lastmodified":1536895267,
+    "wof:name":"Manhemba",
+    "wof:parent_id":1091697585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.65194,
+    -19.21944,
+    33.65194,
+    -19.21944
+],
+  "geometry": {"coordinates":[33.65194,-19.21944],"type":"Point"}
+}

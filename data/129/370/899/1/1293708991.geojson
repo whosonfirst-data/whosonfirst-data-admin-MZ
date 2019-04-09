@@ -1,0 +1,67 @@
+{
+  "id": 1293708991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.14,-15.52556,32.14,-15.52556",
+    "geom:latitude":-15.52556,
+    "geom:longitude":32.14,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Jussalo",
+    "gn:country_code":"MZ",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044205,
+    "gn:latitude":-15.52556,
+    "gn:longitude":32.14,
+    "gn:modification_date":"1997-06-03",
+    "gn:name":"Jussalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044205
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b1c33ea7a11428f81105fcbdf25c2b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699093,
+            "locality_id":1293708991,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1293708991,
+    "wof:lastmodified":1536964954,
+    "wof:name":"Jussalo",
+    "wof:parent_id":1091699093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.14,
+    -15.52556,
+    32.14,
+    -15.52556
+],
+  "geometry": {"coordinates":[32.14,-15.52556],"type":"Point"}
+}

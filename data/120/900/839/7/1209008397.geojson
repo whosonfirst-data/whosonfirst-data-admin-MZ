@@ -1,0 +1,61 @@
+{
+  "id": 1209008397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.98917,-12.44528,39.98917,-12.44528",
+    "geom:latitude":-12.44528,
+    "geom:longitude":39.98917,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Namaro",
+    "gn:country_code":"MZ",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085873,
+    "gn:latitude":-12.44528,
+    "gn:longitude":39.98917,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Namaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085873
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d10efb2b2998ba5ddd6f13b7a1bc9d0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209008397
+        }
+    ],
+    "wof:id":1209008397,
+    "wof:lastmodified":1536300528,
+    "wof:name":"Namaro",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.98917,
+    -12.44528,
+    39.98917,
+    -12.44528
+],
+  "geometry": {"coordinates":[39.98917,-12.44528],"type":"Point"}
+}

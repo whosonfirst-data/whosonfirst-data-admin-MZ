@@ -1,0 +1,67 @@
+{
+  "id": 1225836581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.42694,-13.80944,35.42694,-13.80944",
+    "geom:latitude":-13.80944,
+    "geom:longitude":35.42694,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Buane",
+    "gn:country_code":"MZ",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051988,
+    "gn:latitude":-13.80944,
+    "gn:longitude":35.42694,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Buane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091701091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051988
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2db08f18ed6b880ede48ac920e6c685e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701091,
+            "locality_id":1225836581,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1225836581,
+    "wof:lastmodified":1537025793,
+    "wof:name":"Buane",
+    "wof:parent_id":1091701091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.42694,
+    -13.80944,
+    35.42694,
+    -13.80944
+],
+  "geometry": {"coordinates":[35.42694,-13.80944],"type":"Point"}
+}

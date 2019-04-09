@@ -1,0 +1,67 @@
+{
+  "id": 1343751639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.96056,-17.90389,36.96056,-17.90389",
+    "geom:latitude":-17.90389,
+    "geom:longitude":36.96056,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Madal",
+    "gn:country_code":"MZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042211,
+    "gn:latitude":-17.90389,
+    "gn:longitude":36.96056,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Madal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042211
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1bd930887094a998f1fdc91b3bbae038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701163,
+            "locality_id":1343751639,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1343751639,
+    "wof:lastmodified":1536822765,
+    "wof:name":"Madal",
+    "wof:parent_id":1091701163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.96056,
+    -17.90389,
+    36.96056,
+    -17.90389
+],
+  "geometry": {"coordinates":[36.96056,-17.90389],"type":"Point"}
+}

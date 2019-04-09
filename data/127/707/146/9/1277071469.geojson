@@ -1,0 +1,72 @@
+{
+  "id": 1277071469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.505,-13.5675,37.505,-13.5675",
+    "geom:latitude":-13.5675,
+    "geom:longitude":37.505,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Coia",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048013,
+    "gn:latitude":-13.5675,
+    "gn:longitude":37.505,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Coia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C\u00f2lia",
+        "Coia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048013
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a1c123bd420e98193322abd0d919f975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699411,
+            "locality_id":1277071469,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1277071469,
+    "wof:lastmodified":1537674583,
+    "wof:name":"Coia",
+    "wof:parent_id":1091699411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.505,
+    -13.5675,
+    37.505,
+    -13.5675
+],
+  "geometry": {"coordinates":[37.505,-13.5675],"type":"Point"}
+}

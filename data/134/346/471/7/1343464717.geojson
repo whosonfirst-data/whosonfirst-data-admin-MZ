@@ -1,0 +1,67 @@
+{
+  "id": 1343464717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.52944,-24.94611,32.52944,-24.94611",
+    "geom:latitude":-24.94611,
+    "geom:longitude":32.52944,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Duco",
+    "gn:country_code":"MZ",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046843,
+    "gn:latitude":-24.94611,
+    "gn:longitude":32.52944,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Duco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046843
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"509bae465390c76dbc65ab13e8f8f7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1343464717,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1343464717,
+    "wof:lastmodified":1536739815,
+    "wof:name":"Duco",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.52944,
+    -24.94611,
+    32.52944,
+    -24.94611
+],
+  "geometry": {"coordinates":[32.52944,-24.94611],"type":"Point"}
+}

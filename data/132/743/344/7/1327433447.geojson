@@ -1,0 +1,67 @@
+{
+  "id": 1327433447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.73972,-22.78361,34.73972,-22.78361",
+    "geom:latitude":-22.78361,
+    "geom:longitude":34.73972,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Chiguaaja",
+    "gn:country_code":"MZ",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049429,
+    "gn:latitude":-22.78361,
+    "gn:longitude":34.73972,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chiguaaja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091699313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049429
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c5a2170632b41ae8df77b2b3e055db79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699313,
+            "locality_id":1327433447,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1327433447,
+    "wof:lastmodified":1536679277,
+    "wof:name":"Chiguaaja",
+    "wof:parent_id":1091699313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.73972,
+    -22.78361,
+    34.73972,
+    -22.78361
+],
+  "geometry": {"coordinates":[34.73972,-22.78361],"type":"Point"}
+}

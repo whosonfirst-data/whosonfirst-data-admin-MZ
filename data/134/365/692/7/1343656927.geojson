@@ -1,0 +1,72 @@
+{
+  "id": 1343656927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.4675,-15.13056,39.4675,-15.13056",
+    "geom:latitude":-15.13056,
+    "geom:longitude":39.4675,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Retiua",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1030050,
+    "gn:latitude":-15.13056,
+    "gn:longitude":39.4675,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Retiua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nhooua",
+        "Retiua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1030050
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"96026c2a6f8e139b5ba5a7a2f0e65179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700965,
+            "locality_id":1343656927,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1343656927,
+    "wof:lastmodified":1537674497,
+    "wof:name":"Retiua",
+    "wof:parent_id":1091700965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.4675,
+    -15.13056,
+    39.4675,
+    -15.13056
+],
+  "geometry": {"coordinates":[39.4675,-15.13056],"type":"Point"}
+}

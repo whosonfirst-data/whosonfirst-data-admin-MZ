@@ -1,0 +1,67 @@
+{
+  "id": 1243176259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.84333,-13.16444,38.84333,-13.16444",
+    "geom:latitude":-13.16444,
+    "geom:longitude":38.84333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rage",
+    "gn:country_code":"MZ",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028241,
+    "gn:latitude":-13.16444,
+    "gn:longitude":38.84333,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Rage",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028241
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e04f002cae53a836752f90f0f999f285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1243176259,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1243176259,
+    "wof:lastmodified":1536698328,
+    "wof:name":"Rage",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.84333,
+    -13.16444,
+    38.84333,
+    -13.16444
+],
+  "geometry": {"coordinates":[38.84333,-13.16444],"type":"Point"}
+}

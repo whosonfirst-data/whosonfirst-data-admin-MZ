@@ -1,0 +1,67 @@
+{
+  "id": 1293211925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.92917,-21.88528,34.92917,-21.88528",
+    "geom:latitude":-21.88528,
+    "geom:longitude":34.92917,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Mechonguene",
+    "gn:country_code":"MZ",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039257,
+    "gn:latitude":-21.88528,
+    "gn:longitude":34.92917,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mechonguene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039257
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f1462d385db88f17a1c8a2ef8ab413b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698063,
+            "locality_id":1293211925,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1293211925,
+    "wof:lastmodified":1536687297,
+    "wof:name":"Mechonguene",
+    "wof:parent_id":1091698063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.92917,
+    -21.88528,
+    34.92917,
+    -21.88528
+],
+  "geometry": {"coordinates":[34.92917,-21.88528],"type":"Point"}
+}

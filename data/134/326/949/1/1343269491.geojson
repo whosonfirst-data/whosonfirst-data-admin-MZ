@@ -1,0 +1,67 @@
+{
+  "id": 1343269491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.905,-22.26583,34.905,-22.26583",
+    "geom:latitude":-22.26583,
+    "geom:longitude":34.905,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tangue",
+    "gn:country_code":"MZ",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104990,
+    "gn:latitude":-22.26583,
+    "gn:longitude":34.905,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Tangue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104990
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ae9ec0724c95e334b86c586708dc38f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701605,
+            "locality_id":1343269491,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1343269491,
+    "wof:lastmodified":1537020897,
+    "wof:name":"Tangue",
+    "wof:parent_id":1091701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.905,
+    -22.26583,
+    34.905,
+    -22.26583
+],
+  "geometry": {"coordinates":[34.905,-22.26583],"type":"Point"}
+}

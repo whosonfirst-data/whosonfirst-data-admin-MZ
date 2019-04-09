@@ -1,0 +1,67 @@
+{
+  "id": 1276370171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.84333,-26.69222,32.84333,-26.69222",
+    "geom:latitude":-26.69222,
+    "geom:longitude":32.84333,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chefe Cuquela",
+    "gn:country_code":"MZ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089505,
+    "gn:latitude":-26.69222,
+    "gn:longitude":32.84333,
+    "gn:modification_date":"1997-09-02",
+    "gn:name":"Chefe Cuquela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089505
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0c4722e77bcfa035db2de8e83e72ca1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699383,
+            "locality_id":1276370171,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1276370171,
+    "wof:lastmodified":1536729640,
+    "wof:name":"Chefe Cuquela",
+    "wof:parent_id":1091699383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.84333,
+    -26.69222,
+    32.84333,
+    -26.69222
+],
+  "geometry": {"coordinates":[32.84333,-26.69222],"type":"Point"}
+}

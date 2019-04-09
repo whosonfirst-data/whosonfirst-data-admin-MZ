@@ -1,0 +1,66 @@
+{
+  "id": 1209415427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.44278,-24.71194,32.44278,-24.71194",
+    "geom:latitude":-24.71194,
+    "geom:longitude":32.44278,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chibuni",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044883,
+    "gn:latitude":-24.71194,
+    "gn:longitude":32.44278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chibuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Isac",
+        "Chibuni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044883
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bef832e75a32d9eed3a30e583266cd8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209415427
+        }
+    ],
+    "wof:id":1209415427,
+    "wof:lastmodified":1537674566,
+    "wof:name":"Chibuni",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.44278,
+    -24.71194,
+    32.44278,
+    -24.71194
+],
+  "geometry": {"coordinates":[32.44278,-24.71194],"type":"Point"}
+}

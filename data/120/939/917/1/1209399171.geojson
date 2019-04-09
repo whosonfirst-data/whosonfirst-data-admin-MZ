@@ -1,0 +1,66 @@
+{
+  "id": 1209399171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.57417,-16.51556,37.57417,-16.51556",
+    "geom:latitude":-16.51556,
+    "geom:longitude":37.57417,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chefe Muacole",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026551,
+    "gn:latitude":-16.51556,
+    "gn:longitude":37.57417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Muacole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00e1cua",
+        "Chefe Muacole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026551
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"86a0411abd0d813a90a0bfbf251e25a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209399171
+        }
+    ],
+    "wof:id":1209399171,
+    "wof:lastmodified":1537674481,
+    "wof:name":"Chefe Muacole",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.57417,
+    -16.51556,
+    37.57417,
+    -16.51556
+],
+  "geometry": {"coordinates":[37.57417,-16.51556],"type":"Point"}
+}

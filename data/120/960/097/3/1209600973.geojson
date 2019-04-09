@@ -1,0 +1,61 @@
+{
+  "id": 1209600973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.42278,-16.31,33.42278,-16.31",
+    "geom:latitude":-16.31,
+    "geom:longitude":33.42278,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Aldeia Missaua",
+    "gn:country_code":"MZ",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092929,
+    "gn:latitude":-16.31,
+    "gn:longitude":33.42278,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Aldeia Missaua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092929
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"044dbd2f0f547a16201768cc3a4fba76",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209600973
+        }
+    ],
+    "wof:id":1209600973,
+    "wof:lastmodified":1536282169,
+    "wof:name":"Aldeia Missaua",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.42278,
+    -16.31,
+    33.42278,
+    -16.31
+],
+  "geometry": {"coordinates":[33.42278,-16.31],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193140385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.32556,-22.08361,33.32556,-22.08361",
+    "geom:latitude":-22.08361,
+    "geom:longitude":33.32556,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Maduvene",
+    "gn:country_code":"MZ",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1098557,
+    "gn:latitude":-22.08361,
+    "gn:longitude":33.32556,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Maduvene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1098557
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8eb09af9b333d61ccdf6bf46817cc327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696709,
+            "locality_id":1193140385,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1193140385,
+    "wof:lastmodified":1536366405,
+    "wof:name":"Maduvene",
+    "wof:parent_id":1091696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.32556,
+    -22.08361,
+    33.32556,
+    -22.08361
+],
+  "geometry": {"coordinates":[33.32556,-22.08361],"type":"Point"}
+}

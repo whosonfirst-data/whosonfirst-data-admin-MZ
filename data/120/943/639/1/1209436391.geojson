@@ -1,0 +1,61 @@
+{
+  "id": 1209436391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5275,-13.31639,35.5275,-13.31639",
+    "geom:latitude":-13.31639,
+    "geom:longitude":35.5275,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Viga",
+    "gn:country_code":"MZ",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024713,
+    "gn:latitude":-13.31639,
+    "gn:longitude":35.5275,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Viga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024713
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cbcede66dbce2e301ed32482ddb6a93a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209436391
+        }
+    ],
+    "wof:id":1209436391,
+    "wof:lastmodified":1536287092,
+    "wof:name":"Viga",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5275,
+    -13.31639,
+    35.5275,
+    -13.31639
+],
+  "geometry": {"coordinates":[35.5275,-13.31639],"type":"Point"}
+}

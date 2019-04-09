@@ -1,0 +1,72 @@
+{
+  "id": 1260281303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.67944,-14.60389,40.67944,-14.60389",
+    "geom:latitude":-14.60389,
+    "geom:longitude":40.67944,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pranio",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028574,
+    "gn:latitude":-14.60389,
+    "gn:longitude":40.67944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pranio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pramio",
+        "Pranio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028574
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5ec517275a51f2b2da7566185f8e8894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700685,
+            "locality_id":1260281303,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1260281303,
+    "wof:lastmodified":1537674491,
+    "wof:name":"Pranio",
+    "wof:parent_id":1091700685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.67944,
+    -14.60389,
+    40.67944,
+    -14.60389
+],
+  "geometry": {"coordinates":[40.67944,-14.60389],"type":"Point"}
+}

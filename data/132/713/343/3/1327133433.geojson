@@ -1,0 +1,67 @@
+{
+  "id": 1327133433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.60083,-17.58361,34.60083,-17.58361",
+    "geom:latitude":-17.58361,
+    "geom:longitude":34.60083,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Suare",
+    "gn:country_code":"MZ",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095430,
+    "gn:latitude":-17.58361,
+    "gn:longitude":34.60083,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Suare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091699141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095430
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7cf7d7dfc2bfdd329dccd615113cd013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699141,
+            "locality_id":1327133433,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1327133433,
+    "wof:lastmodified":1536612133,
+    "wof:name":"Suare",
+    "wof:parent_id":1091699141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.60083,
+    -17.58361,
+    34.60083,
+    -17.58361
+],
+  "geometry": {"coordinates":[34.60083,-17.58361],"type":"Point"}
+}

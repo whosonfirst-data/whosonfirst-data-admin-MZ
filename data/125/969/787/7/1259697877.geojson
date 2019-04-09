@@ -1,0 +1,72 @@
+{
+  "id": 1259697877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.22083,-12.91222,40.22083,-12.91222",
+    "geom:latitude":-12.91222,
+    "geom:longitude":40.22083,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Antonio",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051824,
+    "gn:latitude":-12.91222,
+    "gn:longitude":40.22083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ant\u00f3nio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabo Ant\u00f3nio",
+        "Ant\u00f3nio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051824
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d1fae6fd52111536a72d1196f0d80c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701325,
+            "locality_id":1259697877,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1259697877,
+    "wof:lastmodified":1537674605,
+    "wof:name":"Antonio",
+    "wof:parent_id":1091701325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.22083,
+    -12.91222,
+    40.22083,
+    -12.91222
+],
+  "geometry": {"coordinates":[40.22083,-12.91222],"type":"Point"}
+}

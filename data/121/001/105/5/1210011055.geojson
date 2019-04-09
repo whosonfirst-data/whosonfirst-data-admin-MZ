@@ -1,0 +1,72 @@
+{
+  "id": 1210011055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86944,-17.57917,36.86944,-17.57917",
+    "geom:latitude":-17.57917,
+    "geom:longitude":36.86944,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Morroa",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037061,
+    "gn:latitude":-17.57917,
+    "gn:longitude":36.86944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Morroa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morrua",
+        "Morroa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037061
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ae7b9dadd043fe132803a010cbcbe0e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701163,
+            "locality_id":1210011055,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1210011055,
+    "wof:lastmodified":1537674523,
+    "wof:name":"Morroa",
+    "wof:parent_id":1091701163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86944,
+    -17.57917,
+    36.86944,
+    -17.57917
+],
+  "geometry": {"coordinates":[36.86944,-17.57917],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310120533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91667,-14.95,35.91667,-14.95",
+    "geom:latitude":-14.95,
+    "geom:longitude":35.91667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Cuerocule",
+    "gn:country_code":"MZ",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047553,
+    "gn:latitude":-14.95,
+    "gn:longitude":35.91667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Cuer\u00f3cule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047553
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7bb62fea4811d8944032dcf69ea8dda2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699553,
+            "locality_id":1310120533,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1310120533,
+    "wof:lastmodified":1536974254,
+    "wof:name":"Cuerocule",
+    "wof:parent_id":1091699553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91667,
+    -14.95,
+    35.91667,
+    -14.95
+],
+  "geometry": {"coordinates":[35.91667,-14.95],"type":"Point"}
+}

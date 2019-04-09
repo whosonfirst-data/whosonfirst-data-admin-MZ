@@ -1,0 +1,67 @@
+{
+  "id": 1243548303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.57611,-19.2825,33.57611,-19.2825",
+    "geom:latitude":-19.2825,
+    "geom:longitude":33.57611,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Chicanga",
+    "gn:country_code":"MZ",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049815,
+    "gn:latitude":-19.2825,
+    "gn:longitude":33.57611,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chicanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049815
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"71d1e0ad23f41a6140cc565eb5f6cbd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697585,
+            "locality_id":1243548303,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1243548303,
+    "wof:lastmodified":1536658892,
+    "wof:name":"Chicanga",
+    "wof:parent_id":1091697585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.57611,
+    -19.2825,
+    33.57611,
+    -19.2825
+],
+  "geometry": {"coordinates":[33.57611,-19.2825],"type":"Point"}
+}

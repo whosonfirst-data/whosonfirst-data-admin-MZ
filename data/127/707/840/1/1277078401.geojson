@@ -1,0 +1,67 @@
+{
+  "id": 1277078401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.85139,-12.11194,39.85139,-12.11194",
+    "geom:latitude":-12.11194,
+    "geom:longitude":39.85139,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Muissa",
+    "gn:country_code":"MZ",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035924,
+    "gn:latitude":-12.11194,
+    "gn:longitude":39.85139,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Muissa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091698583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035924
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ff5cd906544477a88784d174b9929730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698583,
+            "locality_id":1277078401,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1277078401,
+    "wof:lastmodified":1536774486,
+    "wof:name":"Muissa",
+    "wof:parent_id":1091698583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.85139,
+    -12.11194,
+    39.85139,
+    -12.11194
+],
+  "geometry": {"coordinates":[39.85139,-12.11194],"type":"Point"}
+}

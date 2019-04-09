@@ -1,0 +1,67 @@
+{
+  "id": 1293298995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.41861,-24.65278,32.41861,-24.65278",
+    "geom:latitude":-24.65278,
+    "geom:longitude":32.41861,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Magalele",
+    "gn:country_code":"MZ",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041980,
+    "gn:latitude":-24.65278,
+    "gn:longitude":32.41861,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Magalele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041980
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e95f82f6cffbad5f29a498341cf436cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1293298995,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1293298995,
+    "wof:lastmodified":1537056248,
+    "wof:name":"Magalele",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.41861,
+    -24.65278,
+    32.41861,
+    -24.65278
+],
+  "geometry": {"coordinates":[32.41861,-24.65278],"type":"Point"}
+}

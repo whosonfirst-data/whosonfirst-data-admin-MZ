@@ -1,0 +1,66 @@
+{
+  "id": 1209223309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.07472,-24.94389,33.07472,-24.94389",
+    "geom:latitude":-24.94389,
+    "geom:longitude":33.07472,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Regedor Mamonho",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037191,
+    "gn:latitude":-24.94389,
+    "gn:longitude":33.07472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Regedor Mamonho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Momonhe",
+        "Regedor Mamonho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037191
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3f73927ff24f755463ec4be313668aa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209223309
+        }
+    ],
+    "wof:id":1209223309,
+    "wof:lastmodified":1537674524,
+    "wof:name":"Regedor Mamonho",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.07472,
+    -24.94389,
+    33.07472,
+    -24.94389
+],
+  "geometry": {"coordinates":[33.07472,-24.94389],"type":"Point"}
+}

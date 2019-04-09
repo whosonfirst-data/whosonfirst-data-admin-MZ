@@ -1,0 +1,67 @@
+{
+  "id": 1344160965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.10083,-12.075,40.10083,-12.075",
+    "geom:latitude":-12.075,
+    "geom:longitude":40.10083,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Nantjinge",
+    "gn:country_code":"MZ",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1032979,
+    "gn:latitude":-12.075,
+    "gn:longitude":40.10083,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Nantjinge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091698583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1032979
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6a70d69c99a39d9ceea0fc5225f4f995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698583,
+            "locality_id":1344160965,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1344160965,
+    "wof:lastmodified":1536730880,
+    "wof:name":"Nantjinge",
+    "wof:parent_id":1091698583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.10083,
+    -12.075,
+    40.10083,
+    -12.075
+],
+  "geometry": {"coordinates":[40.10083,-12.075],"type":"Point"}
+}

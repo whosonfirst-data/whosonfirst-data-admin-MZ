@@ -1,0 +1,61 @@
+{
+  "id": 1209212603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.08833,-15.49333,40.08833,-15.49333",
+    "geom:latitude":-15.49333,
+    "geom:longitude":40.08833,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nerua",
+    "gn:country_code":"MZ",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091769,
+    "gn:latitude":-15.49333,
+    "gn:longitude":40.08833,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Nerua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091769
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ecf9c6375362506b6b88ee5a579c16b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209212603
+        }
+    ],
+    "wof:id":1209212603,
+    "wof:lastmodified":1536294240,
+    "wof:name":"Nerua",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.08833,
+    -15.493329999999998,
+    40.08833,
+    -15.493329999999998
+],
+  "geometry": {"coordinates":[40.08833,-15.49333],"type":"Point"}
+}

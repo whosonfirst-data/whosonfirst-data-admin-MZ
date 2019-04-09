@@ -1,0 +1,72 @@
+{
+  "id": 1259869429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.11944,-15.95278,37.11944,-15.95278",
+    "geom:latitude":-15.95278,
+    "geom:longitude":37.11944,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Muliquela",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037690,
+    "gn:latitude":-15.95278,
+    "gn:longitude":37.11944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Muliquela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mim\u00e1ua",
+        "Muliquela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037690
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"47846c4972a0557a30d7f8cea46e50e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697943,
+            "locality_id":1259869429,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1259869429,
+    "wof:lastmodified":1537674526,
+    "wof:name":"Muliquela",
+    "wof:parent_id":1091697943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.11944,
+    -15.95278,
+    37.11944,
+    -15.95278
+],
+  "geometry": {"coordinates":[37.11944,-15.95278],"type":"Point"}
+}

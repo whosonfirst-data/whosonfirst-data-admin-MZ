@@ -1,0 +1,67 @@
+{
+  "id": 1259887451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.23361,-21.90194,34.23361,-21.90194",
+    "geom:latitude":-21.90194,
+    "geom:longitude":34.23361,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Semende",
+    "gn:country_code":"MZ",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027114,
+    "gn:latitude":-21.90194,
+    "gn:longitude":34.23361,
+    "gn:modification_date":"1998-04-29",
+    "gn:name":"Semende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027114
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"85c074509affd3d7684e654162281628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698405,
+            "locality_id":1259887451,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1259887451,
+    "wof:lastmodified":1536773992,
+    "wof:name":"Semende",
+    "wof:parent_id":1091698405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.23361,
+    -21.90194,
+    34.23361,
+    -21.90194
+],
+  "geometry": {"coordinates":[34.23361,-21.90194],"type":"Point"}
+}

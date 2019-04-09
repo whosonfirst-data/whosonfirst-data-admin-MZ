@@ -1,0 +1,67 @@
+{
+  "id": 1293196381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.22,-17.7,37.22,-17.7",
+    "geom:latitude":-17.7,
+    "geom:longitude":37.22,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Mazuao",
+    "gn:country_code":"MZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039456,
+    "gn:latitude":-17.7,
+    "gn:longitude":37.22,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Mazu\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039456
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c83277741344631bf392b1c279efb722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700865,
+            "locality_id":1293196381,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1293196381,
+    "wof:lastmodified":1536710078,
+    "wof:name":"Mazuao",
+    "wof:parent_id":1091700865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.22,
+    -17.7,
+    37.22,
+    -17.7
+],
+  "geometry": {"coordinates":[37.22,-17.7],"type":"Point"}
+}

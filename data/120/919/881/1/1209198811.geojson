@@ -1,0 +1,61 @@
+{
+  "id": 1209198811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.04361,-17.78361,37.04361,-17.78361",
+    "geom:latitude":-17.78361,
+    "geom:longitude":37.04361,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Andre",
+    "gn:country_code":"MZ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052967,
+    "gn:latitude":-17.78361,
+    "gn:longitude":37.04361,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Andre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052967
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7163dd2a2263a8d32d3cd31e3aff35ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209198811
+        }
+    ],
+    "wof:id":1209198811,
+    "wof:lastmodified":1536294681,
+    "wof:name":"Andre",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.04361,
+    -17.78361,
+    37.04361,
+    -17.78361
+],
+  "geometry": {"coordinates":[37.04361,-17.78361],"type":"Point"}
+}

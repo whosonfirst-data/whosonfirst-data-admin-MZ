@@ -1,0 +1,61 @@
+{
+  "id": 1209326143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.8625,-24.24528,34.8625,-24.24528",
+    "geom:latitude":-24.24528,
+    "geom:longitude":34.8625,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Alvaro Galiza Matos",
+    "gn:country_code":"MZ",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097562,
+    "gn:latitude":-24.24528,
+    "gn:longitude":34.8625,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Alvaro Galiza Matos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097562
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8a99b6ce41c327e7dd90eaff68c204ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209326143
+        }
+    ],
+    "wof:id":1209326143,
+    "wof:lastmodified":1536290529,
+    "wof:name":"Alvaro Galiza Matos",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.8625,
+    -24.24528,
+    34.8625,
+    -24.24528
+],
+  "geometry": {"coordinates":[34.8625,-24.24528],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309923335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.34889,-13.35556,40.34889,-13.35556",
+    "geom:latitude":-13.35556,
+    "geom:longitude":40.34889,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Regulo Nemoto",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1032170,
+    "gn:latitude":-13.35556,
+    "gn:longitude":40.34889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00e9gulo Nemoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nemoto",
+        "R\u00e9gulo Nemoto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1032170
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fcae240f5ae780f211ac3ad70e546441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696771,
+            "locality_id":1309923335,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1309923335,
+    "wof:lastmodified":1537674502,
+    "wof:name":"Regulo Nemoto",
+    "wof:parent_id":1091696771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.34889,
+    -13.35556,
+    40.34889,
+    -13.35556
+],
+  "geometry": {"coordinates":[40.34889,-13.35556],"type":"Point"}
+}

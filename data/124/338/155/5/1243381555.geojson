@@ -1,0 +1,67 @@
+{
+  "id": 1243381555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.1,-16.95,39.1,-16.95",
+    "geom:latitude":-16.95,
+    "geom:longitude":39.1,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Caramaca",
+    "gn:country_code":"MZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051043,
+    "gn:latitude":-16.95,
+    "gn:longitude":39.1,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Caramaca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051043
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"78d93731a5c0d0b75604d66585cdfbdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701291,
+            "locality_id":1243381555,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1243381555,
+    "wof:lastmodified":1536899156,
+    "wof:name":"Caramaca",
+    "wof:parent_id":1091701291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.1,
+    -16.95,
+    39.1,
+    -16.95
+],
+  "geometry": {"coordinates":[39.1,-16.95],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276224693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.39889,-13.99167,40.39889,-13.99167",
+    "geom:latitude":-13.99167,
+    "geom:longitude":40.39889,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Macatene",
+    "gn:country_code":"MZ",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086836,
+    "gn:latitude":-13.99167,
+    "gn:longitude":40.39889,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Macatene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086836
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"18c92619f9799f6fd81fa943e218b01d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699799,
+            "locality_id":1276224693,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1276224693,
+    "wof:lastmodified":1536925157,
+    "wof:name":"Macatene",
+    "wof:parent_id":1091699799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.39889,
+    -13.99167,
+    40.39889,
+    -13.99167
+],
+  "geometry": {"coordinates":[40.39889,-13.99167],"type":"Point"}
+}

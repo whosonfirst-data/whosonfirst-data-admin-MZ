@@ -1,0 +1,67 @@
+{
+  "id": 1259675383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11417,-11.67389,35.11417,-11.67389",
+    "geom:latitude":-11.67389,
+    "geom:longitude":35.11417,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mpapa",
+    "gn:country_code":"MZ",
+    "gn:dem":1330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085013,
+    "gn:latitude":-11.67389,
+    "gn:longitude":35.11417,
+    "gn:modification_date":"1995-02-03",
+    "gn:name":"Mpapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085013
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b33221f8f0f543e75d71643c0d254d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698193,
+            "locality_id":1259675383,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1259675383,
+    "wof:lastmodified":1537075628,
+    "wof:name":"Mpapa",
+    "wof:parent_id":1091698193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11417,
+    -11.67389,
+    35.11417,
+    -11.67389
+],
+  "geometry": {"coordinates":[35.11417,-11.67389],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242956915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.96389,-21.28861,33.96389,-21.28861",
+    "geom:latitude":-21.28861,
+    "geom:longitude":33.96389,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Chimbico",
+    "gn:country_code":"MZ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049299,
+    "gn:latitude":-21.28861,
+    "gn:longitude":33.96389,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chimbico",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049299
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f8e5cba13831fb7affbe8e51cf22d38c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1242956915,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1242956915,
+    "wof:lastmodified":1537013678,
+    "wof:name":"Chimbico",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.96389,
+    -21.28861,
+    33.96389,
+    -21.28861
+],
+  "geometry": {"coordinates":[33.96389,-21.28861],"type":"Point"}
+}

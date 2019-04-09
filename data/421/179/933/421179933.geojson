@@ -1,0 +1,100 @@
+{
+  "id": 421179933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.99528,-25.44278,31.99528,-25.44278",
+    "geom:latitude":-25.44278,
+    "geom:longitude":31.99528,
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Ressano Garcia"
+    ],
+    "name:deu_x_preferred":[
+        "Ressano Garcia"
+    ],
+    "name:dut_x_preferred":[
+        "Ressano Garcia"
+    ],
+    "name:eng_x_preferred":[
+        "Ressano Garcia"
+    ],
+    "name:ger_x_preferred":[
+        "Ressano Garcia"
+    ],
+    "name:por_x_preferred":[
+        "Ressano Garcia"
+    ],
+    "name:unk_x_variant":[
+        "Resano Garcia"
+    ],
+    "qs:gn_country":"MZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1028079,
+    "qs:gn_pop":0,
+    "qs:name":"Ressano Garcia",
+    "qs:name_adm0":"Mo\u00e7ambique",
+    "qs:name_adm1":"Maputo",
+    "qs:photos":53,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":53,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":266887,
+    "qs:woe_adm0":23424902,
+    "qs:woe_id":1554688,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":114,
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028079,
+        "gp:id":1554688,
+        "qs:id":266887,
+        "wd:id":"Q279377",
+        "wk:page":"Ressano Garcia"
+    },
+    "wof:country":"MZ",
+    "wof:created":1459009238,
+    "wof:geomhash":"7d32c1ca15e5f8786a3a55bab69c442b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699925,
+            "locality_id":421179933,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":421179933,
+    "wof:lastmodified":1527717710,
+    "wof:name":"Ressano Garcia",
+    "wof:parent_id":1091699925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.99528,
+    -25.44278,
+    31.99528,
+    -25.44278
+],
+  "geometry": {"coordinates":[31.99528,-25.44278],"type":"Point"}
+}

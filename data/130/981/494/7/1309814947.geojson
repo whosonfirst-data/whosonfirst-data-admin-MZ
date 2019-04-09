@@ -1,0 +1,72 @@
+{
+  "id": 1309814947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.72417,-24.58944,34.72417,-24.58944",
+    "geom:latitude":-24.58944,
+    "geom:longitude":34.72417,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Raul Mahembe",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052179,
+    "gn:latitude":-24.58944,
+    "gn:longitude":34.72417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Raul Mahembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00f3bo",
+        "Raul Mahembe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052179
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ce7025aa8908997826f1812e70cd2056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701681,
+            "locality_id":1309814947,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1309814947,
+    "wof:lastmodified":1537674607,
+    "wof:name":"Raul Mahembe",
+    "wof:parent_id":1091701681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.72417,
+    -24.58944,
+    34.72417,
+    -24.58944
+],
+  "geometry": {"coordinates":[34.72417,-24.58944],"type":"Point"}
+}

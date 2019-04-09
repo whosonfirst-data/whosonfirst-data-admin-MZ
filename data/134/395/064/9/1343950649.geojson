@@ -1,0 +1,67 @@
+{
+  "id": 1343950649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.29278,-16.67417,39.29278,-16.67417",
+    "geom:latitude":-16.67417,
+    "geom:longitude":39.29278,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Muculuco",
+    "gn:country_code":"MZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096033,
+    "gn:latitude":-16.67417,
+    "gn:longitude":39.29278,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Muculuco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096033
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"92ed6fc2fd3c5a613223b882b30711d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1343950649,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1343950649,
+    "wof:lastmodified":1537032794,
+    "wof:name":"Muculuco",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.29278,
+    -16.67417,
+    39.29278,
+    -16.67417
+],
+  "geometry": {"coordinates":[39.29278,-16.67417],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293599121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.48333,-15.43333,33.48333,-15.43333",
+    "geom:latitude":-15.43333,
+    "geom:longitude":33.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vazoacoma",
+    "gn:country_code":"MZ",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024785,
+    "gn:latitude":-15.43333,
+    "gn:longitude":33.48333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Vazoacoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024785
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b4f3f2155d7415f276b64bbe47e23b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696825,
+            "locality_id":1293599121,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1293599121,
+    "wof:lastmodified":1536624106,
+    "wof:name":"Vazoacoma",
+    "wof:parent_id":1091696825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.48333,
+    -15.43333,
+    33.48333,
+    -15.43333
+],
+  "geometry": {"coordinates":[33.48333,-15.43333],"type":"Point"}
+}

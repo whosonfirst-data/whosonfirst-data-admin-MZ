@@ -1,0 +1,67 @@
+{
+  "id": 1276140823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.89528,-17.26278,37.89528,-17.26278",
+    "geom:latitude":-17.26278,
+    "geom:longitude":37.89528,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Bauala",
+    "gn:country_code":"MZ",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052415,
+    "gn:latitude":-17.26278,
+    "gn:longitude":37.89528,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Bauala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052415
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"98fe86f7b846fddabd0488ed162aff4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698671,
+            "locality_id":1276140823,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1276140823,
+    "wof:lastmodified":1537035115,
+    "wof:name":"Bauala",
+    "wof:parent_id":1091698671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.89528,
+    -17.26278,
+    37.89528,
+    -17.26278
+],
+  "geometry": {"coordinates":[37.89528,-17.26278],"type":"Point"}
+}

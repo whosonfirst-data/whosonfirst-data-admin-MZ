@@ -1,0 +1,67 @@
+{
+  "id": 1226134209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.37444,-14.84722,36.37444,-14.84722",
+    "geom:latitude":-14.84722,
+    "geom:longitude":36.37444,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Camala",
+    "gn:country_code":"MZ",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087933,
+    "gn:latitude":-14.84722,
+    "gn:longitude":36.37444,
+    "gn:modification_date":"1997-04-30",
+    "gn:name":"Chefe Camala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091697375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087933
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"418e68af091199894818dc83f3f5004a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697375,
+            "locality_id":1226134209,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1226134209,
+    "wof:lastmodified":1537091154,
+    "wof:name":"Chefe Camala",
+    "wof:parent_id":1091697375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.37444,
+    -14.84722,
+    36.37444,
+    -14.84722
+],
+  "geometry": {"coordinates":[36.37444,-14.84722],"type":"Point"}
+}

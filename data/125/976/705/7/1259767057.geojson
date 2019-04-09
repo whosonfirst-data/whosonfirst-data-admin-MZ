@@ -1,0 +1,67 @@
+{
+  "id": 1259767057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.83417,-18.97722,33.83417,-18.97722",
+    "geom:latitude":-18.97722,
+    "geom:longitude":33.83417,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Dinguine",
+    "gn:country_code":"MZ",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047053,
+    "gn:latitude":-18.97722,
+    "gn:longitude":33.83417,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Dinguine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047053
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c309dc8a7aad8baf7aedbac0331a2b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697585,
+            "locality_id":1259767057,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1259767057,
+    "wof:lastmodified":1536947213,
+    "wof:name":"Dinguine",
+    "wof:parent_id":1091697585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.83417,
+    -18.97722000000001,
+    33.83417,
+    -18.97722000000001
+],
+  "geometry": {"coordinates":[33.83417,-18.97722000000001],"type":"Point"}
+}

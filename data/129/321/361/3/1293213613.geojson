@@ -1,0 +1,72 @@
+{
+  "id": 1293213613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.54694,-24.34417,33.54694,-24.34417",
+    "geom:latitude":-24.34417,
+    "geom:longitude":33.54694,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Regulo Machiquevane",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042577,
+    "gn:latitude":-24.34417,
+    "gn:longitude":33.54694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00e9gulo Machiquevane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Machiqueuane",
+        "R\u00e9gulo Machiquevane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042577
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e244887f1187a7092c18b9944d7cfba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696583,
+            "locality_id":1293213613,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1293213613,
+    "wof:lastmodified":1537674555,
+    "wof:name":"Regulo Machiquevane",
+    "wof:parent_id":1091696583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.54694,
+    -24.34417,
+    33.54694,
+    -24.34417
+],
+  "geometry": {"coordinates":[33.54694,-24.34417],"type":"Point"}
+}

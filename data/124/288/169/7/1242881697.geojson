@@ -1,0 +1,67 @@
+{
+  "id": 1242881697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.13444,-23.29444,35.13444,-23.29444",
+    "geom:latitude":-23.29444,
+    "geom:longitude":35.13444,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bairrada",
+    "gn:country_code":"MZ",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101640,
+    "gn:latitude":-23.29444,
+    "gn:longitude":35.13444,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Bairrada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091699313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101640
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"170dae3df21d77c092e0b50f4fd4cb54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699313,
+            "locality_id":1242881697,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1242881697,
+    "wof:lastmodified":1536623624,
+    "wof:name":"Bairrada",
+    "wof:parent_id":1091699313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.13444,
+    -23.29444,
+    35.13444,
+    -23.29444
+],
+  "geometry": {"coordinates":[35.13444,-23.29444],"type":"Point"}
+}

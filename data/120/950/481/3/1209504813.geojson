@@ -1,0 +1,61 @@
+{
+  "id": 1209504813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.66972,-17.36083,37.66972,-17.36083",
+    "geom:latitude":-17.36083,
+    "geom:longitude":37.66972,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Lemela",
+    "gn:country_code":"MZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043967,
+    "gn:latitude":-17.36083,
+    "gn:longitude":37.66972,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Lemela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043967
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"47cf621ae57164517262b41d0b977130",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209504813
+        }
+    ],
+    "wof:id":1209504813,
+    "wof:lastmodified":1536285067,
+    "wof:name":"Lemela",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.66972,
+    -17.36083,
+    37.66972,
+    -17.36083
+],
+  "geometry": {"coordinates":[37.66972,-17.36083],"type":"Point"}
+}

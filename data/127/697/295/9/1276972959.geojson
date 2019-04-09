@@ -1,0 +1,72 @@
+{
+  "id": 1276972959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.49722,-14.99333,33.49722,-14.99333",
+    "geom:latitude":-14.99333,
+    "geom:longitude":33.49722,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Cancumula",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051324,
+    "gn:latitude":-14.99333,
+    "gn:longitude":33.49722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cancumula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cancamulo",
+        "Cancumula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091698455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051324
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"335c007310504596c16e5c7501f956b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698455,
+            "locality_id":1276972959,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1276972959,
+    "wof:lastmodified":1537674602,
+    "wof:name":"Cancumula",
+    "wof:parent_id":1091698455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.49722,
+    -14.99333,
+    33.49722,
+    -14.99333
+],
+  "geometry": {"coordinates":[33.49722,-14.99333],"type":"Point"}
+}

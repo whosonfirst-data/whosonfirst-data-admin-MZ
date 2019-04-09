@@ -1,0 +1,67 @@
+{
+  "id": 1293705115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.38333,-16.76667,35.38333,-16.76667",
+    "geom:latitude":-16.76667,
+    "geom:longitude":35.38333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Chibanga",
+    "gn:country_code":"MZ",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049936,
+    "gn:latitude":-16.76667,
+    "gn:longitude":35.38333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Chibanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049936
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f454f2c17b500070b83884f451eec5d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700255,
+            "locality_id":1293705115,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1293705115,
+    "wof:lastmodified":1536970324,
+    "wof:name":"Chibanga",
+    "wof:parent_id":1091700255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38333,
+    -16.76667,
+    35.38333,
+    -16.76667
+],
+  "geometry": {"coordinates":[35.38333,-16.76667],"type":"Point"}
+}

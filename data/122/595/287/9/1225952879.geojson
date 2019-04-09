@@ -1,0 +1,67 @@
+{
+  "id": 1225952879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.82167,-23.87444,33.82167,-23.87444",
+    "geom:latitude":-23.87444,
+    "geom:longitude":33.82167,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chatine",
+    "gn:country_code":"MZ",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1102862,
+    "gn:latitude":-23.87444,
+    "gn:longitude":33.82167,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chatine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1102862
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"89d4ac5dc535d00f0695ca1cb5b3b8c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696583,
+            "locality_id":1225952879,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1225952879,
+    "wof:lastmodified":1536857659,
+    "wof:name":"Chatine",
+    "wof:parent_id":1091696583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.82167,
+    -23.87444,
+    33.82167,
+    -23.87444
+],
+  "geometry": {"coordinates":[33.82167,-23.87444],"type":"Point"}
+}

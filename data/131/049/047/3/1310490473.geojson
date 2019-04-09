@@ -1,0 +1,67 @@
+{
+  "id": 1310490473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.88722,-19.01722,33.88722,-19.01722",
+    "geom:latitude":-19.01722,
+    "geom:longitude":33.88722,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Fandarau",
+    "gn:country_code":"MZ",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046430,
+    "gn:latitude":-19.01722,
+    "gn:longitude":33.88722,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Fandarau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046430
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"473b121fded004003da3bb45e125493e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697585,
+            "locality_id":1310490473,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1310490473,
+    "wof:lastmodified":1536939327,
+    "wof:name":"Fandarau",
+    "wof:parent_id":1091697585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.88722,
+    -19.01722,
+    33.88722,
+    -19.01722
+],
+  "geometry": {"coordinates":[33.88722,-19.01722],"type":"Point"}
+}

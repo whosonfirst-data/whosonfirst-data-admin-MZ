@@ -1,0 +1,70 @@
+{
+  "id": 1293678127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.70889,-20.59972,32.70889,-20.59972",
+    "geom:latitude":-20.59972,
+    "geom:longitude":32.70889,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Guenze",
+    "gn:country_code":"MZ",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045670,
+    "gn:latitude":-20.59972,
+    "gn:longitude":32.70889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Guenze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Guenze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091700331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045670
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a4d532af0a6046dc6cd40732d6dba6ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700331,
+            "locality_id":1293678127,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1293678127,
+    "wof:lastmodified":1537674571,
+    "wof:name":"Guenze",
+    "wof:parent_id":1091700331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.70889,
+    -20.59972,
+    32.70889,
+    -20.59972
+],
+  "geometry": {"coordinates":[32.70889,-20.59972],"type":"Point"}
+}

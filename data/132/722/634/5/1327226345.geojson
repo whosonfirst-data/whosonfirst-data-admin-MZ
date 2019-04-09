@@ -1,0 +1,67 @@
+{
+  "id": 1327226345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.63167,-16.49306,39.63167,-16.49306",
+    "geom:latitude":-16.49306,
+    "geom:longitude":39.63167,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Alifo",
+    "gn:country_code":"MZ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095645,
+    "gn:latitude":-16.49306,
+    "gn:longitude":39.63167,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Alifo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095645
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0e74d3d676d4b9456b4c5f77cf84ea26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1327226345,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1327226345,
+    "wof:lastmodified":1536977788,
+    "wof:name":"Alifo",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.63167,
+    -16.49306,
+    39.63167,
+    -16.49306
+],
+  "geometry": {"coordinates":[39.63167,-16.49306],"type":"Point"}
+}

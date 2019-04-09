@@ -1,0 +1,67 @@
+{
+  "id": 1193270563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.68306,-14.5675,38.68306,-14.5675",
+    "geom:latitude":-14.5675,
+    "geom:longitude":38.68306,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mucula",
+    "gn:country_code":"MZ",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088512,
+    "gn:latitude":-14.5675,
+    "gn:longitude":38.68306,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Mucula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088512
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c6e11352b443f4858583609a63c68799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699653,
+            "locality_id":1193270563,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1193270563,
+    "wof:lastmodified":1536371147,
+    "wof:name":"Mucula",
+    "wof:parent_id":1091699653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.68306,
+    -14.5675,
+    38.68306,
+    -14.5675
+],
+  "geometry": {"coordinates":[38.68306,-14.5675],"type":"Point"}
+}

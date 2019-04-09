@@ -1,0 +1,67 @@
+{
+  "id": 1309930093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.57056,-25.77139,32.57056,-25.77139",
+    "geom:latitude":-25.77139,
+    "geom:longitude":32.57056,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chivambalane",
+    "gn:country_code":"MZ",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1106363,
+    "gn:latitude":-25.77139,
+    "gn:longitude":32.57056,
+    "gn:modification_date":"2000-10-11",
+    "gn:name":"Chivambalane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091696953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1106363
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8846930ff8734956ee049c257ed5b6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696953,
+            "locality_id":1309930093,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1309930093,
+    "wof:lastmodified":1536751907,
+    "wof:name":"Chivambalane",
+    "wof:parent_id":1091696953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.57056,
+    -25.77139,
+    32.57056,
+    -25.77139
+],
+  "geometry": {"coordinates":[32.57056,-25.77139],"type":"Point"}
+}

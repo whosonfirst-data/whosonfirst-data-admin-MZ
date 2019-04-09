@@ -1,0 +1,61 @@
+{
+  "id": 1209247937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.45,-25.78333,32.45,-25.78333",
+    "geom:latitude":-25.78333,
+    "geom:longitude":32.45,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chigogo",
+    "gn:country_code":"MZ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049458,
+    "gn:latitude":-25.78333,
+    "gn:longitude":32.45,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Chigogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049458
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"649f1d0464ae4f3d065ffb6ecfef4e04",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209247937
+        }
+    ],
+    "wof:id":1209247937,
+    "wof:lastmodified":1536293099,
+    "wof:name":"Chigogo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.45,
+    -25.78333,
+    32.45,
+    -25.78333
+],
+  "geometry": {"coordinates":[32.45,-25.78333],"type":"Point"}
+}

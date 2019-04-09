@@ -1,0 +1,67 @@
+{
+  "id": 1310120683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.26667,-13.05,39.26667,-13.05",
+    "geom:latitude":-13.05,
+    "geom:longitude":39.26667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Muulia",
+    "gn:country_code":"MZ",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035188,
+    "gn:latitude":-13.05,
+    "gn:longitude":39.26667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Mu\u00falia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035188
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a641027bf920c29eaff131fe053c4ec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1310120683,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1310120683,
+    "wof:lastmodified":1536974044,
+    "wof:name":"Muulia",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.26667,
+    -13.05,
+    39.26667,
+    -13.05
+],
+  "geometry": {"coordinates":[39.26667,-13.05],"type":"Point"}
+}

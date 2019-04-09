@@ -1,0 +1,67 @@
+{
+  "id": 1193159931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.83333,-19.73333,34.83333,-19.73333",
+    "geom:latitude":-19.73333,
+    "geom:longitude":34.83333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Mandoga",
+    "gn:country_code":"MZ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041175,
+    "gn:latitude":-19.73333,
+    "gn:longitude":34.83333,
+    "gn:modification_date":"1996-07-25",
+    "gn:name":"Mandoga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041175
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"549e5e1e1ecadf0eda63ff6cf2fcf38c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696899,
+            "locality_id":1193159931,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1193159931,
+    "wof:lastmodified":1536369013,
+    "wof:name":"Mandoga",
+    "wof:parent_id":1091696899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.83333,
+    -19.73333,
+    34.83333,
+    -19.73333
+],
+  "geometry": {"coordinates":[34.83333,-19.73333],"type":"Point"}
+}

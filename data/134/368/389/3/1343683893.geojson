@@ -1,0 +1,67 @@
+{
+  "id": 1343683893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.27861,-16.01528,39.27861,-16.01528",
+    "geom:latitude":-16.01528,
+    "geom:longitude":39.27861,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Techimo",
+    "gn:country_code":"MZ",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026155,
+    "gn:latitude":-16.01528,
+    "gn:longitude":39.27861,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Techimo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026155
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"97492d42f9705384c3abc8001854bfdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1343683893,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1343683893,
+    "wof:lastmodified":1536921951,
+    "wof:name":"Techimo",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.27861,
+    -16.01527999999999,
+    39.27861,
+    -16.01527999999999
+],
+  "geometry": {"coordinates":[39.27861,-16.01527999999999],"type":"Point"}
+}

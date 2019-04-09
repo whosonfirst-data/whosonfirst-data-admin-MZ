@@ -1,0 +1,67 @@
+{
+  "id": 1225829091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.455,-19.32639,33.455,-19.32639",
+    "geom:latitude":-19.32639,
+    "geom:longitude":33.455,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bode",
+    "gn:country_code":"MZ",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052160,
+    "gn:latitude":-19.32639,
+    "gn:longitude":33.455,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Bode",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052160
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"914fd9ee631893e2c7a36d72437e5c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697585,
+            "locality_id":1225829091,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1225829091,
+    "wof:lastmodified":1537036147,
+    "wof:name":"Bode",
+    "wof:parent_id":1091697585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.455,
+    -19.32639,
+    33.455,
+    -19.32639
+],
+  "geometry": {"coordinates":[33.455,-19.32639],"type":"Point"}
+}

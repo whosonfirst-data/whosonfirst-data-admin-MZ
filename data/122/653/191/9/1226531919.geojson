@@ -1,0 +1,67 @@
+{
+  "id": 1226531919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.70222,-15.19417,36.70222,-15.19417",
+    "geom:latitude":-15.19417,
+    "geom:longitude":36.70222,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chefe Muhelo",
+    "gn:country_code":"MZ",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092117,
+    "gn:latitude":-15.19417,
+    "gn:longitude":36.70222,
+    "gn:modification_date":"1998-05-14",
+    "gn:name":"Chefe Muhelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092117
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7c2c745efe1d51f343df81ded289c838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697801,
+            "locality_id":1226531919,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1226531919,
+    "wof:lastmodified":1537017272,
+    "wof:name":"Chefe Muhelo",
+    "wof:parent_id":1091697801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.70222,
+    -15.19417,
+    36.70222,
+    -15.19417
+],
+  "geometry": {"coordinates":[36.70222,-15.19417],"type":"Point"}
+}

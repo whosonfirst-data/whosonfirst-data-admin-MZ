@@ -1,0 +1,67 @@
+{
+  "id": 1276317641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.82333,-16.63417,37.82333,-16.63417",
+    "geom:latitude":-16.63417,
+    "geom:longitude":37.82333,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Namalaca",
+    "gn:country_code":"MZ",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034252,
+    "gn:latitude":-16.63417,
+    "gn:longitude":37.82333,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Namalaca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034252
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0e7a38842cb2c36cfa32126ab0070228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698671,
+            "locality_id":1276317641,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1276317641,
+    "wof:lastmodified":1536799835,
+    "wof:name":"Namalaca",
+    "wof:parent_id":1091698671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.82333,
+    -16.63417,
+    37.82333,
+    -16.63417
+],
+  "geometry": {"coordinates":[37.82333,-16.63417],"type":"Point"}
+}

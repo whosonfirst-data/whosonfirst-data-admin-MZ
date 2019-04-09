@@ -1,0 +1,61 @@
+{
+  "id": 1209419047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.63083,-13.395,39.63083,-13.395",
+    "geom:latitude":-13.395,
+    "geom:longitude":39.63083,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chefe Manajane",
+    "gn:country_code":"MZ",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087516,
+    "gn:latitude":-13.395,
+    "gn:longitude":39.63083,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Chefe Manajane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087516
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c89f538721cf77119a486a8edbc16b73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209419047
+        }
+    ],
+    "wof:id":1209419047,
+    "wof:lastmodified":1536287591,
+    "wof:name":"Chefe Manajane",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.63083,
+    -13.395,
+    39.63083,
+    -13.395
+],
+  "geometry": {"coordinates":[39.63083,-13.395],"type":"Point"}
+}

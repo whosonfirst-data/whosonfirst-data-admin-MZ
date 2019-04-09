@@ -1,0 +1,67 @@
+{
+  "id": 1243052429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.58,-17.02639,38.58,-17.02639",
+    "geom:latitude":-17.02639,
+    "geom:longitude":38.58,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Plantacao Melela",
+    "gn:country_code":"MZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096589,
+    "gn:latitude":-17.02639,
+    "gn:longitude":38.58,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Plantac\u00e3o Melela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096589
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9aee1d74d3516ffb0ad72da684b22685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701291,
+            "locality_id":1243052429,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1243052429,
+    "wof:lastmodified":1536875660,
+    "wof:name":"Plantacao Melela",
+    "wof:parent_id":1091701291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.58,
+    -17.02639,
+    38.58,
+    -17.02639
+],
+  "geometry": {"coordinates":[38.58,-17.02639],"type":"Point"}
+}

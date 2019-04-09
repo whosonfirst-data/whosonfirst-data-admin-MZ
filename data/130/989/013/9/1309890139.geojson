@@ -1,0 +1,72 @@
+{
+  "id": 1309890139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.02472,-17.10806,38.02472,-17.10806",
+    "geom:latitude":-17.10806,
+    "geom:longitude":38.02472,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Abeliua",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052843,
+    "gn:latitude":-17.10806,
+    "gn:longitude":38.02472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Abeliua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Apeliua",
+        "Abeliua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052843
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"291d3a5ee1e471e94d564cbd9cc8d9c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698671,
+            "locality_id":1309890139,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1309890139,
+    "wof:lastmodified":1537674611,
+    "wof:name":"Abeliua",
+    "wof:parent_id":1091698671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.02472,
+    -17.10806,
+    38.02472,
+    -17.10806
+],
+  "geometry": {"coordinates":[38.02472,-17.10806],"type":"Point"}
+}

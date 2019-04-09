@@ -1,0 +1,67 @@
+{
+  "id": 1226251563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.94083,-23.62556,31.94083,-23.62556",
+    "geom:latitude":-23.62556,
+    "geom:longitude":31.94083,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mabanja",
+    "gn:country_code":"MZ",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096985,
+    "gn:latitude":-23.62556,
+    "gn:longitude":31.94083,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mabanja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091699347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096985
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fc7655885f11421b1d51ecdd08f3ad47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699347,
+            "locality_id":1226251563,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1226251563,
+    "wof:lastmodified":1536925862,
+    "wof:name":"Mabanja",
+    "wof:parent_id":1091699347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.94083,
+    -23.62556,
+    31.94083,
+    -23.62556
+],
+  "geometry": {"coordinates":[31.94083,-23.62556],"type":"Point"}
+}

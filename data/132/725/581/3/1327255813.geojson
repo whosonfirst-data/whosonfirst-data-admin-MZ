@@ -1,0 +1,67 @@
+{
+  "id": 1327255813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.82583,-14.87444,36.82583,-14.87444",
+    "geom:latitude":-14.87444,
+    "geom:longitude":36.82583,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Piriqueia",
+    "gn:country_code":"MZ",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028721,
+    "gn:latitude":-14.87444,
+    "gn:longitude":36.82583,
+    "gn:modification_date":"1997-04-30",
+    "gn:name":"Piriqueia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091698863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028721
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"11138f38f6f53ce2ed1c82c001bc7443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698863,
+            "locality_id":1327255813,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1327255813,
+    "wof:lastmodified":1536936582,
+    "wof:name":"Piriqueia",
+    "wof:parent_id":1091698863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.82583,
+    -14.87444,
+    36.82583,
+    -14.87444
+],
+  "geometry": {"coordinates":[36.82583,-14.87444],"type":"Point"}
+}

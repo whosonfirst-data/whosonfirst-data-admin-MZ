@@ -1,0 +1,67 @@
+{
+  "id": 1226252765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.0,-19.51667,35.0,-19.51667",
+    "geom:latitude":-19.51667,
+    "geom:longitude":35.0,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Chinamaconde",
+    "gn:country_code":"MZ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049213,
+    "gn:latitude":-19.51667,
+    "gn:longitude":35.0,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Chinamaconde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091697411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049213
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ffe2d9b264aef69958742cd5b7ec0b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697411,
+            "locality_id":1226252765,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1226252765,
+    "wof:lastmodified":1536924135,
+    "wof:name":"Chinamaconde",
+    "wof:parent_id":1091697411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0,
+    -19.51667,
+    35.0,
+    -19.51667
+],
+  "geometry": {"coordinates":[35.0,-19.51667],"type":"Point"}
+}

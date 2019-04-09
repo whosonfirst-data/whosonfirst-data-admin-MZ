@@ -1,0 +1,67 @@
+{
+  "id": 1243472281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.36167,-12.82917,38.36167,-12.82917",
+    "geom:latitude":-12.82917,
+    "geom:longitude":38.36167,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Naneruculo",
+    "gn:country_code":"MZ",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1033134,
+    "gn:latitude":-12.82917,
+    "gn:longitude":38.36167,
+    "gn:modification_date":"1995-06-22",
+    "gn:name":"Naneruculo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1033134
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"950c5eb8b3f53cfca18862fd2145d3cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1243472281,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1243472281,
+    "wof:lastmodified":1536768759,
+    "wof:name":"Naneruculo",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.36167,
+    -12.82917,
+    38.36167,
+    -12.82917
+],
+  "geometry": {"coordinates":[38.36167,-12.82917],"type":"Point"}
+}

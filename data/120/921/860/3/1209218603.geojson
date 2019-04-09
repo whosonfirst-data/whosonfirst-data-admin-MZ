@@ -1,0 +1,67 @@
+{
+  "id": 1209218603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.73861,-12.95278,39.73861,-12.95278",
+    "geom:latitude":-12.95278,
+    "geom:longitude":39.73861,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Naputa",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085709,
+    "gn:latitude":-12.95278,
+    "gn:longitude":39.73861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naputa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Napuda",
+        "Naputa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085709,
+        "wk:page":"Naputa"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cc70e748f9f6383e2cf9def98af8bd12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209218603
+        }
+    ],
+    "wof:id":1209218603,
+    "wof:lastmodified":1537674615,
+    "wof:name":"Naputa",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.73861,
+    -12.95278,
+    39.73861,
+    -12.95278
+],
+  "geometry": {"coordinates":[39.73861,-12.95278],"type":"Point"}
+}

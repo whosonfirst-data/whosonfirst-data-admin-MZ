@@ -1,0 +1,72 @@
+{
+  "id": 1260190101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.15528,-22.53583,34.15528,-22.53583",
+    "geom:latitude":-22.53583,
+    "geom:longitude":34.15528,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Chefe Mambuili",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041287,
+    "gn:latitude":-22.53583,
+    "gn:longitude":34.15528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Mambuili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mambuile",
+        "Chefe Mambuili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041287
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5c74cb564676cb80a296b8ffc7e15a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697505,
+            "locality_id":1260190101,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1260190101,
+    "wof:lastmodified":1537674546,
+    "wof:name":"Chefe Mambuili",
+    "wof:parent_id":1091697505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.15528,
+    -22.53583,
+    34.15528,
+    -22.53583
+],
+  "geometry": {"coordinates":[34.15528,-22.53583],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209527093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.00778,-22.63639,34.00778,-22.63639",
+    "geom:latitude":-22.63639,
+    "geom:longitude":34.00778,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Saisse",
+    "gn:country_code":"MZ",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027635,
+    "gn:latitude":-22.63639,
+    "gn:longitude":34.00778,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Saisse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027635
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b33afa69eaf58d6c52cbf0383abd4220",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209527093
+        }
+    ],
+    "wof:id":1209527093,
+    "wof:lastmodified":1536284401,
+    "wof:name":"Saisse",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.00778,
+    -22.63639,
+    34.00778,
+    -22.63639
+],
+  "geometry": {"coordinates":[34.00778,-22.63639],"type":"Point"}
+}

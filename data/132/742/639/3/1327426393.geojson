@@ -1,0 +1,67 @@
+{
+  "id": 1327426393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.45083,-16.40111,39.45083,-16.40111",
+    "geom:latitude":-16.40111,
+    "geom:longitude":39.45083,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chefe Matela",
+    "gn:country_code":"MZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095558,
+    "gn:latitude":-16.40111,
+    "gn:longitude":39.45083,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Chefe Matela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095558
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1e21938b9466892fc63ee8a8c3b8c75d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1327426393,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1327426393,
+    "wof:lastmodified":1536689621,
+    "wof:name":"Chefe Matela",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.45083,
+    -16.40111,
+    39.45083,
+    -16.40111
+],
+  "geometry": {"coordinates":[39.45083,-16.40111],"type":"Point"}
+}

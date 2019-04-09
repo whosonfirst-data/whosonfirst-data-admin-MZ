@@ -1,0 +1,67 @@
+{
+  "id": 1243281545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.13056,-13.87667,39.13056,-13.87667",
+    "geom:latitude":-13.87667,
+    "geom:longitude":39.13056,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Cabo Macarribe",
+    "gn:country_code":"MZ",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086055,
+    "gn:latitude":-13.87667,
+    "gn:longitude":39.13056,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Cabo Macarribe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086055
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1426d5b23715331b8ab9ed04e86f2442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700995,
+            "locality_id":1243281545,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1243281545,
+    "wof:lastmodified":1537041501,
+    "wof:name":"Cabo Macarribe",
+    "wof:parent_id":1091700995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.13056,
+    -13.87667,
+    39.13056,
+    -13.87667
+],
+  "geometry": {"coordinates":[39.13056,-13.87667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327343749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.11667,-15.88333,31.11667,-15.88333",
+    "geom:latitude":-15.88333,
+    "geom:longitude":31.11667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Chitando",
+    "gn:country_code":"MZ",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048632,
+    "gn:latitude":-15.88333,
+    "gn:longitude":31.11667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Chitando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091698723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048632
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8ecf0332c3ef39a74981840cc9c9f3b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698723,
+            "locality_id":1327343749,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1327343749,
+    "wof:lastmodified":1536808386,
+    "wof:name":"Chitando",
+    "wof:parent_id":1091698723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.11667000000001,
+    -15.88333,
+    31.11667000000001,
+    -15.88333
+],
+  "geometry": {"coordinates":[31.11667000000001,-15.88333],"type":"Point"}
+}

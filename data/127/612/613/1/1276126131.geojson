@@ -1,0 +1,67 @@
+{
+  "id": 1276126131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.48833,-22.56722,35.48833,-22.56722",
+    "geom:latitude":-22.56722,
+    "geom:longitude":35.48833,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mosondai",
+    "gn:country_code":"MZ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101088,
+    "gn:latitude":-22.56722,
+    "gn:longitude":35.48833,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Mosondai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101088
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"43f85600e8a82397e26074702d5c0c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701605,
+            "locality_id":1276126131,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1276126131,
+    "wof:lastmodified":1537053850,
+    "wof:name":"Mosondai",
+    "wof:parent_id":1091701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48833,
+    -22.56722,
+    35.48833,
+    -22.56722
+],
+  "geometry": {"coordinates":[35.48833,-22.56722],"type":"Point"}
+}

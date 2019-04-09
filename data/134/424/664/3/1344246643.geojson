@@ -1,0 +1,72 @@
+{
+  "id": 1344246643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.09167,-17.09083,36.09167,-17.09083",
+    "geom:latitude":-17.09083,
+    "geom:longitude":36.09167,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Gabizua",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046175,
+    "gn:latitude":-17.09083,
+    "gn:longitude":36.09167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gabizua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gabisua",
+        "Gabizua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046175
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cab9896de5bfb4a266e6ce3e240df895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700255,
+            "locality_id":1344246643,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1344246643,
+    "wof:lastmodified":1537674573,
+    "wof:name":"Gabizua",
+    "wof:parent_id":1091700255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.09167,
+    -17.09083,
+    36.09167,
+    -17.09083
+],
+  "geometry": {"coordinates":[36.09167,-17.09083],"type":"Point"}
+}

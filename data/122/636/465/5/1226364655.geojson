@@ -1,0 +1,67 @@
+{
+  "id": 1226364655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.30639,-15.92472,39.30639,-15.92472",
+    "geom:latitude":-15.92472,
+    "geom:longitude":39.30639,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Niputa",
+    "gn:country_code":"MZ",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029738,
+    "gn:latitude":-15.92472,
+    "gn:longitude":39.30639,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Niputa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029738
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e3abe28db178f390d65ded11008667c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700133,
+            "locality_id":1226364655,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1226364655,
+    "wof:lastmodified":1536762599,
+    "wof:name":"Niputa",
+    "wof:parent_id":1091700133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.30639,
+    -15.92472,
+    39.30639,
+    -15.92472
+],
+  "geometry": {"coordinates":[39.30639,-15.92472],"type":"Point"}
+}

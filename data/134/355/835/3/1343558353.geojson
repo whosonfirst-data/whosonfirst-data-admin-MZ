@@ -1,0 +1,67 @@
+{
+  "id": 1343558353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.13611,-15.46556,33.13611,-15.46556",
+    "geom:latitude":-15.46556,
+    "geom:longitude":33.13611,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Chibarongondo",
+    "gn:country_code":"MZ",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049920,
+    "gn:latitude":-15.46556,
+    "gn:longitude":33.13611,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Chibarongondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049920
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e7d3f6598b178dad390fd73cc36628a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696825,
+            "locality_id":1343558353,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1343558353,
+    "wof:lastmodified":1536601857,
+    "wof:name":"Chibarongondo",
+    "wof:parent_id":1091696825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.13611,
+    -15.46556,
+    33.13611,
+    -15.46556
+],
+  "geometry": {"coordinates":[33.13611,-15.46556],"type":"Point"}
+}

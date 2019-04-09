@@ -1,0 +1,67 @@
+{
+  "id": 1360303091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.21194,-11.27833,39.21194,-11.27833",
+    "geom:latitude":-11.27833,
+    "geom:longitude":39.21194,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Senjuga",
+    "gn:country_code":"MZ",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027058,
+    "gn:latitude":-11.27833,
+    "gn:longitude":39.21194,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Senjuga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027058
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2b4bed8d45b00beb7e8c797722294726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1360303091,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1360303091,
+    "wof:lastmodified":1536629425,
+    "wof:name":"Senjuga",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.21194000000001,
+    -11.27833,
+    39.21194000000001,
+    -11.27833
+],
+  "geometry": {"coordinates":[39.21194000000001,-11.27833],"type":"Point"}
+}

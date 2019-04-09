@@ -1,0 +1,61 @@
+{
+  "id": 1209612037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.15472,-17.31972,35.15472,-17.31972",
+    "geom:latitude":-17.31972,
+    "geom:longitude":35.15472,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Charre",
+    "gn:country_code":"MZ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050250,
+    "gn:latitude":-17.31972,
+    "gn:longitude":35.15472,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Charre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050250
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1c3b4fd4f912eac34bcf74c209325dc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209612037
+        }
+    ],
+    "wof:id":1209612037,
+    "wof:lastmodified":1536281816,
+    "wof:name":"Charre",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.154720000000005,
+    -17.31972,
+    35.154720000000005,
+    -17.31972
+],
+  "geometry": {"coordinates":[35.15472,-17.31972],"type":"Point"}
+}

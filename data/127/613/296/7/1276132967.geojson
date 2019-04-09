@@ -1,0 +1,67 @@
+{
+  "id": 1276132967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.55056,-11.38306,38.55056,-11.38306",
+    "geom:latitude":-11.38306,
+    "geom:longitude":38.55056,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chicamunde",
+    "gn:country_code":"MZ",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049828,
+    "gn:latitude":-11.38306,
+    "gn:longitude":38.55056,
+    "gn:modification_date":"1995-02-06",
+    "gn:name":"Chicamunde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049828
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8e44a531215cffcad2fe5bb4816eb05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1276132967,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276132967,
+    "wof:lastmodified":1537045163,
+    "wof:name":"Chicamunde",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.55056,
+    -11.38306,
+    38.55056,
+    -11.38306
+],
+  "geometry": {"coordinates":[38.55056,-11.38306],"type":"Point"}
+}

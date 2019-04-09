@@ -1,0 +1,67 @@
+{
+  "id": 1310117637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.90556,-22.77944,33.90556,-22.77944",
+    "geom:latitude":-22.77944,
+    "geom:longitude":33.90556,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Chicoche",
+    "gn:country_code":"MZ",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049731,
+    "gn:latitude":-22.77944,
+    "gn:longitude":33.90556,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Chic\u00f4che",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049731
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b0bc173918183403a20b5edaa4183513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697505,
+            "locality_id":1310117637,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1310117637,
+    "wof:lastmodified":1536978340,
+    "wof:name":"Chicoche",
+    "wof:parent_id":1091697505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.90555999999999,
+    -22.77944,
+    33.90555999999999,
+    -22.77944
+],
+  "geometry": {"coordinates":[33.90555999999999,-22.77944],"type":"Point"}
+}

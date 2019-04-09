@@ -1,0 +1,67 @@
+{
+  "id": 1344058689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.55417,-21.38694,33.55417,-21.38694",
+    "geom:latitude":-21.38694,
+    "geom:longitude":33.55417,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Uateche",
+    "gn:country_code":"MZ",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025227,
+    "gn:latitude":-21.38694,
+    "gn:longitude":33.55417,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Uateche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025227
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"977043e2d89a6d4c0aa14c0c9e0308ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698405,
+            "locality_id":1344058689,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1344058689,
+    "wof:lastmodified":1536877269,
+    "wof:name":"Uateche",
+    "wof:parent_id":1091698405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.55417,
+    -21.38694,
+    33.55417,
+    -21.38694
+],
+  "geometry": {"coordinates":[33.55417,-21.38694],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344051665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.13694,-16.33278,38.13694,-16.33278",
+    "geom:latitude":-16.33278,
+    "geom:longitude":38.13694,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Merrua",
+    "gn:country_code":"MZ",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038491,
+    "gn:latitude":-16.33278,
+    "gn:longitude":38.13694,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Merrua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038491
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3d216e470665156101fe90ebd00ce9e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697545,
+            "locality_id":1344051665,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1344051665,
+    "wof:lastmodified":1536887911,
+    "wof:name":"Merrua",
+    "wof:parent_id":1091697545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.13694,
+    -16.33278,
+    38.13694,
+    -16.33278
+],
+  "geometry": {"coordinates":[38.13694,-16.33278],"type":"Point"}
+}

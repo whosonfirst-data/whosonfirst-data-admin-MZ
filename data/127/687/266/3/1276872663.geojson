@@ -1,0 +1,67 @@
+{
+  "id": 1276872663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.32889,-24.87528,32.32889,-24.87528",
+    "geom:latitude":-24.87528,
+    "geom:longitude":32.32889,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Manuel Miranda",
+    "gn:country_code":"MZ",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1102417,
+    "gn:latitude":-24.87528,
+    "gn:longitude":32.32889,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Manuel Miranda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1102417
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e197e9441a9e73f24ecc7e12bc52c951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1276872663,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1276872663,
+    "wof:lastmodified":1537048751,
+    "wof:name":"Manuel Miranda",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.32889,
+    -24.87528,
+    32.32889,
+    -24.87528
+],
+  "geometry": {"coordinates":[32.32889,-24.87528],"type":"Point"}
+}

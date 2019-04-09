@@ -1,0 +1,67 @@
+{
+  "id": 1326714819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.95639,-15.53194,36.95639,-15.53194",
+    "geom:latitude":-15.53194,
+    "geom:longitude":36.95639,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Noelela",
+    "gn:country_code":"MZ",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029637,
+    "gn:latitude":-15.53194,
+    "gn:longitude":36.95639,
+    "gn:modification_date":"1998-05-14",
+    "gn:name":"No\u00e8l\u00e8l\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029637
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6ba1e94f943e4bbd5179539af11f20a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697801,
+            "locality_id":1326714819,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1326714819,
+    "wof:lastmodified":1536721242,
+    "wof:name":"Noelela",
+    "wof:parent_id":1091697801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.95639,
+    -15.53194,
+    36.95639,
+    -15.53194
+],
+  "geometry": {"coordinates":[36.95639,-15.53194],"type":"Point"}
+}

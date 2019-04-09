@@ -1,0 +1,67 @@
+{
+  "id": 1360187691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.01278,-24.44139,33.01278,-24.44139",
+    "geom:latitude":-24.44139,
+    "geom:longitude":33.01278,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Regulo Bique",
+    "gn:country_code":"MZ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097230,
+    "gn:latitude":-24.44139,
+    "gn:longitude":33.01278,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"R\u00e9gulo Bique",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091697721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097230
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d445c123c0d9a9d32ec16eea01319399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697721,
+            "locality_id":1360187691,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1360187691,
+    "wof:lastmodified":1536797743,
+    "wof:name":"Regulo Bique",
+    "wof:parent_id":1091697721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.01278,
+    -24.44139,
+    33.01278,
+    -24.44139
+],
+  "geometry": {"coordinates":[33.01278,-24.44139],"type":"Point"}
+}

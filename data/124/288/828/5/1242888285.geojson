@@ -1,0 +1,67 @@
+{
+  "id": 1242888285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.8175,-11.37694,39.8175,-11.37694",
+    "geom:latitude":-11.37694,
+    "geom:longitude":39.8175,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Dudo",
+    "gn:country_code":"MZ",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046836,
+    "gn:latitude":-11.37694,
+    "gn:longitude":39.8175,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Dudo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046836
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bfd0428ada1b33956836c2b66f35e1d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701043,
+            "locality_id":1242888285,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1242888285,
+    "wof:lastmodified":1536613704,
+    "wof:name":"Dudo",
+    "wof:parent_id":1091701043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.8175,
+    -11.37694,
+    39.8175,
+    -11.37694
+],
+  "geometry": {"coordinates":[39.8175,-11.37694],"type":"Point"}
+}

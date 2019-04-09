@@ -1,0 +1,67 @@
+{
+  "id": 1210006339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04167,-15.78278,36.04167,-15.78278",
+    "geom:latitude":-15.78278,
+    "geom:longitude":36.04167,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Regulo Corromana",
+    "gn:country_code":"MZ",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090761,
+    "gn:latitude":-15.78278,
+    "gn:longitude":36.04167,
+    "gn:modification_date":"1998-05-14",
+    "gn:name":"R\u00e9gulo Corromana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091699895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090761
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e92c640782a6ef0d6d2a60d1fc84fbbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699895,
+            "locality_id":1210006339,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1210006339,
+    "wof:lastmodified":1536373286,
+    "wof:name":"Regulo Corromana",
+    "wof:parent_id":1091699895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04167,
+    -15.78278,
+    36.04167,
+    -15.78278
+],
+  "geometry": {"coordinates":[36.04167,-15.78278],"type":"Point"}
+}

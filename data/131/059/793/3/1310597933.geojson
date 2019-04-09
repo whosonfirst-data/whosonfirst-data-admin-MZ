@@ -1,0 +1,67 @@
+{
+  "id": 1310597933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.02861,-11.7875,38.02861,-11.7875",
+    "geom:latitude":-11.7875,
+    "geom:longitude":38.02861,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Lussange",
+    "gn:country_code":"MZ",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043168,
+    "gn:latitude":-11.7875,
+    "gn:longitude":38.02861,
+    "gn:modification_date":"1995-02-06",
+    "gn:name":"Lussange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043168
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c0c19e85d9d352b0d17a046126a401cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699731,
+            "locality_id":1310597933,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1310597933,
+    "wof:lastmodified":1536784140,
+    "wof:name":"Lussange",
+    "wof:parent_id":1091699731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.02861,
+    -11.7875,
+    38.02861,
+    -11.7875
+],
+  "geometry": {"coordinates":[38.02861,-11.7875],"type":"Point"}
+}

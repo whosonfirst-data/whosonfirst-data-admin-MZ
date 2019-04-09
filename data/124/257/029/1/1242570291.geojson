@@ -1,0 +1,67 @@
+{
+  "id": 1242570291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.20639,-14.05167,40.20639,-14.05167",
+    "geom:latitude":-14.05167,
+    "geom:longitude":40.20639,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Metali",
+    "gn:country_code":"MZ",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038241,
+    "gn:latitude":-14.05167,
+    "gn:longitude":40.20639,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Metali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038241
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bc6efdea165a280df5f3df330e641eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699799,
+            "locality_id":1242570291,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1242570291,
+    "wof:lastmodified":1537071137,
+    "wof:name":"Metali",
+    "wof:parent_id":1091699799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.20639,
+    -14.05167,
+    40.20639,
+    -14.05167
+],
+  "geometry": {"coordinates":[40.20639,-14.05167],"type":"Point"}
+}

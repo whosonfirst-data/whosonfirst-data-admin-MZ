@@ -1,0 +1,79 @@
+{
+  "id": 1276128499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.58333,-16.16667,31.58333,-16.16667",
+    "geom:latitude":-16.16667,
+    "geom:longitude":31.58333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Chissico",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048696,
+    "gn:latitude":-16.16667,
+    "gn:longitude":31.58333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chissico",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Chissico"
+    ],
+    "name:por_x_variant":[
+        "Mucumbura",
+        "Mecumbura"
+    ],
+    "name:und_x_variant":[
+        "Mucumbura",
+        "Mecumbura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091698723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048696
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"15151f9c2826dd7f80ac7e9ad6bb50e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698723,
+            "locality_id":1276128499,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1276128499,
+    "wof:lastmodified":1537674587,
+    "wof:name":"Chissico",
+    "wof:parent_id":1091698723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.58333,
+    -16.16667,
+    31.58333,
+    -16.16667
+],
+  "geometry": {"coordinates":[31.58333,-16.16667],"type":"Point"}
+}

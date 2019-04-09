@@ -1,0 +1,61 @@
+{
+  "id": 1209206389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.81389,-11.93972,37.81389,-11.93972",
+    "geom:latitude":-11.93972,
+    "geom:longitude":37.81389,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Macanga",
+    "gn:country_code":"MZ",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042874,
+    "gn:latitude":-11.93972,
+    "gn:longitude":37.81389,
+    "gn:modification_date":"1995-02-06",
+    "gn:name":"Macanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042874
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2d67fe4384c56b27de42cc0c91e95fed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209206389
+        }
+    ],
+    "wof:id":1209206389,
+    "wof:lastmodified":1536294441,
+    "wof:name":"Macanga",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.81389,
+    -11.93972,
+    37.81389,
+    -11.93972
+],
+  "geometry": {"coordinates":[37.81389,-11.93972],"type":"Point"}
+}

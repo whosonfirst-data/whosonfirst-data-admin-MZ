@@ -1,0 +1,67 @@
+{
+  "id": 1260385771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86139,-14.32083,35.86139,-14.32083",
+    "geom:latitude":-14.32083,
+    "geom:longitude":35.86139,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Napulo",
+    "gn:country_code":"MZ",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087846,
+    "gn:latitude":-14.32083,
+    "gn:longitude":35.86139,
+    "gn:modification_date":"1997-04-24",
+    "gn:name":"Napulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087846
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c7f6b59ddcd3901e3da3b81c11a2a90d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698923,
+            "locality_id":1260385771,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1260385771,
+    "wof:lastmodified":1537068970,
+    "wof:name":"Napulo",
+    "wof:parent_id":1091698923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86139,
+    -14.32083,
+    35.86139,
+    -14.32083
+],
+  "geometry": {"coordinates":[35.86139,-14.32083],"type":"Point"}
+}

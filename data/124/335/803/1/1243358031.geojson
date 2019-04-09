@@ -1,0 +1,67 @@
+{
+  "id": 1243358031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.79778,-13.54028,35.79778,-13.54028",
+    "geom:latitude":-13.54028,
+    "geom:longitude":35.79778,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Cacuangi",
+    "gn:country_code":"MZ",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051744,
+    "gn:latitude":-13.54028,
+    "gn:longitude":35.79778,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Cacuangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051744
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"97672753344561e1c4133f723374f0cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698823,
+            "locality_id":1243358031,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1243358031,
+    "wof:lastmodified":1536933841,
+    "wof:name":"Cacuangi",
+    "wof:parent_id":1091698823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.79778,
+    -13.54028,
+    35.79778,
+    -13.54028
+],
+  "geometry": {"coordinates":[35.79778,-13.54028],"type":"Point"}
+}

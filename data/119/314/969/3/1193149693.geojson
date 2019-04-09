@@ -1,0 +1,67 @@
+{
+  "id": 1193149693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.77639,-22.56028,31.77639,-22.56028",
+    "geom:latitude":-22.56028,
+    "geom:longitude":31.77639,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Jose A. Luis",
+    "gn:country_code":"MZ",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1098279,
+    "gn:latitude":-22.56028,
+    "gn:longitude":31.77639,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Jos\u00e9 A. Luis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1098279
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cfd575355f6ee0f370a7d1cc03b6d2cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696621,
+            "locality_id":1193149693,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1193149693,
+    "wof:lastmodified":1536379592,
+    "wof:name":"Jose A. Luis",
+    "wof:parent_id":1091696621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.77639000000001,
+    -22.56028,
+    31.77639000000001,
+    -22.56028
+],
+  "geometry": {"coordinates":[31.77639000000001,-22.56028],"type":"Point"}
+}

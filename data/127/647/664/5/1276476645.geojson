@@ -1,0 +1,67 @@
+{
+  "id": 1276476645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.365,-18.75889,34.365,-18.75889",
+    "geom:latitude":-18.75889,
+    "geom:longitude":34.365,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Messussa",
+    "gn:country_code":"MZ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038285,
+    "gn:latitude":-18.75889,
+    "gn:longitude":34.365,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Messussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091697631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038285
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ae6f937f553a38542b856bd578a97ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697631,
+            "locality_id":1276476645,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1276476645,
+    "wof:lastmodified":1537080875,
+    "wof:name":"Messussa",
+    "wof:parent_id":1091697631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.365,
+    -18.75889,
+    34.365,
+    -18.75889
+],
+  "geometry": {"coordinates":[34.365,-18.75889],"type":"Point"}
+}

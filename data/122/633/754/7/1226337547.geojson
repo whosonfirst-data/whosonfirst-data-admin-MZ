@@ -1,0 +1,72 @@
+{
+  "id": 1226337547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.46056,-17.71083,33.46056,-17.71083",
+    "geom:latitude":-17.71083,
+    "geom:longitude":33.46056,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Souenge",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027212,
+    "gn:latitude":-17.71083,
+    "gn:longitude":33.46056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Souenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sauenge",
+        "Souenge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027212
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e0be79f3f64bbf7075660037ff5416b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698625,
+            "locality_id":1226337547,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1226337547,
+    "wof:lastmodified":1537674484,
+    "wof:name":"Souenge",
+    "wof:parent_id":1091698625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.46056,
+    -17.71082999999999,
+    33.46056,
+    -17.71082999999999
+],
+  "geometry": {"coordinates":[33.46056,-17.71082999999999],"type":"Point"}
+}

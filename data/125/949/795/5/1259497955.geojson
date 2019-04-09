@@ -1,0 +1,67 @@
+{
+  "id": 1259497955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.56667,-17.23333,37.56667,-17.23333",
+    "geom:latitude":-17.23333,
+    "geom:longitude":37.56667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Nandare",
+    "gn:country_code":"MZ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1033172,
+    "gn:latitude":-17.23333,
+    "gn:longitude":37.56667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Nandare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1033172
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"02faf1276f4f433cee9cf26947bdc957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698671,
+            "locality_id":1259497955,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1259497955,
+    "wof:lastmodified":1536836914,
+    "wof:name":"Nandare",
+    "wof:parent_id":1091698671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.56667,
+    -17.23333,
+    37.56667,
+    -17.23333
+],
+  "geometry": {"coordinates":[37.56667,-17.23333],"type":"Point"}
+}

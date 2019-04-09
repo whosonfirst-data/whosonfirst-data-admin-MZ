@@ -1,0 +1,67 @@
+{
+  "id": 1193040339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.05528,-14.06083,40.05528,-14.06083",
+    "geom:latitude":-14.06083,
+    "geom:longitude":40.05528,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Niatuva",
+    "gn:country_code":"MZ",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1030004,
+    "gn:latitude":-14.06083,
+    "gn:longitude":40.05528,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Niatuva",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091697455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1030004
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3a9a24150055e2bc0ffc1451f958a487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697455,
+            "locality_id":1193040339,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1193040339,
+    "wof:lastmodified":1536376600,
+    "wof:name":"Niatuva",
+    "wof:parent_id":1091697455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.05528,
+    -14.06083,
+    40.05528,
+    -14.06083
+],
+  "geometry": {"coordinates":[40.05528,-14.06083],"type":"Point"}
+}

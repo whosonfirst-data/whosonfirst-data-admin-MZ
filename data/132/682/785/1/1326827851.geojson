@@ -1,0 +1,67 @@
+{
+  "id": 1326827851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.35583,-16.15222,39.35583,-16.15222",
+    "geom:latitude":-16.15222,
+    "geom:longitude":39.35583,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Injala",
+    "gn:country_code":"MZ",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044955,
+    "gn:latitude":-16.15222,
+    "gn:longitude":39.35583,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Injala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044955
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"23ef60aac7cd17530ad8e5840f9c21fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1326827851,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1326827851,
+    "wof:lastmodified":1537052855,
+    "wof:name":"Injala",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.35583,
+    -16.15222,
+    39.35583,
+    -16.15222
+],
+  "geometry": {"coordinates":[39.35583,-16.15222],"type":"Point"}
+}

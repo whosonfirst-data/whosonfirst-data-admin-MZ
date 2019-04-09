@@ -1,0 +1,67 @@
+{
+  "id": 1310495433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.27111,-17.97222,33.27111,-17.97222",
+    "geom:latitude":-17.97222,
+    "geom:longitude":33.27111,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Vunze",
+    "gn:country_code":"MZ",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024576,
+    "gn:latitude":-17.97222,
+    "gn:longitude":33.27111,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Vunz\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091696359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024576
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5fe4c355b46b04f0f467193549f05025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696359,
+            "locality_id":1310495433,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1310495433,
+    "wof:lastmodified":1536932187,
+    "wof:name":"Vunze",
+    "wof:parent_id":1091696359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.27111,
+    -17.97222,
+    33.27111,
+    -17.97222
+],
+  "geometry": {"coordinates":[33.27111,-17.97222],"type":"Point"}
+}

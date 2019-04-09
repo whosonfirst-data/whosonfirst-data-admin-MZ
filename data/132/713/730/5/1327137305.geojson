@@ -1,0 +1,67 @@
+{
+  "id": 1327137305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.91806,-24.57333,33.91806,-24.57333",
+    "geom:latitude":-24.57333,
+    "geom:longitude":33.91806,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Aldeia das Laranjeras",
+    "gn:country_code":"MZ",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097820,
+    "gn:latitude":-24.57333,
+    "gn:longitude":33.91806,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Aldeia das Laranjeras",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091698967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097820
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ec191f2fd20dfad1ca7f53c36bcc1c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698967,
+            "locality_id":1327137305,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1327137305,
+    "wof:lastmodified":1536606070,
+    "wof:name":"Aldeia das Laranjeras",
+    "wof:parent_id":1091698967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.91806,
+    -24.57333,
+    33.91806,
+    -24.57333
+],
+  "geometry": {"coordinates":[33.91806,-24.57333],"type":"Point"}
+}

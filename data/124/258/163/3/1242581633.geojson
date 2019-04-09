@@ -1,0 +1,67 @@
+{
+  "id": 1242581633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.97389,-12.9175,38.97389,-12.9175",
+    "geom:latitude":-12.9175,
+    "geom:longitude":38.97389,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Namuira",
+    "gn:country_code":"MZ",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1033258,
+    "gn:latitude":-12.9175,
+    "gn:longitude":38.97389,
+    "gn:modification_date":"1995-06-22",
+    "gn:name":"Namuira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1033258
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"197dcb8e01dee2f7d57f77eb9e1f87fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1242581633,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1242581633,
+    "wof:lastmodified":1537055398,
+    "wof:name":"Namuira",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.97389,
+    -12.9175,
+    38.97389,
+    -12.9175
+],
+  "geometry": {"coordinates":[38.97389,-12.9175],"type":"Point"}
+}

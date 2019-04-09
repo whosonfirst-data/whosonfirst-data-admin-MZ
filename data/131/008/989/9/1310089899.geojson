@@ -1,0 +1,67 @@
+{
+  "id": 1310089899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.60972,-17.10778,35.60972,-17.10778",
+    "geom:latitude":-17.10778,
+    "geom:longitude":35.60972,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Cozombe",
+    "gn:country_code":"MZ",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095566,
+    "gn:latitude":-17.10778,
+    "gn:longitude":35.60972,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Cozombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095566
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"016d0894b9d969a1facb8a873c9c361e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700255,
+            "locality_id":1310089899,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1310089899,
+    "wof:lastmodified":1537018261,
+    "wof:name":"Cozombe",
+    "wof:parent_id":1091700255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.60972,
+    -17.10778,
+    35.60972,
+    -17.10778
+],
+  "geometry": {"coordinates":[35.60972,-17.10778],"type":"Point"}
+}

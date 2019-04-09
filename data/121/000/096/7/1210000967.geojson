@@ -1,0 +1,72 @@
+{
+  "id": 1210000967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.14639,-15.02306,37.14639,-15.02306",
+    "geom:latitude":-15.02306,
+    "geom:longitude":37.14639,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Namucuilo",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046722,
+    "gn:latitude":-15.02306,
+    "gn:longitude":37.14639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Namucuilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elema",
+        "Namucuilo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046722
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"375b53bf38d41119a2fc0ebbdb63f3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697801,
+            "locality_id":1210000967,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1210000967,
+    "wof:lastmodified":1537674576,
+    "wof:name":"Namucuilo",
+    "wof:parent_id":1091697801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.14639,
+    -15.02306,
+    37.14639,
+    -15.02306
+],
+  "geometry": {"coordinates":[37.14639,-15.02306],"type":"Point"}
+}

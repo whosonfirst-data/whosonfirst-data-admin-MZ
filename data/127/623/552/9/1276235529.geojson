@@ -1,0 +1,67 @@
+{
+  "id": 1276235529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.14194,-21.64111,34.14194,-21.64111",
+    "geom:latitude":-21.64111,
+    "geom:longitude":34.14194,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zuca",
+    "gn:country_code":"MZ",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024081,
+    "gn:latitude":-21.64111,
+    "gn:longitude":34.14194,
+    "gn:modification_date":"1998-04-29",
+    "gn:name":"Zuca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024081
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5f17536801fdf07c29a67c6d5d9c3a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698405,
+            "locality_id":1276235529,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1276235529,
+    "wof:lastmodified":1536909976,
+    "wof:name":"Zuca",
+    "wof:parent_id":1091698405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.14194000000001,
+    -21.64111,
+    34.14194000000001,
+    -21.64111
+],
+  "geometry": {"coordinates":[34.14194000000001,-21.64111],"type":"Point"}
+}

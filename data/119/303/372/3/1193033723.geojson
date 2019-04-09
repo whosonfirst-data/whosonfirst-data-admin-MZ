@@ -1,0 +1,67 @@
+{
+  "id": 1193033723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.98472,-12.86611,38.98472,-12.86611",
+    "geom:latitude":-12.86611,
+    "geom:longitude":38.98472,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Cantoneiro",
+    "gn:country_code":"MZ",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085440,
+    "gn:latitude":-12.86611,
+    "gn:longitude":38.98472,
+    "gn:modification_date":"1995-06-22",
+    "gn:name":"Cantoneiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085440
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"06c86df982b02c58aca0f16b8234b82e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1193033723,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1193033723,
+    "wof:lastmodified":1536383281,
+    "wof:name":"Cantoneiro",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.98472,
+    -12.86611,
+    38.98472,
+    -12.86611
+],
+  "geometry": {"coordinates":[38.98472,-12.86611],"type":"Point"}
+}

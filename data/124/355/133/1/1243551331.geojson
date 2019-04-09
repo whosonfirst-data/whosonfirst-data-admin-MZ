@@ -1,0 +1,67 @@
+{
+  "id": 1243551331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.2225,-13.21111,35.2225,-13.21111",
+    "geom:latitude":-13.21111,
+    "geom:longitude":35.2225,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Naossa",
+    "gn:country_code":"MZ",
+    "gn:dem":1294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1032935,
+    "gn:latitude":-13.21111,
+    "gn:longitude":35.2225,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Naossa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1032935
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"880f400dc5c157c79b43b905284c209f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698283,
+            "locality_id":1243551331,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1243551331,
+    "wof:lastmodified":1536654410,
+    "wof:name":"Naossa",
+    "wof:parent_id":1091698283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2225,
+    -13.21111,
+    35.2225,
+    -13.21111
+],
+  "geometry": {"coordinates":[35.2225,-13.21111],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242775409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.425,-14.35222,40.425,-14.35222",
+    "geom:latitude":-14.35222,
+    "geom:longitude":40.425,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Sousa",
+    "gn:country_code":"MZ",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089231,
+    "gn:latitude":-14.35222,
+    "gn:longitude":40.425,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Sousa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089231
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5fb2a40113aeaae3338126c77c82295d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699799,
+            "locality_id":1242775409,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1242775409,
+    "wof:lastmodified":1536779309,
+    "wof:name":"Sousa",
+    "wof:parent_id":1091699799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.425,
+    -14.35222,
+    40.425,
+    -14.35222
+],
+  "geometry": {"coordinates":[40.425,-14.35222],"type":"Point"}
+}

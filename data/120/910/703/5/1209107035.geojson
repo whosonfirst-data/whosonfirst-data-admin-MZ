@@ -1,0 +1,61 @@
+{
+  "id": 1209107035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.03167,-24.31028,32.03167,-24.31028",
+    "geom:latitude":-24.31028,
+    "geom:longitude":32.03167,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chacanhe",
+    "gn:country_code":"MZ",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104299,
+    "gn:latitude":-24.31028,
+    "gn:longitude":32.03167,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Chacanhe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104299
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"79ceff3ab45c3131a47fd1e603dcb152",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209107035
+        }
+    ],
+    "wof:id":1209107035,
+    "wof:lastmodified":1536297535,
+    "wof:name":"Chacanhe",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.03167,
+    -24.31028,
+    32.03167,
+    -24.31028
+],
+  "geometry": {"coordinates":[32.03167,-24.31028],"type":"Point"}
+}

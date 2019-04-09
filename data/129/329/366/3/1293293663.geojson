@@ -1,0 +1,67 @@
+{
+  "id": 1293293663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.34389,-26.69583,32.34389,-26.69583",
+    "geom:latitude":-26.69583,
+    "geom:longitude":32.34389,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tembe",
+    "gn:country_code":"MZ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026110,
+    "gn:latitude":-26.69583,
+    "gn:longitude":32.34389,
+    "gn:modification_date":"1997-09-02",
+    "gn:name":"Tembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026110
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"392c492bd99f0e4984a57feab7e8fb2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699383,
+            "locality_id":1293293663,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1293293663,
+    "wof:lastmodified":1537063631,
+    "wof:name":"Tembe",
+    "wof:parent_id":1091699383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.34389,
+    -26.69583,
+    32.34389,
+    -26.69583
+],
+  "geometry": {"coordinates":[32.34389,-26.69583],"type":"Point"}
+}

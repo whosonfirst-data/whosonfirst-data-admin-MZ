@@ -1,0 +1,61 @@
+{
+  "id": 1209119115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.17694,-24.79889,34.17694,-24.79889",
+    "geom:latitude":-24.79889,
+    "geom:longitude":34.17694,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Uangaze",
+    "gn:country_code":"MZ",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1100671,
+    "gn:latitude":-24.79889,
+    "gn:longitude":34.17694,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Uangaze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1100671
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e3bc815dd77b2ba061a6d78ff61deb9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209119115
+        }
+    ],
+    "wof:id":1209119115,
+    "wof:lastmodified":1536297160,
+    "wof:name":"Uangaze",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.17694,
+    -24.79889,
+    34.17694,
+    -24.79889
+],
+  "geometry": {"coordinates":[34.17694,-24.79889],"type":"Point"}
+}

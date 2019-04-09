@@ -1,0 +1,72 @@
+{
+  "id": 1260296623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.51583,-22.1475,34.51583,-22.1475",
+    "geom:latitude":-22.1475,
+    "geom:longitude":34.51583,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Naiete",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034491,
+    "gn:latitude":-22.1475,
+    "gn:longitude":34.51583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naiete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naite",
+        "Naiete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034491
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"215b995ca56f0b078f092e6e109e982e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698405,
+            "locality_id":1260296623,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1260296623,
+    "wof:lastmodified":1537674509,
+    "wof:name":"Naiete",
+    "wof:parent_id":1091698405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.51583,
+    -22.1475,
+    34.51583,
+    -22.1475
+],
+  "geometry": {"coordinates":[34.51583,-22.1475],"type":"Point"}
+}

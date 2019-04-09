@@ -1,0 +1,61 @@
+{
+  "id": 1209323427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.565,-22.4475,31.565,-22.4475",
+    "geom:latitude":-22.4475,
+    "geom:longitude":31.565,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Julai",
+    "gn:country_code":"MZ",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097918,
+    "gn:latitude":-22.4475,
+    "gn:longitude":31.565,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Julai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097918
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fdbc15de38c5eaced4e85c0953d04215",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209323427
+        }
+    ],
+    "wof:id":1209323427,
+    "wof:lastmodified":1536290612,
+    "wof:name":"Julai",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.565,
+    -22.4475,
+    31.565,
+    -22.4475
+],
+  "geometry": {"coordinates":[31.565,-22.4475],"type":"Point"}
+}

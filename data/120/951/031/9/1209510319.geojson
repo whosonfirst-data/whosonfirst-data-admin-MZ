@@ -1,0 +1,64 @@
+{
+  "id": 1209510319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.77833,-20.80222,32.77833,-20.80222",
+    "geom:latitude":-20.80222,
+    "geom:longitude":32.77833,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Pensela",
+    "gn:country_code":"MZ",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028856,
+    "gn:latitude":-20.80222,
+    "gn:longitude":32.77833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pensela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Pensela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028856
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"07eb30cf427134b407e9db3fc5813ffd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209510319
+        }
+    ],
+    "wof:id":1209510319,
+    "wof:lastmodified":1537674492,
+    "wof:name":"Pensela",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.77833,
+    -20.80222,
+    32.77833,
+    -20.80222
+],
+  "geometry": {"coordinates":[32.77833,-20.80222],"type":"Point"}
+}

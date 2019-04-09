@@ -1,0 +1,67 @@
+{
+  "id": 1226332961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.50472,-15.19194,31.50472,-15.19194",
+    "geom:latitude":-15.19194,
+    "geom:longitude":31.50472,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Aldeia Lingombe",
+    "gn:country_code":"MZ",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089315,
+    "gn:latitude":-15.19194,
+    "gn:longitude":31.50472,
+    "gn:modification_date":"1997-05-30",
+    "gn:name":"Aldeia Lingombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089315
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9ef26c270dd2e1be928d72cfc72d3e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699093,
+            "locality_id":1226332961,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1226332961,
+    "wof:lastmodified":1536807668,
+    "wof:name":"Aldeia Lingombe",
+    "wof:parent_id":1091699093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.50472,
+    -15.19194,
+    31.50472,
+    -15.19194
+],
+  "geometry": {"coordinates":[31.50472,-15.19194],"type":"Point"}
+}

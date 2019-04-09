@@ -1,0 +1,67 @@
+{
+  "id": 1209833761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7,-16.66667,30.7,-16.66667",
+    "geom:latitude":-16.66667,
+    "geom:longitude":30.7,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Guruve",
+    "gn:country_code":"MZ",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045500,
+    "gn:latitude":-16.66667,
+    "gn:longitude":30.7,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Guruve",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681093,
+        890416479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045500
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3949db53bf4f7f4cca554f882d02f437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632243,
+            "county_id":890416479,
+            "locality_id":1209833761,
+            "region_id":85681093
+        }
+    ],
+    "wof:id":1209833761,
+    "wof:lastmodified":1536395822,
+    "wof:name":"Guruve",
+    "wof:parent_id":890416479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7,
+    -16.66667,
+    30.7,
+    -16.66667
+],
+  "geometry": {"coordinates":[30.7,-16.66667],"type":"Point"}
+}

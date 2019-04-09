@@ -1,0 +1,75 @@
+{
+  "id": 1293386881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23472,-13.26667,35.23472,-13.26667",
+    "geom:latitude":-13.26667,
+    "geom:longitude":35.23472,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Amado",
+    "gn:country_code":"MZ",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053095,
+    "gn:latitude":-13.26667,
+    "gn:longitude":35.23472,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Amado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091697077,
+        1091698283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053095
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c7d41e29e960adca8c998d9dd9d557d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697077,
+            "locality_id":1293386881,
+            "region_id":85674821
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698283,
+            "locality_id":1293386881,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1293386881,
+    "wof:lastmodified":1536932852,
+    "wof:name":"Amado",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23472,
+    -13.26667,
+    35.23472,
+    -13.26667
+],
+  "geometry": {"coordinates":[35.23472,-13.26667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242878885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.45194,-19.20194,34.45194,-19.20194",
+    "geom:latitude":-19.20194,
+    "geom:longitude":34.45194,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Leitao",
+    "gn:country_code":"MZ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043979,
+    "gn:latitude":-19.20194,
+    "gn:longitude":34.45194,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Leit\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091701119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043979
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2b9451b660cc2d33a1e4ad5c6a469c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701119,
+            "locality_id":1242878885,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1242878885,
+    "wof:lastmodified":1536627934,
+    "wof:name":"Leitao",
+    "wof:parent_id":1091701119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.45194,
+    -19.20194,
+    34.45194,
+    -19.20194
+],
+  "geometry": {"coordinates":[34.45194,-19.20194],"type":"Point"}
+}

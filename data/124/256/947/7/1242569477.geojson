@@ -1,0 +1,67 @@
+{
+  "id": 1242569477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.70528,-11.72889,35.70528,-11.72889",
+    "geom:latitude":-11.72889,
+    "geom:longitude":35.70528,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mathedje",
+    "gn:country_code":"MZ",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085031,
+    "gn:latitude":-11.72889,
+    "gn:longitude":35.70528,
+    "gn:modification_date":"1995-02-03",
+    "gn:name":"Mathedje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091701443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085031
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a8cf899ffd65936fde6734ea9673fa5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701443,
+            "locality_id":1242569477,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1242569477,
+    "wof:lastmodified":1537072270,
+    "wof:name":"Mathedje",
+    "wof:parent_id":1091701443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70528,
+    -11.72889,
+    35.70528,
+    -11.72889
+],
+  "geometry": {"coordinates":[35.70528,-11.72889],"type":"Point"}
+}

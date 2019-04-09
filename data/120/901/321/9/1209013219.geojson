@@ -1,0 +1,61 @@
+{
+  "id": 1209013219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.17306,-24.57472,34.17306,-24.57472",
+    "geom:latitude":-24.57472,
+    "geom:longitude":34.17306,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Enosse Mabote",
+    "gn:country_code":"MZ",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1099296,
+    "gn:latitude":-24.57472,
+    "gn:longitude":34.17306,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Enosse Mabote",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1099296
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a0a5209c10a7131174b1b6333c99b71c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209013219
+        }
+    ],
+    "wof:id":1209013219,
+    "wof:lastmodified":1536300378,
+    "wof:name":"Enosse Mabote",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.17306,
+    -24.574720000000006,
+    34.17306,
+    -24.574720000000006
+],
+  "geometry": {"coordinates":[34.17306,-24.57472000000001],"type":"Point"}
+}

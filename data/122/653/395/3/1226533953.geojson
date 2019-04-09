@@ -1,0 +1,72 @@
+{
+  "id": 1226533953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.90583,-15.33889,35.90583,-15.33889",
+    "geom:latitude":-15.33889,
+    "geom:longitude":35.90583,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Chitimbe",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090913,
+    "gn:latitude":-15.33889,
+    "gn:longitude":35.90583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Chitimbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chitimbe",
+        "Chefe Chitimbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090913
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3341ea0cf2abc4108629834e645366b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699553,
+            "locality_id":1226533953,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1226533953,
+    "wof:lastmodified":1537674617,
+    "wof:name":"Chefe Chitimbe",
+    "wof:parent_id":1091699553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.90583,
+    -15.33889,
+    35.90583,
+    -15.33889
+],
+  "geometry": {"coordinates":[35.90583,-15.33889],"type":"Point"}
+}

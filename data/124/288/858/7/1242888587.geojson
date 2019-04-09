@@ -1,0 +1,67 @@
+{
+  "id": 1242888587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.01667,-12.41667,39.01667,-12.41667",
+    "geom:latitude":-12.41667,
+    "geom:longitude":39.01667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Chivaro",
+    "gn:country_code":"MZ",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048449,
+    "gn:latitude":-12.41667,
+    "gn:longitude":39.01667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Chivaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048449
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"188644a3345ec11cd0ce075965097158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1242888587,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1242888587,
+    "wof:lastmodified":1536613234,
+    "wof:name":"Chivaro",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.01667,
+    -12.41667,
+    39.01667,
+    -12.41667
+],
+  "geometry": {"coordinates":[39.01667,-12.41667],"type":"Point"}
+}

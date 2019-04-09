@@ -1,0 +1,79 @@
+{
+  "id": 421177349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.33278,-22.45306,31.33278,-22.45306",
+    "geom:latitude":-22.45306,
+    "geom:longitude":31.33278,
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Alto Limpopo"
+    ],
+    "qs:gn_country":"MZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1029304,
+    "qs:gn_pop":0,
+    "qs:name":"Paf\u00fari",
+    "qs:name_adm0":"Mo\u00e7ambique",
+    "qs:name_adm1":"Gaza",
+    "qs:photos":58,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":58,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1175302,
+    "qs:woe_adm0":23424902,
+    "qs:woe_id":1554087,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029304,
+        "gp:id":1554087,
+        "qs:id":1175302
+    },
+    "wof:country":"MZ",
+    "wof:created":1459009141,
+    "wof:geomhash":"f0b3a2ad390d51917f939a1aa93a31b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696621,
+            "locality_id":421177349,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":421177349,
+    "wof:lastmodified":1501216605,
+    "wof:name":"Paf\u00fari",
+    "wof:parent_id":1091696621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.33278,
+    -22.45306,
+    31.33278,
+    -22.45306
+],
+  "geometry": {"coordinates":[31.33278,-22.45306],"type":"Point"}
+}

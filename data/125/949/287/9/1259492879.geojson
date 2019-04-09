@@ -1,0 +1,68 @@
+{
+  "id": 1259492879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.87056,-13.32944,39.87056,-13.32944",
+    "geom:latitude":-13.32944,
+    "geom:longitude":39.87056,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chefe Cantato",
+    "gn:country_code":"MZ",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087489,
+    "gn:latitude":-13.32944,
+    "gn:longitude":39.87056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Cantato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087489,
+        "wk:page":"Chefe_Cantato"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4310c1899f1cbc13a52be19ebf0109e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696771,
+            "locality_id":1259492879,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1259492879,
+    "wof:lastmodified":1537569940,
+    "wof:name":"Chefe Cantato",
+    "wof:parent_id":1091696771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.87056,
+    -13.32944,
+    39.87056,
+    -13.32944
+],
+  "geometry": {"coordinates":[39.87056,-13.32944],"type":"Point"}
+}

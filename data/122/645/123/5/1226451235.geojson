@@ -1,0 +1,67 @@
+{
+  "id": 1226451235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.44694,-24.98222,33.44694,-24.98222",
+    "geom:latitude":-24.98222,
+    "geom:longitude":33.44694,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chefe Chitanguene",
+    "gn:country_code":"MZ",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1099610,
+    "gn:latitude":-24.98222,
+    "gn:longitude":33.44694,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chefe Chitanguene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091701651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1099610
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ba9187eca776e657a060c31d5e460e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701651,
+            "locality_id":1226451235,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1226451235,
+    "wof:lastmodified":1536636270,
+    "wof:name":"Chefe Chitanguene",
+    "wof:parent_id":1091701651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.44694,
+    -24.98222,
+    33.44694,
+    -24.98222
+],
+  "geometry": {"coordinates":[33.44694,-24.98222],"type":"Point"}
+}

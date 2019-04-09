@@ -1,0 +1,67 @@
+{
+  "id": 1310319421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.23944,-13.62056,39.23944,-13.62056",
+    "geom:latitude":-13.62056,
+    "geom:longitude":39.23944,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Cabo Racao",
+    "gn:country_code":"MZ",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087274,
+    "gn:latitude":-13.62056,
+    "gn:longitude":39.23944,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Cabo Ra\u00e7\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087274
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e92f6bcfff38185d3756d0864cbae832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700995,
+            "locality_id":1310319421,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1310319421,
+    "wof:lastmodified":1536687822,
+    "wof:name":"Cabo Racao",
+    "wof:parent_id":1091700995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.23944,
+    -13.62056,
+    39.23944,
+    -13.62056
+],
+  "geometry": {"coordinates":[39.23944,-13.62056],"type":"Point"}
+}

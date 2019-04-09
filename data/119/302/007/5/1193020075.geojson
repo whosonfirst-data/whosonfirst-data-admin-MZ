@@ -1,0 +1,67 @@
+{
+  "id": 1193020075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.79,-13.42361,39.79,-13.42361",
+    "geom:latitude":-13.42361,
+    "geom:longitude":39.79,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Mecaquia",
+    "gn:country_code":"MZ",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039338,
+    "gn:latitude":-13.42361,
+    "gn:longitude":39.79,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Mecaquia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039338
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"034078dc90ca0122dd20bb5b97f62c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696771,
+            "locality_id":1193020075,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1193020075,
+    "wof:lastmodified":1536374190,
+    "wof:name":"Mecaquia",
+    "wof:parent_id":1091696771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.79,
+    -13.42361,
+    39.79,
+    -13.42361
+],
+  "geometry": {"coordinates":[39.79,-13.42361],"type":"Point"}
+}

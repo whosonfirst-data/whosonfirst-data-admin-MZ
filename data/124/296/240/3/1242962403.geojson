@@ -1,0 +1,73 @@
+{
+  "id": 1242962403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.07944,-16.86583,34.07944,-16.86583",
+    "geom:latitude":-16.86583,
+    "geom:longitude":34.07944,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nhacafula",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043230,
+    "gn:latitude":-16.86583,
+    "gn:longitude":34.07944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nhacafula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lunda",
+        "Lundo",
+        "Nhacafula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091701529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043230
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"961d689b73ae204cddcdc88d63920be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701529,
+            "locality_id":1242962403,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1242962403,
+    "wof:lastmodified":1537674559,
+    "wof:name":"Nhacafula",
+    "wof:parent_id":1091701529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.07944000000001,
+    -16.86583,
+    34.07944000000001,
+    -16.86583
+],
+  "geometry": {"coordinates":[34.07944000000001,-16.86583],"type":"Point"}
+}

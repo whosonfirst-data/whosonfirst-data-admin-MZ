@@ -1,0 +1,67 @@
+{
+  "id": 1259466911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.385,-19.70222,33.385,-19.70222",
+    "geom:latitude":-19.70222,
+    "geom:longitude":33.385,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Alfinete",
+    "gn:country_code":"MZ",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053202,
+    "gn:latitude":-19.70222,
+    "gn:longitude":33.385,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Alfinete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091701483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053202
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0f2852547997de6ea4db8dd53d0074b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701483,
+            "locality_id":1259466911,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1259466911,
+    "wof:lastmodified":1536881921,
+    "wof:name":"Alfinete",
+    "wof:parent_id":1091701483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.385,
+    -19.70222,
+    33.385,
+    -19.70222
+],
+  "geometry": {"coordinates":[33.385,-19.70222],"type":"Point"}
+}

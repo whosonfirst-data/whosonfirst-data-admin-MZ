@@ -1,0 +1,72 @@
+{
+  "id": 1243348919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58056,-14.6675,33.58056,-14.6675",
+    "geom:latitude":-14.6675,
+    "geom:longitude":33.58056,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Chizampeca",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":1313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048409,
+    "gn:latitude":-14.6675,
+    "gn:longitude":33.58056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chizampeca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chixampeca",
+        "Chizampeca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091698455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048409
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8d7bb63172d0d7c36e329c13a46ee0ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698455,
+            "locality_id":1243348919,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1243348919,
+    "wof:lastmodified":1537674585,
+    "wof:name":"Chizampeca",
+    "wof:parent_id":1091698455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58056,
+    -14.6675,
+    33.58056,
+    -14.6675
+],
+  "geometry": {"coordinates":[33.58056,-14.6675],"type":"Point"}
+}

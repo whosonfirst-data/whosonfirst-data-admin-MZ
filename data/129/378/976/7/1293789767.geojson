@@ -1,0 +1,67 @@
+{
+  "id": 1293789767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.83833,-24.82194,32.83833,-24.82194",
+    "geom:latitude":-24.82194,
+    "geom:longitude":32.83833,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chauquela",
+    "gn:country_code":"MZ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050199,
+    "gn:latitude":-24.82194,
+    "gn:longitude":32.83833,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Chauquela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050199
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c1d7382d217e09d32948812221cc2187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1293789767,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1293789767,
+    "wof:lastmodified":1536847216,
+    "wof:name":"Chauquela",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.83833,
+    -24.82194,
+    32.83833,
+    -24.82194
+],
+  "geometry": {"coordinates":[32.83833,-24.82194],"type":"Point"}
+}

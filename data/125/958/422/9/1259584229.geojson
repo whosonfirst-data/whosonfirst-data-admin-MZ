@@ -1,0 +1,67 @@
+{
+  "id": 1259584229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.75639,-24.88889,32.75639,-24.88889",
+    "geom:latitude":-24.88889,
+    "geom:longitude":32.75639,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mapapene",
+    "gn:country_code":"MZ",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1102794,
+    "gn:latitude":-24.88889,
+    "gn:longitude":32.75639,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Mapapene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1102794
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"dcd71a12a3af0227f171759255ea989d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1259584229,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1259584229,
+    "wof:lastmodified":1536714082,
+    "wof:name":"Mapapene",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.75639,
+    -24.88889,
+    32.75639,
+    -24.88889
+],
+  "geometry": {"coordinates":[32.75639,-24.88889],"type":"Point"}
+}

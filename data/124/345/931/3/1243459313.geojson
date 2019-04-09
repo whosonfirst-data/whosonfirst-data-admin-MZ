@@ -1,0 +1,67 @@
+{
+  "id": 1243459313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.70306,-20.28361,33.70306,-20.28361",
+    "geom:latitude":-20.28361,
+    "geom:longitude":33.70306,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Macundinharga",
+    "gn:country_code":"MZ",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042285,
+    "gn:latitude":-20.28361,
+    "gn:longitude":33.70306,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Macundinharga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042285
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0ab41e204250ee0819c1f5aedb0edb4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696561,
+            "locality_id":1243459313,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1243459313,
+    "wof:lastmodified":1536787387,
+    "wof:name":"Macundinharga",
+    "wof:parent_id":1091696561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.70306,
+    -20.28361,
+    33.70306,
+    -20.28361
+],
+  "geometry": {"coordinates":[33.70306,-20.28361],"type":"Point"}
+}

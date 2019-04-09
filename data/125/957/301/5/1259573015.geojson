@@ -1,0 +1,67 @@
+{
+  "id": 1259573015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.855,-16.93667,37.855,-16.93667",
+    "geom:latitude":-16.93667,
+    "geom:longitude":37.855,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Conco",
+    "gn:country_code":"MZ",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047881,
+    "gn:latitude":-16.93667,
+    "gn:longitude":37.855,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Conco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047881
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3f3357c8624537dfe5b2b2713f0eaed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698671,
+            "locality_id":1259573015,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1259573015,
+    "wof:lastmodified":1536730318,
+    "wof:name":"Conco",
+    "wof:parent_id":1091698671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.855,
+    -16.93667,
+    37.855,
+    -16.93667
+],
+  "geometry": {"coordinates":[37.855,-16.93667],"type":"Point"}
+}

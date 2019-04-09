@@ -1,0 +1,67 @@
+{
+  "id": 1243273597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.80361,-13.64667,38.80361,-13.64667",
+    "geom:latitude":-13.64667,
+    "geom:longitude":38.80361,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Malico",
+    "gn:country_code":"MZ",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041441,
+    "gn:latitude":-13.64667,
+    "gn:longitude":38.80361,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Malico",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041441
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fd0c4440405e42f8af3e578f12778c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700995,
+            "locality_id":1243273597,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1243273597,
+    "wof:lastmodified":1537052387,
+    "wof:name":"Malico",
+    "wof:parent_id":1091700995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.80361,
+    -13.64667,
+    38.80361,
+    -13.64667
+],
+  "geometry": {"coordinates":[38.80361,-13.64667],"type":"Point"}
+}

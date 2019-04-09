@@ -1,0 +1,67 @@
+{
+  "id": 1343360823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.02083,-24.32306,34.02083,-24.32306",
+    "geom:latitude":-24.32306,
+    "geom:longitude":34.02083,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Alcino Macie",
+    "gn:country_code":"MZ",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097829,
+    "gn:latitude":-24.32306,
+    "gn:longitude":34.02083,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Alcino M\u00e0cie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097829
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"25601c55d446f03e6648f1407be169c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701265,
+            "locality_id":1343360823,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1343360823,
+    "wof:lastmodified":1536889569,
+    "wof:name":"Alcino Macie",
+    "wof:parent_id":1091701265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.02083,
+    -24.32306,
+    34.02083,
+    -24.32306
+],
+  "geometry": {"coordinates":[34.02083,-24.32306],"type":"Point"}
+}

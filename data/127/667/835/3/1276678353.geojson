@@ -1,0 +1,67 @@
+{
+  "id": 1276678353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.60528,-14.83417,33.60528,-14.83417",
+    "geom:latitude":-14.83417,
+    "geom:longitude":33.60528,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Aldeia Cachere",
+    "gn:country_code":"MZ",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087123,
+    "gn:latitude":-14.83417,
+    "gn:longitude":33.60528,
+    "gn:modification_date":"1997-04-24",
+    "gn:name":"Aldeia Cachere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091698455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087123
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f5218cb1b1edea670e6a1a166fcd9478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698455,
+            "locality_id":1276678353,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1276678353,
+    "wof:lastmodified":1536812862,
+    "wof:name":"Aldeia Cachere",
+    "wof:parent_id":1091698455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.60528,
+    -14.83417,
+    33.60528,
+    -14.83417
+],
+  "geometry": {"coordinates":[33.60528,-14.83417],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310206857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.54528,-21.60306,34.54528,-21.60306",
+    "geom:latitude":-21.60306,
+    "geom:longitude":34.54528,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cabo Chichavane",
+    "gn:country_code":"MZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1105061,
+    "gn:latitude":-21.60306,
+    "gn:longitude":34.54528,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Cabo Chichavane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105061
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c21203554a22856711fb9f7fefcfa574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697673,
+            "locality_id":1310206857,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1310206857,
+    "wof:lastmodified":1536849195,
+    "wof:name":"Cabo Chichavane",
+    "wof:parent_id":1091697673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.54528,
+    -21.60306,
+    34.54528,
+    -21.60306
+],
+  "geometry": {"coordinates":[34.54528,-21.60306],"type":"Point"}
+}

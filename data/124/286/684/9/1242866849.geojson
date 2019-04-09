@@ -1,0 +1,67 @@
+{
+  "id": 1242866849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.05778,-15.26778,39.05778,-15.26778",
+    "geom:latitude":-15.26778,
+    "geom:longitude":39.05778,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Caniaja",
+    "gn:country_code":"MZ",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051227,
+    "gn:latitude":-15.26778,
+    "gn:longitude":39.05778,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Caniaja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051227
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"44272246b7ad257f6ab64894f9ff87ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700965,
+            "locality_id":1242866849,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1242866849,
+    "wof:lastmodified":1536646595,
+    "wof:name":"Caniaja",
+    "wof:parent_id":1091700965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.05778,
+    -15.26778,
+    39.05778,
+    -15.26778
+],
+  "geometry": {"coordinates":[39.05778,-15.26778],"type":"Point"}
+}

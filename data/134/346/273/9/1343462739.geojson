@@ -1,0 +1,67 @@
+{
+  "id": 1343462739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.33778,-12.43333,38.33778,-12.43333",
+    "geom:latitude":-12.43333,
+    "geom:longitude":38.33778,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Nicoupe",
+    "gn:country_code":"MZ",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085446,
+    "gn:latitude":-12.43333,
+    "gn:longitude":38.33778,
+    "gn:modification_date":"1995-06-22",
+    "gn:name":"Nicoupe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085446
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9da721e28d7f1469448cb5ab4ee799c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1343462739,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1343462739,
+    "wof:lastmodified":1536742579,
+    "wof:name":"Nicoupe",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.33778,
+    -12.43333,
+    38.33778,
+    -12.43333
+],
+  "geometry": {"coordinates":[38.33778,-12.43333],"type":"Point"}
+}

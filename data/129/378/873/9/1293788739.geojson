@@ -1,0 +1,67 @@
+{
+  "id": 1293788739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.44556,-19.07278,34.44556,-19.07278",
+    "geom:latitude":-19.07278,
+    "geom:longitude":34.44556,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Inhauranga",
+    "gn:country_code":"MZ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097143,
+    "gn:latitude":-19.07278,
+    "gn:longitude":34.44556,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Inhauranga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091701119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097143
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b8fcbc719b8f4404eb527c8b71a1e75a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701119,
+            "locality_id":1293788739,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1293788739,
+    "wof:lastmodified":1536848705,
+    "wof:name":"Inhauranga",
+    "wof:parent_id":1091701119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.44556,
+    -19.07278,
+    34.44556,
+    -19.07278
+],
+  "geometry": {"coordinates":[34.44556,-19.07278],"type":"Point"}
+}

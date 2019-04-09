@@ -1,0 +1,61 @@
+{
+  "id": 1209324755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.63333,-26.81667,32.63333,-26.81667",
+    "geom:latitude":-26.81667,
+    "geom:longitude":32.63333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Demetri",
+    "gn:country_code":"MZ",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047158,
+    "gn:latitude":-26.81667,
+    "gn:longitude":32.63333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Demetri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047158
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"170ce8ee8446350384e449dd603e1d95",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209324755
+        }
+    ],
+    "wof:id":1209324755,
+    "wof:lastmodified":1536290569,
+    "wof:name":"Demetri",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.63333,
+    -26.81667,
+    32.63333,
+    -26.81667
+],
+  "geometry": {"coordinates":[32.63333,-26.81667],"type":"Point"}
+}

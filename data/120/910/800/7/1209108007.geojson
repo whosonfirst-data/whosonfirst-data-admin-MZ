@@ -1,0 +1,61 @@
+{
+  "id": 1209108007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.13972,-24.32639,35.13972,-24.32639",
+    "geom:latitude":-24.32639,
+    "geom:longitude":35.13972,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Catequese Anglicana",
+    "gn:country_code":"MZ",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1102242,
+    "gn:latitude":-24.32639,
+    "gn:longitude":35.13972,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Catequese Anglicana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1102242
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b605b96704504399afba5e5f7946dcc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209108007
+        }
+    ],
+    "wof:id":1209108007,
+    "wof:lastmodified":1536297502,
+    "wof:name":"Catequese Anglicana",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.139720000000004,
+    -24.32639,
+    35.139720000000004,
+    -24.32639
+],
+  "geometry": {"coordinates":[35.13972,-24.32639],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309797795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.42472,-14.06889,37.42472,-14.06889",
+    "geom:latitude":-14.06889,
+    "geom:longitude":37.42472,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mucoco",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036415,
+    "gn:latitude":-14.06889,
+    "gn:longitude":37.42472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Muc\u00f3co",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mc\u00f3c\u00f3",
+        "Muc\u00f3co"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036415
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9b94addd6c75a5404961edf213d3dcef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699411,
+            "locality_id":1309797795,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1309797795,
+    "wof:lastmodified":1537674519,
+    "wof:name":"Mucoco",
+    "wof:parent_id":1091699411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.42472,
+    -14.06889,
+    37.42472,
+    -14.06889
+],
+  "geometry": {"coordinates":[37.42472,-14.06889],"type":"Point"}
+}

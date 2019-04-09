@@ -1,0 +1,67 @@
+{
+  "id": 1327143187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.32806,-22.42444,31.32806,-22.42444",
+    "geom:latitude":-22.42444,
+    "geom:longitude":31.32806,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Dumela",
+    "gn:country_code":"MZ",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046811,
+    "gn:latitude":-22.42444,
+    "gn:longitude":31.32806,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Dumela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046811
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9715676b71db869a99029d7b67f95d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696621,
+            "locality_id":1327143187,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1327143187,
+    "wof:lastmodified":1537095096,
+    "wof:name":"Dumela",
+    "wof:parent_id":1091696621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.32806,
+    -22.42444,
+    31.32806,
+    -22.42444
+],
+  "geometry": {"coordinates":[31.32806,-22.42444],"type":"Point"}
+}

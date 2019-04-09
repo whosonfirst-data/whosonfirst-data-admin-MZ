@@ -1,0 +1,61 @@
+{
+  "id": 1209504103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.31583,-21.17528,33.31583,-21.17528",
+    "geom:latitude":-21.17528,
+    "geom:longitude":33.31583,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mucai",
+    "gn:country_code":"MZ",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036562,
+    "gn:latitude":-21.17528,
+    "gn:longitude":33.31583,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mucai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036562
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"09b41a45e4fe6877b151c69264917693",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209504103
+        }
+    ],
+    "wof:id":1209504103,
+    "wof:lastmodified":1536285089,
+    "wof:name":"Mucai",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.31583,
+    -21.17528,
+    33.31583,
+    -21.17528
+],
+  "geometry": {"coordinates":[33.31583,-21.17528],"type":"Point"}
+}

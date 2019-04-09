@@ -1,0 +1,61 @@
+{
+  "id": 1209327725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.78389,-24.065,33.78389,-24.065",
+    "geom:latitude":-24.065,
+    "geom:longitude":33.78389,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chio",
+    "gn:country_code":"MZ",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096746,
+    "gn:latitude":-24.065,
+    "gn:longitude":33.78389,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096746
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e41677ba747310d237661f629b7cc837",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209327725
+        }
+    ],
+    "wof:id":1209327725,
+    "wof:lastmodified":1536290477,
+    "wof:name":"Chio",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.78389,
+    -24.065,
+    33.78389,
+    -24.065
+],
+  "geometry": {"coordinates":[33.78389,-24.065],"type":"Point"}
+}

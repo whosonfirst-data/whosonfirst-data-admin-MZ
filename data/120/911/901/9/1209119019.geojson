@@ -1,0 +1,61 @@
+{
+  "id": 1209119019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.98444,-24.9925,32.98444,-24.9925",
+    "geom:latitude":-24.9925,
+    "geom:longitude":32.98444,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Joao Monteiro",
+    "gn:country_code":"MZ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1102807,
+    "gn:latitude":-24.9925,
+    "gn:longitude":32.98444,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Jo\u00e3o Monteiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1102807
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"18a8bc36c852af487939527b8773804e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209119019
+        }
+    ],
+    "wof:id":1209119019,
+    "wof:lastmodified":1536297163,
+    "wof:name":"Joao Monteiro",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.98444,
+    -24.9925,
+    32.98444,
+    -24.9925
+],
+  "geometry": {"coordinates":[32.98444,-24.9925],"type":"Point"}
+}

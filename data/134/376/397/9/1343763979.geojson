@@ -1,0 +1,67 @@
+{
+  "id": 1343763979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.83028,-21.39444,34.83028,-21.39444",
+    "geom:latitude":-21.39444,
+    "geom:longitude":34.83028,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tutumela",
+    "gn:country_code":"MZ",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025494,
+    "gn:latitude":-21.39444,
+    "gn:longitude":34.83028,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Tutumela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025494
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e8fb25490fa5902ef2bc387ce77244e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697673,
+            "locality_id":1343763979,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1343763979,
+    "wof:lastmodified":1536805694,
+    "wof:name":"Tutumela",
+    "wof:parent_id":1091697673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.83028,
+    -21.39444,
+    34.83028,
+    -21.39444
+],
+  "geometry": {"coordinates":[34.83028,-21.39444],"type":"Point"}
+}

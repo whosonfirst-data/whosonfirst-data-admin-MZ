@@ -1,0 +1,72 @@
+{
+  "id": 1277088673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.74806,-13.54222,38.74806,-13.54222",
+    "geom:latitude":-13.54222,
+    "geom:longitude":38.74806,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Regulo Namecopue",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1033924,
+    "gn:latitude":-13.54222,
+    "gn:longitude":38.74806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00e9gulo Namec\u00f3pu\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namec\u00f3pu\u00e8",
+        "R\u00e9gulo Namec\u00f3pu\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1033924
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7455077988dbee01db1985bb4aa24c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700995,
+            "locality_id":1277088673,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1277088673,
+    "wof:lastmodified":1537674507,
+    "wof:name":"Regulo Namecopue",
+    "wof:parent_id":1091700995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.74806,
+    -13.54222,
+    38.74806,
+    -13.54222
+],
+  "geometry": {"coordinates":[38.74806,-13.54222],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226264817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.95306,-14.93556,37.95306,-14.93556",
+    "geom:latitude":-14.93556,
+    "geom:longitude":37.95306,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Matocorre",
+    "gn:country_code":"MZ",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039861,
+    "gn:latitude":-14.93556,
+    "gn:longitude":37.95306,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"M\u00e1t\u00f3c\u00f3rre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091701415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039861
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"383c87961ddb0814cfc7a9e36f6bfa02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701415,
+            "locality_id":1226264817,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1226264817,
+    "wof:lastmodified":1536906405,
+    "wof:name":"Matocorre",
+    "wof:parent_id":1091701415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.95306,
+    -14.93556,
+    37.95306,
+    -14.93556
+],
+  "geometry": {"coordinates":[37.95306,-14.93556],"type":"Point"}
+}

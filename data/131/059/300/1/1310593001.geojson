@@ -1,0 +1,67 @@
+{
+  "id": 1310593001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.49833,-14.36667,37.49833,-14.36667",
+    "geom:latitude":-14.36667,
+    "geom:longitude":37.49833,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Lamua",
+    "gn:country_code":"MZ",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044080,
+    "gn:latitude":-14.36667,
+    "gn:longitude":37.49833,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"L\u00e2mua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044080
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a3b986a9f563a322fcf5fcff8eb49658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699845,
+            "locality_id":1310593001,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1310593001,
+    "wof:lastmodified":1536791140,
+    "wof:name":"Lamua",
+    "wof:parent_id":1091699845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.49833,
+    -14.36667,
+    37.49833,
+    -14.36667
+],
+  "geometry": {"coordinates":[37.49833,-14.36667],"type":"Point"}
+}

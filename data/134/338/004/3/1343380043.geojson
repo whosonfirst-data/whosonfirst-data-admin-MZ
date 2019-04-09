@@ -1,0 +1,67 @@
+{
+  "id": 1343380043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32917,-17.76083,36.32917,-17.76083",
+    "geom:latitude":-17.76083,
+    "geom:longitude":36.32917,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Campo",
+    "gn:country_code":"MZ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051372,
+    "gn:latitude":-17.76083,
+    "gn:longitude":36.32917,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Campo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051372
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b50c7c40dc481fcc7754d4f2753515c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700251,
+            "locality_id":1343380043,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1343380043,
+    "wof:lastmodified":1536860851,
+    "wof:name":"Campo",
+    "wof:parent_id":1091700251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32917,
+    -17.76083,
+    36.32917,
+    -17.76083
+],
+  "geometry": {"coordinates":[36.32917,-17.76083],"type":"Point"}
+}

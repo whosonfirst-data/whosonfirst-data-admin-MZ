@@ -1,0 +1,121 @@
+{
+  "id": 421174119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.67639,-25.73694,32.67639,-25.73694",
+    "geom:latitude":-25.73694,
+    "geom:longitude":32.67639,
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u99ac\u62c9\u5938\u5167"
+    ],
+    "name:deu_x_preferred":[
+        "Marracuene"
+    ],
+    "name:dut_x_preferred":[
+        "Marracuene"
+    ],
+    "name:eng_x_preferred":[
+        "Marracuene"
+    ],
+    "name:fra_x_preferred":[
+        "Marracuene"
+    ],
+    "name:fre_x_preferred":[
+        "Marracuene"
+    ],
+    "name:ger_x_preferred":[
+        "Marracuene"
+    ],
+    "name:ita_x_preferred":[
+        "Marracuene"
+    ],
+    "name:por_x_preferred":[
+        "Marracuene"
+    ],
+    "name:ron_x_preferred":[
+        "Marracuene"
+    ],
+    "name:rum_x_preferred":[
+        "Marracuene"
+    ],
+    "name:spa_x_preferred":[
+        "Marracuene"
+    ],
+    "name:unk_x_variant":[
+        "Vila Luiza"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u62c9\u5938\u5167"
+    ],
+    "qs:gn_country":"MZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1024688,
+    "qs:gn_pop":0,
+    "qs:name":"Marracuene",
+    "qs:name_adm0":"Mo\u00e7ambique",
+    "qs:name_adm1":"Maputo",
+    "qs:photos":73,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":73,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":317123,
+    "qs:woe_adm0":23424902,
+    "qs:woe_id":1550460,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":175,
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024688,
+        "gp:id":1550460,
+        "qs:id":317123,
+        "wd:id":"Q3082732",
+        "wk:page":"Marracuene"
+    },
+    "wof:country":"MZ",
+    "wof:created":1459009020,
+    "wof:geomhash":"5395a1f74b6a2fcaffedd1133024df3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699175,
+            "locality_id":421174119,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":421174119,
+    "wof:lastmodified":1527716227,
+    "wof:name":"Marracuene",
+    "wof:parent_id":1091699175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.67639,
+    -25.73694,
+    32.67639,
+    -25.73694
+],
+  "geometry": {"coordinates":[32.67639,-25.73694],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293208107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.85167,-23.05583,33.85167,-23.05583",
+    "geom:latitude":-23.05583,
+    "geom:longitude":33.85167,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sabino",
+    "gn:country_code":"MZ",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027757,
+    "gn:latitude":-23.05583,
+    "gn:longitude":33.85167,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Sabino",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027757
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"669dab98c2d472d7d33022153d641f14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697505,
+            "locality_id":1293208107,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1293208107,
+    "wof:lastmodified":1536692966,
+    "wof:name":"Sabino",
+    "wof:parent_id":1091697505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.85167,
+    -23.05583,
+    33.85167,
+    -23.05583
+],
+  "geometry": {"coordinates":[33.85167,-23.05583],"type":"Point"}
+}

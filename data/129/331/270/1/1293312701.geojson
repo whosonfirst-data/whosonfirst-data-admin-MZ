@@ -1,0 +1,67 @@
+{
+  "id": 1293312701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.82333,-15.26944,31.82333,-15.26944",
+    "geom:latitude":-15.26944,
+    "geom:longitude":31.82333,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Canceve",
+    "gn:country_code":"MZ",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051332,
+    "gn:latitude":-15.26944,
+    "gn:longitude":31.82333,
+    "gn:modification_date":"1997-05-30",
+    "gn:name":"Canceve",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051332
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f502bc399052ab75ace941a9ce69c68a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699093,
+            "locality_id":1293312701,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1293312701,
+    "wof:lastmodified":1537037477,
+    "wof:name":"Canceve",
+    "wof:parent_id":1091699093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.82333,
+    -15.26944,
+    31.82333,
+    -15.26944
+],
+  "geometry": {"coordinates":[31.82333,-15.26944],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243370969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.86583,-24.15917,34.86583,-24.15917",
+    "geom:latitude":-24.15917,
+    "geom:longitude":34.86583,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chefe Pecule",
+    "gn:country_code":"MZ",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097259,
+    "gn:latitude":-24.15917,
+    "gn:longitude":34.86583,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chefe Pecule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097259
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7162f3e15c9786f0b21d4315f0e9cfa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701265,
+            "locality_id":1243370969,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1243370969,
+    "wof:lastmodified":1536914832,
+    "wof:name":"Chefe Pecule",
+    "wof:parent_id":1091701265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.86583,
+    -24.15917,
+    34.86583,
+    -24.15917
+],
+  "geometry": {"coordinates":[34.86583,-24.15917],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209927081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.94278,-23.91917,32.94278,-23.91917",
+    "geom:latitude":-23.91917,
+    "geom:longitude":32.94278,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Meginge",
+    "gn:country_code":"MZ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039016,
+    "gn:latitude":-23.91917,
+    "gn:longitude":32.94278,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Meginge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091698365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039016
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f9ed65b73ab4f8070341fca82c256708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698365,
+            "locality_id":1209927081,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1209927081,
+    "wof:lastmodified":1536394411,
+    "wof:name":"Meginge",
+    "wof:parent_id":1091698365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.94278,
+    -23.91917,
+    32.94278,
+    -23.91917
+],
+  "geometry": {"coordinates":[32.94278,-23.91917],"type":"Point"}
+}

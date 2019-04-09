@@ -1,0 +1,61 @@
+{
+  "id": 1209209495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.04028,-17.78694,37.04028,-17.78694",
+    "geom:latitude":-17.78694,
+    "geom:longitude":37.04028,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Intego",
+    "gn:country_code":"MZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044928,
+    "gn:latitude":-17.78694,
+    "gn:longitude":37.04028,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Intego",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044928
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"947df37e5ea9ebae264dd52b5f7df777",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209209495
+        }
+    ],
+    "wof:id":1209209495,
+    "wof:lastmodified":1536294337,
+    "wof:name":"Intego",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.04028,
+    -17.786939999999994,
+    37.04028,
+    -17.786939999999994
+],
+  "geometry": {"coordinates":[37.04028,-17.78693999999999],"type":"Point"}
+}

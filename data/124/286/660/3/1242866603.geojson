@@ -1,0 +1,67 @@
+{
+  "id": 1242866603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.46,-13.87861,39.46,-13.87861",
+    "geom:latitude":-13.87861,
+    "geom:longitude":39.46,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Chefe Muapatcha",
+    "gn:country_code":"MZ",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086184,
+    "gn:latitude":-13.87861,
+    "gn:longitude":39.46,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Chefe Muapatcha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091697455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086184
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"07138d2faefa41ab50f9110eb6c29fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697455,
+            "locality_id":1242866603,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1242866603,
+    "wof:lastmodified":1536646985,
+    "wof:name":"Chefe Muapatcha",
+    "wof:parent_id":1091697455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.46,
+    -13.87861,
+    39.46,
+    -13.87861
+],
+  "geometry": {"coordinates":[39.46,-13.87861],"type":"Point"}
+}

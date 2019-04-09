@@ -1,0 +1,67 @@
+{
+  "id": 1293774713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.25833,-15.86056,32.25833,-15.86056",
+    "geom:latitude":-15.86056,
+    "geom:longitude":32.25833,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Massanga",
+    "gn:country_code":"MZ",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040291,
+    "gn:latitude":-15.86056,
+    "gn:longitude":32.25833,
+    "gn:modification_date":"1997-06-03",
+    "gn:name":"Massanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040291
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"125112957c2ea370a22a82d252156942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696467,
+            "locality_id":1293774713,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1293774713,
+    "wof:lastmodified":1536868958,
+    "wof:name":"Massanga",
+    "wof:parent_id":1091696467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.25833,
+    -15.86056,
+    32.25833,
+    -15.86056
+],
+  "geometry": {"coordinates":[32.25833,-15.86056],"type":"Point"}
+}

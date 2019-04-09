@@ -1,0 +1,67 @@
+{
+  "id": 1276754847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.10444,-17.46861,35.10444,-17.46861",
+    "geom:latitude":-17.46861,
+    "geom:longitude":35.10444,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Nhampinga",
+    "gn:country_code":"MZ",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1030913,
+    "gn:latitude":-17.46861,
+    "gn:longitude":35.10444,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Nhampinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091700637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1030913
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e4909d5cb9737858a82d9092b4350c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700637,
+            "locality_id":1276754847,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1276754847,
+    "wof:lastmodified":1536711406,
+    "wof:name":"Nhampinga",
+    "wof:parent_id":1091700637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.10444,
+    -17.46861,
+    35.10444,
+    -17.46861
+],
+  "geometry": {"coordinates":[35.10444,-17.46861],"type":"Point"}
+}

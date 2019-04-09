@@ -1,0 +1,67 @@
+{
+  "id": 1210038513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.07,-15.82028,40.07,-15.82028",
+    "geom:latitude":-15.82028,
+    "geom:longitude":40.07,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Marue",
+    "gn:country_code":"MZ",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040353,
+    "gn:latitude":-15.82028,
+    "gn:longitude":40.07,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Maru\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040353
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ea71d070ee7e7340f9c2b24f81bc9bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700091,
+            "locality_id":1210038513,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1210038513,
+    "wof:lastmodified":1536385391,
+    "wof:name":"Marue",
+    "wof:parent_id":1091700091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.07,
+    -15.82028,
+    40.07,
+    -15.82028
+],
+  "geometry": {"coordinates":[40.07,-15.82028],"type":"Point"}
+}

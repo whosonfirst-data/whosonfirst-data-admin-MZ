@@ -1,0 +1,67 @@
+{
+  "id": 1309837871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.8875,-18.43417,35.8875,-18.43417",
+    "geom:latitude":-18.43417,
+    "geom:longitude":35.8875,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Guex",
+    "gn:country_code":"MZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045652,
+    "gn:latitude":-18.43417,
+    "gn:longitude":35.8875,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Guex",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091699215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045652
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"202f9d0c42617b516a535d4bb85835a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699215,
+            "locality_id":1309837871,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1309837871,
+    "wof:lastmodified":1536884390,
+    "wof:name":"Guex",
+    "wof:parent_id":1091699215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.8875,
+    -18.43417,
+    35.8875,
+    -18.43417
+],
+  "geometry": {"coordinates":[35.8875,-18.43417],"type":"Point"}
+}

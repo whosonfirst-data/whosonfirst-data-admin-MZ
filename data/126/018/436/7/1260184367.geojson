@@ -1,0 +1,72 @@
+{
+  "id": 1260184367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.4875,-22.37667,35.4875,-22.37667",
+    "geom:latitude":-22.37667,
+    "geom:longitude":35.4875,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Macambane",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049633,
+    "gn:latitude":-22.37667,
+    "gn:longitude":35.4875,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Macambane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chicuaiete",
+        "Macambane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049633
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"919b11dd9333bd9e3d3c366f4bd61b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701605,
+            "locality_id":1260184367,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1260184367,
+    "wof:lastmodified":1537674592,
+    "wof:name":"Macambane",
+    "wof:parent_id":1091701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4875,
+    -22.37667,
+    35.4875,
+    -22.37667
+],
+  "geometry": {"coordinates":[35.4875,-22.37667],"type":"Point"}
+}

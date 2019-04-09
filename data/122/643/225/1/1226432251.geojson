@@ -1,0 +1,72 @@
+{
+  "id": 1226432251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.47833,-15.3475,37.47833,-15.3475",
+    "geom:latitude":-15.3475,
+    "geom:longitude":37.47833,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Matoro",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038505,
+    "gn:latitude":-15.3475,
+    "gn:longitude":37.47833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Matoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Merrita",
+        "Matoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038505
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6f16c88cd0b43d1a9b712fb96a726e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696213,
+            "locality_id":1226432251,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1226432251,
+    "wof:lastmodified":1537674529,
+    "wof:name":"Matoro",
+    "wof:parent_id":1091696213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.47833,
+    -15.3475,
+    37.47833,
+    -15.3475
+],
+  "geometry": {"coordinates":[37.47833,-15.3475],"type":"Point"}
+}

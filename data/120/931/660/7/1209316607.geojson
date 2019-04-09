@@ -1,0 +1,61 @@
+{
+  "id": 1209316607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.66694,-22.33889,34.66694,-22.33889",
+    "geom:latitude":-22.33889,
+    "geom:longitude":34.66694,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mabalane",
+    "gn:country_code":"MZ",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104966,
+    "gn:latitude":-22.33889,
+    "gn:longitude":34.66694,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mabalane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104966
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"93f35f4c99a1ceaa0094dd358d9143d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209316607
+        }
+    ],
+    "wof:id":1209316607,
+    "wof:lastmodified":1536290842,
+    "wof:name":"Mabalane",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.666940000000004,
+    -22.33889,
+    34.666940000000004,
+    -22.33889
+],
+  "geometry": {"coordinates":[34.66694,-22.33889],"type":"Point"}
+}

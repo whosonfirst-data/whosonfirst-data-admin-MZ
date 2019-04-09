@@ -1,0 +1,61 @@
+{
+  "id": 1209525491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.13333,-24.4,33.13333,-24.4",
+    "geom:latitude":-24.4,
+    "geom:longitude":33.13333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tuquai",
+    "gn:country_code":"MZ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025515,
+    "gn:latitude":-24.4,
+    "gn:longitude":33.13333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Tuquai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025515
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"aed997499ad952f54a59e144e3021f8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209525491
+        }
+    ],
+    "wof:id":1209525491,
+    "wof:lastmodified":1536284444,
+    "wof:name":"Tuquai",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.13333,
+    -24.4,
+    33.13333,
+    -24.4
+],
+  "geometry": {"coordinates":[33.13333,-24.4],"type":"Point"}
+}

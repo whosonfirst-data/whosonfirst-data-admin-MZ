@@ -1,0 +1,67 @@
+{
+  "id": 1209913319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.91667,-19.65,34.91667,-19.65",
+    "geom:latitude":-19.65,
+    "geom:longitude":34.91667,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Chicote",
+    "gn:country_code":"MZ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049646,
+    "gn:latitude":-19.65,
+    "gn:longitude":34.91667,
+    "gn:modification_date":"1996-07-25",
+    "gn:name":"Chicote",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049646
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5eda0643ff3131226002dc252f8edefe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696899,
+            "locality_id":1209913319,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1209913319,
+    "wof:lastmodified":1536376430,
+    "wof:name":"Chicote",
+    "wof:parent_id":1091696899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.91667,
+    -19.65,
+    34.91667,
+    -19.65
+],
+  "geometry": {"coordinates":[34.91667,-19.65],"type":"Point"}
+}

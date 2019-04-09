@@ -1,0 +1,67 @@
+{
+  "id": 1310128643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.25944,-19.95556,34.25944,-19.95556",
+    "geom:latitude":-19.95556,
+    "geom:longitude":34.25944,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Nhanzo",
+    "gn:country_code":"MZ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1030494,
+    "gn:latitude":-19.95556,
+    "gn:longitude":34.25944,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Nhanz\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1030494
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"df40f18246bd0004bb4e3d792c872d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696395,
+            "locality_id":1310128643,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1310128643,
+    "wof:lastmodified":1536963002,
+    "wof:name":"Nhanzo",
+    "wof:parent_id":1091696395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.25944,
+    -19.95556,
+    34.25944,
+    -19.95556
+],
+  "geometry": {"coordinates":[34.25944,-19.95556],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360074077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.53444,-20.67306,33.53444,-20.67306",
+    "geom:latitude":-20.67306,
+    "geom:longitude":33.53444,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Butiro",
+    "gn:country_code":"MZ",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051860,
+    "gn:latitude":-20.67306,
+    "gn:longitude":33.53444,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Butiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051860
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"00b61214b74b24d06ceb0e242514093c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1360074077,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1360074077,
+    "wof:lastmodified":1536961469,
+    "wof:name":"Butiro",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.53444,
+    -20.67306,
+    33.53444,
+    -20.67306
+],
+  "geometry": {"coordinates":[33.53444,-20.67306],"type":"Point"}
+}

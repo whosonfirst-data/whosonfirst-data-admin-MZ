@@ -1,0 +1,67 @@
+{
+  "id": 1225935519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.11222,-13.94667,38.11222,-13.94667",
+    "geom:latitude":-13.94667,
+    "geom:longitude":38.11222,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Nipepe",
+    "gn:country_code":"MZ",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086134,
+    "gn:latitude":-13.94667,
+    "gn:longitude":38.11222,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Chefe Nipepe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091701189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086134
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"680ec463bb01fd4eac115bfdf55a3451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701189,
+            "locality_id":1225935519,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1225935519,
+    "wof:lastmodified":1536883619,
+    "wof:name":"Chefe Nipepe",
+    "wof:parent_id":1091701189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.11222,
+    -13.94667,
+    38.11222,
+    -13.94667
+],
+  "geometry": {"coordinates":[38.11222,-13.94667],"type":"Point"}
+}

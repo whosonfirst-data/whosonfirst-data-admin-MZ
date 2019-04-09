@@ -1,0 +1,67 @@
+{
+  "id": 1344074711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.20528,-12.90028,39.20528,-12.90028",
+    "geom:latitude":-12.90028,
+    "geom:longitude":39.20528,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Mujama",
+    "gn:country_code":"MZ",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035880,
+    "gn:latitude":-12.90028,
+    "gn:longitude":39.20528,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Mujama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035880
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1ff7c2b735420c2273c669ea372868e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1344074711,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1344074711,
+    "wof:lastmodified":1536853898,
+    "wof:name":"Mujama",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.20528,
+    -12.90028,
+    39.20528,
+    -12.90028
+],
+  "geometry": {"coordinates":[39.20528,-12.90028],"type":"Point"}
+}

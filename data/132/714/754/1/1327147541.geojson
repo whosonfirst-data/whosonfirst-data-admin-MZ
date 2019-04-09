@@ -1,0 +1,67 @@
+{
+  "id": 1327147541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.69667,-24.35861,32.69667,-24.35861",
+    "geom:latitude":-24.35861,
+    "geom:longitude":32.69667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Daude",
+    "gn:country_code":"MZ",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104162,
+    "gn:latitude":-24.35861,
+    "gn:longitude":32.69667,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Daude",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104162
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"24e648c29227e6ab47aaf2cc28385f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696849,
+            "locality_id":1327147541,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1327147541,
+    "wof:lastmodified":1537088851,
+    "wof:name":"Daude",
+    "wof:parent_id":1091696849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.69667,
+    -24.35861,
+    32.69667,
+    -24.35861
+],
+  "geometry": {"coordinates":[32.69667,-24.35861],"type":"Point"}
+}

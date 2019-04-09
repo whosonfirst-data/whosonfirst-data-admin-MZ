@@ -1,0 +1,67 @@
+{
+  "id": 1310691127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1775,-17.10667,36.1775,-17.10667",
+    "geom:latitude":-17.10667,
+    "geom:longitude":36.1775,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Matimane",
+    "gn:country_code":"MZ",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039904,
+    "gn:latitude":-17.10667,
+    "gn:longitude":36.1775,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Matimane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039904
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"76774a849b65fd31d9fc679e3cf4da6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700255,
+            "locality_id":1310691127,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1310691127,
+    "wof:lastmodified":1536648807,
+    "wof:name":"Matimane",
+    "wof:parent_id":1091700255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1775,
+    -17.10667,
+    36.1775,
+    -17.10667
+],
+  "geometry": {"coordinates":[36.1775,-17.10667],"type":"Point"}
+}

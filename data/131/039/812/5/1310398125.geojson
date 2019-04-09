@@ -1,0 +1,67 @@
+{
+  "id": 1310398125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.00639,-15.58861,39.00639,-15.58861",
+    "geom:latitude":-15.58861,
+    "geom:longitude":39.00639,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mario",
+    "gn:country_code":"MZ",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040495,
+    "gn:latitude":-15.58861,
+    "gn:longitude":39.00639,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"M\u00e1rio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040495
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"11da114a1660caaf410c433c94281a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700133,
+            "locality_id":1310398125,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1310398125,
+    "wof:lastmodified":1537068912,
+    "wof:name":"Mario",
+    "wof:parent_id":1091700133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.00639,
+    -15.58861,
+    39.00639,
+    -15.58861
+],
+  "geometry": {"coordinates":[39.00639,-15.58861],"type":"Point"}
+}

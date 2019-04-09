@@ -1,0 +1,61 @@
+{
+  "id": 1209398493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.66944,-17.05583,33.66944,-17.05583",
+    "geom:latitude":-17.05583,
+    "geom:longitude":33.66944,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tomo",
+    "gn:country_code":"MZ",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025766,
+    "gn:latitude":-17.05583,
+    "gn:longitude":33.66944,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Tomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025766
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e3d1df3e16917036f5e04048bd669f4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209398493
+        }
+    ],
+    "wof:id":1209398493,
+    "wof:lastmodified":1536288223,
+    "wof:name":"Tomo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.66944,
+    -17.05583,
+    33.66944,
+    -17.05583
+],
+  "geometry": {"coordinates":[33.66944,-17.05583],"type":"Point"}
+}

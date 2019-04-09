@@ -1,0 +1,67 @@
+{
+  "id": 1260001771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.11778,-15.34111,38.11778,-15.34111",
+    "geom:latitude":-15.34111,
+    "geom:longitude":38.11778,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mehequela",
+    "gn:country_code":"MZ",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039006,
+    "gn:latitude":-15.34111,
+    "gn:longitude":38.11778,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Mehequela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091701415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039006
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a8cd4f5f57981f9e9ee39b9dd9d02d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701415,
+            "locality_id":1260001771,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1260001771,
+    "wof:lastmodified":1536605893,
+    "wof:name":"Mehequela",
+    "wof:parent_id":1091701415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.11778,
+    -15.34111,
+    38.11778,
+    -15.34111
+],
+  "geometry": {"coordinates":[38.11778,-15.34111],"type":"Point"}
+}

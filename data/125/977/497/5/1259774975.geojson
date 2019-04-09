@@ -1,0 +1,72 @@
+{
+  "id": 1259774975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.21611,-13.18778,35.21611,-13.18778",
+    "geom:latitude":-13.18778,
+    "geom:longitude":35.21611,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Aliquie",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":1252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053164,
+    "gn:latitude":-13.18778,
+    "gn:longitude":35.21611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aliqui\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aliq\u00fc\u00e8",
+        "Aliqui\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053164
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5d13cdd0c983c3c3b358d77e98d1bd3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698283,
+            "locality_id":1259774975,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1259774975,
+    "wof:lastmodified":1537674613,
+    "wof:name":"Aliquie",
+    "wof:parent_id":1091698283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21611,
+    -13.18778,
+    35.21611,
+    -13.18778
+],
+  "geometry": {"coordinates":[35.21611,-13.18778],"type":"Point"}
+}

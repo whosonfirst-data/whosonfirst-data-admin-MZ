@@ -1,0 +1,67 @@
+{
+  "id": 1259607355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.88056,-26.84389,32.88056,-26.84389",
+    "geom:latitude":-26.84389,
+    "geom:longitude":32.88056,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"David",
+    "gn:country_code":"MZ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047231,
+    "gn:latitude":-26.84389,
+    "gn:longitude":32.88056,
+    "gn:modification_date":"1997-09-02",
+    "gn:name":"David",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047231
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5f115764ef7d8404a25f765b223a84e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699383,
+            "locality_id":1259607355,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1259607355,
+    "wof:lastmodified":1536680389,
+    "wof:name":"David",
+    "wof:parent_id":1091699383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.88056,
+    -26.84389,
+    32.88056,
+    -26.84389
+],
+  "geometry": {"coordinates":[32.88056,-26.84389],"type":"Point"}
+}

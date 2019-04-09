@@ -1,0 +1,61 @@
+{
+  "id": 1209209509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.11444,-17.33139,37.11444,-17.33139",
+    "geom:latitude":-17.33139,
+    "geom:longitude":37.11444,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Naiobe",
+    "gn:country_code":"MZ",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034514,
+    "gn:latitude":-17.33139,
+    "gn:longitude":37.11444,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Naiobe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034514
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1eff07270b4cd708ae2d0fd3775346e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209209509
+        }
+    ],
+    "wof:id":1209209509,
+    "wof:lastmodified":1536294337,
+    "wof:name":"Naiobe",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.11444,
+    -17.33139,
+    37.11444,
+    -17.33139
+],
+  "geometry": {"coordinates":[37.11444,-17.33139],"type":"Point"}
+}

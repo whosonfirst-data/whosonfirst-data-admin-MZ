@@ -1,0 +1,67 @@
+{
+  "id": 1327434537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6875,-24.31556,32.6875,-24.31556",
+    "geom:latitude":-24.31556,
+    "geom:longitude":32.6875,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gaio",
+    "gn:country_code":"MZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104540,
+    "gn:latitude":-24.31556,
+    "gn:longitude":32.6875,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Gaio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104540
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a715db4e59e5fa6c3f717c25ab7a3ebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696849,
+            "locality_id":1327434537,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1327434537,
+    "wof:lastmodified":1536677693,
+    "wof:name":"Gaio",
+    "wof:parent_id":1091696849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6875,
+    -24.31556,
+    32.6875,
+    -24.31556
+],
+  "geometry": {"coordinates":[32.6875,-24.31556],"type":"Point"}
+}

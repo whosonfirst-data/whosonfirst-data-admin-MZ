@@ -1,0 +1,67 @@
+{
+  "id": 1343284185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.39972,-14.64889,40.39972,-14.64889",
+    "geom:latitude":-14.64889,
+    "geom:longitude":40.39972,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Janica",
+    "gn:country_code":"MZ",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044707,
+    "gn:latitude":-14.64889,
+    "gn:longitude":40.39972,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Janica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044707
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1a55f09e6feae4b5d28055f3a20bfa2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700727,
+            "locality_id":1343284185,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1343284185,
+    "wof:lastmodified":1536999974,
+    "wof:name":"Janica",
+    "wof:parent_id":1091700727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.39972,
+    -14.64889,
+    40.39972,
+    -14.64889
+],
+  "geometry": {"coordinates":[40.39972,-14.64889],"type":"Point"}
+}

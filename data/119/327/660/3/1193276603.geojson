@@ -1,0 +1,67 @@
+{
+  "id": 1193276603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.95,-26.01667,32.95,-26.01667",
+    "geom:latitude":-26.01667,
+    "geom:longitude":32.95,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tobia",
+    "gn:country_code":"MZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025845,
+    "gn:latitude":-26.01667,
+    "gn:longitude":32.95,
+    "gn:modification_date":"1997-09-02",
+    "gn:name":"T\u00f3bia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674853,
+        1091697125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025845
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4249d2cb8e9f037b6402a15bcf88dd4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697125,
+            "locality_id":1193276603,
+            "region_id":85674853
+        }
+    ],
+    "wof:id":1193276603,
+    "wof:lastmodified":1536365565,
+    "wof:name":"Tobia",
+    "wof:parent_id":1091697125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.95,
+    -26.01667,
+    32.95,
+    -26.01667
+],
+  "geometry": {"coordinates":[32.95,-26.01667],"type":"Point"}
+}

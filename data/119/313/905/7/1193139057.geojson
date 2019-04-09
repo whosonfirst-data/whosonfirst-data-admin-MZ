@@ -1,0 +1,67 @@
+{
+  "id": 1193139057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.15806,-21.80889,35.15806,-21.80889",
+    "geom:latitude":-21.80889,
+    "geom:longitude":35.15806,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Jaquissene",
+    "gn:country_code":"MZ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044694,
+    "gn:latitude":-21.80889,
+    "gn:longitude":35.15806,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Jaquissene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044694
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"63a967b15c92f9101ef3f34405ff4711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698063,
+            "locality_id":1193139057,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1193139057,
+    "wof:lastmodified":1536367340,
+    "wof:name":"Jaquissene",
+    "wof:parent_id":1091698063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15806,
+    -21.80889,
+    35.15806,
+    -21.80889
+],
+  "geometry": {"coordinates":[35.15806,-21.80889],"type":"Point"}
+}

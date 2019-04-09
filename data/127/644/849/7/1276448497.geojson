@@ -1,0 +1,67 @@
+{
+  "id": 1276448497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.52861,-24.96556,32.52861,-24.96556",
+    "geom:latitude":-24.96556,
+    "geom:longitude":32.52861,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Felipe",
+    "gn:country_code":"MZ",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046383,
+    "gn:latitude":-24.96556,
+    "gn:longitude":32.52861,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Felipe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046383
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4047c16c761cc5c56bf404e9c3512406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1276448497,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1276448497,
+    "wof:lastmodified":1536622232,
+    "wof:name":"Felipe",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.52861,
+    -24.96556,
+    32.52861,
+    -24.96556
+],
+  "geometry": {"coordinates":[32.52861,-24.96556],"type":"Point"}
+}

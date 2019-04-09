@@ -1,0 +1,72 @@
+{
+  "id": 1360275095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.54528,-16.44944,37.54528,-16.44944",
+    "geom:latitude":-16.44944,
+    "geom:longitude":37.54528,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chefe Matagala",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050248,
+    "gn:latitude":-16.44944,
+    "gn:longitude":37.54528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Matagala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Charrua",
+        "Chefe Matagala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050248
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0dc0220ef517cd69a9d9a84e861ae098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697943,
+            "locality_id":1360275095,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1360275095,
+    "wof:lastmodified":1537674596,
+    "wof:name":"Chefe Matagala",
+    "wof:parent_id":1091697943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.54528,
+    -16.44944,
+    37.54528,
+    -16.44944
+],
+  "geometry": {"coordinates":[37.54528,-16.44944],"type":"Point"}
+}

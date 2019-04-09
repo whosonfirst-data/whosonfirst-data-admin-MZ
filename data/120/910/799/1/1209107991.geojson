@@ -1,0 +1,61 @@
+{
+  "id": 1209107991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.18667,-24.13361,35.18667,-24.13361",
+    "geom:latitude":-24.13361,
+    "geom:longitude":35.18667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Met. Livre Saia Quichine",
+    "gn:country_code":"MZ",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101639,
+    "gn:latitude":-24.13361,
+    "gn:longitude":35.18667,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Met. Livre Saia Quichine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101639
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7ecbc30bb57f376eb94bc576ed2a21d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209107991
+        }
+    ],
+    "wof:id":1209107991,
+    "wof:lastmodified":1536297503,
+    "wof:name":"Met. Livre Saia Quichine",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.18667,
+    -24.13361,
+    35.18667,
+    -24.13361
+],
+  "geometry": {"coordinates":[35.18667,-24.13361],"type":"Point"}
+}

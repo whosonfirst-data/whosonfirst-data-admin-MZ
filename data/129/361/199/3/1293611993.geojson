@@ -1,0 +1,67 @@
+{
+  "id": 1293611993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.03639,-18.27556,34.03639,-18.27556",
+    "geom:latitude":-18.27556,
+    "geom:longitude":34.03639,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tongo",
+    "gn:country_code":"MZ",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025718,
+    "gn:latitude":-18.27556,
+    "gn:longitude":34.03639,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Tongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091697631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025718
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"df30068dd60de69181a186df7dfb826a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697631,
+            "locality_id":1293611993,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1293611993,
+    "wof:lastmodified":1536604662,
+    "wof:name":"Tongo",
+    "wof:parent_id":1091697631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.03639,
+    -18.27556,
+    34.03639,
+    -18.27556
+],
+  "geometry": {"coordinates":[34.03639,-18.27556],"type":"Point"}
+}

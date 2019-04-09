@@ -1,0 +1,67 @@
+{
+  "id": 1242884131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.28333,-14.58333,38.28333,-14.58333",
+    "geom:latitude":-14.58333,
+    "geom:longitude":38.28333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Carrica",
+    "gn:country_code":"MZ",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050989,
+    "gn:latitude":-14.58333,
+    "gn:longitude":38.28333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Carrica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091698233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050989
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"204c849a242909fa8b44d147f8c1a470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698233,
+            "locality_id":1242884131,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1242884131,
+    "wof:lastmodified":1536619953,
+    "wof:name":"Carrica",
+    "wof:parent_id":1091698233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.28333,
+    -14.58333,
+    38.28333,
+    -14.58333
+],
+  "geometry": {"coordinates":[38.28333,-14.58333],"type":"Point"}
+}

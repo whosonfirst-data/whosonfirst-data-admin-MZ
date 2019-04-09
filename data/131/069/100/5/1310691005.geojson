@@ -1,0 +1,67 @@
+{
+  "id": 1310691005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.33389,-16.00778,38.33389,-16.00778",
+    "geom:latitude":-16.00778,
+    "geom:longitude":38.33389,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chefe Pedro",
+    "gn:country_code":"MZ",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095529,
+    "gn:latitude":-16.00778,
+    "gn:longitude":38.33389,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Chefe Pedro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095529
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"83fa1c28b853ba928c77733e52451f8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697545,
+            "locality_id":1310691005,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1310691005,
+    "wof:lastmodified":1536649002,
+    "wof:name":"Chefe Pedro",
+    "wof:parent_id":1091697545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.33389,
+    -16.00778,
+    38.33389,
+    -16.00778
+],
+  "geometry": {"coordinates":[38.33389,-16.00778],"type":"Point"}
+}

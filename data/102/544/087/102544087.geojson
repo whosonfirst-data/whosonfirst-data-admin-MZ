@@ -1,0 +1,74 @@
+{
+  "id": 102544087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.3132972222,-22.0184305556,35.3132972222,-22.0184305556",
+    "geom:latitude":-22.018431,
+    "geom:longitude":35.313297,
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0644\u0646\u06a9\u0648\u0644\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Vilankulo"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u0438\u043b\u043d\u043a\u0443\u043b\u0443"
+    ],
+    "oa:elevation_ft":"46",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":122,
+    "woe:hierarchy":{
+        "country_id":23424902,
+        "planet_id":1,
+        "state_id":2346313
+    },
+    "wof:belongsto":[
+        85632729,
+        85674845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515033,
+        "iata:code":"VNX",
+        "icao:code":"FQVL",
+        "oa:id":"2986",
+        "wd:id":"Q7930082"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"64811abd60c462f8c0905c960ab66d2b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544087,
+            "country_id":85632729,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":102544087,
+    "wof:lastmodified":1543792156,
+    "wof:name":"Vilanculos Airport",
+    "wof:parent_id":85674845,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    35.313297222222,
+    -22.018430555556,
+    35.313297222222,
+    -22.018430555556
+],
+  "geometry": {"coordinates":[35.313297222222,-22.018430555556],"type":"Point"}
+}

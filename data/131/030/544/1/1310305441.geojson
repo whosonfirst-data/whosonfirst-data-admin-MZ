@@ -1,0 +1,67 @@
+{
+  "id": 1310305441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.49694,-24.69833,32.49694,-24.69833",
+    "geom:latitude":-24.69833,
+    "geom:longitude":32.49694,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Maciana",
+    "gn:country_code":"MZ",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1103484,
+    "gn:latitude":-24.69833,
+    "gn:longitude":32.49694,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Maciana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1103484
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cee3dc346e7e4af16b34ccf52ff02830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1310305441,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1310305441,
+    "wof:lastmodified":1536708300,
+    "wof:name":"Maciana",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.49694,
+    -24.69833,
+    32.49694,
+    -24.69833
+],
+  "geometry": {"coordinates":[32.49694,-24.69833],"type":"Point"}
+}

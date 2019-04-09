@@ -1,0 +1,67 @@
+{
+  "id": 1276436593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.0975,-17.05361,38.0975,-17.05361",
+    "geom:latitude":-17.05361,
+    "geom:longitude":38.0975,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tonha",
+    "gn:country_code":"MZ",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025711,
+    "gn:latitude":-17.05361,
+    "gn:longitude":38.0975,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Tonha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025711
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"17f73db4d6fb8a15c7a2a5a0ece55646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701291,
+            "locality_id":1276436593,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1276436593,
+    "wof:lastmodified":1536639266,
+    "wof:name":"Tonha",
+    "wof:parent_id":1091701291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.0975,
+    -17.05361,
+    38.0975,
+    -17.05361
+],
+  "geometry": {"coordinates":[38.0975,-17.05361],"type":"Point"}
+}

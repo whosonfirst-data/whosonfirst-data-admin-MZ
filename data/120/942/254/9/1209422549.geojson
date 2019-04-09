@@ -1,0 +1,61 @@
+{
+  "id": 1209422549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.55306,-22.04944,34.55306,-22.04944",
+    "geom:latitude":-22.04944,
+    "geom:longitude":34.55306,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cotomane",
+    "gn:country_code":"MZ",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1103697,
+    "gn:latitude":-22.04944,
+    "gn:longitude":34.55306,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Cotomane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1103697
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6b7d270f56b9225c3fec749a8775b102",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209422549
+        }
+    ],
+    "wof:id":1209422549,
+    "wof:lastmodified":1536287483,
+    "wof:name":"Cotomane",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.553059999999995,
+    -22.04944,
+    34.553059999999995,
+    -22.04944
+],
+  "geometry": {"coordinates":[34.55306,-22.04944],"type":"Point"}
+}

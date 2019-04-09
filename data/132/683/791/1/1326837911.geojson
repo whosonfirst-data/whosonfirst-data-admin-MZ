@@ -1,0 +1,67 @@
+{
+  "id": 1326837911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3875,-21.96472,34.3875,-21.96472",
+    "geom:latitude":-21.96472,
+    "geom:longitude":34.3875,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chagalane",
+    "gn:country_code":"MZ",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1103380,
+    "gn:latitude":-21.96472,
+    "gn:longitude":34.3875,
+    "gn:modification_date":"1998-04-29",
+    "gn:name":"Chagalane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1103380
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"df1bede7e0eb377edff17845b9507153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698405,
+            "locality_id":1326837911,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1326837911,
+    "wof:lastmodified":1537038834,
+    "wof:name":"Chagalane",
+    "wof:parent_id":1091698405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3875,
+    -21.96472,
+    34.3875,
+    -21.96472
+],
+  "geometry": {"coordinates":[34.3875,-21.96472],"type":"Point"}
+}

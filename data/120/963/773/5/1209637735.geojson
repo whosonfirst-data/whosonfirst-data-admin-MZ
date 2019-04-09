@@ -1,0 +1,61 @@
+{
+  "id": 1209637735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.20611,-17.39694,35.20611,-17.39694",
+    "geom:latitude":-17.39694,
+    "geom:longitude":35.20611,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Canhungue",
+    "gn:country_code":"MZ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095198,
+    "gn:latitude":-17.39694,
+    "gn:longitude":35.20611,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Canhungue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095198
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5c89ae722f2e2c154458f07bf4dc0775",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209637735
+        }
+    ],
+    "wof:id":1209637735,
+    "wof:lastmodified":1536280987,
+    "wof:name":"Canhungue",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20610999999999,
+    -17.39694,
+    35.20610999999999,
+    -17.39694
+],
+  "geometry": {"coordinates":[35.20610999999999,-17.39694],"type":"Point"}
+}

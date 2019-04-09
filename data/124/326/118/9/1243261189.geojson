@@ -1,0 +1,72 @@
+{
+  "id": 1243261189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.56028,-14.80306,37.56028,-14.80306",
+    "geom:latitude":-14.80306,
+    "geom:longitude":37.56028,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quirole",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028323,
+    "gn:latitude":-14.80306,
+    "gn:longitude":37.56028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Quirole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quirrole",
+        "Quirole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091698863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028323
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"52774fbe0e795c29426256f1f92e5637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698863,
+            "locality_id":1243261189,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1243261189,
+    "wof:lastmodified":1537674489,
+    "wof:name":"Quirole",
+    "wof:parent_id":1091698863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.56028,
+    -14.80306,
+    37.56028,
+    -14.80306
+],
+  "geometry": {"coordinates":[37.56028,-14.80306],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209425117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0,-14.96667,36.0,-14.96667",
+    "geom:latitude":-14.96667,
+    "geom:longitude":36.0,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Balume",
+    "gn:country_code":"MZ",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052597,
+    "gn:latitude":-14.96667,
+    "gn:longitude":36.0,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Balume",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052597
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4df423c3a171edc349b375eb5f327b7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209425117
+        }
+    ],
+    "wof:id":1209425117,
+    "wof:lastmodified":1536287405,
+    "wof:name":"Balume",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0,
+    -14.96667,
+    36.0,
+    -14.96667
+],
+  "geometry": {"coordinates":[36.0,-14.96667],"type":"Point"}
+}

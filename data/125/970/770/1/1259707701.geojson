@@ -1,0 +1,67 @@
+{
+  "id": 1259707701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.99889,-25.86972,31.99889,-25.86972",
+    "geom:latitude":-25.86972,
+    "geom:longitude":31.99889,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Valoi",
+    "gn:country_code":"MZ",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024824,
+    "gn:latitude":-25.86972,
+    "gn:longitude":31.99889,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Valoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091700825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024824
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"dd85ae85402b11cfbd42e1a90ae8b05f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700825,
+            "locality_id":1259707701,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1259707701,
+    "wof:lastmodified":1537030883,
+    "wof:name":"Valoi",
+    "wof:parent_id":1091700825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.99889000000001,
+    -25.86972,
+    31.99889000000001,
+    -25.86972
+],
+  "geometry": {"coordinates":[31.99889000000001,-25.86972],"type":"Point"}
+}

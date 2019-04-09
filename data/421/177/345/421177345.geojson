@@ -1,0 +1,81 @@
+{
+  "id": 421177345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.59111,-12.34167,40.59111,-12.34167",
+    "geom:latitude":-12.34167,
+    "geom:longitude":40.59111,
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Vila do Ibo"
+    ],
+    "qs:gn_country":"MZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1024695,
+    "qs:gn_pop":0,
+    "qs:name":"Ibo",
+    "qs:name_adm0":"Mo\u00e7ambique",
+    "qs:name_adm1":"Cabo Delgado",
+    "qs:photos":185,
+    "qs:photos_1k":37,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":185,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1175301,
+    "qs:woe_adm0":23424902,
+    "qs:woe_id":1548224,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091697897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024695,
+        "gp:id":1548224,
+        "qs:id":1175301,
+        "wd:id":"Q2455733",
+        "wk:page":"Ibo District"
+    },
+    "wof:country":"MZ",
+    "wof:created":1459009141,
+    "wof:geomhash":"5584eb331f0a13c8ec1ac3ea8cbe8a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697897,
+            "locality_id":421177345,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":421177345,
+    "wof:lastmodified":1501216586,
+    "wof:name":"Ibo",
+    "wof:parent_id":1091697897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.59111,
+    -12.34167,
+    40.59111,
+    -12.34167
+],
+  "geometry": {"coordinates":[40.59111,-12.34167],"type":"Point"}
+}

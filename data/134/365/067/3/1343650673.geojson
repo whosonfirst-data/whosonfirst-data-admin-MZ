@@ -1,0 +1,70 @@
+{
+  "id": 1343650673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.00556,-20.31806,33.00556,-20.31806",
+    "geom:latitude":-20.31806,
+    "geom:longitude":33.00556,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Condana",
+    "gn:country_code":"MZ",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047877,
+    "gn:latitude":-20.31806,
+    "gn:longitude":33.00556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Condana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Condana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091700331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047877
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1d66b18a512a551e888b4d6c2d173889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700331,
+            "locality_id":1343650673,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1343650673,
+    "wof:lastmodified":1537674582,
+    "wof:name":"Condana",
+    "wof:parent_id":1091700331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.00556,
+    -20.31806,
+    33.00556,
+    -20.31806
+],
+  "geometry": {"coordinates":[33.00556,-20.31806],"type":"Point"}
+}

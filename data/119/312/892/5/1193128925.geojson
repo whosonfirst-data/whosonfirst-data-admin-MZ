@@ -1,0 +1,67 @@
+{
+  "id": 1193128925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.85944,-14.73194,36.85944,-14.73194",
+    "geom:latitude":-14.73194,
+    "geom:longitude":36.85944,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Maluata",
+    "gn:country_code":"MZ",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088000,
+    "gn:latitude":-14.73194,
+    "gn:longitude":36.85944,
+    "gn:modification_date":"1997-04-30",
+    "gn:name":"Chefe Maluata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091697375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088000
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bf3386d55de79adbd24e78ab261ea5f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697375,
+            "locality_id":1193128925,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1193128925,
+    "wof:lastmodified":1536377917,
+    "wof:name":"Chefe Maluata",
+    "wof:parent_id":1091697375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.85944,
+    -14.73194,
+    36.85944,
+    -14.73194
+],
+  "geometry": {"coordinates":[36.85944,-14.73194],"type":"Point"}
+}

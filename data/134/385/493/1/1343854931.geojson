@@ -1,0 +1,67 @@
+{
+  "id": 1343854931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.80444,-15.5325,32.80444,-15.5325",
+    "geom:latitude":-15.5325,
+    "geom:longitude":32.80444,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Messamira",
+    "gn:country_code":"MZ",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038418,
+    "gn:latitude":-15.5325,
+    "gn:longitude":32.80444,
+    "gn:modification_date":"1997-06-03",
+    "gn:name":"Messamira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038418
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"61a53306a070612117d4f502cc7c8771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699093,
+            "locality_id":1343854931,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1343854931,
+    "wof:lastmodified":1536674595,
+    "wof:name":"Messamira",
+    "wof:parent_id":1091699093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.80444,
+    -15.5325,
+    32.80444,
+    -15.5325
+],
+  "geometry": {"coordinates":[32.80444,-15.5325],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343964355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.92528,-25.37806,32.92528,-25.37806",
+    "geom:latitude":-25.37806,
+    "geom:longitude":32.92528,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Castanheira",
+    "gn:country_code":"MZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090076,
+    "gn:latitude":-25.37806,
+    "gn:longitude":32.92528,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Castanheira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090076
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b53357b45b7b5b1f073393f051477c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699015,
+            "locality_id":1343964355,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1343964355,
+    "wof:lastmodified":1537013598,
+    "wof:name":"Castanheira",
+    "wof:parent_id":1091699015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.92528,
+    -25.37806,
+    32.92528,
+    -25.37806
+],
+  "geometry": {"coordinates":[32.92528,-25.37806],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344241307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24361,-18.66583,36.24361,-18.66583",
+    "geom:latitude":-18.66583,
+    "geom:longitude":36.24361,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Matinde",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039909,
+    "gn:latitude":-18.66583,
+    "gn:longitude":36.24361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Matinde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matilde",
+        "Matinde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039909
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5e3bf04951195695a75097edae9ccf26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696729,
+            "locality_id":1344241307,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1344241307,
+    "wof:lastmodified":1537674537,
+    "wof:name":"Matinde",
+    "wof:parent_id":1091696729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24361,
+    -18.66583,
+    36.24361,
+    -18.66583
+],
+  "geometry": {"coordinates":[36.24361,-18.66583],"type":"Point"}
+}

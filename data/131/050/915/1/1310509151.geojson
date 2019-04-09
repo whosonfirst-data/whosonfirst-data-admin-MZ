@@ -1,0 +1,67 @@
+{
+  "id": 1310509151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.42111,-21.52167,34.42111,-21.52167",
+    "geom:latitude":-21.52167,
+    "geom:longitude":34.42111,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chigamane",
+    "gn:country_code":"MZ",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101436,
+    "gn:latitude":-21.52167,
+    "gn:longitude":34.42111,
+    "gn:modification_date":"1998-04-29",
+    "gn:name":"Chigamane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101436
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f912fb18bd445344057e596526a1081f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697673,
+            "locality_id":1310509151,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1310509151,
+    "wof:lastmodified":1536911951,
+    "wof:name":"Chigamane",
+    "wof:parent_id":1091697673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.42111,
+    -21.52167,
+    34.42111,
+    -21.52167
+],
+  "geometry": {"coordinates":[34.42111,-21.52167],"type":"Point"}
+}

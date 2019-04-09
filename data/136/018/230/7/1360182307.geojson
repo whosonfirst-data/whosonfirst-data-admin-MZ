@@ -1,0 +1,67 @@
+{
+  "id": 1360182307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.04611,-17.37306,35.04611,-17.37306",
+    "geom:latitude":-17.37306,
+    "geom:longitude":35.04611,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Satchspimbe",
+    "gn:country_code":"MZ",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027227,
+    "gn:latitude":-17.37306,
+    "gn:longitude":35.04611,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Satchspimbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091700637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027227
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b3f9232a46a6fa045b5750b2b3734b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700637,
+            "locality_id":1360182307,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1360182307,
+    "wof:lastmodified":1536805269,
+    "wof:name":"Satchspimbe",
+    "wof:parent_id":1091700637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.04611,
+    -17.37306,
+    35.04611,
+    -17.37306
+],
+  "geometry": {"coordinates":[35.04611,-17.37306],"type":"Point"}
+}

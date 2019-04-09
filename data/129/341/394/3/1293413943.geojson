@@ -1,0 +1,72 @@
+{
+  "id": 1293413943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.18333,-26.15361,32.18333,-26.15361",
+    "geom:latitude":-26.15361,
+    "geom:longitude":32.18333,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Massoca",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040182,
+    "gn:latitude":-26.15361,
+    "gn:longitude":32.18333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Massoca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Massoco",
+        "Massoca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091700825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040182
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fe8cf91418224557c3a5e3498607da1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700825,
+            "locality_id":1293413943,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1293413943,
+    "wof:lastmodified":1537674538,
+    "wof:name":"Massoca",
+    "wof:parent_id":1091700825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.18333,
+    -26.15361,
+    32.18333,
+    -26.15361
+],
+  "geometry": {"coordinates":[32.18333,-26.15361],"type":"Point"}
+}

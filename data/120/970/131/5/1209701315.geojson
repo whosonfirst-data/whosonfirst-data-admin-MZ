@@ -1,0 +1,67 @@
+{
+  "id": 1209701315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.35083,-14.87694,34.35083,-14.87694",
+    "geom:latitude":-14.87694,
+    "geom:longitude":34.35083,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Aldeia Bene",
+    "gn:country_code":"MZ",
+    "gn:dem":1156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087578,
+    "gn:latitude":-14.87694,
+    "gn:longitude":34.35083,
+    "gn:modification_date":"1997-04-24",
+    "gn:name":"Aldeia Bene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091701561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087578
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"40f94f62c7416215dcb72527487f8574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701561,
+            "locality_id":1209701315,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1209701315,
+    "wof:lastmodified":1536394844,
+    "wof:name":"Aldeia Bene",
+    "wof:parent_id":1091701561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.35083,
+    -14.87694,
+    34.35083,
+    -14.87694
+],
+  "geometry": {"coordinates":[34.35083,-14.87694],"type":"Point"}
+}

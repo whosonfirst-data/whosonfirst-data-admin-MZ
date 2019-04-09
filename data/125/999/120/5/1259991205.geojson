@@ -1,0 +1,72 @@
+{
+  "id": 1259991205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.79806,-21.4775,34.79806,-21.4775",
+    "geom:latitude":-21.4775,
+    "geom:longitude":34.79806,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Chefe Chicuire",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049596,
+    "gn:latitude":-21.4775,
+    "gn:longitude":34.79806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Chicu\u00edre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chicuir",
+        "Chefe Chicu\u00edre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049596
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"780e38c562e3bed9d0cf6602daa72875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698063,
+            "locality_id":1259991205,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1259991205,
+    "wof:lastmodified":1537674592,
+    "wof:name":"Chefe Chicuire",
+    "wof:parent_id":1091698063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.79806,
+    -21.4775,
+    34.79806,
+    -21.4775
+],
+  "geometry": {"coordinates":[34.79806,-21.4775],"type":"Point"}
+}

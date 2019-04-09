@@ -1,0 +1,67 @@
+{
+  "id": 1276547565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.55,-26.06194,32.55,-26.06194",
+    "geom:latitude":-26.06194,
+    "geom:longitude":32.55,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"M. Francisco",
+    "gn:country_code":"MZ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089687,
+    "gn:latitude":-26.06194,
+    "gn:longitude":32.55,
+    "gn:modification_date":"1997-09-02",
+    "gn:name":"M. Francisco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674853,
+        1091697125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089687
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c1f3c8ec18dcf1788e755da4de8b4666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697125,
+            "locality_id":1276547565,
+            "region_id":85674853
+        }
+    ],
+    "wof:id":1276547565,
+    "wof:lastmodified":1536988126,
+    "wof:name":"M. Francisco",
+    "wof:parent_id":1091697125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.55,
+    -26.06194,
+    32.55,
+    -26.06194
+],
+  "geometry": {"coordinates":[32.55,-26.06194],"type":"Point"}
+}

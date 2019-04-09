@@ -1,0 +1,67 @@
+{
+  "id": 1259706477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.14417,-20.71611,34.14417,-20.71611",
+    "geom:latitude":-20.71611,
+    "geom:longitude":34.14417,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Matongua",
+    "gn:country_code":"MZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039827,
+    "gn:latitude":-20.71611,
+    "gn:longitude":34.14417,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Matongua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039827
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1ff4157ba4df96223be469c2e3ac8fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696561,
+            "locality_id":1259706477,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1259706477,
+    "wof:lastmodified":1537032587,
+    "wof:name":"Matongua",
+    "wof:parent_id":1091696561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.14417,
+    -20.71611,
+    34.14417,
+    -20.71611
+],
+  "geometry": {"coordinates":[34.14417,-20.71611],"type":"Point"}
+}

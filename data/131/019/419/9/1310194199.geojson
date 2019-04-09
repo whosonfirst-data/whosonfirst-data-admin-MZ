@@ -1,0 +1,67 @@
+{
+  "id": 1310194199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.26556,-19.46167,33.26556,-19.46167",
+    "geom:latitude":-19.46167,
+    "geom:longitude":33.26556,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sande",
+    "gn:country_code":"MZ",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027421,
+    "gn:latitude":-19.46167,
+    "gn:longitude":33.26556,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Sande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091701483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027421
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d56be4148311bc6f5691d6ea3f103ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701483,
+            "locality_id":1310194199,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1310194199,
+    "wof:lastmodified":1536867360,
+    "wof:name":"Sande",
+    "wof:parent_id":1091701483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.26556,
+    -19.46167,
+    33.26556,
+    -19.46167
+],
+  "geometry": {"coordinates":[33.26556,-19.46167],"type":"Point"}
+}

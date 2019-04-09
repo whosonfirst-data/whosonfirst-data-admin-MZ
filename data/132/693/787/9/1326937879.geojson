@@ -1,0 +1,67 @@
+{
+  "id": 1326937879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.47083,-23.01056,35.47083,-23.01056",
+    "geom:latitude":-23.01056,
+    "geom:longitude":35.47083,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chefe Minerva",
+    "gn:country_code":"MZ",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101385,
+    "gn:latitude":-23.01056,
+    "gn:longitude":35.47083,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Chefe Minerva",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091699313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101385
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fd3679cbb779f2b4ecccccb49a5a4879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699313,
+            "locality_id":1326937879,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1326937879,
+    "wof:lastmodified":1536896446,
+    "wof:name":"Chefe Minerva",
+    "wof:parent_id":1091699313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.47083,
+    -23.01056,
+    35.47083,
+    -23.01056
+],
+  "geometry": {"coordinates":[35.47083,-23.01056],"type":"Point"}
+}

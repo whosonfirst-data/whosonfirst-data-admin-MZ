@@ -1,0 +1,67 @@
+{
+  "id": 1326752661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.66306,-16.65917,34.66306,-16.65917",
+    "geom:latitude":-16.65917,
+    "geom:longitude":34.66306,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Lobo",
+    "gn:country_code":"MZ",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043525,
+    "gn:latitude":-16.65917,
+    "gn:longitude":34.66306,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"L\u00f4bo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091700637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043525
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7df90765c4f508f75fcc425d2d24682c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700637,
+            "locality_id":1326752661,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1326752661,
+    "wof:lastmodified":1536666289,
+    "wof:name":"Lobo",
+    "wof:parent_id":1091700637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.66305999999999,
+    -16.65917,
+    34.66305999999999,
+    -16.65917
+],
+  "geometry": {"coordinates":[34.66305999999999,-16.65917],"type":"Point"}
+}

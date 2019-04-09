@@ -1,0 +1,67 @@
+{
+  "id": 1260071869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.01361,-14.62028,37.01361,-14.62028",
+    "geom:latitude":-14.62028,
+    "geom:longitude":37.01361,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Dinis",
+    "gn:country_code":"MZ",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088588,
+    "gn:latitude":-14.62028,
+    "gn:longitude":37.01361,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Dinis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091697375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088588
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"17d7f534af2de488962b00cc1c99c010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697375,
+            "locality_id":1260071869,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1260071869,
+    "wof:lastmodified":1537004041,
+    "wof:name":"Dinis",
+    "wof:parent_id":1091697375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.01361,
+    -14.62028,
+    37.01361,
+    -14.62028
+],
+  "geometry": {"coordinates":[37.01361,-14.62028],"type":"Point"}
+}

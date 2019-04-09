@@ -1,0 +1,61 @@
+{
+  "id": 1209127259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.04139,-12.89,35.04139,-12.89",
+    "geom:latitude":-12.89,
+    "geom:longitude":35.04139,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Lipeta",
+    "gn:country_code":"MZ",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043683,
+    "gn:latitude":-12.89,
+    "gn:longitude":35.04139,
+    "gn:modification_date":"1995-06-21",
+    "gn:name":"Lipeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043683
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d215e96065c3062e646e65cb5e8013b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209127259
+        }
+    ],
+    "wof:id":1209127259,
+    "wof:lastmodified":1536296918,
+    "wof:name":"Lipeta",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.04139,
+    -12.89,
+    35.04139,
+    -12.89
+],
+  "geometry": {"coordinates":[35.04139,-12.89],"type":"Point"}
+}

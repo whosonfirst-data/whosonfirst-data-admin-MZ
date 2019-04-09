@@ -1,0 +1,67 @@
+{
+  "id": 1242673037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.81972,-15.38889,31.81972,-15.38889",
+    "geom:latitude":-15.38889,
+    "geom:longitude":31.81972,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Nhacoco",
+    "gn:country_code":"MZ",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1031806,
+    "gn:latitude":-15.38889,
+    "gn:longitude":31.81972,
+    "gn:modification_date":"1997-05-30",
+    "gn:name":"Nhacoco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1031806
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7e21f81359231b33959f2334e9ea84f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699093,
+            "locality_id":1242673037,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1242673037,
+    "wof:lastmodified":1536927040,
+    "wof:name":"Nhacoco",
+    "wof:parent_id":1091699093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.81972,
+    -15.38889,
+    31.81972,
+    -15.38889
+],
+  "geometry": {"coordinates":[31.81972,-15.38889],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209095957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.64083,-15.92111,37.64083,-15.92111",
+    "geom:latitude":-15.92111,
+    "geom:longitude":37.64083,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Maeco",
+    "gn:country_code":"MZ",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042090,
+    "gn:latitude":-15.92111,
+    "gn:longitude":37.64083,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"Maeco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042090
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0b0105ae691389ac1a06057a319068d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209095957
+        }
+    ],
+    "wof:id":1209095957,
+    "wof:lastmodified":1536297886,
+    "wof:name":"Maeco",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.64083,
+    -15.92111,
+    37.64083,
+    -15.92111
+],
+  "geometry": {"coordinates":[37.64083,-15.92111],"type":"Point"}
+}

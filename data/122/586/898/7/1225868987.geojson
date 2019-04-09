@@ -1,0 +1,67 @@
+{
+  "id": 1225868987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.93472,-25.49,32.93472,-25.49",
+    "geom:latitude":-25.49,
+    "geom:longitude":32.93472,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Machubo",
+    "gn:country_code":"MZ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090081,
+    "gn:latitude":-25.49,
+    "gn:longitude":32.93472,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Machubo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090081
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7d624bc8983a61850d0a0e53d2b281f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699175,
+            "locality_id":1225868987,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1225868987,
+    "wof:lastmodified":1536979550,
+    "wof:name":"Machubo",
+    "wof:parent_id":1091699175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.93472,
+    -25.49,
+    32.93472,
+    -25.49
+],
+  "geometry": {"coordinates":[32.93472,-25.49],"type":"Point"}
+}

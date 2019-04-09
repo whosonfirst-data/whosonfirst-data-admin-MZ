@@ -1,0 +1,72 @@
+{
+  "id": 1360275253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.39556,-15.46694,37.39556,-15.46694",
+    "geom:latitude":-15.46694,
+    "geom:longitude":37.39556,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Mueia",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053226,
+    "gn:latitude":-15.46694,
+    "gn:longitude":37.39556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mueia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alexandria",
+        "Mueia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053226
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"dd72a913eebcf3d9f8217bb2e9501f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696213,
+            "locality_id":1360275253,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1360275253,
+    "wof:lastmodified":1537674613,
+    "wof:name":"Mueia",
+    "wof:parent_id":1091696213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.39556,
+    -15.46694,
+    37.39556,
+    -15.46694
+],
+  "geometry": {"coordinates":[37.39556,-15.46694],"type":"Point"}
+}

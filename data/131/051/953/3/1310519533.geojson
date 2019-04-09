@@ -1,0 +1,67 @@
+{
+  "id": 1310519533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.08333,-17.65,37.08333,-17.65",
+    "geom:latitude":-17.65,
+    "geom:longitude":37.08333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Mexexine",
+    "gn:country_code":"MZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037887,
+    "gn:latitude":-17.65,
+    "gn:longitude":37.08333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Mexexine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037887
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c7934a83a5156583560877b61275d5b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700865,
+            "locality_id":1310519533,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1310519533,
+    "wof:lastmodified":1536896502,
+    "wof:name":"Mexexine",
+    "wof:parent_id":1091700865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.08333,
+    -17.65,
+    37.08333,
+    -17.65
+],
+  "geometry": {"coordinates":[37.08333,-17.65],"type":"Point"}
+}

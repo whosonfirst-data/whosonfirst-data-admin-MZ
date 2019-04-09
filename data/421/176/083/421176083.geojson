@@ -1,0 +1,109 @@
+{
+  "id": 421176083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.94528,-18.29083,35.94528,-18.29083",
+    "geom:latitude":-18.29083,
+    "geom:longitude":35.94528,
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Marromeu"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u7f85\u6885\u70cf"
+    ],
+    "name:deu_x_preferred":[
+        "Marromeu"
+    ],
+    "name:dut_x_preferred":[
+        "Marromeu"
+    ],
+    "name:eng_x_preferred":[
+        "Marromeu"
+    ],
+    "name:ger_x_preferred":[
+        "Marromeu"
+    ],
+    "name:por_x_preferred":[
+        "Marromeu"
+    ],
+    "name:spa_x_preferred":[
+        "Marromeu"
+    ],
+    "name:unk_x_variant":[
+        "Marrumeu"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u7f85\u6885\u70cf"
+    ],
+    "qs:gn_country":"MZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1040397,
+    "qs:gn_pop":0,
+    "qs:name":"Marromeu",
+    "qs:name_adm0":"Mo\u00e7ambique",
+    "qs:name_adm1":"Sofala",
+    "qs:photos":31,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":31,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1041676,
+    "qs:woe_adm0":23424902,
+    "qs:woe_id":1550482,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091699215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040397,
+        "gp:id":1550482,
+        "qs:id":1041676,
+        "wd:id":"Q1102996",
+        "wk:page":"Marromeu"
+    },
+    "wof:country":"MZ",
+    "wof:created":1459009095,
+    "wof:geomhash":"b5f90821c5bd518ad35d478cb6805991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699215,
+            "locality_id":421176083,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":421176083,
+    "wof:lastmodified":1527726469,
+    "wof:name":"Marromeu",
+    "wof:parent_id":1091699215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.94528,
+    -18.29083,
+    35.94528,
+    -18.29083
+],
+  "geometry": {"coordinates":[35.94528,-18.29083],"type":"Point"}
+}

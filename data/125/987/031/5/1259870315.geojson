@@ -1,0 +1,72 @@
+{
+  "id": 1259870315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.27389,-16.83639,33.27389,-16.83639",
+    "geom:latitude":-16.83639,
+    "geom:longitude":33.27389,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Changara",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050349,
+    "gn:latitude":-16.83639,
+    "gn:longitude":33.27389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Changara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luenha",
+        "Changara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050349
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f99014394a7d71bf60dd7af99ac14af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696537,
+            "locality_id":1259870315,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1259870315,
+    "wof:lastmodified":1537674597,
+    "wof:name":"Changara",
+    "wof:parent_id":1091696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.27389,
+    -16.83639,
+    33.27389,
+    -16.83639
+],
+  "geometry": {"coordinates":[33.27389,-16.83639],"type":"Point"}
+}

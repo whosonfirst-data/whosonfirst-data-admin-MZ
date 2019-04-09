@@ -1,0 +1,67 @@
+{
+  "id": 1327243083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.18778,-24.43083,35.18778,-24.43083",
+    "geom:latitude":-24.43083,
+    "geom:longitude":35.18778,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chefe Limite",
+    "gn:country_code":"MZ",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1102387,
+    "gn:latitude":-24.43083,
+    "gn:longitude":35.18778,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chefe Limite",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1102387
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0040e92cd453eeaf65167705c4fba9e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698019,
+            "locality_id":1327243083,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1327243083,
+    "wof:lastmodified":1536954160,
+    "wof:name":"Chefe Limite",
+    "wof:parent_id":1091698019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.18778,
+    -24.43083,
+    35.18778,
+    -24.43083
+],
+  "geometry": {"coordinates":[35.18778,-24.43083],"type":"Point"}
+}

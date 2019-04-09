@@ -1,0 +1,67 @@
+{
+  "id": 1293501867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.43333,-14.98333,39.43333,-14.98333",
+    "geom:latitude":-14.98333,
+    "geom:longitude":39.43333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Metano",
+    "gn:country_code":"MZ",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038200,
+    "gn:latitude":-14.98333,
+    "gn:longitude":39.43333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Metano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038200
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cdce6894e5b436fb423be56c16e7e4c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700409,
+            "locality_id":1293501867,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1293501867,
+    "wof:lastmodified":1536766653,
+    "wof:name":"Metano",
+    "wof:parent_id":1091700409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.43333,
+    -14.98333,
+    39.43333,
+    -14.98333
+],
+  "geometry": {"coordinates":[39.43333,-14.98333],"type":"Point"}
+}

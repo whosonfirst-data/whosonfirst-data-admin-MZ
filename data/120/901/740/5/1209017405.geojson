@@ -1,0 +1,61 @@
+{
+  "id": 1209017405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.44194,-23.47056,33.44194,-23.47056",
+    "geom:latitude":-23.47056,
+    "geom:longitude":33.44194,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Munhaca",
+    "gn:country_code":"MZ",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104818,
+    "gn:latitude":-23.47056,
+    "gn:longitude":33.44194,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Munhaca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104818
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f5c7d5253a3c5b204c626c28e79be0f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209017405
+        }
+    ],
+    "wof:id":1209017405,
+    "wof:lastmodified":1536300252,
+    "wof:name":"Munhaca",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.44194,
+    -23.47056,
+    33.44194,
+    -23.47056
+],
+  "geometry": {"coordinates":[33.44194,-23.47056],"type":"Point"}
+}

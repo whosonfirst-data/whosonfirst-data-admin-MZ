@@ -1,0 +1,61 @@
+{
+  "id": 1209303631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.05778,-18.85,33.05778,-18.85",
+    "geom:latitude":-18.85,
+    "geom:longitude":33.05778,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Perai",
+    "gn:country_code":"MZ",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096505,
+    "gn:latitude":-18.85,
+    "gn:longitude":33.05778,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Perai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096505
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cd7aab53dc4e0ebbee099d489f97fc18",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209303631
+        }
+    ],
+    "wof:id":1209303631,
+    "wof:lastmodified":1536291270,
+    "wof:name":"Perai",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.05778,
+    -18.85,
+    33.05778,
+    -18.85
+],
+  "geometry": {"coordinates":[33.05778,-18.85],"type":"Point"}
+}

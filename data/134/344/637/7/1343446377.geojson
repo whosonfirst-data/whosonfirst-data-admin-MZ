@@ -1,0 +1,67 @@
+{
+  "id": 1343446377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.53056,-15.74111,33.53056,-15.74111",
+    "geom:latitude":-15.74111,
+    "geom:longitude":33.53056,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Dejombo",
+    "gn:country_code":"MZ",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047188,
+    "gn:latitude":-15.74111,
+    "gn:longitude":33.53056,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Dejombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047188
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"60b2cfa54f42afeb2fc53860839d2f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696825,
+            "locality_id":1343446377,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1343446377,
+    "wof:lastmodified":1536767027,
+    "wof:name":"Dejombo",
+    "wof:parent_id":1091696825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.53055999999999,
+    -15.74111,
+    33.53055999999999,
+    -15.74111
+],
+  "geometry": {"coordinates":[33.53055999999999,-15.74111],"type":"Point"}
+}

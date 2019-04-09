@@ -1,0 +1,72 @@
+{
+  "id": 1259480837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.15806,-16.67917,39.15806,-16.67917",
+    "geom:latitude":-16.67917,
+    "geom:longitude":39.15806,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Tomas",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038621,
+    "gn:latitude":-16.67917,
+    "gn:longitude":39.15806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tom\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mepupula",
+        "Tom\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038621
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"babb7c1c89155f0c9e3da6ca20edf3dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1259480837,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1259480837,
+    "wof:lastmodified":1537674530,
+    "wof:name":"Tomas",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.15806,
+    -16.67917000000001,
+    39.15806,
+    -16.67917000000001
+],
+  "geometry": {"coordinates":[39.15806,-16.67917000000001],"type":"Point"}
+}

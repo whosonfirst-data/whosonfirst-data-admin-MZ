@@ -1,0 +1,67 @@
+{
+  "id": 1276137139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.24111,-10.61333,40.24111,-10.61333",
+    "geom:latitude":-10.61333,
+    "geom:longitude":40.24111,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Uaititande",
+    "gn:country_code":"MZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025390,
+    "gn:latitude":-10.61333,
+    "gn:longitude":40.24111,
+    "gn:modification_date":"1995-02-03",
+    "gn:name":"Uaititande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025390
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5a7e59e33dc866c636372f1a0bb4a77e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701223,
+            "locality_id":1276137139,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276137139,
+    "wof:lastmodified":1537039835,
+    "wof:name":"Uaititande",
+    "wof:parent_id":1091701223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.24111,
+    -10.61333,
+    40.24111,
+    -10.61333
+],
+  "geometry": {"coordinates":[40.24111,-10.61333],"type":"Point"}
+}

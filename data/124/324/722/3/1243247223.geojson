@@ -1,0 +1,67 @@
+{
+  "id": 1243247223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.14278,-18.32472,33.14278,-18.32472",
+    "geom:latitude":-18.32472,
+    "geom:longitude":33.14278,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Aldeia Panze",
+    "gn:country_code":"MZ",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096205,
+    "gn:latitude":-18.32472,
+    "gn:longitude":33.14278,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Aldeia Panze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091696359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096205
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d011d155b5fe1c3bae60cfd62ae5c1ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696359,
+            "locality_id":1243247223,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1243247223,
+    "wof:lastmodified":1537089502,
+    "wof:name":"Aldeia Panze",
+    "wof:parent_id":1091696359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.14278,
+    -18.32472000000001,
+    33.14278,
+    -18.32472000000001
+],
+  "geometry": {"coordinates":[33.14278,-18.32472000000001],"type":"Point"}
+}

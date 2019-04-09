@@ -1,0 +1,70 @@
+{
+  "id": 1193049777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.24556,-17.85361,35.24556,-17.85361",
+    "geom:latitude":-17.85361,
+    "geom:longitude":35.24556,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Paza",
+    "gn:country_code":"MZ",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028971,
+    "gn:latitude":-17.85361,
+    "gn:longitude":35.24556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Paza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pazo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028971
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3dffa51f119a0db3cb4a6f6515b0b1ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696493,
+            "locality_id":1193049777,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1193049777,
+    "wof:lastmodified":1537674493,
+    "wof:name":"Paza",
+    "wof:parent_id":1091696493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24556,
+    -17.85361,
+    35.24556,
+    -17.85361
+],
+  "geometry": {"coordinates":[35.24556,-17.85361],"type":"Point"}
+}

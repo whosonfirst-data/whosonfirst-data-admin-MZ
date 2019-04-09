@@ -1,0 +1,67 @@
+{
+  "id": 1293873377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.4,-17.15361,37.4,-17.15361",
+    "geom:latitude":-17.15361,
+    "geom:longitude":37.4,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Enasso",
+    "gn:country_code":"MZ",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046685,
+    "gn:latitude":-17.15361,
+    "gn:longitude":37.4,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Enasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046685
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5d6d47a7ab59f69671c8e50454467199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698671,
+            "locality_id":1293873377,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1293873377,
+    "wof:lastmodified":1536728305,
+    "wof:name":"Enasso",
+    "wof:parent_id":1091698671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.4,
+    -17.15361,
+    37.4,
+    -17.15361
+],
+  "geometry": {"coordinates":[37.4,-17.15361],"type":"Point"}
+}

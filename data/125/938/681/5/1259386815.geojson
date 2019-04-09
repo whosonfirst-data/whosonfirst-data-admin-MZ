@@ -1,0 +1,67 @@
+{
+  "id": 1259386815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.27222,-12.57,40.27222,-12.57",
+    "geom:latitude":-12.57,
+    "geom:longitude":40.27222,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Bilibiza",
+    "gn:country_code":"MZ",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052258,
+    "gn:latitude":-12.57,
+    "gn:longitude":40.27222,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Bilibiza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052258
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"dcfcf8f11d31fd162d17f8f75858f39c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701371,
+            "locality_id":1259386815,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1259386815,
+    "wof:lastmodified":1536996637,
+    "wof:name":"Bilibiza",
+    "wof:parent_id":1091701371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.27222,
+    -12.57,
+    40.27222,
+    -12.57
+],
+  "geometry": {"coordinates":[40.27222,-12.57],"type":"Point"}
+}

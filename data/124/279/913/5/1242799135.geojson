@@ -1,0 +1,67 @@
+{
+  "id": 1242799135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.22222,-13.39944,36.22222,-13.39944",
+    "geom:latitude":-13.39944,
+    "geom:longitude":36.22222,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Nassope",
+    "gn:country_code":"MZ",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1032605,
+    "gn:latitude":-13.39944,
+    "gn:longitude":36.22222,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Nassope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1032605
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f3335e27262839731e81794c87b205ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698823,
+            "locality_id":1242799135,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1242799135,
+    "wof:lastmodified":1536744332,
+    "wof:name":"Nassope",
+    "wof:parent_id":1091698823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.22222,
+    -13.39944,
+    36.22222,
+    -13.39944
+],
+  "geometry": {"coordinates":[36.22222,-13.39944],"type":"Point"}
+}

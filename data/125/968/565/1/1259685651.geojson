@@ -1,0 +1,67 @@
+{
+  "id": 1259685651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.92417,-21.71111,33.92417,-21.71111",
+    "geom:latitude":-21.71111,
+    "geom:longitude":33.92417,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Mazoio",
+    "gn:country_code":"MZ",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039465,
+    "gn:latitude":-21.71111,
+    "gn:longitude":33.92417,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mazoio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039465
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"720d9cc310434181515293c66a6a430f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698405,
+            "locality_id":1259685651,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1259685651,
+    "wof:lastmodified":1537061161,
+    "wof:name":"Mazoio",
+    "wof:parent_id":1091698405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.92417,
+    -21.71111,
+    33.92417,
+    -21.71111
+],
+  "geometry": {"coordinates":[33.92417,-21.71111],"type":"Point"}
+}

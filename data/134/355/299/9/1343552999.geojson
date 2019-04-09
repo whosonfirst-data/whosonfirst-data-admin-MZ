@@ -1,0 +1,67 @@
+{
+  "id": 1343552999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.21889,-14.5125,37.21889,-14.5125",
+    "geom:latitude":-14.5125,
+    "geom:longitude":37.21889,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Serafim",
+    "gn:country_code":"MZ",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088633,
+    "gn:latitude":-14.5125,
+    "gn:longitude":37.21889,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Serafim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088633
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7658e14cb0d2f81960db632b39762ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699845,
+            "locality_id":1343552999,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1343552999,
+    "wof:lastmodified":1536610087,
+    "wof:name":"Serafim",
+    "wof:parent_id":1091699845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.21889,
+    -14.5125,
+    37.21889,
+    -14.5125
+],
+  "geometry": {"coordinates":[37.21889,-14.5125],"type":"Point"}
+}

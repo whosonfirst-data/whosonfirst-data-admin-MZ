@@ -1,0 +1,67 @@
+{
+  "id": 1243065577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.92556,-15.42722,38.92556,-15.42722",
+    "geom:latitude":-15.42722,
+    "geom:longitude":38.92556,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Prima",
+    "gn:country_code":"MZ",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028566,
+    "gn:latitude":-15.42722,
+    "gn:longitude":38.92556,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Prima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028566
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"85547ef16462cd9b8f2362e8054706a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700589,
+            "locality_id":1243065577,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1243065577,
+    "wof:lastmodified":1536856390,
+    "wof:name":"Prima",
+    "wof:parent_id":1091700589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.92556,
+    -15.42722,
+    38.92556,
+    -15.42722
+],
+  "geometry": {"coordinates":[38.92556,-15.42722],"type":"Point"}
+}

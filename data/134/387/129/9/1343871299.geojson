@@ -1,0 +1,67 @@
+{
+  "id": 1343871299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.77167,-23.49361,33.77167,-23.49361",
+    "geom:latitude":-23.49361,
+    "geom:longitude":33.77167,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Megaizane",
+    "gn:country_code":"MZ",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104765,
+    "gn:latitude":-23.49361,
+    "gn:longitude":33.77167,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Megaizane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104765
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9b555cc3c94d5feaf5343bc2c0b96c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696709,
+            "locality_id":1343871299,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1343871299,
+    "wof:lastmodified":1536650703,
+    "wof:name":"Megaizane",
+    "wof:parent_id":1091696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.77167,
+    -23.49361,
+    33.77167,
+    -23.49361
+],
+  "geometry": {"coordinates":[33.77167,-23.49361],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310499151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.66056,-14.63972,39.66056,-14.63972",
+    "geom:latitude":-14.63972,
+    "geom:longitude":39.66056,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Uaneline",
+    "gn:country_code":"MZ",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025309,
+    "gn:latitude":-14.63972,
+    "gn:longitude":39.66056,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Uaneline",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025309
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5df6e8a3bcd0d2b41097d77cebbbf27d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700409,
+            "locality_id":1310499151,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1310499151,
+    "wof:lastmodified":1536926808,
+    "wof:name":"Uaneline",
+    "wof:parent_id":1091700409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.66056,
+    -14.63972,
+    39.66056,
+    -14.63972
+],
+  "geometry": {"coordinates":[39.66056,-14.63972],"type":"Point"}
+}

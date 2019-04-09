@@ -1,0 +1,67 @@
+{
+  "id": 1343670737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.61806,-24.28417,32.61806,-24.28417",
+    "geom:latitude":-24.28417,
+    "geom:longitude":32.61806,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tobosse",
+    "gn:country_code":"MZ",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104538,
+    "gn:latitude":-24.28417,
+    "gn:longitude":32.61806,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Tobosse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104538
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0db22099577294b56eb6b209a8c5616b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696849,
+            "locality_id":1343670737,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1343670737,
+    "wof:lastmodified":1536940809,
+    "wof:name":"Tobosse",
+    "wof:parent_id":1091696849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.61806,
+    -24.28417,
+    32.61806,
+    -24.28417
+],
+  "geometry": {"coordinates":[32.61806,-24.28417],"type":"Point"}
+}

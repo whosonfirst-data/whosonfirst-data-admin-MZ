@@ -1,0 +1,66 @@
+{
+  "id": 1209625089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.2,-23.58333,35.2,-23.58333",
+    "geom:latitude":-23.58333,
+    "geom:longitude":35.2,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Macarringue Timbacho",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042829,
+    "gn:latitude":-23.58333,
+    "gn:longitude":35.2,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Macarringue Timbacho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Macarrigue Timbacho",
+        "Macarringue Timbacho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042829
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"96c73dc96bc5e4e9f810572f2949c06c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209625089
+        }
+    ],
+    "wof:id":1209625089,
+    "wof:lastmodified":1537674556,
+    "wof:name":"Macarringue Timbacho",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2,
+    -23.58333,
+    35.2,
+    -23.58333
+],
+  "geometry": {"coordinates":[35.2,-23.58333],"type":"Point"}
+}

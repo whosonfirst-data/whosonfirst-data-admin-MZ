@@ -1,0 +1,67 @@
+{
+  "id": 1326737951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.36361,-23.69722,35.36361,-23.69722",
+    "geom:latitude":-23.69722,
+    "geom:longitude":35.36361,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cabo Ruvala",
+    "gn:country_code":"MZ",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1102830,
+    "gn:latitude":-23.69722,
+    "gn:longitude":35.36361,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Cabo Ruvala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091699509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1102830
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2e28a44e9e5a5d8db9b390f8c953691f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699509,
+            "locality_id":1326737951,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1326737951,
+    "wof:lastmodified":1536687446,
+    "wof:name":"Cabo Ruvala",
+    "wof:parent_id":1091699509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.36360999999999,
+    -23.69722,
+    35.36360999999999,
+    -23.69722
+],
+  "geometry": {"coordinates":[35.36360999999999,-23.69722],"type":"Point"}
+}

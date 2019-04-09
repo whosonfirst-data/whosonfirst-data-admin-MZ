@@ -1,0 +1,67 @@
+{
+  "id": 1293195739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.91222,-18.82556,33.91222,-18.82556",
+    "geom:latitude":-18.82556,
+    "geom:longitude":33.91222,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Gobue",
+    "gn:country_code":"MZ",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045941,
+    "gn:latitude":-18.82556,
+    "gn:longitude":33.91222,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"G\u00f3bue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045941
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"56747c5abcb5b9729b7f81b7a8a501e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697585,
+            "locality_id":1293195739,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1293195739,
+    "wof:lastmodified":1536711019,
+    "wof:name":"Gobue",
+    "wof:parent_id":1091697585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.91222,
+    -18.82556,
+    33.91222,
+    -18.82556
+],
+  "geometry": {"coordinates":[33.91222,-18.82556],"type":"Point"}
+}

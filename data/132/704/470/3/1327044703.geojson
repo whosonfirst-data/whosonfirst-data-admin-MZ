@@ -1,0 +1,67 @@
+{
+  "id": 1327044703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91667,-14.68333,35.91667,-14.68333",
+    "geom:latitude":-14.68333,
+    "geom:longitude":35.91667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Buto",
+    "gn:country_code":"MZ",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051859,
+    "gn:latitude":-14.68333,
+    "gn:longitude":35.91667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Buto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051859
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7b4251d83ea61ba27ac49c9e9e437d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699553,
+            "locality_id":1327044703,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1327044703,
+    "wof:lastmodified":1536742397,
+    "wof:name":"Buto",
+    "wof:parent_id":1091699553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91667,
+    -14.68333,
+    35.91667,
+    -14.68333
+],
+  "geometry": {"coordinates":[35.91667,-14.68333],"type":"Point"}
+}

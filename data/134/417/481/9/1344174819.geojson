@@ -1,0 +1,67 @@
+{
+  "id": 1344174819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.29917,-11.32417,40.29917,-11.32417",
+    "geom:latitude":-11.32417,
+    "geom:longitude":40.29917,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Silobo",
+    "gn:country_code":"MZ",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026959,
+    "gn:latitude":-11.32417,
+    "gn:longitude":40.29917,
+    "gn:modification_date":"1995-02-06",
+    "gn:name":"Silobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026959
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"057f1ed0b3a029b3da6a56e2b9c65d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700013,
+            "locality_id":1344174819,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1344174819,
+    "wof:lastmodified":1536710872,
+    "wof:name":"Silobo",
+    "wof:parent_id":1091700013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.29917,
+    -11.32417,
+    40.29917,
+    -11.32417
+],
+  "geometry": {"coordinates":[40.29917,-11.32417],"type":"Point"}
+}

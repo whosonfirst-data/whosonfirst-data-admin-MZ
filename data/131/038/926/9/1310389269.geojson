@@ -1,0 +1,72 @@
+{
+  "id": 1310389269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.22167,-20.42139,33.22167,-20.42139",
+    "geom:latitude":-20.42139,
+    "geom:longitude":33.22167,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Muquasi",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035611,
+    "gn:latitude":-20.42139,
+    "gn:longitude":33.22167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Muquasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muguasi",
+        "Muquasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091700331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035611
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2347632f321905716088cce9f7d37e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700331,
+            "locality_id":1310389269,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1310389269,
+    "wof:lastmodified":1537674514,
+    "wof:name":"Muquasi",
+    "wof:parent_id":1091700331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.22167,
+    -20.42139,
+    33.22167,
+    -20.42139
+],
+  "geometry": {"coordinates":[33.22167,-20.42139],"type":"Point"}
+}

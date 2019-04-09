@@ -1,0 +1,67 @@
+{
+  "id": 1293301695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.37694,-22.17583,32.37694,-22.17583",
+    "geom:latitude":-22.17583,
+    "geom:longitude":32.37694,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Anconhane",
+    "gn:country_code":"MZ",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052998,
+    "gn:latitude":-22.17583,
+    "gn:longitude":32.37694,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Anconhane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052998
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1233695606256a15c745a5b85cb402d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696621,
+            "locality_id":1293301695,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1293301695,
+    "wof:lastmodified":1537052532,
+    "wof:name":"Anconhane",
+    "wof:parent_id":1091696621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.37694,
+    -22.17583,
+    32.37694,
+    -22.17583
+],
+  "geometry": {"coordinates":[32.37694,-22.17583],"type":"Point"}
+}

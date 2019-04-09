@@ -1,0 +1,67 @@
+{
+  "id": 1276671999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.37194,-11.43778,39.37194,-11.43778",
+    "geom:latitude":-11.43778,
+    "geom:longitude":39.37194,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Nambule",
+    "gn:country_code":"MZ",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1033960,
+    "gn:latitude":-11.43778,
+    "gn:longitude":39.37194,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Nambul\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1033960
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8f1a0dc51b6371930f74d6e9e91a468d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1276671999,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276671999,
+    "wof:lastmodified":1536820972,
+    "wof:name":"Nambule",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.37194,
+    -11.43778,
+    39.37194,
+    -11.43778
+],
+  "geometry": {"coordinates":[39.37194,-11.43778],"type":"Point"}
+}

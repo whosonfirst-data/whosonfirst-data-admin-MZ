@@ -1,0 +1,67 @@
+{
+  "id": 1259600707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.00778,-12.13917,40.00778,-12.13917",
+    "geom:latitude":-12.13917,
+    "geom:longitude":40.00778,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Macaba",
+    "gn:country_code":"MZ",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042970,
+    "gn:latitude":-12.13917,
+    "gn:longitude":40.00778,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Macaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091698583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042970
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"509b480867d9a3759f91ac0c1c616e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698583,
+            "locality_id":1259600707,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1259600707,
+    "wof:lastmodified":1536690093,
+    "wof:name":"Macaba",
+    "wof:parent_id":1091698583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.00778,
+    -12.13917,
+    40.00778,
+    -12.13917
+],
+  "geometry": {"coordinates":[40.00778,-12.13917],"type":"Point"}
+}

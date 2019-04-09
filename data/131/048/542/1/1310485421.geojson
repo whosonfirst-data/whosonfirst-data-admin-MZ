@@ -1,0 +1,70 @@
+{
+  "id": 1310485421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.64194,-20.6275,32.64194,-20.6275",
+    "geom:latitude":-20.6275,
+    "geom:longitude":32.64194,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Chese",
+    "gn:country_code":"MZ",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050008,
+    "gn:latitude":-20.6275,
+    "gn:longitude":32.64194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Chese"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091700331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050008
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8f52d060aa431171416e28c7b9804f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700331,
+            "locality_id":1310485421,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1310485421,
+    "wof:lastmodified":1537674595,
+    "wof:name":"Chese",
+    "wof:parent_id":1091700331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.64194000000001,
+    -20.6275,
+    32.64194000000001,
+    -20.6275
+],
+  "geometry": {"coordinates":[32.64194000000001,-20.6275],"type":"Point"}
+}

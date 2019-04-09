@@ -1,0 +1,67 @@
+{
+  "id": 1259785403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.2575,-21.61333,35.2575,-21.61333",
+    "geom:latitude":-21.61333,
+    "geom:longitude":35.2575,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bicho Tuai",
+    "gn:country_code":"MZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1103943,
+    "gn:latitude":-21.61333,
+    "gn:longitude":35.2575,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Bicho Tuai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1103943
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3e2921dd1aa8a7cb3460799ff3ee60b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698063,
+            "locality_id":1259785403,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1259785403,
+    "wof:lastmodified":1536921037,
+    "wof:name":"Bicho Tuai",
+    "wof:parent_id":1091698063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2575,
+    -21.61333,
+    35.2575,
+    -21.61333
+],
+  "geometry": {"coordinates":[35.2575,-21.61333],"type":"Point"}
+}

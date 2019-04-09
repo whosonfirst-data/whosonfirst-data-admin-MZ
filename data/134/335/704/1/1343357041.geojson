@@ -1,0 +1,72 @@
+{
+  "id": 1343357041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.33944,-15.03944,38.33944,-15.03944",
+    "geom:latitude":-15.03944,
+    "geom:longitude":38.33944,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Negururo",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1032203,
+    "gn:latitude":-15.03944,
+    "gn:longitude":38.33944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Negururo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Negururu",
+        "Negururo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091701415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1032203
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3519cb9933be81745d1bb80439d49b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701415,
+            "locality_id":1343357041,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1343357041,
+    "wof:lastmodified":1537674502,
+    "wof:name":"Negururo",
+    "wof:parent_id":1091701415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.33944,
+    -15.03944,
+    38.33944,
+    -15.03944
+],
+  "geometry": {"coordinates":[38.33944,-15.03944],"type":"Point"}
+}

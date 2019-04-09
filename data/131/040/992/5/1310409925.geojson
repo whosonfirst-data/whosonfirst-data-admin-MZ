@@ -1,0 +1,67 @@
+{
+  "id": 1310409925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.16917,-12.84972,40.16917,-12.84972",
+    "geom:latitude":-12.84972,
+    "geom:longitude":40.16917,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Freier",
+    "gn:country_code":"MZ",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085921,
+    "gn:latitude":-12.84972,
+    "gn:longitude":40.16917,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Freier",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085921
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3a83736075a800812d078b2736b3eae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701325,
+            "locality_id":1310409925,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1310409925,
+    "wof:lastmodified":1537052617,
+    "wof:name":"Freier",
+    "wof:parent_id":1091701325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.16917,
+    -12.84972,
+    40.16917,
+    -12.84972
+],
+  "geometry": {"coordinates":[40.16917,-12.84972],"type":"Point"}
+}

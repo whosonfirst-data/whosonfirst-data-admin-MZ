@@ -1,0 +1,67 @@
+{
+  "id": 1360194553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.23333,-21.51667,33.23333,-21.51667",
+    "geom:latitude":-21.51667,
+    "geom:longitude":33.23333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Megagate",
+    "gn:country_code":"MZ",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039034,
+    "gn:latitude":-21.51667,
+    "gn:longitude":33.23333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Megag\u00e2te",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091699281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039034
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"eff69aa1740912e090e7bd65d4c91bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699281,
+            "locality_id":1360194553,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1360194553,
+    "wof:lastmodified":1536788113,
+    "wof:name":"Megagate",
+    "wof:parent_id":1091699281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.23333,
+    -21.51667,
+    33.23333,
+    -21.51667
+],
+  "geometry": {"coordinates":[33.23333,-21.51667],"type":"Point"}
+}

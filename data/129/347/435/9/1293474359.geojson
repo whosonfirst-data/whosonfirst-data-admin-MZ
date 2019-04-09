@@ -1,0 +1,67 @@
+{
+  "id": 1293474359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.445,-17.46861,37.445,-17.46861",
+    "geom:latitude":-17.46861,
+    "geom:longitude":37.445,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Mategamuno",
+    "gn:country_code":"MZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040007,
+    "gn:latitude":-17.46861,
+    "gn:longitude":37.445,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Mategamuno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040007
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9815b3c2077d22be12fdf6b8961f414b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698671,
+            "locality_id":1293474359,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1293474359,
+    "wof:lastmodified":1536805856,
+    "wof:name":"Mategamuno",
+    "wof:parent_id":1091698671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.445,
+    -17.46861,
+    37.445,
+    -17.46861
+],
+  "geometry": {"coordinates":[37.445,-17.46861],"type":"Point"}
+}

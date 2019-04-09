@@ -1,0 +1,61 @@
+{
+  "id": 1209437175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.70306,-16.40556,39.70306,-16.40556",
+    "geom:latitude":-16.40556,
+    "geom:longitude":39.70306,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chefe Ligonha",
+    "gn:country_code":"MZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095607,
+    "gn:latitude":-16.40556,
+    "gn:longitude":39.70306,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Chefe Ligonha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095607
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"098f9bb9ada8fc0e1b7fa3ab3290a488",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209437175
+        }
+    ],
+    "wof:id":1209437175,
+    "wof:lastmodified":1536287068,
+    "wof:name":"Chefe Ligonha",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.70306,
+    -16.40556,
+    39.70306,
+    -16.40556
+],
+  "geometry": {"coordinates":[39.70306,-16.40556],"type":"Point"}
+}

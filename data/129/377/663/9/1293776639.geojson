@@ -1,0 +1,67 @@
+{
+  "id": 1293776639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.52806,-14.82972,40.52806,-14.82972",
+    "geom:latitude":-14.82972,
+    "geom:longitude":40.52806,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Inlaue",
+    "gn:country_code":"MZ",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044946,
+    "gn:latitude":-14.82972,
+    "gn:longitude":40.52806,
+    "gn:modification_date":"1994-04-21",
+    "gn:name":"Inlau\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044946
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"53c1a475775f0016d2fa024b425d4acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700287,
+            "locality_id":1293776639,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1293776639,
+    "wof:lastmodified":1536866014,
+    "wof:name":"Inlaue",
+    "wof:parent_id":1091700287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.52806,
+    -14.82972,
+    40.52806,
+    -14.82972
+],
+  "geometry": {"coordinates":[40.52806,-14.82972],"type":"Point"}
+}

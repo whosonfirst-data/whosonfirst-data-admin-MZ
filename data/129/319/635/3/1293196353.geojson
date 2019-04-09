@@ -1,0 +1,72 @@
+{
+  "id": 1293196353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.62028,-16.4225,37.62028,-16.4225",
+    "geom:latitude":-16.4225,
+    "geom:longitude":37.62028,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chefe Munhoga",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035681,
+    "gn:latitude":-16.4225,
+    "gn:longitude":37.62028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Munhoga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Munhoga",
+        "Chefe Munhoga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035681
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0dfc4b2da2ec9c1f47948f6efb503aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697943,
+            "locality_id":1293196353,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1293196353,
+    "wof:lastmodified":1537674514,
+    "wof:name":"Chefe Munhoga",
+    "wof:parent_id":1091697943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.62028,
+    -16.4225,
+    37.62028,
+    -16.4225
+],
+  "geometry": {"coordinates":[37.62028,-16.4225],"type":"Point"}
+}

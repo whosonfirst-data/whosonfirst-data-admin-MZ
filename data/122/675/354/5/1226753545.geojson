@@ -1,0 +1,67 @@
+{
+  "id": 1226753545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.90694,-25.36583,32.90694,-25.36583",
+    "geom:latitude":-25.36583,
+    "geom:longitude":32.90694,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Golovane",
+    "gn:country_code":"MZ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045898,
+    "gn:latitude":-25.36583,
+    "gn:longitude":32.90694,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Golovane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045898
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bb0c5dd2fb5081a68ed56988cb2bfb92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699015,
+            "locality_id":1226753545,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1226753545,
+    "wof:lastmodified":1536704517,
+    "wof:name":"Golovane",
+    "wof:parent_id":1091699015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.90694000000001,
+    -25.36583,
+    32.90694000000001,
+    -25.36583
+],
+  "geometry": {"coordinates":[32.90694000000001,-25.36583],"type":"Point"}
+}

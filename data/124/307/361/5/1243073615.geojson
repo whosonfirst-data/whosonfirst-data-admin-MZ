@@ -1,0 +1,67 @@
+{
+  "id": 1243073615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.54611,-26.035,32.54611,-26.035",
+    "geom:latitude":-26.035,
+    "geom:longitude":32.54611,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"O. Bruheim",
+    "gn:country_code":"MZ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089695,
+    "gn:latitude":-26.035,
+    "gn:longitude":32.54611,
+    "gn:modification_date":"1997-09-02",
+    "gn:name":"O. Bruheim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674853,
+        1091697125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089695
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f47d0a1ca403a8db39e6b79aa1e03459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697125,
+            "locality_id":1243073615,
+            "region_id":85674853
+        }
+    ],
+    "wof:id":1243073615,
+    "wof:lastmodified":1536844864,
+    "wof:name":"O. Bruheim",
+    "wof:parent_id":1091697125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.54611,
+    -26.035,
+    32.54611,
+    -26.035
+],
+  "geometry": {"coordinates":[32.54611,-26.035],"type":"Point"}
+}

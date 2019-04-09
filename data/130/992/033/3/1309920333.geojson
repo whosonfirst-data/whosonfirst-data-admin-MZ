@@ -1,0 +1,67 @@
+{
+  "id": 1309920333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.13333,-16.0,32.13333,-16.0",
+    "geom:latitude":-16.0,
+    "geom:longitude":32.13333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Cachigunde",
+    "gn:country_code":"MZ",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051770,
+    "gn:latitude":-16.0,
+    "gn:longitude":32.13333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"C\u00e0chigunde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091698723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051770
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f477c8eba64d7bce911ae32b9404dcd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698723,
+            "locality_id":1309920333,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1309920333,
+    "wof:lastmodified":1536766300,
+    "wof:name":"Cachigunde",
+    "wof:parent_id":1091698723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.13333,
+    -16.0,
+    32.13333,
+    -16.0
+],
+  "geometry": {"coordinates":[32.13333,-16.0],"type":"Point"}
+}

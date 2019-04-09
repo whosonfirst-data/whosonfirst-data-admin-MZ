@@ -1,0 +1,71 @@
+{
+  "id": 1327422857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.06227,-17.95477,33.06227,-17.95477",
+    "geom:latitude":-17.95477,
+    "geom:longitude":33.06227,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Choa",
+    "gn:country_code":"MZ",
+    "gn:dem":1474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049583,
+    "gn:latitude":-17.95477,
+    "gn:longitude":33.06227,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Choa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chicumba",
+        "Choa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091696359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049583
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1febbfb1f0f59abd2505e9645eb754b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696359,
+            "locality_id":1327422857,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1327422857,
+    "wof:lastmodified":1537674592,
+    "wof:name":"Choa",
+    "wof:parent_id":1091696359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.06227,
+    -17.95477,
+    33.06227,
+    -17.95477
+],
+  "geometry": {"coordinates":[33.06227,-17.95477],"type":"Point"}
+}

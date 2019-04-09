@@ -1,0 +1,67 @@
+{
+  "id": 1243538277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.09167,-18.82111,33.09167,-18.82111",
+    "geom:latitude":-18.82111,
+    "geom:longitude":33.09167,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Maziacuromba",
+    "gn:country_code":"MZ",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039496,
+    "gn:latitude":-18.82111,
+    "gn:longitude":33.09167,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Maziacuromba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091699043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039496
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6a4c6070a57f4fe787e14ac24dbd3153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699043,
+            "locality_id":1243538277,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1243538277,
+    "wof:lastmodified":1536673154,
+    "wof:name":"Maziacuromba",
+    "wof:parent_id":1091699043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.09167,
+    -18.82111,
+    33.09167,
+    -18.82111
+],
+  "geometry": {"coordinates":[33.09167,-18.82111],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242767199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.48667,-16.315,36.48667,-16.315",
+    "geom:latitude":-16.315,
+    "geom:longitude":36.48667,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Camara",
+    "gn:country_code":"MZ",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051489,
+    "gn:latitude":-16.315,
+    "gn:longitude":36.48667,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Camara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051489
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c261dbd37dc9b2cb15716785edbf0b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698327,
+            "locality_id":1242767199,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1242767199,
+    "wof:lastmodified":1536790975,
+    "wof:name":"Camara",
+    "wof:parent_id":1091698327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.48667,
+    -16.315,
+    36.48667,
+    -16.315
+],
+  "geometry": {"coordinates":[36.48667,-16.315],"type":"Point"}
+}

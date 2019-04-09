@@ -1,0 +1,67 @@
+{
+  "id": 1259870285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.9625,-15.65556,31.9625,-15.65556",
+    "geom:latitude":-15.65556,
+    "geom:longitude":31.9625,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Cavai",
+    "gn:country_code":"MZ",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050726,
+    "gn:latitude":-15.65556,
+    "gn:longitude":31.9625,
+    "gn:modification_date":"1997-05-30",
+    "gn:name":"Cavai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050726
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e75814055ada1bb8d944e26d0d3d475b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699093,
+            "locality_id":1259870285,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1259870285,
+    "wof:lastmodified":1536798351,
+    "wof:name":"Cavai",
+    "wof:parent_id":1091699093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.9625,
+    -15.65556,
+    31.9625,
+    -15.65556
+],
+  "geometry": {"coordinates":[31.9625,-15.65556],"type":"Point"}
+}

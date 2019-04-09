@@ -1,0 +1,67 @@
+{
+  "id": 1260063925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.87806,-19.21139,33.87806,-19.21139",
+    "geom:latitude":-19.21139,
+    "geom:longitude":33.87806,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Semo",
+    "gn:country_code":"MZ",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027100,
+    "gn:latitude":-19.21139,
+    "gn:longitude":33.87806,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"S\u00eamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027100
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b48c78f56dad44da43c6dd9bdb631d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697585,
+            "locality_id":1260063925,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1260063925,
+    "wof:lastmodified":1537015478,
+    "wof:name":"Semo",
+    "wof:parent_id":1091697585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.87806,
+    -19.21139,
+    33.87806,
+    -19.21139
+],
+  "geometry": {"coordinates":[33.87806,-19.21139],"type":"Point"}
+}

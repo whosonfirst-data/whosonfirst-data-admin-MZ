@@ -1,0 +1,61 @@
+{
+  "id": 1209527269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.42389,-23.2975,35.42389,-23.2975",
+    "geom:latitude":-23.2975,
+    "geom:longitude":35.42389,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chefe Mangonhe",
+    "gn:country_code":"MZ",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101781,
+    "gn:latitude":-23.2975,
+    "gn:longitude":35.42389,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Chefe Mangonhe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101781
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e8528ed4ec453aa6e48fdfb043f53fce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209527269
+        }
+    ],
+    "wof:id":1209527269,
+    "wof:lastmodified":1536284395,
+    "wof:name":"Chefe Mangonhe",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.42389,
+    -23.2975,
+    35.42389,
+    -23.2975
+],
+  "geometry": {"coordinates":[35.42389,-23.2975],"type":"Point"}
+}

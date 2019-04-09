@@ -1,0 +1,61 @@
+{
+  "id": 1209622637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.79806,-22.74056,34.79806,-22.74056",
+    "geom:latitude":-22.74056,
+    "geom:longitude":34.79806,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Macauso",
+    "gn:country_code":"MZ",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042790,
+    "gn:latitude":-22.74056,
+    "gn:longitude":34.79806,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Maca\u00faso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042790
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"44d4fbccb3f2ba8ad261728f0718f246",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209622637
+        }
+    ],
+    "wof:id":1209622637,
+    "wof:lastmodified":1536281464,
+    "wof:name":"Macauso",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.79806,
+    -22.74056,
+    34.79806,
+    -22.74056
+],
+  "geometry": {"coordinates":[34.79806,-22.74056],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225955827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.36778,-23.63611,35.36778,-23.63611",
+    "geom:latitude":-23.63611,
+    "geom:longitude":35.36778,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Regulo Pataguana",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029033,
+    "gn:latitude":-23.63611,
+    "gn:longitude":35.36778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00e9gulo Pataguana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pataguana",
+        "R\u00e9gulo Pataguana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091700259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029033
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"489548860fffcfc2a9172a59b1f498fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700259,
+            "locality_id":1225955827,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1225955827,
+    "wof:lastmodified":1537674493,
+    "wof:name":"Regulo Pataguana",
+    "wof:parent_id":1091700259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.36778,
+    -23.63611,
+    35.36778,
+    -23.63611
+],
+  "geometry": {"coordinates":[35.36778,-23.63611],"type":"Point"}
+}

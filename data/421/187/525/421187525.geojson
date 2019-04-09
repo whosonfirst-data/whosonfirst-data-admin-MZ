@@ -1,0 +1,76 @@
+{
+  "id": 421187525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.59722,-16.14972,33.59722,-16.14972",
+    "geom:latitude":-16.14972,
+    "geom:longitude":33.59722,
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"MZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1039761,
+    "qs:gn_pop":0,
+    "qs:name":"Matundo",
+    "qs:name_adm0":"Mo\u00e7ambique",
+    "qs:name_adm1":"Tete",
+    "qs:photos":256,
+    "qs:photos_1k":52,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":256,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083618,
+    "qs:woe_adm0":23424902,
+    "qs:woe_id":1558170,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091697287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039761,
+        "gp:id":1558170,
+        "qs:id":1083618
+    },
+    "wof:country":"MZ",
+    "wof:created":1459009516,
+    "wof:geomhash":"30048292deca3d2527ce26baf49a0e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697287,
+            "locality_id":421187525,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":421187525,
+    "wof:lastmodified":1500014009,
+    "wof:name":"Matundo",
+    "wof:parent_id":1091697287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.59722,
+    -16.14972,
+    33.59722,
+    -16.14972
+],
+  "geometry": {"coordinates":[33.59722,-16.14972],"type":"Point"}
+}

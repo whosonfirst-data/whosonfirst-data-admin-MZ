@@ -1,0 +1,61 @@
+{
+  "id": 1209335943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.22083,-13.25361,35.22083,-13.25361",
+    "geom:latitude":-13.25361,
+    "geom:longitude":35.22083,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Medi",
+    "gn:country_code":"MZ",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039078,
+    "gn:latitude":-13.25361,
+    "gn:longitude":35.22083,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Medi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039078
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a3a3aecf351823eb77b300fd3cad6a9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209335943
+        }
+    ],
+    "wof:id":1209335943,
+    "wof:lastmodified":1536290222,
+    "wof:name":"Medi",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.22083,
+    -13.25361,
+    35.22083,
+    -13.25361
+],
+  "geometry": {"coordinates":[35.22083,-13.25361],"type":"Point"}
+}

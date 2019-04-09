@@ -1,0 +1,67 @@
+{
+  "id": 1276137187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.42694,-12.07278,40.42694,-12.07278",
+    "geom:latitude":-12.07278,
+    "geom:longitude":40.42694,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Pamba",
+    "gn:country_code":"MZ",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029240,
+    "gn:latitude":-12.07278,
+    "gn:longitude":40.42694,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Pamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091698583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029240
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"73c49ebe00dd7ceb3374cd954e21a7c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698583,
+            "locality_id":1276137187,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276137187,
+    "wof:lastmodified":1537039768,
+    "wof:name":"Pamba",
+    "wof:parent_id":1091698583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.42694,
+    -12.07278,
+    40.42694,
+    -12.07278
+],
+  "geometry": {"coordinates":[40.42694,-12.07278],"type":"Point"}
+}

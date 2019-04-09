@@ -1,0 +1,67 @@
+{
+  "id": 1243353183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.26306,-16.88583,38.26306,-16.88583",
+    "geom:latitude":-16.88583,
+    "geom:longitude":38.26306,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Uaco",
+    "gn:country_code":"MZ",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025429,
+    "gn:latitude":-16.88583,
+    "gn:longitude":38.26306,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Uaco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025429
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f214dd002fb8a9c9650f7233ced6089d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701291,
+            "locality_id":1243353183,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1243353183,
+    "wof:lastmodified":1536940685,
+    "wof:name":"Uaco",
+    "wof:parent_id":1091701291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.26306,
+    -16.88583,
+    38.26306,
+    -16.88583
+],
+  "geometry": {"coordinates":[38.26306,-16.88583],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226456495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.90667,-12.97583,38.90667,-12.97583",
+    "geom:latitude":-12.97583,
+    "geom:longitude":38.90667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Uncuba",
+    "gn:country_code":"MZ",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025044,
+    "gn:latitude":-12.97583,
+    "gn:longitude":38.90667,
+    "gn:modification_date":"1995-06-22",
+    "gn:name":"Uncuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025044
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9aa9c3e715222e2e3a2d641839448044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1226456495,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1226456495,
+    "wof:lastmodified":1536628182,
+    "wof:name":"Uncuba",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.90667,
+    -12.97583,
+    38.90667,
+    -12.97583
+],
+  "geometry": {"coordinates":[38.90667,-12.97583],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309713827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.00389,-24.39306,35.00389,-24.39306",
+    "geom:latitude":-24.39306,
+    "geom:longitude":35.00389,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nhauaque",
+    "gn:country_code":"MZ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1102216,
+    "gn:latitude":-24.39306,
+    "gn:longitude":35.00389,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Nha\u00faaque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1102216
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e94914af6ac7cba4d545f541c6468b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698019,
+            "locality_id":1309713827,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1309713827,
+    "wof:lastmodified":1537061012,
+    "wof:name":"Nhauaque",
+    "wof:parent_id":1091698019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.00389000000001,
+    -24.39306,
+    35.00389000000001,
+    -24.39306
+],
+  "geometry": {"coordinates":[35.00389000000001,-24.39306],"type":"Point"}
+}

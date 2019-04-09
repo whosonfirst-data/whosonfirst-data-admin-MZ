@@ -1,0 +1,67 @@
+{
+  "id": 1310693207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88528,-13.21167,35.88528,-13.21167",
+    "geom:latitude":-13.21167,
+    "geom:longitude":35.88528,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mesenda",
+    "gn:country_code":"MZ",
+    "gn:dem":859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038460,
+    "gn:latitude":-13.21167,
+    "gn:longitude":35.88528,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Mesenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091700505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038460
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"424868f2ac4a939c2ee60961ad722c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700505,
+            "locality_id":1310693207,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1310693207,
+    "wof:lastmodified":1536645643,
+    "wof:name":"Mesenda",
+    "wof:parent_id":1091700505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88528,
+    -13.21167,
+    35.88528,
+    -13.21167
+],
+  "geometry": {"coordinates":[35.88528,-13.21167],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360199037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.38333,-14.76667,34.38333,-14.76667",
+    "geom:latitude":-14.76667,
+    "geom:longitude":34.38333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vila Mouzinho",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024684,
+    "gn:latitude":-14.76667,
+    "gn:longitude":34.38333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vila Mouzinho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vila Mousinho",
+        "Vila Mouzinho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091701561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024684
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0f34f6361edc961d5bb3065d0a68c5cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701561,
+            "locality_id":1360199037,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1360199037,
+    "wof:lastmodified":1537674471,
+    "wof:name":"Vila Mouzinho",
+    "wof:parent_id":1091701561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.38333,
+    -14.76667,
+    34.38333,
+    -14.76667
+],
+  "geometry": {"coordinates":[34.38333,-14.76667],"type":"Point"}
+}

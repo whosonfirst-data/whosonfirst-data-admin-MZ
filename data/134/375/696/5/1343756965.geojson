@@ -1,0 +1,67 @@
+{
+  "id": 1343756965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.56556,-14.7725,40.56556,-14.7725",
+    "geom:latitude":-14.7725,
+    "geom:longitude":40.56556,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Marco",
+    "gn:country_code":"MZ",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040583,
+    "gn:latitude":-14.7725,
+    "gn:longitude":40.56556,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Marco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040583
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f8ddf518b5d3feccecd276dcc2bfe968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700287,
+            "locality_id":1343756965,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1343756965,
+    "wof:lastmodified":1536815247,
+    "wof:name":"Marco",
+    "wof:parent_id":1091700287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.56556,
+    -14.7725,
+    40.56556,
+    -14.7725
+],
+  "geometry": {"coordinates":[40.56556,-14.7725],"type":"Point"}
+}

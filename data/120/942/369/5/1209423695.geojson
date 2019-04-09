@@ -1,0 +1,61 @@
+{
+  "id": 1209423695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.96639,-24.8825,32.96639,-24.8825",
+    "geom:latitude":-24.8825,
+    "geom:longitude":32.96639,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Mezaca",
+    "gn:country_code":"MZ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037878,
+    "gn:latitude":-24.8825,
+    "gn:longitude":32.96639,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Mezaca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037878
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"968f4884de8094acf25510f3a9c42dd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209423695
+        }
+    ],
+    "wof:id":1209423695,
+    "wof:lastmodified":1536287447,
+    "wof:name":"Mezaca",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.966390000000004,
+    -24.8825,
+    32.966390000000004,
+    -24.8825
+],
+  "geometry": {"coordinates":[32.96639,-24.8825],"type":"Point"}
+}

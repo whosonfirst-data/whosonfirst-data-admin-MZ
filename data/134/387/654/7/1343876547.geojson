@@ -1,0 +1,67 @@
+{
+  "id": 1343876547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.96667,-19.15,32.96667,-19.15",
+    "geom:latitude":-19.15,
+    "geom:longitude":32.96667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Fetera",
+    "gn:country_code":"MZ",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046349,
+    "gn:latitude":-19.15,
+    "gn:longitude":32.96667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Fetera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091699043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046349
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"24fdd8a1a56f9dd74278a1f5e8b947bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699043,
+            "locality_id":1343876547,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1343876547,
+    "wof:lastmodified":1536642649,
+    "wof:name":"Fetera",
+    "wof:parent_id":1091699043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.96667,
+    -19.15,
+    32.96667,
+    -19.15
+],
+  "geometry": {"coordinates":[32.96667,-19.15],"type":"Point"}
+}

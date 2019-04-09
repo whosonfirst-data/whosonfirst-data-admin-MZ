@@ -1,0 +1,67 @@
+{
+  "id": 1309808273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.67278,-20.41528,33.67278,-20.41528",
+    "geom:latitude":-20.41528,
+    "geom:longitude":33.67278,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Chicopane",
+    "gn:country_code":"MZ",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049659,
+    "gn:latitude":-20.41528,
+    "gn:longitude":33.67278,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chicopane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049659
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"61065131689008bfdb93349ce9d11496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696561,
+            "locality_id":1309808273,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1309808273,
+    "wof:lastmodified":1536928150,
+    "wof:name":"Chicopane",
+    "wof:parent_id":1091696561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.67278,
+    -20.41528,
+    33.67278,
+    -20.41528
+],
+  "geometry": {"coordinates":[33.67278,-20.41528],"type":"Point"}
+}

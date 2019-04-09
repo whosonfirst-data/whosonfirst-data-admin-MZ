@@ -1,0 +1,67 @@
+{
+  "id": 1310306871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.60833,-22.14639,34.60833,-22.14639",
+    "geom:latitude":-22.14639,
+    "geom:longitude":34.60833,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sainda",
+    "gn:country_code":"MZ",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027656,
+    "gn:latitude":-22.14639,
+    "gn:longitude":34.60833,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Sainda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027656
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b37f7fb51fcd44121008098d216fe371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701605,
+            "locality_id":1310306871,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1310306871,
+    "wof:lastmodified":1536706194,
+    "wof:name":"Sainda",
+    "wof:parent_id":1091701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.60833,
+    -22.14639,
+    34.60833,
+    -22.14639
+],
+  "geometry": {"coordinates":[34.60833,-22.14639],"type":"Point"}
+}

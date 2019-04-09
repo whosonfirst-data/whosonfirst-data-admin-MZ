@@ -1,0 +1,67 @@
+{
+  "id": 1326648145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5,-14.91667,31.5,-14.91667",
+    "geom:latitude":-14.91667,
+    "geom:longitude":31.5,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Capanga",
+    "gn:country_code":"MZ",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051141,
+    "gn:latitude":-14.91667,
+    "gn:longitude":31.5,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Capanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051141
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9383bdd2ce2ce0b84ca3352f401d615f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699093,
+            "locality_id":1326648145,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1326648145,
+    "wof:lastmodified":1536816155,
+    "wof:name":"Capanga",
+    "wof:parent_id":1091699093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5,
+    -14.91667,
+    31.5,
+    -14.91667
+],
+  "geometry": {"coordinates":[31.5,-14.91667],"type":"Point"}
+}

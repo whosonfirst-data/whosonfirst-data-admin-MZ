@@ -1,0 +1,68 @@
+{
+  "id": 1243186499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.96361,-12.85167,39.96361,-12.85167",
+    "geom:latitude":-12.85167,
+    "geom:longitude":39.96361,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Anli",
+    "gn:country_code":"MZ",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085788,
+    "gn:latitude":-12.85167,
+    "gn:longitude":39.96361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Anli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085788,
+        "wk:page":"Anli"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4d4a224f0458038ac3e29e9bfd3b9d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696241,
+            "locality_id":1243186499,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1243186499,
+    "wof:lastmodified":1537569940,
+    "wof:name":"Anli",
+    "wof:parent_id":1091696241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.96361,
+    -12.85167,
+    39.96361,
+    -12.85167
+],
+  "geometry": {"coordinates":[39.96361,-12.85167],"type":"Point"}
+}

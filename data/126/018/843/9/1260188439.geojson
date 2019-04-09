@@ -1,0 +1,67 @@
+{
+  "id": 1260188439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.03028,-24.32167,32.03028,-24.32167",
+    "geom:latitude":-24.32167,
+    "geom:longitude":32.03028,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mariano",
+    "gn:country_code":"MZ",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040534,
+    "gn:latitude":-24.32167,
+    "gn:longitude":32.03028,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Mariano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040534
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"88f26393a7fbf077aa15c623e229e440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1260188439,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1260188439,
+    "wof:lastmodified":1536840100,
+    "wof:name":"Mariano",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.03028,
+    -24.32167,
+    32.03028,
+    -24.32167
+],
+  "geometry": {"coordinates":[32.03028,-24.32167],"type":"Point"}
+}

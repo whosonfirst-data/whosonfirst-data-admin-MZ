@@ -1,0 +1,61 @@
+{
+  "id": 1293404011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.56667,-10.88333,40.56667,-10.88333",
+    "geom:latitude":-10.88333,
+    "geom:longitude":40.56667,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Magara",
+    "gn:country_code":"MZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041966,
+    "gn:latitude":-10.88333,
+    "gn:longitude":40.56667,
+    "gn:modification_date":"1995-02-03",
+    "gn:name":"Magara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041966
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8297d2bf6b7cae309601c79d9b05c471",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293404011,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293404011,
+    "wof:lastmodified":1536907548,
+    "wof:name":"Magara",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.56667,
+    -10.88333,
+    40.56667,
+    -10.88333
+],
+  "geometry": {"coordinates":[40.56667,-10.88333],"type":"Point"}
+}

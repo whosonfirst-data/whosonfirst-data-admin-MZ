@@ -1,0 +1,67 @@
+{
+  "id": 1225947713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.82944,-24.79556,33.82944,-24.79556",
+    "geom:latitude":-24.79556,
+    "geom:longitude":33.82944,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Jeremias",
+    "gn:country_code":"MZ",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044626,
+    "gn:latitude":-24.79556,
+    "gn:longitude":33.82944,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Jeremias",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091698967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044626
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c3a4a3f068bc892cf00046a4b1115628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698967,
+            "locality_id":1225947713,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1225947713,
+    "wof:lastmodified":1536865136,
+    "wof:name":"Jeremias",
+    "wof:parent_id":1091698967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.82944000000001,
+    -24.79556,
+    33.82944000000001,
+    -24.79556
+],
+  "geometry": {"coordinates":[33.82944000000001,-24.79556],"type":"Point"}
+}

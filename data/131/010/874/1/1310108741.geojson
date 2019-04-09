@@ -1,0 +1,72 @@
+{
+  "id": 1310108741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.46833,-24.07694,32.46833,-24.07694",
+    "geom:latitude":-24.07694,
+    "geom:longitude":32.46833,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Boaze",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052185,
+    "gn:latitude":-24.07694,
+    "gn:longitude":32.46833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Boaze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boazi",
+        "Boaze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091699347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052185
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0ba6eccded365cd44dcbe7c4e0a9542c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699347,
+            "locality_id":1310108741,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1310108741,
+    "wof:lastmodified":1537674607,
+    "wof:name":"Boaze",
+    "wof:parent_id":1091699347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.46833,
+    -24.07694,
+    32.46833,
+    -24.07694
+],
+  "geometry": {"coordinates":[32.46833,-24.07694],"type":"Point"}
+}

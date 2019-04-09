@@ -1,0 +1,67 @@
+{
+  "id": 1259375415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.63222,-13.985,39.63222,-13.985",
+    "geom:latitude":-13.985,
+    "geom:longitude":39.63222,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nocotoco",
+    "gn:country_code":"MZ",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086441,
+    "gn:latitude":-13.985,
+    "gn:longitude":39.63222,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Nocotoco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091697455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086441
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a5084c2c65e0f51c8436670707f906a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697455,
+            "locality_id":1259375415,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1259375415,
+    "wof:lastmodified":1537013197,
+    "wof:name":"Nocotoco",
+    "wof:parent_id":1091697455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.63222,
+    -13.985,
+    39.63222,
+    -13.985
+],
+  "geometry": {"coordinates":[39.63222,-13.985],"type":"Point"}
+}

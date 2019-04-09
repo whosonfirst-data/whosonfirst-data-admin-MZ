@@ -1,0 +1,67 @@
+{
+  "id": 1343583323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.00389,-14.90944,40.00389,-14.90944",
+    "geom:latitude":-14.90944,
+    "geom:longitude":40.00389,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Fernandes",
+    "gn:country_code":"MZ",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089220,
+    "gn:latitude":-14.90944,
+    "gn:longitude":40.00389,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Fernandes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089220
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"458fff41a92f90272e85f61542f0cf10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699601,
+            "locality_id":1343583323,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1343583323,
+    "wof:lastmodified":1537063694,
+    "wof:name":"Fernandes",
+    "wof:parent_id":1091699601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.00389000000001,
+    -14.90944,
+    40.00389000000001,
+    -14.90944
+],
+  "geometry": {"coordinates":[40.00389000000001,-14.90944],"type":"Point"}
+}

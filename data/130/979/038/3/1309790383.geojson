@@ -1,0 +1,72 @@
+{
+  "id": 1309790383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.20611,-15.55778,36.20611,-15.55778",
+    "geom:latitude":-15.55778,
+    "geom:longitude":36.20611,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chefe Manjoma",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040928,
+    "gn:latitude":-15.55778,
+    "gn:longitude":36.20611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Manjoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manj\u00f4mo",
+        "Chefe Manjoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091699895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040928
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"756cee04e11743039e466f540e449129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699895,
+            "locality_id":1309790383,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1309790383,
+    "wof:lastmodified":1537674543,
+    "wof:name":"Chefe Manjoma",
+    "wof:parent_id":1091699895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.20611,
+    -15.55778,
+    36.20611,
+    -15.55778
+],
+  "geometry": {"coordinates":[36.20611,-15.55778],"type":"Point"}
+}

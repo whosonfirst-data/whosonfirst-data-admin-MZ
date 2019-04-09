@@ -1,0 +1,67 @@
+{
+  "id": 1310593783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.78528,-14.50972,40.78528,-14.50972",
+    "geom:latitude":-14.50972,
+    "geom:longitude":40.78528,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Solu-o",
+    "gn:country_code":"MZ",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026788,
+    "gn:latitude":-14.50972,
+    "gn:longitude":40.78528,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Solu-o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026788
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"697865d3b528ec2504d530827108e0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700685,
+            "locality_id":1310593783,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1310593783,
+    "wof:lastmodified":1536790036,
+    "wof:name":"Solu-o",
+    "wof:parent_id":1091700685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.78528,
+    -14.50972,
+    40.78528,
+    -14.50972
+],
+  "geometry": {"coordinates":[40.78528,-14.50972],"type":"Point"}
+}

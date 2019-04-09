@@ -1,0 +1,67 @@
+{
+  "id": 1226564359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.02167,-13.66083,40.02167,-13.66083",
+    "geom:latitude":-13.66083,
+    "geom:longitude":40.02167,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Chefe Chumar",
+    "gn:country_code":"MZ",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087149,
+    "gn:latitude":-13.66083,
+    "gn:longitude":40.02167,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Chefe Chumar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091697455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087149
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e33f3fddda4613489cb770910e2a3ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697455,
+            "locality_id":1226564359,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1226564359,
+    "wof:lastmodified":1536971014,
+    "wof:name":"Chefe Chumar",
+    "wof:parent_id":1091697455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.02167,
+    -13.66083,
+    40.02167,
+    -13.66083
+],
+  "geometry": {"coordinates":[40.02167,-13.66083],"type":"Point"}
+}

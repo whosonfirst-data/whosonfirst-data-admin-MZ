@@ -1,0 +1,72 @@
+{
+  "id": 1327131095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.51222,-13.34889,37.51222,-13.34889",
+    "geom:latitude":-13.34889,
+    "geom:longitude":37.51222,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Assualo",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052740,
+    "gn:latitude":-13.34889,
+    "gn:longitude":37.51222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Assualo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Assuala",
+        "Assualo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052740
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8b80660811fb6624a745a52bfcc740c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699257,
+            "locality_id":1327131095,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1327131095,
+    "wof:lastmodified":1537674610,
+    "wof:name":"Assualo",
+    "wof:parent_id":1091699257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.51222,
+    -13.34889,
+    37.51222,
+    -13.34889
+],
+  "geometry": {"coordinates":[37.51222,-13.34889],"type":"Point"}
+}

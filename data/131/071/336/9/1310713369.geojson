@@ -1,0 +1,67 @@
+{
+  "id": 1310713369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.02167,-22.77889,34.02167,-22.77889",
+    "geom:latitude":-22.77889,
+    "geom:longitude":34.02167,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Catine",
+    "gn:country_code":"MZ",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050820,
+    "gn:latitude":-22.77889,
+    "gn:longitude":34.02167,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Catine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050820
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b2ddce84b5eb5691c99779af11c06251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697505,
+            "locality_id":1310713369,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1310713369,
+    "wof:lastmodified":1536614633,
+    "wof:name":"Catine",
+    "wof:parent_id":1091697505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.02167,
+    -22.77889,
+    34.02167,
+    -22.77889
+],
+  "geometry": {"coordinates":[34.02167,-22.77889],"type":"Point"}
+}

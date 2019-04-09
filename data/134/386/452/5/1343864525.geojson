@@ -1,0 +1,67 @@
+{
+  "id": 1343864525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.28639,-26.11056,32.28639,-26.11056",
+    "geom:latitude":-26.11056,
+    "geom:longitude":32.28639,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Freixo Quinta S. Diogo",
+    "gn:country_code":"MZ",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089888,
+    "gn:latitude":-26.11056,
+    "gn:longitude":32.28639,
+    "gn:modification_date":"1997-09-02",
+    "gn:name":"Freixo Quinta S. Diogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091696363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089888
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a8f916010f69d9d0cb86efbd161e6e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696363,
+            "locality_id":1343864525,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1343864525,
+    "wof:lastmodified":1536660749,
+    "wof:name":"Freixo Quinta S. Diogo",
+    "wof:parent_id":1091696363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.28639,
+    -26.11056,
+    32.28639,
+    -26.11056
+],
+  "geometry": {"coordinates":[32.28639,-26.11056],"type":"Point"}
+}

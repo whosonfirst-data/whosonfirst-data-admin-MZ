@@ -1,0 +1,61 @@
+{
+  "id": 1209511119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.87944,-16.75306,38.87944,-16.75306",
+    "geom:latitude":-16.75306,
+    "geom:longitude":38.87944,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bormuda",
+    "gn:country_code":"MZ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1094873,
+    "gn:latitude":-16.75306,
+    "gn:longitude":38.87944,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Bormuda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1094873
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d9fcd13ec2b98a0c0910f4c923ee6118",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209511119
+        }
+    ],
+    "wof:id":1209511119,
+    "wof:lastmodified":1536284878,
+    "wof:name":"Bormuda",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.87944,
+    -16.75306,
+    38.87944,
+    -16.75306
+],
+  "geometry": {"coordinates":[38.87944,-16.75306],"type":"Point"}
+}

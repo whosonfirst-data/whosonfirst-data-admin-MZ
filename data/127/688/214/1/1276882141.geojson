@@ -1,0 +1,67 @@
+{
+  "id": 1276882141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.29417,-24.86806,33.29417,-24.86806",
+    "geom:latitude":-24.86806,
+    "geom:longitude":33.29417,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chefe Justino",
+    "gn:country_code":"MZ",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1098977,
+    "gn:latitude":-24.86806,
+    "gn:longitude":33.29417,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chefe Justino",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1098977
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c19efcb0e79fdcac1c234bbcfd66a3fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696361,
+            "locality_id":1276882141,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1276882141,
+    "wof:lastmodified":1537036425,
+    "wof:name":"Chefe Justino",
+    "wof:parent_id":1091696361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.29417,
+    -24.86806,
+    33.29417,
+    -24.86806
+],
+  "geometry": {"coordinates":[33.29417,-24.86806],"type":"Point"}
+}

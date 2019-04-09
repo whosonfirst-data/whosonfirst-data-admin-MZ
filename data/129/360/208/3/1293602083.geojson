@@ -1,0 +1,71 @@
+{
+  "id": 1293602083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.94806,-24.2125,31.94806,-24.2125",
+    "geom:latitude":-24.2125,
+    "geom:longitude":31.94806,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"M'Suasi",
+    "gn:country_code":"MZ",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036927,
+    "gn:latitude":-24.2125,
+    "gn:longitude":31.94806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"M\u2019Su\u00e1si",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Musuasi",
+        "M\u2019Su\u00e1si"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091699347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036927
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a956e6e52c9227d0aa33964e9b42fd75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699347,
+            "locality_id":1293602083,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1293602083,
+    "wof:lastmodified":1537674522,
+    "wof:name":"M'Suasi",
+    "wof:parent_id":1091699347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.94806,
+    -24.2125,
+    31.94806,
+    -24.2125
+],
+  "geometry": {"coordinates":[31.94806,-24.2125],"type":"Point"}
+}

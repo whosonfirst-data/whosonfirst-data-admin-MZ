@@ -1,0 +1,67 @@
+{
+  "id": 1343862431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.71361,-13.02417,39.71361,-13.02417",
+    "geom:latitude":-13.02417,
+    "geom:longitude":39.71361,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Puelia",
+    "gn:country_code":"MZ",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028547,
+    "gn:latitude":-13.02417,
+    "gn:longitude":39.71361,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Puelia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028547
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"11c2120c77b80604b5a0dd4f5f2b0857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696241,
+            "locality_id":1343862431,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1343862431,
+    "wof:lastmodified":1536663740,
+    "wof:name":"Puelia",
+    "wof:parent_id":1091696241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.71361,
+    -13.02417,
+    39.71361,
+    -13.02417
+],
+  "geometry": {"coordinates":[39.71361,-13.02417],"type":"Point"}
+}

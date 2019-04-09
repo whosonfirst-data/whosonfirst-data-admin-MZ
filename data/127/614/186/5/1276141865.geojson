@@ -1,0 +1,67 @@
+{
+  "id": 1276141865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.08222,-15.67556,33.08222,-15.67556",
+    "geom:latitude":-15.67556,
+    "geom:longitude":33.08222,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Botao",
+    "gn:country_code":"MZ",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052033,
+    "gn:latitude":-15.67556,
+    "gn:longitude":33.08222,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Bot\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052033
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3fb4aca06627e2e0bbfbad957627da1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696825,
+            "locality_id":1276141865,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1276141865,
+    "wof:lastmodified":1537033829,
+    "wof:name":"Botao",
+    "wof:parent_id":1091696825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.08222,
+    -15.67556,
+    33.08222,
+    -15.67556
+],
+  "geometry": {"coordinates":[33.08222,-15.67556],"type":"Point"}
+}

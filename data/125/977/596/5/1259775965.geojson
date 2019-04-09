@@ -1,0 +1,67 @@
+{
+  "id": 1259775965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.63889,-14.91361,40.63889,-14.91361",
+    "geom:latitude":-14.91361,
+    "geom:longitude":40.63889,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quissangua",
+    "gn:country_code":"MZ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028312,
+    "gn:latitude":-14.91361,
+    "gn:longitude":40.63889,
+    "gn:modification_date":"1994-04-21",
+    "gn:name":"Quissangua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028312
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e0391341631364880ff66c1bb76edb9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700287,
+            "locality_id":1259775965,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1259775965,
+    "wof:lastmodified":1536934778,
+    "wof:name":"Quissangua",
+    "wof:parent_id":1091700287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.63889,
+    -14.91361,
+    40.63889,
+    -14.91361
+],
+  "geometry": {"coordinates":[40.63889,-14.91361],"type":"Point"}
+}

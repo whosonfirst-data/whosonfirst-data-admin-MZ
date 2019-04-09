@@ -1,0 +1,61 @@
+{
+  "id": 1209198777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.06167,-16.05,38.06167,-16.05",
+    "geom:latitude":-16.05,
+    "geom:longitude":38.06167,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chefe Napacala",
+    "gn:country_code":"MZ",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1093396,
+    "gn:latitude":-16.05,
+    "gn:longitude":38.06167,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Chefe Napacala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1093396
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7479a8c0f6dbfac0c65326757a829638",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209198777
+        }
+    ],
+    "wof:id":1209198777,
+    "wof:lastmodified":1536294682,
+    "wof:name":"Chefe Napacala",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.06167,
+    -16.05,
+    38.06167,
+    -16.05
+],
+  "geometry": {"coordinates":[38.06167,-16.05],"type":"Point"}
+}

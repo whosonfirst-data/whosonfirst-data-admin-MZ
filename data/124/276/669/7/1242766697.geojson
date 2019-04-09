@@ -1,0 +1,67 @@
+{
+  "id": 1242766697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.35167,-20.94333,33.35167,-20.94333",
+    "geom:latitude":-20.94333,
+    "geom:longitude":33.35167,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Augusto",
+    "gn:country_code":"MZ",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097477,
+    "gn:latitude":-20.94333,
+    "gn:longitude":33.35167,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Augusto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097477
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0b201658add88dbeabebd80efbe51d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1242766697,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1242766697,
+    "wof:lastmodified":1536791660,
+    "wof:name":"Augusto",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.35167,
+    -20.94333,
+    33.35167,
+    -20.94333
+],
+  "geometry": {"coordinates":[33.35167,-20.94333],"type":"Point"}
+}

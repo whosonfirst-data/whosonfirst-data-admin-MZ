@@ -1,0 +1,67 @@
+{
+  "id": 1293792697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.52167,-24.05972,33.52167,-24.05972",
+    "geom:latitude":-24.05972,
+    "geom:longitude":33.52167,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pandane",
+    "gn:country_code":"MZ",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096635,
+    "gn:latitude":-24.05972,
+    "gn:longitude":33.52167,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Pandane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096635
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a518dfa3f9e8eb779cfeddb547489c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696583,
+            "locality_id":1293792697,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1293792697,
+    "wof:lastmodified":1536843027,
+    "wof:name":"Pandane",
+    "wof:parent_id":1091696583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.52167,
+    -24.05972,
+    33.52167,
+    -24.05972
+],
+  "geometry": {"coordinates":[33.52167,-24.05972],"type":"Point"}
+}

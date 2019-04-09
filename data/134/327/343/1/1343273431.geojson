@@ -1,0 +1,72 @@
+{
+  "id": 1343273431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.73972,-24.04139,34.73972,-24.04139",
+    "geom:latitude":-24.04139,
+    "geom:longitude":34.73972,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Cabo Muatimamba",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039905,
+    "gn:latitude":-24.04139,
+    "gn:longitude":34.73972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cabo Muatimamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matimamba",
+        "Cabo Muatimamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039905
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cc39e69c484d5cd877f6692ee9825227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701265,
+            "locality_id":1343273431,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1343273431,
+    "wof:lastmodified":1537674537,
+    "wof:name":"Cabo Muatimamba",
+    "wof:parent_id":1091701265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.73972,
+    -24.04139,
+    34.73972,
+    -24.04139
+],
+  "geometry": {"coordinates":[34.73972,-24.04139],"type":"Point"}
+}

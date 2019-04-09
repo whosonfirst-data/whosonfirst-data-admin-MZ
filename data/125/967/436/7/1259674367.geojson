@@ -1,0 +1,67 @@
+{
+  "id": 1259674367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.115,-15.8775,34.115,-15.8775",
+    "geom:latitude":-15.8775,
+    "geom:longitude":34.115,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Cana-Cana",
+    "gn:country_code":"MZ",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051343,
+    "gn:latitude":-15.8775,
+    "gn:longitude":34.115,
+    "gn:modification_date":"1998-05-15",
+    "gn:name":"Cana-Cana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051343
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"eee5615f71afec9e18aaef40836df32c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699971,
+            "locality_id":1259674367,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1259674367,
+    "wof:lastmodified":1537077060,
+    "wof:name":"Cana-Cana",
+    "wof:parent_id":1091699971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.115,
+    -15.8775,
+    34.115,
+    -15.8775
+],
+  "geometry": {"coordinates":[34.115,-15.8775],"type":"Point"}
+}

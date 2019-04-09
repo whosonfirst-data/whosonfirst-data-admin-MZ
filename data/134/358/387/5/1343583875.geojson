@@ -1,0 +1,67 @@
+{
+  "id": 1343583875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.39083,-18.36278,34.39083,-18.36278",
+    "geom:latitude":-18.36278,
+    "geom:longitude":34.39083,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Piro",
+    "gn:country_code":"MZ",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096198,
+    "gn:latitude":-18.36278,
+    "gn:longitude":34.39083,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Piro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091697631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096198
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"000e686e55b4ccfdd0058b90ed41acdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697631,
+            "locality_id":1343583875,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1343583875,
+    "wof:lastmodified":1537062909,
+    "wof:name":"Piro",
+    "wof:parent_id":1091697631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.39083,
+    -18.36278,
+    34.39083,
+    -18.36278
+],
+  "geometry": {"coordinates":[34.39083,-18.36278],"type":"Point"}
+}

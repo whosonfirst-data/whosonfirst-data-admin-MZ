@@ -1,0 +1,67 @@
+{
+  "id": 1327444541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.10417,-21.68861,33.10417,-21.68861",
+    "geom:latitude":-21.68861,
+    "geom:longitude":33.10417,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Botane",
+    "gn:country_code":"MZ",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052037,
+    "gn:latitude":-21.68861,
+    "gn:longitude":33.10417,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"B\u00f2tane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091699281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052037
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"41d88b0e038fa937e32d5257c4206b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699281,
+            "locality_id":1327444541,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1327444541,
+    "wof:lastmodified":1536663174,
+    "wof:name":"Botane",
+    "wof:parent_id":1091699281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.10417,
+    -21.68861,
+    33.10417,
+    -21.68861
+],
+  "geometry": {"coordinates":[33.10417,-21.68861],"type":"Point"}
+}

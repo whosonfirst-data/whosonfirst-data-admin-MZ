@@ -1,0 +1,72 @@
+{
+  "id": 1343363117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.70167,-13.65028,38.70167,-13.65028",
+    "geom:latitude":-13.65028,
+    "geom:longitude":38.70167,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Regulo Macande",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042893,
+    "gn:latitude":-13.65028,
+    "gn:longitude":38.70167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00e9gulo Macande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Macande",
+        "R\u00e9gulo Macande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042893
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ff96d93e7be893dc056b98e481f66ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700995,
+            "locality_id":1343363117,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1343363117,
+    "wof:lastmodified":1537674557,
+    "wof:name":"Regulo Macande",
+    "wof:parent_id":1091700995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.70167,
+    -13.65028,
+    38.70167,
+    -13.65028
+],
+  "geometry": {"coordinates":[38.70167,-13.65028],"type":"Point"}
+}

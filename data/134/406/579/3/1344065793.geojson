@@ -1,0 +1,72 @@
+{
+  "id": 1344065793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.91361,-22.2525,32.91361,-22.2525",
+    "geom:latitude":-22.2525,
+    "geom:longitude":32.91361,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Machaila",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042735,
+    "gn:latitude":-22.2525,
+    "gn:longitude":32.91361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Macha\u00edla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maxaila",
+        "Macha\u00edla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042735
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"35b1cd0ee839d99eac0e7b2f5de3c5d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696709,
+            "locality_id":1344065793,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1344065793,
+    "wof:lastmodified":1537674556,
+    "wof:name":"Machaila",
+    "wof:parent_id":1091696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.91361,
+    -22.2525,
+    32.91361,
+    -22.2525
+],
+  "geometry": {"coordinates":[32.91361,-22.2525],"type":"Point"}
+}

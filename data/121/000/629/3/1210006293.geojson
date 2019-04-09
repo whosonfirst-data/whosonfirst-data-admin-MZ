@@ -1,0 +1,67 @@
+{
+  "id": 1210006293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.77167,-17.00556,36.77167,-17.00556",
+    "geom:latitude":-17.00556,
+    "geom:longitude":36.77167,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Namuava",
+    "gn:country_code":"MZ",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1033308,
+    "gn:latitude":-17.00556,
+    "gn:longitude":36.77167,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Namuava",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1033308
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8bd0dae7336f1ed5988fa408fc2d617d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700047,
+            "locality_id":1210006293,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1210006293,
+    "wof:lastmodified":1536373334,
+    "wof:name":"Namuava",
+    "wof:parent_id":1091700047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.77167,
+    -17.00556,
+    36.77167,
+    -17.00556
+],
+  "geometry": {"coordinates":[36.77167,-17.00556],"type":"Point"}
+}

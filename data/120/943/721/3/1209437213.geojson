@@ -1,0 +1,61 @@
+{
+  "id": 1209437213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.80806,-14.14389,39.80806,-14.14389",
+    "geom:latitude":-14.14389,
+    "geom:longitude":39.80806,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Gelo",
+    "gn:country_code":"MZ",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046048,
+    "gn:latitude":-14.14389,
+    "gn:longitude":39.80806,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Gelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046048
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5bc5ee4b7d66c79abd851a6582a6f35a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209437213
+        }
+    ],
+    "wof:id":1209437213,
+    "wof:lastmodified":1536287067,
+    "wof:name":"Gelo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.80806,
+    -14.14389,
+    39.80806,
+    -14.14389
+],
+  "geometry": {"coordinates":[39.80806,-14.14389],"type":"Point"}
+}

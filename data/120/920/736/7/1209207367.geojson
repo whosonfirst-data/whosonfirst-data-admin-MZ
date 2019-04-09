@@ -1,0 +1,61 @@
+{
+  "id": 1209207367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.26639,-15.80083,39.26639,-15.80083",
+    "geom:latitude":-15.80083,
+    "geom:longitude":39.26639,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Igreque",
+    "gn:country_code":"MZ",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091291,
+    "gn:latitude":-15.80083,
+    "gn:longitude":39.26639,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Igreque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091291
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0e3103a4cd68830500c85ee084a0ed83",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209207367
+        }
+    ],
+    "wof:id":1209207367,
+    "wof:lastmodified":1536294409,
+    "wof:name":"Igreque",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.26639,
+    -15.80083,
+    39.26639,
+    -15.80083
+],
+  "geometry": {"coordinates":[39.26639,-15.80083],"type":"Point"}
+}

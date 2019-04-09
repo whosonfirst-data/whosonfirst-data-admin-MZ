@@ -1,0 +1,61 @@
+{
+  "id": 1209218681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.57917,-11.01972,39.57917,-11.01972",
+    "geom:latitude":-11.01972,
+    "geom:longitude":39.57917,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Adala",
+    "gn:country_code":"MZ",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053319,
+    "gn:latitude":-11.01972,
+    "gn:longitude":39.57917,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Adala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053319
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b52a3dcc3ada17f8586f703f358c442e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209218681
+        }
+    ],
+    "wof:id":1209218681,
+    "wof:lastmodified":1536294040,
+    "wof:name":"Adala",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.57917,
+    -11.01972,
+    39.57917,
+    -11.01972
+],
+  "geometry": {"coordinates":[39.57917,-11.01972],"type":"Point"}
+}

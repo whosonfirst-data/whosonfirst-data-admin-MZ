@@ -1,0 +1,67 @@
+{
+  "id": 1343571131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.75,-18.11667,36.75,-18.11667",
+    "geom:latitude":-18.11667,
+    "geom:longitude":36.75,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Cachite",
+    "gn:country_code":"MZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051762,
+    "gn:latitude":-18.11667,
+    "gn:longitude":36.75,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Cachite",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051762
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c1c286a46734c51f30f9d61bbcb32c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698097,
+            "locality_id":1343571131,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1343571131,
+    "wof:lastmodified":1537080850,
+    "wof:name":"Cachite",
+    "wof:parent_id":1091698097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.75,
+    -18.11667000000001,
+    36.75,
+    -18.11667000000001
+],
+  "geometry": {"coordinates":[36.75,-18.11667000000001],"type":"Point"}
+}

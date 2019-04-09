@@ -1,0 +1,67 @@
+{
+  "id": 1242583795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.485,-24.85917,32.485,-24.85917",
+    "geom:latitude":-24.85917,
+    "geom:longitude":32.485,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Bomana",
+    "gn:country_code":"MZ",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052123,
+    "gn:latitude":-24.85917,
+    "gn:longitude":32.485,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Bomana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052123
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"181aaa545965ebe9a40019f745900c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1242583795,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1242583795,
+    "wof:lastmodified":1537052435,
+    "wof:name":"Bomana",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.485,
+    -24.85917,
+    32.485,
+    -24.85917
+],
+  "geometry": {"coordinates":[32.485,-24.85917],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226464675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.01917,-15.91056,40.01917,-15.91056",
+    "geom:latitude":-15.91056,
+    "geom:longitude":40.01917,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Xaramatane",
+    "gn:country_code":"MZ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024532,
+    "gn:latitude":-15.91056,
+    "gn:longitude":40.01917,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Xaramatane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091696277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024532
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c54b4d399232b97818d216ecc124ebd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696277,
+            "locality_id":1226464675,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1226464675,
+    "wof:lastmodified":1536615933,
+    "wof:name":"Xaramatane",
+    "wof:parent_id":1091696277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.01917,
+    -15.91056,
+    40.01917,
+    -15.91056
+],
+  "geometry": {"coordinates":[40.01917,-15.91056],"type":"Point"}
+}

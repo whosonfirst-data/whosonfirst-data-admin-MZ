@@ -1,0 +1,68 @@
+{
+  "id": 1259787607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.48028,-12.79944,39.48028,-12.79944",
+    "geom:latitude":-12.79944,
+    "geom:longitude":39.48028,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Camope",
+    "gn:country_code":"MZ",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051395,
+    "gn:latitude":-12.79944,
+    "gn:longitude":39.48028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Camope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051395,
+        "wk:page":"Camope"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"63f5a8a1a58c18ff67229847d79fdea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696241,
+            "locality_id":1259787607,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1259787607,
+    "wof:lastmodified":1537569938,
+    "wof:name":"Camope",
+    "wof:parent_id":1091696241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.48028,
+    -12.79944,
+    39.48028,
+    -12.79944
+],
+  "geometry": {"coordinates":[39.48028,-12.79944],"type":"Point"}
+}

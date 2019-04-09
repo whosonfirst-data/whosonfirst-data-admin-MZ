@@ -1,0 +1,61 @@
+{
+  "id": 1209090237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.36528,-18.39889,33.36528,-18.39889",
+    "geom:latitude":-18.39889,
+    "geom:longitude":33.36528,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Timanhoco",
+    "gn:country_code":"MZ",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025958,
+    "gn:latitude":-18.39889,
+    "gn:longitude":33.36528,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Timanhoco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025958
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e966569a9a7977b4ce6b84504e883671",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209090237
+        }
+    ],
+    "wof:id":1209090237,
+    "wof:lastmodified":1536298059,
+    "wof:name":"Timanhoco",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.36528,
+    -18.39889,
+    33.36528,
+    -18.39889
+],
+  "geometry": {"coordinates":[33.36528,-18.39889],"type":"Point"}
+}

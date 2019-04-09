@@ -1,0 +1,67 @@
+{
+  "id": 1243468893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.56667,-18.96667,35.56667,-18.96667",
+    "geom:latitude":-18.96667,
+    "geom:longitude":35.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Roda",
+    "gn:country_code":"MZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027979,
+    "gn:latitude":-18.96667,
+    "gn:longitude":35.56667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Roda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027979
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ec7af2b05e3d20a0cd57859e9d0f354a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696559,
+            "locality_id":1243468893,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1243468893,
+    "wof:lastmodified":1536773746,
+    "wof:name":"Roda",
+    "wof:parent_id":1091696559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.56667,
+    -18.96667,
+    35.56667,
+    -18.96667
+],
+  "geometry": {"coordinates":[35.56667,-18.96667],"type":"Point"}
+}

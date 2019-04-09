@@ -1,0 +1,67 @@
+{
+  "id": 1276344969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.85833,-13.34778,39.85833,-13.34778",
+    "geom:latitude":-13.34778,
+    "geom:longitude":39.85833,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chefe Inteia",
+    "gn:country_code":"MZ",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087487,
+    "gn:latitude":-13.34778,
+    "gn:longitude":39.85833,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Chefe Inteia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087487
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"858601d3ae47a40db76b832051d3ef83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696771,
+            "locality_id":1276344969,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276344969,
+    "wof:lastmodified":1536763082,
+    "wof:name":"Chefe Inteia",
+    "wof:parent_id":1091696771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.85833,
+    -13.34778,
+    39.85833,
+    -13.34778
+],
+  "geometry": {"coordinates":[39.85833,-13.34778],"type":"Point"}
+}

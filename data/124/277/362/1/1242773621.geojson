@@ -1,0 +1,67 @@
+{
+  "id": 1242773621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.47528,-17.49,37.47528,-17.49",
+    "geom:latitude":-17.49,
+    "geom:longitude":37.47528,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Boronge",
+    "gn:country_code":"MZ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052046,
+    "gn:latitude":-17.49,
+    "gn:longitude":37.47528,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Boronge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052046
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b9c7289297b512209c8f42c72d4de7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698671,
+            "locality_id":1242773621,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1242773621,
+    "wof:lastmodified":1536781858,
+    "wof:name":"Boronge",
+    "wof:parent_id":1091698671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.47528,
+    -17.49,
+    37.47528,
+    -17.49
+],
+  "geometry": {"coordinates":[37.47528,-17.49],"type":"Point"}
+}

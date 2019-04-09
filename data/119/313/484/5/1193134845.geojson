@@ -1,0 +1,72 @@
+{
+  "id": 1193134845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.89417,-16.39694,39.89417,-16.39694",
+    "geom:latitude":-16.39694,
+    "geom:longitude":39.89417,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Assane",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040338,
+    "gn:latitude":-16.39694,
+    "gn:longitude":39.89417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Assane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masiuane",
+        "Assane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091696277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040338
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6f28202074cbb8690bd79881905e9d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696277,
+            "locality_id":1193134845,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1193134845,
+    "wof:lastmodified":1537674540,
+    "wof:name":"Assane",
+    "wof:parent_id":1091696277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.89417,
+    -16.39694,
+    39.89417,
+    -16.39694
+],
+  "geometry": {"coordinates":[39.89417,-16.39694],"type":"Point"}
+}

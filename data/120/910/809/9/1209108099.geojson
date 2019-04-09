@@ -1,0 +1,61 @@
+{
+  "id": 1209108099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.20944,-21.94806,35.20944,-21.94806",
+    "geom:latitude":-21.94806,
+    "geom:longitude":35.20944,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chefe Niquisse",
+    "gn:country_code":"MZ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1103803,
+    "gn:latitude":-21.94806,
+    "gn:longitude":35.20944,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chefe Niquisse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1103803
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9b1b0fda0976756d4bd39efdcafac5d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209108099
+        }
+    ],
+    "wof:id":1209108099,
+    "wof:lastmodified":1536297499,
+    "wof:name":"Chefe Niquisse",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20944,
+    -21.94806,
+    35.20944,
+    -21.94806
+],
+  "geometry": {"coordinates":[35.20944,-21.94806],"type":"Point"}
+}

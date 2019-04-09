@@ -1,0 +1,61 @@
+{
+  "id": 1209422411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.88222,-21.83167,33.88222,-21.83167",
+    "geom:latitude":-21.83167,
+    "geom:longitude":33.88222,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Lambo",
+    "gn:country_code":"MZ",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044094,
+    "gn:latitude":-21.83167,
+    "gn:longitude":33.88222,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Lambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044094
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a2bcbe3565b7934a132240e459c8788c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209422411
+        }
+    ],
+    "wof:id":1209422411,
+    "wof:lastmodified":1536287487,
+    "wof:name":"Lambo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.882220000000004,
+    -21.831670000000006,
+    33.882220000000004,
+    -21.831670000000006
+],
+  "geometry": {"coordinates":[33.88222,-21.83167000000001],"type":"Point"}
+}

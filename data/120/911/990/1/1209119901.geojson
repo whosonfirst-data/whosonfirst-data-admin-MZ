@@ -1,0 +1,61 @@
+{
+  "id": 1209119901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.51667,-10.8,40.51667,-10.8",
+    "geom:latitude":-10.8,
+    "geom:longitude":40.51667,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Boala",
+    "gn:country_code":"MZ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052193,
+    "gn:latitude":-10.8,
+    "gn:longitude":40.51667,
+    "gn:modification_date":"1995-02-03",
+    "gn:name":"Boala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052193
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3b4d17c16ee75d0db05b3b6c3f9ac7eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209119901
+        }
+    ],
+    "wof:id":1209119901,
+    "wof:lastmodified":1536297135,
+    "wof:name":"Boala",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.51667,
+    -10.8,
+    40.51667,
+    -10.8
+],
+  "geometry": {"coordinates":[40.51667,-10.8],"type":"Point"}
+}

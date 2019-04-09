@@ -1,0 +1,61 @@
+{
+  "id": 1209215647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.75611,-24.62667,32.75611,-24.62667",
+    "geom:latitude":-24.62667,
+    "geom:longitude":32.75611,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Issan",
+    "gn:country_code":"MZ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044856,
+    "gn:latitude":-24.62667,
+    "gn:longitude":32.75611,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Issan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044856
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bea8e1739851774b384e40f74a0e0621",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209215647
+        }
+    ],
+    "wof:id":1209215647,
+    "wof:lastmodified":1536294141,
+    "wof:name":"Issan",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.75611,
+    -24.62667,
+    32.75611,
+    -24.62667
+],
+  "geometry": {"coordinates":[32.75611,-24.62667],"type":"Point"}
+}

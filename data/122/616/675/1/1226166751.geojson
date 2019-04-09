@@ -1,0 +1,67 @@
+{
+  "id": 1226166751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5025,-25.77667,32.5025,-25.77667",
+    "geom:latitude":-25.77667,
+    "geom:longitude":32.5025,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mabili",
+    "gn:country_code":"MZ",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043039,
+    "gn:latitude":-25.77667,
+    "gn:longitude":32.5025,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Mabili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091696953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043039
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fc16bcde311ade2a3a99eba1dee58d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696953,
+            "locality_id":1226166751,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1226166751,
+    "wof:lastmodified":1537045534,
+    "wof:name":"Mabili",
+    "wof:parent_id":1091696953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5025,
+    -25.77667000000001,
+    32.5025,
+    -25.77667000000001
+],
+  "geometry": {"coordinates":[32.5025,-25.77667000000001],"type":"Point"}
+}

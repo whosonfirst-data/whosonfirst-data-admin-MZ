@@ -1,0 +1,67 @@
+{
+  "id": 1277074613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.71611,-26.4725,32.71611,-26.4725",
+    "geom:latitude":-26.4725,
+    "geom:longitude":32.71611,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Machacache",
+    "gn:country_code":"MZ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042757,
+    "gn:latitude":-26.4725,
+    "gn:longitude":32.71611,
+    "gn:modification_date":"1997-09-02",
+    "gn:name":"Machacache",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042757
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"42e486ce5b6fa435166cbbebdfe65251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699383,
+            "locality_id":1277074613,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1277074613,
+    "wof:lastmodified":1536779860,
+    "wof:name":"Machacache",
+    "wof:parent_id":1091699383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.71611,
+    -26.4725,
+    32.71611,
+    -26.4725
+],
+  "geometry": {"coordinates":[32.71611,-26.4725],"type":"Point"}
+}

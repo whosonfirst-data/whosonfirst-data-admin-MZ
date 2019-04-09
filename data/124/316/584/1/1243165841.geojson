@@ -1,0 +1,70 @@
+{
+  "id": 1243165841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.70333,-20.705,32.70333,-20.705",
+    "geom:latitude":-20.705,
+    "geom:longitude":32.70333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nhocutera",
+    "gn:country_code":"MZ",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1030069,
+    "gn:latitude":-20.705,
+    "gn:longitude":32.70333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nhocutera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Nhocutera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091700331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1030069
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"64f3a68a733e87c34b1ac61389eb49be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700331,
+            "locality_id":1243165841,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1243165841,
+    "wof:lastmodified":1537674497,
+    "wof:name":"Nhocutera",
+    "wof:parent_id":1091700331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.70333,
+    -20.705,
+    32.70333,
+    -20.705
+],
+  "geometry": {"coordinates":[32.70333,-20.705],"type":"Point"}
+}

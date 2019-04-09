@@ -1,0 +1,67 @@
+{
+  "id": 1193146629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.96861,-12.21583,39.96861,-12.21583",
+    "geom:latitude":-12.21583,
+    "geom:longitude":39.96861,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Monteiro",
+    "gn:country_code":"MZ",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037128,
+    "gn:latitude":-12.21583,
+    "gn:longitude":39.96861,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Monteiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091698583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037128
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"de02793c26c85ed8a60fc5bd254d5faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698583,
+            "locality_id":1193146629,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1193146629,
+    "wof:lastmodified":1536382682,
+    "wof:name":"Monteiro",
+    "wof:parent_id":1091698583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.96861,
+    -12.21583,
+    39.96861,
+    -12.21583
+],
+  "geometry": {"coordinates":[39.96861,-12.21583],"type":"Point"}
+}

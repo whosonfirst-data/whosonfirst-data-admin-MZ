@@ -1,0 +1,61 @@
+{
+  "id": 1209316393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.16222,-21.43306,34.16222,-21.43306",
+    "geom:latitude":-21.43306,
+    "geom:longitude":34.16222,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Utela",
+    "gn:country_code":"MZ",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101244,
+    "gn:latitude":-21.43306,
+    "gn:longitude":34.16222,
+    "gn:modification_date":"1998-04-29",
+    "gn:name":"Utela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101244
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"38235feb176c73ec8703c1cba6fb7053",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209316393
+        }
+    ],
+    "wof:id":1209316393,
+    "wof:lastmodified":1536290849,
+    "wof:name":"Utela",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.16222,
+    -21.43306,
+    34.16222,
+    -21.43306
+],
+  "geometry": {"coordinates":[34.16222,-21.43306],"type":"Point"}
+}

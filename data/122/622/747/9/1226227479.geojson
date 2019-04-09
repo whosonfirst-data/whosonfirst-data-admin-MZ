@@ -1,0 +1,67 @@
+{
+  "id": 1226227479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.36444,-16.68278,34.36444,-16.68278",
+    "geom:latitude":-16.68278,
+    "geom:longitude":34.36444,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Cuengue",
+    "gn:country_code":"MZ",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1093130,
+    "gn:latitude":-16.68278,
+    "gn:longitude":34.36444,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Cuengue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091700637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1093130
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7bb3194638f39474cd91c2784d1858a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700637,
+            "locality_id":1226227479,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1226227479,
+    "wof:lastmodified":1536959969,
+    "wof:name":"Cuengue",
+    "wof:parent_id":1091700637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.36444,
+    -16.68278,
+    34.36444,
+    -16.68278
+],
+  "geometry": {"coordinates":[34.36444,-16.68278],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309716133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.54694,-11.56639,39.54694,-11.56639",
+    "geom:latitude":-11.56639,
+    "geom:longitude":39.54694,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Dicia",
+    "gn:country_code":"MZ",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047105,
+    "gn:latitude":-11.56639,
+    "gn:longitude":39.54694,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Dicia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047105
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"40bf682d24d7812d7a4ef40c08a000e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1309716133,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1309716133,
+    "wof:lastmodified":1537057810,
+    "wof:name":"Dicia",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.54694,
+    -11.56639,
+    39.54694,
+    -11.56639
+],
+  "geometry": {"coordinates":[39.54694,-11.56639],"type":"Point"}
+}

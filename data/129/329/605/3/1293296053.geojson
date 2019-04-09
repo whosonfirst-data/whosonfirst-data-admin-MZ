@@ -1,0 +1,67 @@
+{
+  "id": 1293296053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.27417,-22.12583,33.27417,-22.12583",
+    "geom:latitude":-22.12583,
+    "geom:longitude":33.27417,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Matezuene",
+    "gn:country_code":"MZ",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039933,
+    "gn:latitude":-22.12583,
+    "gn:longitude":33.27417,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Matezuene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039933
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"015f38b89b881ee7b00ddea95927435c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696709,
+            "locality_id":1293296053,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1293296053,
+    "wof:lastmodified":1537060309,
+    "wof:name":"Matezuene",
+    "wof:parent_id":1091696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.27417,
+    -22.12583,
+    33.27417,
+    -22.12583
+],
+  "geometry": {"coordinates":[33.27417,-22.12583],"type":"Point"}
+}

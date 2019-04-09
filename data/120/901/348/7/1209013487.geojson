@@ -1,0 +1,66 @@
+{
+  "id": 1209013487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.25472,-23.11806,32.25472,-23.11806",
+    "geom:latitude":-23.11806,
+    "geom:longitude":32.25472,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Mepuze",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042892,
+    "gn:latitude":-23.11806,
+    "gn:longitude":32.25472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mepuze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Macande",
+        "Mepuze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042892
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5f5c650b862fede2dd0f00c925bef241",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209013487
+        }
+    ],
+    "wof:id":1209013487,
+    "wof:lastmodified":1537674557,
+    "wof:name":"Mepuze",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.25472,
+    -23.11806,
+    32.25472,
+    -23.11806
+],
+  "geometry": {"coordinates":[32.25472,-23.11806],"type":"Point"}
+}

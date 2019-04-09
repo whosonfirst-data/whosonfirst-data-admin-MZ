@@ -1,0 +1,61 @@
+{
+  "id": 1209228541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.60889,-13.35194,39.60889,-13.35194",
+    "geom:latitude":-13.35194,
+    "geom:longitude":39.60889,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Muepa",
+    "gn:country_code":"MZ",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087538,
+    "gn:latitude":-13.35194,
+    "gn:longitude":39.60889,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Muepa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087538
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2b78aa35b1d08fd8239d053f318b9ac7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209228541
+        }
+    ],
+    "wof:id":1209228541,
+    "wof:lastmodified":1536293714,
+    "wof:name":"Muepa",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.60889,
+    -13.35194,
+    39.60889,
+    -13.35194
+],
+  "geometry": {"coordinates":[39.60889,-13.35194],"type":"Point"}
+}

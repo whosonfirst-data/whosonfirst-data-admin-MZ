@@ -1,0 +1,68 @@
+{
+  "id": 1259993851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.73389,-12.89306,39.73389,-12.89306",
+    "geom:latitude":-12.89306,
+    "geom:longitude":39.73389,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Ncole",
+    "gn:country_code":"MZ",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085687,
+    "gn:latitude":-12.89306,
+    "gn:longitude":39.73389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ncole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085687,
+        "wk:page":"Ncole"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c10a6d7e5a5038e71d25498892a1baab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696241,
+            "locality_id":1259993851,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1259993851,
+    "wof:lastmodified":1537569940,
+    "wof:name":"Ncole",
+    "wof:parent_id":1091696241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.73389,
+    -12.89306,
+    39.73389,
+    -12.89306
+],
+  "geometry": {"coordinates":[39.73389,-12.89306],"type":"Point"}
+}

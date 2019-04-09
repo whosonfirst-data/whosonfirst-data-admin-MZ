@@ -1,0 +1,67 @@
+{
+  "id": 1260296727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.2475,-22.48083,35.2475,-22.48083",
+    "geom:latitude":-22.48083,
+    "geom:longitude":35.2475,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lassita",
+    "gn:country_code":"MZ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101147,
+    "gn:latitude":-22.48083,
+    "gn:longitude":35.2475,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Lassita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101147
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"01166d46af587bcc11656d787c9b79d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701605,
+            "locality_id":1260296727,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1260296727,
+    "wof:lastmodified":1536694333,
+    "wof:name":"Lassita",
+    "wof:parent_id":1091701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2475,
+    -22.48083,
+    35.2475,
+    -22.48083
+],
+  "geometry": {"coordinates":[35.2475,-22.48083],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360088297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.14389,-24.55611,34.14389,-24.55611",
+    "geom:latitude":-24.55611,
+    "geom:longitude":34.14389,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Antonio Nouele",
+    "gn:country_code":"MZ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1099288,
+    "gn:latitude":-24.55611,
+    "gn:longitude":34.14389,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Ant\u00f3nio Nouele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091698967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1099288
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0b3d1e16b06311e78ac1cbd81f963bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698967,
+            "locality_id":1360088297,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1360088297,
+    "wof:lastmodified":1536941588,
+    "wof:name":"Antonio Nouele",
+    "wof:parent_id":1091698967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.14389,
+    -24.55611,
+    34.14389,
+    -24.55611
+],
+  "geometry": {"coordinates":[34.14389,-24.55611],"type":"Point"}
+}

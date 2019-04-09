@@ -1,0 +1,67 @@
+{
+  "id": 1343646199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.63833,-16.21972,37.63833,-16.21972",
+    "geom:latitude":-16.21972,
+    "geom:longitude":37.63833,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chefe Ecotol",
+    "gn:country_code":"MZ",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095802,
+    "gn:latitude":-16.21972,
+    "gn:longitude":37.63833,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Chefe Ecotol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095802
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d93e5290c7edcab0fdc54c476bcae2cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697943,
+            "locality_id":1343646199,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1343646199,
+    "wof:lastmodified":1536975134,
+    "wof:name":"Chefe Ecotol",
+    "wof:parent_id":1091697943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.63833,
+    -16.21972,
+    37.63833,
+    -16.21972
+],
+  "geometry": {"coordinates":[37.63833,-16.21972],"type":"Point"}
+}

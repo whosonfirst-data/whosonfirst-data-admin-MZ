@@ -1,0 +1,67 @@
+{
+  "id": 1243472649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3,-19.03333,34.3,-19.03333",
+    "geom:latitude":-19.03333,
+    "geom:longitude":34.3,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Samo",
+    "gn:country_code":"MZ",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027488,
+    "gn:latitude":-19.03333,
+    "gn:longitude":34.3,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Samo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091701119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027488
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b4203753a0e176e9de945336c142f01f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701119,
+            "locality_id":1243472649,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1243472649,
+    "wof:lastmodified":1536768218,
+    "wof:name":"Samo",
+    "wof:parent_id":1091701119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3,
+    -19.03333,
+    34.3,
+    -19.03333
+],
+  "geometry": {"coordinates":[34.3,-19.03333],"type":"Point"}
+}

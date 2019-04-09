@@ -1,0 +1,61 @@
+{
+  "id": 1209198233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.35444,-17.42167,33.35444,-17.42167",
+    "geom:latitude":-17.42167,
+    "geom:longitude":33.35444,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Guro",
+    "gn:country_code":"MZ",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045514,
+    "gn:latitude":-17.42167,
+    "gn:longitude":33.35444,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Guro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045514
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1b0819a910e8df317d555d8966ce455f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209198233
+        }
+    ],
+    "wof:id":1209198233,
+    "wof:lastmodified":1536294700,
+    "wof:name":"Guro",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.354440000000004,
+    -17.421670000000002,
+    33.354440000000004,
+    -17.421670000000002
+],
+  "geometry": {"coordinates":[33.35444,-17.42167],"type":"Point"}
+}

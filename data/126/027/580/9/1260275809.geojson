@@ -1,0 +1,67 @@
+{
+  "id": 1260275809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.47944,-15.3225,39.47944,-15.3225",
+    "geom:latitude":-15.3225,
+    "geom:longitude":39.47944,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Luis",
+    "gn:country_code":"MZ",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043289,
+    "gn:latitude":-15.3225,
+    "gn:longitude":39.47944,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Lu\u00eds",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043289
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7c9112fde2dceb5cfc9f2b78f78018ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700965,
+            "locality_id":1260275809,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1260275809,
+    "wof:lastmodified":1536722599,
+    "wof:name":"Luis",
+    "wof:parent_id":1091700965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.47944,
+    -15.3225,
+    39.47944,
+    -15.3225
+],
+  "geometry": {"coordinates":[39.47944,-15.3225],"type":"Point"}
+}

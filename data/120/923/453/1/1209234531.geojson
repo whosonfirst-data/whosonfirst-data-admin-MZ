@@ -1,0 +1,61 @@
+{
+  "id": 1209234531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.62139,-16.25944,33.62139,-16.25944",
+    "geom:latitude":-16.25944,
+    "geom:longitude":33.62139,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Nicompo",
+    "gn:country_code":"MZ",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092624,
+    "gn:latitude":-16.25944,
+    "gn:longitude":33.62139,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Nicompo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092624
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8354fdbd2c41e78c8beb0c9e1bf2c7db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209234531
+        }
+    ],
+    "wof:id":1209234531,
+    "wof:lastmodified":1536293531,
+    "wof:name":"Nicompo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.621390000000005,
+    -16.259439999999998,
+    33.621390000000005,
+    -16.259439999999998
+],
+  "geometry": {"coordinates":[33.62139000000001,-16.25944],"type":"Point"}
+}

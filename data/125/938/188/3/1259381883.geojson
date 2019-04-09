@@ -1,0 +1,72 @@
+{
+  "id": 1259381883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.10417,-19.59472,34.10417,-19.59472",
+    "geom:latitude":-19.59472,
+    "geom:longitude":34.10417,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bin-Biri",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024135,
+    "gn:latitude":-19.59472,
+    "gn:longitude":34.10417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bin-Biri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zituta",
+        "Bin-Biri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091701119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024135
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a1de9304fcc43f1a567e74e0774823d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701119,
+            "locality_id":1259381883,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1259381883,
+    "wof:lastmodified":1537674468,
+    "wof:name":"Bin-Biri",
+    "wof:parent_id":1091701119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.10417,
+    -19.59472,
+    34.10417,
+    -19.59472
+],
+  "geometry": {"coordinates":[34.10417,-19.59472],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293581913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.38639,-16.40639,39.38639,-16.40639",
+    "geom:latitude":-16.40639,
+    "geom:longitude":39.38639,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chefe Telua",
+    "gn:country_code":"MZ",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095543,
+    "gn:latitude":-16.40639,
+    "gn:longitude":39.38639,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Chefe Telua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095543
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0067da0a4e6ef7cb69f7d50f678a463a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1293581913,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1293581913,
+    "wof:lastmodified":1536650843,
+    "wof:name":"Chefe Telua",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.38639000000001,
+    -16.40639,
+    39.38639000000001,
+    -16.40639
+],
+  "geometry": {"coordinates":[39.38639000000001,-16.40639],"type":"Point"}
+}

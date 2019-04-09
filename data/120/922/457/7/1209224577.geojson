@@ -1,0 +1,61 @@
+{
+  "id": 1209224577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.23333,-15.95,40.23333,-15.95",
+    "geom:latitude":-15.95,
+    "geom:longitude":40.23333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Dielo",
+    "gn:country_code":"MZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047097,
+    "gn:latitude":-15.95,
+    "gn:longitude":40.23333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Dielo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047097
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"596284ee5893be65b43fdc819b903f0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209224577
+        }
+    ],
+    "wof:id":1209224577,
+    "wof:lastmodified":1536293842,
+    "wof:name":"Dielo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.23333,
+    -15.95,
+    40.23333,
+    -15.95
+],
+  "geometry": {"coordinates":[40.23333,-15.95],"type":"Point"}
+}

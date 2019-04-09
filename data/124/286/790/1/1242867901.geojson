@@ -1,0 +1,67 @@
+{
+  "id": 1242867901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.33917,-20.03722,33.33917,-20.03722",
+    "geom:latitude":-20.03722,
+    "geom:longitude":33.33917,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mafastela",
+    "gn:country_code":"MZ",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042049,
+    "gn:latitude":-20.03722,
+    "gn:longitude":33.33917,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mafastela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091701483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042049
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"af284c88ba32fc28b6e8622f51926361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701483,
+            "locality_id":1242867901,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1242867901,
+    "wof:lastmodified":1536644974,
+    "wof:name":"Mafastela",
+    "wof:parent_id":1091701483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.33917,
+    -20.03722,
+    33.33917,
+    -20.03722
+],
+  "geometry": {"coordinates":[33.33917,-20.03722],"type":"Point"}
+}

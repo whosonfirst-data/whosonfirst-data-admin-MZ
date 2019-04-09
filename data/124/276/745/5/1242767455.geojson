@@ -1,0 +1,67 @@
+{
+  "id": 1242767455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.05806,-17.34778,37.05806,-17.34778",
+    "geom:latitude":-17.34778,
+    "geom:longitude":37.05806,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Farinha",
+    "gn:country_code":"MZ",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095894,
+    "gn:latitude":-17.34778,
+    "gn:longitude":37.05806,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Farinha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095894
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a6bbb797662ddf63c5e7ed02a6195cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700865,
+            "locality_id":1242767455,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1242767455,
+    "wof:lastmodified":1536790624,
+    "wof:name":"Farinha",
+    "wof:parent_id":1091700865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.05806,
+    -17.34778,
+    37.05806,
+    -17.34778
+],
+  "geometry": {"coordinates":[37.05806,-17.34778],"type":"Point"}
+}

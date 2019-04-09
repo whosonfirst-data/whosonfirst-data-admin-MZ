@@ -1,0 +1,67 @@
+{
+  "id": 1343674563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.66083,-24.205,32.66083,-24.205",
+    "geom:latitude":-24.205,
+    "geom:longitude":32.66083,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tchioio",
+    "gn:country_code":"MZ",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104686,
+    "gn:latitude":-24.205,
+    "gn:longitude":32.66083,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Tchioio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104686
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3d5ca144541b189d4b745a0517dc4882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696849,
+            "locality_id":1343674563,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1343674563,
+    "wof:lastmodified":1536935411,
+    "wof:name":"Tchioio",
+    "wof:parent_id":1091696849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.66083,
+    -24.205,
+    32.66083,
+    -24.205
+],
+  "geometry": {"coordinates":[32.66083,-24.205],"type":"Point"}
+}

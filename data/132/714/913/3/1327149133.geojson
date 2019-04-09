@@ -1,0 +1,67 @@
+{
+  "id": 1327149133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.31667,-12.7,40.31667,-12.7",
+    "geom:latitude":-12.7,
+    "geom:longitude":40.31667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Amacagi",
+    "gn:country_code":"MZ",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053128,
+    "gn:latitude":-12.7,
+    "gn:longitude":40.31667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Amacagi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053128
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d319a659e9436b70081b0fd941894424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701371,
+            "locality_id":1327149133,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1327149133,
+    "wof:lastmodified":1537086539,
+    "wof:name":"Amacagi",
+    "wof:parent_id":1091701371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.31667,
+    -12.7,
+    40.31667,
+    -12.7
+],
+  "geometry": {"coordinates":[40.31667,-12.7],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310412089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.10472,-25.14639,32.10472,-25.14639",
+    "geom:latitude":-25.14639,
+    "geom:longitude":32.10472,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Jonh",
+    "gn:country_code":"MZ",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044329,
+    "gn:latitude":-25.14639,
+    "gn:longitude":32.10472,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Jonh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044329
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"946217531c5596231a75f63b75d36b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699925,
+            "locality_id":1310412089,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1310412089,
+    "wof:lastmodified":1537049639,
+    "wof:name":"Jonh",
+    "wof:parent_id":1091699925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.10472,
+    -25.14639,
+    32.10472,
+    -25.14639
+],
+  "geometry": {"coordinates":[32.10472,-25.14639],"type":"Point"}
+}

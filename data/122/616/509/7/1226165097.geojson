@@ -1,0 +1,67 @@
+{
+  "id": 1226165097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.52028,-14.48222,40.52028,-14.48222",
+    "geom:latitude":-14.48222,
+    "geom:longitude":40.52028,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Selemane",
+    "gn:country_code":"MZ",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027140,
+    "gn:latitude":-14.48222,
+    "gn:longitude":40.52028,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Selemane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027140
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"42ff9dadf94f3188899397b84b307836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700727,
+            "locality_id":1226165097,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1226165097,
+    "wof:lastmodified":1537047823,
+    "wof:name":"Selemane",
+    "wof:parent_id":1091700727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.52028,
+    -14.48222,
+    40.52028,
+    -14.48222
+],
+  "geometry": {"coordinates":[40.52028,-14.48222],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226131603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.35167,-20.92528,33.35167,-20.92528",
+    "geom:latitude":-20.92528,
+    "geom:longitude":33.35167,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Guebo",
+    "gn:country_code":"MZ",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045702,
+    "gn:latitude":-20.92528,
+    "gn:longitude":33.35167,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Guebo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045702
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"39f0059b1f11b5fc61adf6aa2fd5365f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1226131603,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1226131603,
+    "wof:lastmodified":1537094891,
+    "wof:name":"Guebo",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.35167,
+    -20.92528,
+    33.35167,
+    -20.92528
+],
+  "geometry": {"coordinates":[33.35167,-20.92528],"type":"Point"}
+}

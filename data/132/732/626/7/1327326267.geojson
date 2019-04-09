@@ -1,0 +1,67 @@
+{
+  "id": 1327326267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.08639,-14.85528,38.08639,-14.85528",
+    "geom:latitude":-14.85528,
+    "geom:longitude":38.08639,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Namecoia",
+    "gn:country_code":"MZ",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1033936,
+    "gn:latitude":-14.85528,
+    "gn:longitude":38.08639,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Namecoia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091701415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1033936
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"68225c61b0fe94d5f2ccb2eaa6ac2b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701415,
+            "locality_id":1327326267,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1327326267,
+    "wof:lastmodified":1536833088,
+    "wof:name":"Namecoia",
+    "wof:parent_id":1091701415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.08639,
+    -14.85528,
+    38.08639,
+    -14.85528
+],
+  "geometry": {"coordinates":[38.08639,-14.85528],"type":"Point"}
+}

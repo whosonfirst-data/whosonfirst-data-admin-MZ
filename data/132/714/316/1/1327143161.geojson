@@ -1,0 +1,67 @@
+{
+  "id": 1327143161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.68417,-23.57111,33.68417,-23.57111",
+    "geom:latitude":-23.57111,
+    "geom:longitude":33.68417,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Jomacasse",
+    "gn:country_code":"MZ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044381,
+    "gn:latitude":-23.57111,
+    "gn:longitude":33.68417,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"J\u00f3mac\u00e1sse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044381
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b3917d0475d148cdcc579036764c7826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696709,
+            "locality_id":1327143161,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1327143161,
+    "wof:lastmodified":1537095136,
+    "wof:name":"Jomacasse",
+    "wof:parent_id":1091696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.68417,
+    -23.57111,
+    33.68417,
+    -23.57111
+],
+  "geometry": {"coordinates":[33.68417,-23.57111],"type":"Point"}
+}

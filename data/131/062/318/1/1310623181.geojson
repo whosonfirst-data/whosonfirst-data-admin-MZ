@@ -1,0 +1,67 @@
+{
+  "id": 1310623181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.02028,-14.44806,40.02028,-14.44806",
+    "geom:latitude":-14.44806,
+    "geom:longitude":40.02028,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Maia",
+    "gn:country_code":"MZ",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041730,
+    "gn:latitude":-14.44806,
+    "gn:longitude":40.02028,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Ma\u00eda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041730
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f1ce0131cc52fd001ff3f618b8913336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700773,
+            "locality_id":1310623181,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1310623181,
+    "wof:lastmodified":1536746982,
+    "wof:name":"Maia",
+    "wof:parent_id":1091700773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.02028,
+    -14.44806,
+    40.02028,
+    -14.44806
+],
+  "geometry": {"coordinates":[40.02028,-14.44806],"type":"Point"}
+}

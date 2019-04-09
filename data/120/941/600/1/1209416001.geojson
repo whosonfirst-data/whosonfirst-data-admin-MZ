@@ -1,0 +1,61 @@
+{
+  "id": 1209416001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.80806,-25.43806,32.80806,-25.43806",
+    "geom:latitude":-25.43806,
+    "geom:longitude":32.80806,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Ofice",
+    "gn:country_code":"MZ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029443,
+    "gn:latitude":-25.43806,
+    "gn:longitude":32.80806,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Ofice",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029443
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ce5cc161623387f0b566cfcc66504a5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209416001
+        }
+    ],
+    "wof:id":1209416001,
+    "wof:lastmodified":1536287686,
+    "wof:name":"Ofice",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.80806,
+    -25.43806,
+    32.80806,
+    -25.43806
+],
+  "geometry": {"coordinates":[32.80806,-25.43806],"type":"Point"}
+}

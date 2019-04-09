@@ -1,0 +1,67 @@
+{
+  "id": 1209916121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.89,-21.83694,33.89,-21.83694",
+    "geom:latitude":-21.83694,
+    "geom:longitude":33.89,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Chilatane",
+    "gn:country_code":"MZ",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049387,
+    "gn:latitude":-21.83694,
+    "gn:longitude":33.89,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chilatane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049387
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"25bd6790027d0bf3b6231799fbc9e5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698405,
+            "locality_id":1209916121,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1209916121,
+    "wof:lastmodified":1536373557,
+    "wof:name":"Chilatane",
+    "wof:parent_id":1091698405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.89,
+    -21.83694,
+    33.89,
+    -21.83694
+],
+  "geometry": {"coordinates":[33.89,-21.83694],"type":"Point"}
+}

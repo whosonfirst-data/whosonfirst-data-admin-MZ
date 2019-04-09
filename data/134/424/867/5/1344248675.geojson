@@ -1,0 +1,67 @@
+{
+  "id": 1344248675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.48028,-13.41778,35.48028,-13.41778",
+    "geom:latitude":-13.41778,
+    "geom:longitude":35.48028,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Jafe",
+    "gn:country_code":"MZ",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044788,
+    "gn:latitude":-13.41778,
+    "gn:longitude":35.48028,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Jafe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044788
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9d94f8c31631d088e1cd90adf189c585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698283,
+            "locality_id":1344248675,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1344248675,
+    "wof:lastmodified":1536600822,
+    "wof:name":"Jafe",
+    "wof:parent_id":1091698283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48028,
+    -13.41778,
+    35.48028,
+    -13.41778
+],
+  "geometry": {"coordinates":[35.48028,-13.41778],"type":"Point"}
+}

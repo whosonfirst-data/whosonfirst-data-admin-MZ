@@ -1,0 +1,67 @@
+{
+  "id": 1292998441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.97639,-14.74694,39.97639,-14.74694",
+    "geom:latitude":-14.74694,
+    "geom:longitude":39.97639,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Netia",
+    "gn:country_code":"MZ",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1032072,
+    "gn:latitude":-14.74694,
+    "gn:longitude":39.97639,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Netia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1032072
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"80d1cc371cca63c71519b2a5697d505a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700177,
+            "locality_id":1292998441,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1292998441,
+    "wof:lastmodified":1536994272,
+    "wof:name":"Netia",
+    "wof:parent_id":1091700177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.97639,
+    -14.74694,
+    39.97639,
+    -14.74694
+],
+  "geometry": {"coordinates":[39.97639,-14.74694],"type":"Point"}
+}

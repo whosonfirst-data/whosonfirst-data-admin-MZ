@@ -1,0 +1,67 @@
+{
+  "id": 1259999657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.29556,-16.73278,33.29556,-16.73278",
+    "geom:latitude":-16.73278,
+    "geom:longitude":33.29556,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Joao Compende",
+    "gn:country_code":"MZ",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044480,
+    "gn:latitude":-16.73278,
+    "gn:longitude":33.29556,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Jo\u00e3o Compende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044480
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"34a6c533f68de82560e37e3440cc50e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696537,
+            "locality_id":1259999657,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1259999657,
+    "wof:lastmodified":1536609199,
+    "wof:name":"Joao Compende",
+    "wof:parent_id":1091696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.29555999999999,
+    -16.73278,
+    33.29555999999999,
+    -16.73278
+],
+  "geometry": {"coordinates":[33.29555999999999,-16.73278],"type":"Point"}
+}

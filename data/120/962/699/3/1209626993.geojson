@@ -1,0 +1,61 @@
+{
+  "id": 1209626993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.03222,-21.77778,35.03222,-21.77778",
+    "geom:latitude":-21.77778,
+    "geom:longitude":35.03222,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sengue",
+    "gn:country_code":"MZ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027063,
+    "gn:latitude":-21.77778,
+    "gn:longitude":35.03222,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Sengue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027063
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"75dadd43b3acd7e273a2a10c96f71c47",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209626993
+        }
+    ],
+    "wof:id":1209626993,
+    "wof:lastmodified":1536281323,
+    "wof:name":"Sengue",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03222,
+    -21.77778,
+    35.03222,
+    -21.77778
+],
+  "geometry": {"coordinates":[35.03222,-21.77778],"type":"Point"}
+}

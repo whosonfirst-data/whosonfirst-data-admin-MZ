@@ -1,0 +1,61 @@
+{
+  "id": 1209109273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.26028,-23.25333,32.26028,-23.25333",
+    "geom:latitude":-23.25333,
+    "geom:longitude":32.26028,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Machambane",
+    "gn:country_code":"MZ",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097621,
+    "gn:latitude":-23.25333,
+    "gn:longitude":32.26028,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Machambane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097621
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e7b8d165c0fd8eac97d11b922893c96b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209109273
+        }
+    ],
+    "wof:id":1209109273,
+    "wof:lastmodified":1536297461,
+    "wof:name":"Machambane",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.26028,
+    -23.25333,
+    32.26028,
+    -23.25333
+],
+  "geometry": {"coordinates":[32.26028,-23.25333],"type":"Point"}
+}

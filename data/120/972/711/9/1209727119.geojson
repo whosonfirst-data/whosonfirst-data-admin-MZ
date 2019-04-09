@@ -1,0 +1,67 @@
+{
+  "id": 1209727119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3825,-22.585,33.3825,-22.585",
+    "geom:latitude":-22.585,
+    "geom:longitude":33.3825,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Fostine",
+    "gn:country_code":"MZ",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046286,
+    "gn:latitude":-22.585,
+    "gn:longitude":33.3825,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Fostine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046286
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e26d4798080690a75e302fc33cbb1f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698405,
+            "locality_id":1209727119,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1209727119,
+    "wof:lastmodified":1536382620,
+    "wof:name":"Fostine",
+    "wof:parent_id":1091698405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3825,
+    -22.585,
+    33.3825,
+    -22.585
+],
+  "geometry": {"coordinates":[33.3825,-22.585],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360181467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.165,-15.32611,37.165,-15.32611",
+    "geom:latitude":-15.32611,
+    "geom:longitude":37.165,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Muteca",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043664,
+    "gn:latitude":-15.32611,
+    "gn:longitude":37.165,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Muteca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liquitchu\u00e8",
+        "Muteca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043664
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6285a1d888b248f4f24b5a13ddb43905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697801,
+            "locality_id":1360181467,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1360181467,
+    "wof:lastmodified":1537674561,
+    "wof:name":"Muteca",
+    "wof:parent_id":1091697801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.165,
+    -15.32611,
+    37.165,
+    -15.32611
+],
+  "geometry": {"coordinates":[37.165,-15.32611],"type":"Point"}
+}

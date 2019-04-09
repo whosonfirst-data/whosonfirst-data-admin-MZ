@@ -1,0 +1,67 @@
+{
+  "id": 1243295675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.75694,-20.65917,33.75694,-20.65917",
+    "geom:latitude":-20.65917,
+    "geom:longitude":33.75694,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sangue",
+    "gn:country_code":"MZ",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027371,
+    "gn:latitude":-20.65917,
+    "gn:longitude":33.75694,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Sangue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027371
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"48e5f9cbbd440136ded6361d26799acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696561,
+            "locality_id":1243295675,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1243295675,
+    "wof:lastmodified":1537021919,
+    "wof:name":"Sangue",
+    "wof:parent_id":1091696561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.75694,
+    -20.65917,
+    33.75694,
+    -20.65917
+],
+  "geometry": {"coordinates":[33.75694,-20.65917],"type":"Point"}
+}

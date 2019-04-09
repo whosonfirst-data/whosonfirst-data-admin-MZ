@@ -1,0 +1,67 @@
+{
+  "id": 1327241219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.82139,-11.9075,39.82139,-11.9075",
+    "geom:latitude":-11.9075,
+    "geom:longitude":39.82139,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Madava",
+    "gn:country_code":"MZ",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085088,
+    "gn:latitude":-11.9075,
+    "gn:longitude":39.82139,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Madava",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085088
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"91f964c69b5c9e898dedbe52f52ad120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700543,
+            "locality_id":1327241219,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1327241219,
+    "wof:lastmodified":1536956762,
+    "wof:name":"Madava",
+    "wof:parent_id":1091700543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.82139,
+    -11.9075,
+    39.82139,
+    -11.9075
+],
+  "geometry": {"coordinates":[39.82139,-11.9075],"type":"Point"}
+}

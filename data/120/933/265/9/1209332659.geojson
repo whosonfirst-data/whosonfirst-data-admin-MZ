@@ -1,0 +1,61 @@
+{
+  "id": 1209332659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.11667,-15.85,39.11667,-15.85",
+    "geom:latitude":-15.85,
+    "geom:longitude":39.11667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Muo",
+    "gn:country_code":"MZ",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035652,
+    "gn:latitude":-15.85,
+    "gn:longitude":39.11667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Muo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035652
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f27bfae77a1595d40340d0245831e51e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209332659
+        }
+    ],
+    "wof:id":1209332659,
+    "wof:lastmodified":1536290325,
+    "wof:name":"Muo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.11667,
+    -15.85,
+    39.11667,
+    -15.85
+],
+  "geometry": {"coordinates":[39.11667,-15.85],"type":"Point"}
+}

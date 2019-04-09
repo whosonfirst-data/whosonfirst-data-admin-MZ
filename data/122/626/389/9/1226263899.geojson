@@ -1,0 +1,72 @@
+{
+  "id": 1226263899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93528,-15.43722,35.93528,-15.43722",
+    "geom:latitude":-15.43722,
+    "geom:longitude":35.93528,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Urandule",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1030718,
+    "gn:latitude":-15.43722,
+    "gn:longitude":35.93528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Urandule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nh\u00e2ndule",
+        "Chefe Urandule"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1030718
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"77fb648b216f12e7eb7d8d64df954d65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699553,
+            "locality_id":1226263899,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1226263899,
+    "wof:lastmodified":1537674498,
+    "wof:name":"Chefe Urandule",
+    "wof:parent_id":1091699553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93528,
+    -15.43722,
+    35.93528,
+    -15.43722
+],
+  "geometry": {"coordinates":[35.93528,-15.43722],"type":"Point"}
+}

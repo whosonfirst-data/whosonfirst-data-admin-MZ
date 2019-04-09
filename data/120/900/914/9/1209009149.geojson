@@ -1,0 +1,61 @@
+{
+  "id": 1209009149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.85639,-21.03556,34.85639,-21.03556",
+    "geom:latitude":-21.03556,
+    "geom:longitude":34.85639,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lamejo",
+    "gn:country_code":"MZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1103605,
+    "gn:latitude":-21.03556,
+    "gn:longitude":34.85639,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Lamejo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1103605
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"99bc32f6d93079a54a5ec88f2a7a275b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209009149
+        }
+    ],
+    "wof:id":1209009149,
+    "wof:lastmodified":1536300504,
+    "wof:name":"Lamejo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.856390000000005,
+    -21.03556,
+    34.856390000000005,
+    -21.03556
+],
+  "geometry": {"coordinates":[34.85639,-21.03556],"type":"Point"}
+}

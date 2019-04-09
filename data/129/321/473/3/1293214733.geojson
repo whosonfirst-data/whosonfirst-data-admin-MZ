@@ -1,0 +1,67 @@
+{
+  "id": 1293214733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.72694,-11.29806,39.72694,-11.29806",
+    "geom:latitude":-11.29806,
+    "geom:longitude":39.72694,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tambala",
+    "gn:country_code":"MZ",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026469,
+    "gn:latitude":-11.29806,
+    "gn:longitude":39.72694,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Tambala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026469
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8b653973705ed024c34ccb07e1a77b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701043,
+            "locality_id":1293214733,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1293214733,
+    "wof:lastmodified":1536683110,
+    "wof:name":"Tambala",
+    "wof:parent_id":1091701043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.72694,
+    -11.29806,
+    39.72694,
+    -11.29806
+],
+  "geometry": {"coordinates":[39.72694,-11.29806],"type":"Point"}
+}

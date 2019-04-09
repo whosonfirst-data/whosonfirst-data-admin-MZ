@@ -1,0 +1,67 @@
+{
+  "id": 1343776251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.43917,-11.34,39.43917,-11.34",
+    "geom:latitude":-11.34,
+    "geom:longitude":39.43917,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Andoba",
+    "gn:country_code":"MZ",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052972,
+    "gn:latitude":-11.34,
+    "gn:longitude":39.43917,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Andoba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052972
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"73f3f01147acfe67fada82f39c7b4590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1343776251,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1343776251,
+    "wof:lastmodified":1536788546,
+    "wof:name":"Andoba",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.43917,
+    -11.34,
+    39.43917,
+    -11.34
+],
+  "geometry": {"coordinates":[39.43917,-11.34],"type":"Point"}
+}

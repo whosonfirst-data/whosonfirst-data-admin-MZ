@@ -1,0 +1,72 @@
+{
+  "id": 1344250961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.30833,-20.4625,33.30833,-20.4625",
+    "geom:latitude":-20.4625,
+    "geom:longitude":33.30833,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mepombo",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038680,
+    "gn:latitude":-20.4625,
+    "gn:longitude":33.30833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mepombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mepombe",
+        "Mepombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038680
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"31bdd1c5b9c0a1206d4f7a1d2a9b7f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1344250961,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1344250961,
+    "wof:lastmodified":1537674530,
+    "wof:name":"Mepombo",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.30833,
+    -20.4625,
+    33.30833,
+    -20.4625
+],
+  "geometry": {"coordinates":[33.30833,-20.4625],"type":"Point"}
+}

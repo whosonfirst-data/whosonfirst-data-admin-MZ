@@ -1,0 +1,72 @@
+{
+  "id": 1259575819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.45917,-14.96194,39.45917,-14.96194",
+    "geom:latitude":-14.96194,
+    "geom:longitude":39.45917,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nanvarre",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037921,
+    "gn:latitude":-14.96194,
+    "gn:longitude":39.45917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nanvarre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mevarra",
+        "Nanvarre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037921
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"89978592a08e2b7d5e8a4c3345ae2cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700409,
+            "locality_id":1259575819,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1259575819,
+    "wof:lastmodified":1537674527,
+    "wof:name":"Nanvarre",
+    "wof:parent_id":1091700409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.45917,
+    -14.96194,
+    39.45917,
+    -14.96194
+],
+  "geometry": {"coordinates":[39.45917,-14.96194],"type":"Point"}
+}

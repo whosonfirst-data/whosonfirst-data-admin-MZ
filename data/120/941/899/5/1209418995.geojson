@@ -1,0 +1,61 @@
+{
+  "id": 1209418995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.02694,-12.46306,39.02694,-12.46306",
+    "geom:latitude":-12.46306,
+    "geom:longitude":39.02694,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Rita",
+    "gn:country_code":"MZ",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085864,
+    "gn:latitude":-12.46306,
+    "gn:longitude":39.02694,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Rita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085864
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"662a3473372a9665b3467a77fc40d682",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209418995
+        }
+    ],
+    "wof:id":1209418995,
+    "wof:lastmodified":1536287593,
+    "wof:name":"Rita",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.02694,
+    -12.46306,
+    39.02694,
+    -12.46306
+],
+  "geometry": {"coordinates":[39.02694,-12.46306],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243065423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.73167,-13.78556,39.73167,-13.78556",
+    "geom:latitude":-13.78556,
+    "geom:longitude":39.73167,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Cabo Vicente",
+    "gn:country_code":"MZ",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086962,
+    "gn:latitude":-13.78556,
+    "gn:longitude":39.73167,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Cabo Vicente",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091697455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086962
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8b40f85dd7c9a94d0991249701e26ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697455,
+            "locality_id":1243065423,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1243065423,
+    "wof:lastmodified":1536856608,
+    "wof:name":"Cabo Vicente",
+    "wof:parent_id":1091697455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.73167,
+    -13.78556,
+    39.73167,
+    -13.78556
+],
+  "geometry": {"coordinates":[39.73167,-13.78556],"type":"Point"}
+}

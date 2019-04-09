@@ -1,0 +1,67 @@
+{
+  "id": 1343256553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.8625,-12.87278,37.8625,-12.87278",
+    "geom:latitude":-12.87278,
+    "geom:longitude":37.8625,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Nampacane",
+    "gn:country_code":"MZ",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1033422,
+    "gn:latitude":-12.87278,
+    "gn:longitude":37.8625,
+    "gn:modification_date":"1995-06-23",
+    "gn:name":"Nampacane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1033422
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"872c209ad2eac7a32fc6fd58893a5f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699257,
+            "locality_id":1343256553,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1343256553,
+    "wof:lastmodified":1537038886,
+    "wof:name":"Nampacane",
+    "wof:parent_id":1091699257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.8625,
+    -12.87278,
+    37.8625,
+    -12.87278
+],
+  "geometry": {"coordinates":[37.8625,-12.87278],"type":"Point"}
+}

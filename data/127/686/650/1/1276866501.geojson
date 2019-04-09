@@ -1,0 +1,67 @@
+{
+  "id": 1276866501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2575,-18.54778,36.2575,-18.54778",
+    "geom:latitude":-18.54778,
+    "geom:longitude":36.2575,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Cinturao",
+    "gn:country_code":"MZ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048134,
+    "gn:latitude":-18.54778,
+    "gn:longitude":36.2575,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Cintur\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048134
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cd7f4d04b16ce9779b813c3bac4703fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696729,
+            "locality_id":1276866501,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1276866501,
+    "wof:lastmodified":1537056605,
+    "wof:name":"Cinturao",
+    "wof:parent_id":1091696729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2575,
+    -18.54778,
+    36.2575,
+    -18.54778
+],
+  "geometry": {"coordinates":[36.2575,-18.54778],"type":"Point"}
+}

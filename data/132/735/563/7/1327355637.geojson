@@ -1,0 +1,67 @@
+{
+  "id": 1327355637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.26806,-15.36639,39.26806,-15.36639",
+    "geom:latitude":-15.36639,
+    "geom:longitude":39.26806,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Amade",
+    "gn:country_code":"MZ",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092631,
+    "gn:latitude":-15.36639,
+    "gn:longitude":39.26806,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Amade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092631
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b10bc6ecf6b130d23aa7deb0abba55f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700965,
+            "locality_id":1327355637,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1327355637,
+    "wof:lastmodified":1536792070,
+    "wof:name":"Amade",
+    "wof:parent_id":1091700965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.26806,
+    -15.36639,
+    39.26806,
+    -15.36639
+],
+  "geometry": {"coordinates":[39.26806,-15.36639],"type":"Point"}
+}

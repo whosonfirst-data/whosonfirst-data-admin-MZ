@@ -1,0 +1,67 @@
+{
+  "id": 1276558001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.0,-16.4,37.0,-16.4",
+    "geom:latitude":-16.4,
+    "geom:longitude":37.0,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Mudirra",
+    "gn:country_code":"MZ",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036289,
+    "gn:latitude":-16.4,
+    "gn:longitude":37.0,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Mudirra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036289
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b91ab34b52440e555c1c23c367e1683e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698327,
+            "locality_id":1276558001,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1276558001,
+    "wof:lastmodified":1536974457,
+    "wof:name":"Mudirra",
+    "wof:parent_id":1091698327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.0,
+    -16.4,
+    37.0,
+    -16.4
+],
+  "geometry": {"coordinates":[37.0,-16.4],"type":"Point"}
+}

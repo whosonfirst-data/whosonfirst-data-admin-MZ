@@ -1,0 +1,67 @@
+{
+  "id": 1343376573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.65,-12.63028,38.65,-12.63028",
+    "geom:latitude":-12.63028,
+    "geom:longitude":38.65,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Ntola",
+    "gn:country_code":"MZ",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085434,
+    "gn:latitude":-12.63028,
+    "gn:longitude":38.65,
+    "gn:modification_date":"1995-06-22",
+    "gn:name":"Ntola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085434
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b192d38ed0ac3f0eb18f067a49a097e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1343376573,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1343376573,
+    "wof:lastmodified":1536865942,
+    "wof:name":"Ntola",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.65,
+    -12.63028,
+    38.65,
+    -12.63028
+],
+  "geometry": {"coordinates":[38.65,-12.63028],"type":"Point"}
+}

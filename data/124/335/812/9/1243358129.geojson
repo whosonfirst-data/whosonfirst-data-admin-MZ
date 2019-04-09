@@ -1,0 +1,67 @@
+{
+  "id": 1243358129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82222,-12.69833,35.82222,-12.69833",
+    "geom:latitude":-12.69833,
+    "geom:longitude":35.82222,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Pemba",
+    "gn:country_code":"MZ",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028919,
+    "gn:latitude":-12.69833,
+    "gn:longitude":35.82222,
+    "gn:modification_date":"1995-06-21",
+    "gn:name":"Pemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091700505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028919
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"93451afc5b7d09c12fa12f52d077893a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700505,
+            "locality_id":1243358129,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1243358129,
+    "wof:lastmodified":1536933697,
+    "wof:name":"Pemba",
+    "wof:parent_id":1091700505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82222,
+    -12.69833,
+    35.82222,
+    -12.69833
+],
+  "geometry": {"coordinates":[35.82222,-12.69833],"type":"Point"}
+}

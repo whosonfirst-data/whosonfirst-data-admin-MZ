@@ -1,0 +1,67 @@
+{
+  "id": 1309802979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.035,-17.44806,35.035,-17.44806",
+    "geom:latitude":-17.44806,
+    "geom:longitude":35.035,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Camunga",
+    "gn:country_code":"MZ",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051350,
+    "gn:latitude":-17.44806,
+    "gn:longitude":35.035,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Camunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051350
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"443150d912c4d57421f2993288a92f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696493,
+            "locality_id":1309802979,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1309802979,
+    "wof:lastmodified":1536935883,
+    "wof:name":"Camunga",
+    "wof:parent_id":1091696493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.035,
+    -17.44806,
+    35.035,
+    -17.44806
+],
+  "geometry": {"coordinates":[35.035,-17.44806],"type":"Point"}
+}

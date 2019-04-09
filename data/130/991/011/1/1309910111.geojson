@@ -1,0 +1,74 @@
+{
+  "id": 1309910111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28722,-11.26778,39.28722,-11.26778",
+    "geom:latitude":-11.26778,
+    "geom:longitude":39.28722,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Ngapa",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037366,
+    "gn:latitude":-11.26778,
+    "gn:longitude":39.28722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ngapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mocimboa do Ruvuma",
+        "Moc\u00edmboa do Rovuma",
+        "Ngapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037366,
+        "wk:page":"Ngapa%2C_Mozambique"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"12d3b8900db4a1fc801f26da57d19ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1309910111,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1309910111,
+    "wof:lastmodified":1537674525,
+    "wof:name":"Ngapa",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28722,
+    -11.26778,
+    39.28722,
+    -11.26778
+],
+  "geometry": {"coordinates":[39.28722,-11.26778],"type":"Point"}
+}

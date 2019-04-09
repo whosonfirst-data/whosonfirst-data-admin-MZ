@@ -1,0 +1,61 @@
+{
+  "id": 1209018479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.58111,-13.65139,38.58111,-13.65139",
+    "geom:latitude":-13.65139,
+    "geom:longitude":38.58111,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Humo Merenge",
+    "gn:country_code":"MZ",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086691,
+    "gn:latitude":-13.65139,
+    "gn:longitude":38.58111,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Humo Merenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086691
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cb761cc60da797fa900f0d6263109cb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209018479
+        }
+    ],
+    "wof:id":1209018479,
+    "wof:lastmodified":1536300219,
+    "wof:name":"Humo Merenge",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.58111,
+    -13.65139,
+    38.58111,
+    -13.65139
+],
+  "geometry": {"coordinates":[38.58111,-13.65139],"type":"Point"}
+}

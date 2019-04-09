@@ -1,0 +1,67 @@
+{
+  "id": 1259797559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.40096,-13.8263,39.40096,-13.8263",
+    "geom:latitude":-13.8263,
+    "geom:longitude":39.40096,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Namogelia",
+    "gn:country_code":"MZ",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205716,
+    "gn:latitude":-13.8263,
+    "gn:longitude":39.40096,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Namogelia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205716
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"958ff4ff25956a1d4cb8373803a0558d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696771,
+            "locality_id":1259797559,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1259797559,
+    "wof:lastmodified":1536902966,
+    "wof:name":"Namogelia",
+    "wof:parent_id":1091696771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.40096,
+    -13.8263,
+    39.40096,
+    -13.8263
+],
+  "geometry": {"coordinates":[39.40096,-13.8263],"type":"Point"}
+}

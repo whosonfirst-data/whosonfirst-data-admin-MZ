@@ -1,0 +1,67 @@
+{
+  "id": 1242761563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.51,-19.93917,33.51,-19.93917",
+    "geom:latitude":-19.93917,
+    "geom:longitude":33.51,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nhaboa",
+    "gn:country_code":"MZ",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1031960,
+    "gn:latitude":-19.93917,
+    "gn:longitude":33.51,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Nhab\u00f4a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091701483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1031960
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"886c000e16324e20726a7ce92175f092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701483,
+            "locality_id":1242761563,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1242761563,
+    "wof:lastmodified":1536798818,
+    "wof:name":"Nhaboa",
+    "wof:parent_id":1091701483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.51,
+    -19.93917,
+    33.51,
+    -19.93917
+],
+  "geometry": {"coordinates":[33.51,-19.93917],"type":"Point"}
+}

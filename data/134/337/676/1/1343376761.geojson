@@ -1,0 +1,67 @@
+{
+  "id": 1343376761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.21278,-12.35194,39.21278,-12.35194",
+    "geom:latitude":-12.35194,
+    "geom:longitude":39.21278,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Nancaravira",
+    "gn:country_code":"MZ",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1033206,
+    "gn:latitude":-12.35194,
+    "gn:longitude":39.21278,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Nancaravira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1033206
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0994fc511613df95f7cca1a97119e7f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1343376761,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1343376761,
+    "wof:lastmodified":1536865657,
+    "wof:name":"Nancaravira",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.21278,
+    -12.35194,
+    39.21278,
+    -12.35194
+],
+  "geometry": {"coordinates":[39.21278,-12.35194],"type":"Point"}
+}

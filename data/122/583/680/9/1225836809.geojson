@@ -1,0 +1,72 @@
+{
+  "id": 1225836809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.75194,-14.91639,36.75194,-14.91639",
+    "geom:latitude":-14.91639,
+    "geom:longitude":36.75194,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Marques",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040468,
+    "gn:latitude":-14.91639,
+    "gn:longitude":36.75194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Marques",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marques",
+        "Chefe Marques"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091697375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040468
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b5a7771b9060a2668d84eda444f10eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697375,
+            "locality_id":1225836809,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1225836809,
+    "wof:lastmodified":1537674541,
+    "wof:name":"Chefe Marques",
+    "wof:parent_id":1091697375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.75194000000001,
+    -14.91639,
+    36.75194000000001,
+    -14.91639
+],
+  "geometry": {"coordinates":[36.75194000000001,-14.91639],"type":"Point"}
+}

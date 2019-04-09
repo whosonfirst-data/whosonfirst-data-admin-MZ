@@ -1,0 +1,66 @@
+{
+  "id": 1209117921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.24417,-22.75972,35.24417,-22.75972",
+    "geom:latitude":-22.75972,
+    "geom:longitude":35.24417,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Cabo Mucumbane",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036057,
+    "gn:latitude":-22.75972,
+    "gn:longitude":35.24417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cabo Mucumbane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muhahasse",
+        "Cabo Mucumbane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036057
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8a3d72e70b53150116ee4aa2b9181fba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209117921
+        }
+    ],
+    "wof:id":1209117921,
+    "wof:lastmodified":1537674516,
+    "wof:name":"Cabo Mucumbane",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24417000000001,
+    -22.75972,
+    35.24417000000001,
+    -22.75972
+],
+  "geometry": {"coordinates":[35.24417000000001,-22.75972],"type":"Point"}
+}

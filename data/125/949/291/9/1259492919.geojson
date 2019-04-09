@@ -1,0 +1,72 @@
+{
+  "id": 1259492919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.84167,-11.35972,38.84167,-11.35972",
+    "geom:latitude":-11.35972,
+    "geom:longitude":38.84167,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Nazombe",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1032612,
+    "gn:latitude":-11.35972,
+    "gn:longitude":38.84167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nassombe",
+        "Nazombe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1032612
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0649da84cab7d9a26176259cae19d7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1259492919,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1259492919,
+    "wof:lastmodified":1537674503,
+    "wof:name":"Nazombe",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.84167,
+    -11.35972,
+    38.84167,
+    -11.35972
+],
+  "geometry": {"coordinates":[38.84167,-11.35972],"type":"Point"}
+}

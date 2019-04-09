@@ -1,0 +1,67 @@
+{
+  "id": 1226757209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.78056,-13.36639,38.78056,-13.36639",
+    "geom:latitude":-13.36639,
+    "geom:longitude":38.78056,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Nicanca",
+    "gn:country_code":"MZ",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029980,
+    "gn:latitude":-13.36639,
+    "gn:longitude":38.78056,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Nicanca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029980
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"35c6f0b8c9de01e7fc7e0b1d6a29df6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1226757209,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1226757209,
+    "wof:lastmodified":1536699227,
+    "wof:name":"Nicanca",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.78056,
+    -13.36639,
+    38.78056,
+    -13.36639
+],
+  "geometry": {"coordinates":[38.78056,-13.36639],"type":"Point"}
+}

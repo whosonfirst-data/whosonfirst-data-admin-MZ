@@ -1,0 +1,67 @@
+{
+  "id": 1344051597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.19667,-15.24583,37.19667,-15.24583",
+    "geom:latitude":-15.24583,
+    "geom:longitude":37.19667,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Mgunha",
+    "gn:country_code":"MZ",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037844,
+    "gn:latitude":-15.24583,
+    "gn:longitude":37.19667,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"Mgunha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037844
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a793e120586750af66c1de0eb835829b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697801,
+            "locality_id":1344051597,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1344051597,
+    "wof:lastmodified":1536888013,
+    "wof:name":"Mgunha",
+    "wof:parent_id":1091697801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.19667000000001,
+    -15.24583,
+    37.19667000000001,
+    -15.24583
+],
+  "geometry": {"coordinates":[37.19667000000001,-15.24583],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293301753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.21472,-25.03417,33.21472,-25.03417",
+    "geom:latitude":-25.03417,
+    "geom:longitude":33.21472,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"A. Moaianine",
+    "gn:country_code":"MZ",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1099785,
+    "gn:latitude":-25.03417,
+    "gn:longitude":33.21472,
+    "gn:modification_date":"1998-11-24",
+    "gn:name":"A. Moaianine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1099785
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"81f7bf19605d3c004eaec5c291e21d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696361,
+            "locality_id":1293301753,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1293301753,
+    "wof:lastmodified":1537052448,
+    "wof:name":"A. Moaianine",
+    "wof:parent_id":1091696361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.21472,
+    -25.03417,
+    33.21472,
+    -25.03417
+],
+  "geometry": {"coordinates":[33.21472,-25.03417],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310217879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.09472,-24.61333,34.09472,-24.61333",
+    "geom:latitude":-24.61333,
+    "geom:longitude":34.09472,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Chefe Muchotane",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036444,
+    "gn:latitude":-24.61333,
+    "gn:longitude":34.09472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Muchotane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mucholane",
+        "Muchotane",
+        "Chefe Muchotane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091698967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036444
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0f859b83a271239f62c5a5a5b4faedbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698967,
+            "locality_id":1310217879,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1310217879,
+    "wof:lastmodified":1537674520,
+    "wof:name":"Chefe Muchotane",
+    "wof:parent_id":1091698967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.09472,
+    -24.61333,
+    34.09472,
+    -24.61333
+],
+  "geometry": {"coordinates":[34.09472,-24.61333],"type":"Point"}
+}

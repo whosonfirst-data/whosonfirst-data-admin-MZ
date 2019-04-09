@@ -1,0 +1,67 @@
+{
+  "id": 1327432463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.13083,-25.48333,32.13083,-25.48333",
+    "geom:latitude":-25.48333,
+    "geom:longitude":32.13083,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mujequa",
+    "gn:country_code":"MZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090046,
+    "gn:latitude":-25.48333,
+    "gn:longitude":32.13083,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Mujequa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090046
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"113cd9a392b9885c1ef60c5e19d57aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699925,
+            "locality_id":1327432463,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1327432463,
+    "wof:lastmodified":1536680684,
+    "wof:name":"Mujequa",
+    "wof:parent_id":1091699925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.13083,
+    -25.48333,
+    32.13083,
+    -25.48333
+],
+  "geometry": {"coordinates":[32.13083,-25.48333],"type":"Point"}
+}

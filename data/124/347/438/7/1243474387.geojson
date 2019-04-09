@@ -1,0 +1,67 @@
+{
+  "id": 1243474387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.36833,-15.19,33.36833,-15.19",
+    "geom:latitude":-15.19,
+    "geom:longitude":33.36833,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Lumadzi",
+    "gn:country_code":"MZ",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089338,
+    "gn:latitude":-15.19,
+    "gn:longitude":33.36833,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Lumadzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089338
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1aab017eb858914fcedefa9aa4ec9907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696825,
+            "locality_id":1243474387,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1243474387,
+    "wof:lastmodified":1536765692,
+    "wof:name":"Lumadzi",
+    "wof:parent_id":1091696825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.36833,
+    -15.19,
+    33.36833,
+    -15.19
+],
+  "geometry": {"coordinates":[33.36833,-15.19],"type":"Point"}
+}

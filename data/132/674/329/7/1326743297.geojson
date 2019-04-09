@@ -1,0 +1,67 @@
+{
+  "id": 1326743297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.47333,-23.51556,32.47333,-23.51556",
+    "geom:latitude":-23.51556,
+    "geom:longitude":32.47333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Solumune",
+    "gn:country_code":"MZ",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1098421,
+    "gn:latitude":-23.51556,
+    "gn:longitude":32.47333,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Solumune",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091698365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1098421
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2b30fff7ecf049b5973d8dbd16e610b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698365,
+            "locality_id":1326743297,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1326743297,
+    "wof:lastmodified":1536679660,
+    "wof:name":"Solumune",
+    "wof:parent_id":1091698365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.47333,
+    -23.51556,
+    32.47333,
+    -23.51556
+],
+  "geometry": {"coordinates":[32.47333,-23.51556],"type":"Point"}
+}

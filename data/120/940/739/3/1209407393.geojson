@@ -1,0 +1,61 @@
+{
+  "id": 1209407393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.09083,-14.09389,40.09083,-14.09389",
+    "geom:latitude":-14.09389,
+    "geom:longitude":40.09083,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Assane",
+    "gn:country_code":"MZ",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052762,
+    "gn:latitude":-14.09389,
+    "gn:longitude":40.09083,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Assane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052762
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a9f9c74396363e5e06bf70d524bd9183",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209407393
+        }
+    ],
+    "wof:id":1209407393,
+    "wof:lastmodified":1536287950,
+    "wof:name":"Assane",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.09083,
+    -14.09389,
+    40.09083,
+    -14.09389
+],
+  "geometry": {"coordinates":[40.09083,-14.09389],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260290631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.64861,-25.48556,32.64861,-25.48556",
+    "geom:latitude":-25.48556,
+    "geom:longitude":32.64861,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"C. Maluana",
+    "gn:country_code":"MZ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090062,
+    "gn:latitude":-25.48556,
+    "gn:longitude":32.64861,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"C. Maluana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090062
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"43575ed5a7cad7d2b91d9eaed4a36642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699015,
+            "locality_id":1260290631,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1260290631,
+    "wof:lastmodified":1536702594,
+    "wof:name":"C. Maluana",
+    "wof:parent_id":1091699015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.64861,
+    -25.48556,
+    32.64861,
+    -25.48556
+],
+  "geometry": {"coordinates":[32.64861,-25.48556],"type":"Point"}
+}

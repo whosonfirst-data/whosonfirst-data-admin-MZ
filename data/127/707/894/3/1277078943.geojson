@@ -1,0 +1,68 @@
+{
+  "id": 1277078943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.0225,-18.41528,35.0225,-18.41528",
+    "geom:latitude":-18.41528,
+    "geom:longitude":35.0225,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Inhaminga",
+    "gn:country_code":"MZ",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045088,
+    "gn:latitude":-18.41528,
+    "gn:longitude":35.0225,
+    "gn:modification_date":"2017-09-17",
+    "gn:name":"Inhaminga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045088,
+        "wk:page":"Inhaminga"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"45091864a4ffb81e0f07343e93aade45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696559,
+            "locality_id":1277078943,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1277078943,
+    "wof:lastmodified":1537569933,
+    "wof:name":"Inhaminga",
+    "wof:parent_id":1091696559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0225,
+    -18.41528,
+    35.0225,
+    -18.41528
+],
+  "geometry": {"coordinates":[35.0225,-18.41528],"type":"Point"}
+}

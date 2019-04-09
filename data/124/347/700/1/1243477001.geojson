@@ -1,0 +1,67 @@
+{
+  "id": 1243477001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.47444,-20.19417,34.47444,-20.19417",
+    "geom:latitude":-20.19417,
+    "geom:longitude":34.47444,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Maleve",
+    "gn:country_code":"MZ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041454,
+    "gn:latitude":-20.19417,
+    "gn:longitude":34.47444,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Maleve",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041454
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a77370c88dedc4a2b9202cb328e02c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696395,
+            "locality_id":1243477001,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1243477001,
+    "wof:lastmodified":1536761738,
+    "wof:name":"Maleve",
+    "wof:parent_id":1091696395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.47444,
+    -20.19417,
+    34.47444,
+    -20.19417
+],
+  "geometry": {"coordinates":[34.47444,-20.19417],"type":"Point"}
+}

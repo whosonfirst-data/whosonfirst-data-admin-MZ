@@ -1,0 +1,67 @@
+{
+  "id": 1293692795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.89972,-24.79833,32.89972,-24.79833",
+    "geom:latitude":-24.79833,
+    "geom:longitude":32.89972,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mundou",
+    "gn:country_code":"MZ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035746,
+    "gn:latitude":-24.79833,
+    "gn:longitude":32.89972,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Mundou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035746
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e7cfefcc4e1742c9b2845ff93563aec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1293692795,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1293692795,
+    "wof:lastmodified":1536987485,
+    "wof:name":"Mundou",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.89972,
+    -24.79833,
+    32.89972,
+    -24.79833
+],
+  "geometry": {"coordinates":[32.89972,-24.79833],"type":"Point"}
+}

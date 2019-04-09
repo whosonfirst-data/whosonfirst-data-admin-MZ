@@ -1,0 +1,67 @@
+{
+  "id": 1259693471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.99333,-13.15083,38.99333,-13.15083",
+    "geom:latitude":-13.15083,
+    "geom:longitude":38.99333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Saia",
+    "gn:country_code":"MZ",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027690,
+    "gn:latitude":-13.15083,
+    "gn:longitude":38.99333,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Sa\u00eda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027690
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f716c9864f6d6d1f5383ccade0536cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1259693471,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1259693471,
+    "wof:lastmodified":1537050428,
+    "wof:name":"Saia",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.99333,
+    -13.15083,
+    38.99333,
+    -13.15083
+],
+  "geometry": {"coordinates":[38.99333,-13.15083],"type":"Point"}
+}

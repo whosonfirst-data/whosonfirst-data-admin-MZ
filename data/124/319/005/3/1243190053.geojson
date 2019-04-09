@@ -1,0 +1,72 @@
+{
+  "id": 1243190053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.04722,-13.23722,39.04722,-13.23722",
+    "geom:latitude":-13.23722,
+    "geom:longitude":39.04722,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Intiquita",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025880,
+    "gn:latitude":-13.23722,
+    "gn:longitude":39.04722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Intiquita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiquita",
+        "Intiquita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025880
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0a11a851a44c28e3563d8b733b9c524d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1243190053,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1243190053,
+    "wof:lastmodified":1537674478,
+    "wof:name":"Intiquita",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.04722,
+    -13.23722,
+    39.04722,
+    -13.23722
+],
+  "geometry": {"coordinates":[39.04722,-13.23722],"type":"Point"}
+}

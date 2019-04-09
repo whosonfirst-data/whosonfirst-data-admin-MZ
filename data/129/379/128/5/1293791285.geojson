@@ -1,0 +1,67 @@
+{
+  "id": 1293791285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.18361,-21.67194,34.18361,-21.67194",
+    "geom:latitude":-21.67194,
+    "geom:longitude":34.18361,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Uachico",
+    "gn:country_code":"MZ",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025442,
+    "gn:latitude":-21.67194,
+    "gn:longitude":34.18361,
+    "gn:modification_date":"1998-04-29",
+    "gn:name":"Uachi\u00e7o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025442
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"72b8702c688f99390952cc4e943bf920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698405,
+            "locality_id":1293791285,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1293791285,
+    "wof:lastmodified":1536845028,
+    "wof:name":"Uachico",
+    "wof:parent_id":1091698405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.18360999999999,
+    -21.67194,
+    34.18360999999999,
+    -21.67194
+],
+  "geometry": {"coordinates":[34.18360999999999,-21.67194],"type":"Point"}
+}

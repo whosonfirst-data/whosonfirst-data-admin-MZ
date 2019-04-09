@@ -1,0 +1,67 @@
+{
+  "id": 1343259539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11,-17.39806,35.11,-17.39806",
+    "geom:latitude":-17.39806,
+    "geom:longitude":35.11,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Cambemba",
+    "gn:country_code":"MZ",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051463,
+    "gn:latitude":-17.39806,
+    "gn:longitude":35.11,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Cambemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091700637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051463
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f51def5fd3a929d7d82e257f1f86631b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700637,
+            "locality_id":1343259539,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1343259539,
+    "wof:lastmodified":1537034725,
+    "wof:name":"Cambemba",
+    "wof:parent_id":1091700637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11,
+    -17.39806,
+    35.11,
+    -17.39806
+],
+  "geometry": {"coordinates":[35.11,-17.39806],"type":"Point"}
+}

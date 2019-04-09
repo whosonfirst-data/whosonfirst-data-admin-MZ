@@ -1,0 +1,72 @@
+{
+  "id": 1276441131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.87139,-19.78056,34.87139,-19.78056",
+    "geom:latitude":-19.78056,
+    "geom:longitude":34.87139,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Nova Chamba",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041148,
+    "gn:latitude":-19.78056,
+    "gn:longitude":34.87139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nova Chamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manga",
+        "Nova Chamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041148
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"59de5d6ed6875aba988d438a4c8b85b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696899,
+            "locality_id":1276441131,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1276441131,
+    "wof:lastmodified":1537674545,
+    "wof:name":"Nova Chamba",
+    "wof:parent_id":1091696899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.87139000000001,
+    -19.78056,
+    34.87139000000001,
+    -19.78056
+],
+  "geometry": {"coordinates":[34.87139000000001,-19.78056],"type":"Point"}
+}

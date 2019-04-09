@@ -1,0 +1,61 @@
+{
+  "id": 1209629353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.56222,-13.335,38.56222,-13.335",
+    "geom:latitude":-13.335,
+    "geom:longitude":38.56222,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Pilali",
+    "gn:country_code":"MZ",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028770,
+    "gn:latitude":-13.335,
+    "gn:longitude":38.56222,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Pil\u00e1li",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028770
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cb6ebd47a4cc7b6c5b3eb29b8f9ebdbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209629353
+        }
+    ],
+    "wof:id":1209629353,
+    "wof:lastmodified":1536281242,
+    "wof:name":"Pilali",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.56222,
+    -13.335,
+    38.56222,
+    -13.335
+],
+  "geometry": {"coordinates":[38.56222,-13.335],"type":"Point"}
+}

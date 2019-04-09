@@ -1,0 +1,67 @@
+{
+  "id": 1226335535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.50389,-14.42333,40.50389,-14.42333",
+    "geom:latitude":-14.42333,
+    "geom:longitude":40.50389,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Namote",
+    "gn:country_code":"MZ",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088971,
+    "gn:latitude":-14.42333,
+    "gn:longitude":40.50389,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Namote",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088971
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"16997977b9db37a311c0406aefe989cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699799,
+            "locality_id":1226335535,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1226335535,
+    "wof:lastmodified":1536804107,
+    "wof:name":"Namote",
+    "wof:parent_id":1091699799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.50389000000001,
+    -14.42333,
+    40.50389000000001,
+    -14.42333
+],
+  "geometry": {"coordinates":[40.50389000000001,-14.42333],"type":"Point"}
+}

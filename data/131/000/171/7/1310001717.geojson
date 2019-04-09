@@ -1,0 +1,72 @@
+{
+  "id": 1310001717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.76278,-17.75639,36.76278,-17.75639",
+    "geom:latitude":-17.75639,
+    "geom:longitude":36.76278,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Funhamuco",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046206,
+    "gn:latitude":-17.75639,
+    "gn:longitude":36.76278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Funhamuco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Funhamucuo",
+        "Funhamuco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046206
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"aa59020f7c09e46ab035c2f1000a6815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701163,
+            "locality_id":1310001717,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1310001717,
+    "wof:lastmodified":1537674574,
+    "wof:name":"Funhamuco",
+    "wof:parent_id":1091701163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.76278,
+    -17.75639,
+    36.76278,
+    -17.75639
+],
+  "geometry": {"coordinates":[36.76278,-17.75639],"type":"Point"}
+}

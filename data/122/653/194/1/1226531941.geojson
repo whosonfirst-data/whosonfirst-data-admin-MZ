@@ -1,0 +1,67 @@
+{
+  "id": 1226531941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.84361,-17.24639,36.84361,-17.24639",
+    "geom:latitude":-17.24639,
+    "geom:longitude":36.84361,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Bobo",
+    "gn:country_code":"MZ",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052182,
+    "gn:latitude":-17.24639,
+    "gn:longitude":36.84361,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Bobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052182
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"13b564477aacb5b396d036b1f1e1115f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700047,
+            "locality_id":1226531941,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1226531941,
+    "wof:lastmodified":1537017240,
+    "wof:name":"Bobo",
+    "wof:parent_id":1091700047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.84361,
+    -17.24639,
+    36.84361,
+    -17.24639
+],
+  "geometry": {"coordinates":[36.84361,-17.24639],"type":"Point"}
+}

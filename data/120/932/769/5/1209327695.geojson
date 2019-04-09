@@ -1,0 +1,66 @@
+{
+  "id": 1209327695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.92694,-23.96917,32.92694,-23.96917",
+    "geom:latitude":-23.96917,
+    "geom:longitude":32.92694,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zavene",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024246,
+    "gn:latitude":-23.96917,
+    "gn:longitude":32.92694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zavene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zavane",
+        "Zavene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024246
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fa7c6e28f2d2cdda0a20db166cd99033",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209327695
+        }
+    ],
+    "wof:id":1209327695,
+    "wof:lastmodified":1537674469,
+    "wof:name":"Zavene",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.92694,
+    -23.96917,
+    32.92694,
+    -23.96917
+],
+  "geometry": {"coordinates":[32.92694,-23.96917],"type":"Point"}
+}

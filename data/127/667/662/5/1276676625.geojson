@@ -1,0 +1,67 @@
+{
+  "id": 1276676625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.51667,-18.56667,34.51667,-18.56667",
+    "geom:latitude":-18.56667,
+    "geom:longitude":34.51667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Vicente",
+    "gn:country_code":"MZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024720,
+    "gn:latitude":-18.56667,
+    "gn:longitude":34.51667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Vicente",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091697631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024720
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"80f1ae439d83e8a54bd18b6ded62ba4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697631,
+            "locality_id":1276676625,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1276676625,
+    "wof:lastmodified":1536814979,
+    "wof:name":"Vicente",
+    "wof:parent_id":1091697631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.51667,
+    -18.56667,
+    34.51667,
+    -18.56667
+],
+  "geometry": {"coordinates":[34.51667,-18.56667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225938689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.29806,-14.14694,38.29806,-14.14694",
+    "geom:latitude":-14.14694,
+    "geom:longitude":38.29806,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Nantoco",
+    "gn:country_code":"MZ",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1032977,
+    "gn:latitude":-14.14694,
+    "gn:longitude":38.29806,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Nant\u00f4co",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091701189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1032977
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"32e1c300491505ec0c20b711f2cba49b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701189,
+            "locality_id":1225938689,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1225938689,
+    "wof:lastmodified":1536878814,
+    "wof:name":"Nantoco",
+    "wof:parent_id":1091701189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.29806,
+    -14.14694,
+    38.29806,
+    -14.14694
+],
+  "geometry": {"coordinates":[38.29806,-14.14694],"type":"Point"}
+}

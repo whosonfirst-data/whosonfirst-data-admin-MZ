@@ -1,0 +1,67 @@
+{
+  "id": 1343262247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.87278,-25.5175,32.87278,-25.5175",
+    "geom:latitude":-25.5175,
+    "geom:longitude":32.87278,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Macanda",
+    "gn:country_code":"MZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042897,
+    "gn:latitude":-25.5175,
+    "gn:longitude":32.87278,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Macanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042897
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bc681f679d8146342cf4e87dd8cf3a8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699175,
+            "locality_id":1343262247,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1343262247,
+    "wof:lastmodified":1537030970,
+    "wof:name":"Macanda",
+    "wof:parent_id":1091699175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.87278,
+    -25.5175,
+    32.87278,
+    -25.5175
+],
+  "geometry": {"coordinates":[32.87278,-25.5175],"type":"Point"}
+}

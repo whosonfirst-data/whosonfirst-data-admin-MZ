@@ -1,0 +1,72 @@
+{
+  "id": 1209918783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.11417,-18.67167,36.11417,-18.67167",
+    "geom:latitude":-18.67167,
+    "geom:longitude":36.11417,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Messenguza",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040226,
+    "gn:latitude":-18.67167,
+    "gn:longitude":36.11417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Messenguza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Massenguza",
+        "Messenguza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040226
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"29bb29dd31e948c7402c1ca66fb3cdde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696729,
+            "locality_id":1209918783,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1209918783,
+    "wof:lastmodified":1537674539,
+    "wof:name":"Messenguza",
+    "wof:parent_id":1091696729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.11417,
+    -18.67167,
+    36.11417,
+    -18.67167
+],
+  "geometry": {"coordinates":[36.11417,-18.67167],"type":"Point"}
+}

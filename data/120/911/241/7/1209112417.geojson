@@ -1,0 +1,61 @@
+{
+  "id": 1209112417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3875,-24.46611,32.3875,-24.46611",
+    "geom:latitude":-24.46611,
+    "geom:longitude":32.3875,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Guoiacue",
+    "gn:country_code":"MZ",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045520,
+    "gn:latitude":-24.46611,
+    "gn:longitude":32.3875,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Guoi\u00e1cue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045520
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e6990b6551ee46a47e9e98ef7a1ea75a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209112417
+        }
+    ],
+    "wof:id":1209112417,
+    "wof:lastmodified":1536297363,
+    "wof:name":"Guoiacue",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3875,
+    -24.46611,
+    32.3875,
+    -24.46611
+],
+  "geometry": {"coordinates":[32.3875,-24.46611],"type":"Point"}
+}

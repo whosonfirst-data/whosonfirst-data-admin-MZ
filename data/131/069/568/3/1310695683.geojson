@@ -1,0 +1,67 @@
+{
+  "id": 1310695683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.71861,-17.04639,33.71861,-17.04639",
+    "geom:latitude":-17.04639,
+    "geom:longitude":33.71861,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Pofo",
+    "gn:country_code":"MZ",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028685,
+    "gn:latitude":-17.04639,
+    "gn:longitude":33.71861,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"P\u00f3fo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028685
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c2515119c9185b0e4ba68036060824ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697771,
+            "locality_id":1310695683,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1310695683,
+    "wof:lastmodified":1536641748,
+    "wof:name":"Pofo",
+    "wof:parent_id":1091697771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.71861,
+    -17.04639,
+    33.71861,
+    -17.04639
+],
+  "geometry": {"coordinates":[33.71861,-17.04639],"type":"Point"}
+}

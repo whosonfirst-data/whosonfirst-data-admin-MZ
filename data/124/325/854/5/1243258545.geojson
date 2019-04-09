@@ -1,0 +1,67 @@
+{
+  "id": 1243258545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.73306,-15.7175,37.73306,-15.7175",
+    "geom:latitude":-15.7175,
+    "geom:longitude":37.73306,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Namarripa",
+    "gn:country_code":"MZ",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034078,
+    "gn:latitude":-15.7175,
+    "gn:longitude":37.73306,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"Namarripa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034078
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1f6ea3e34411fb623723b3500e04e537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696213,
+            "locality_id":1243258545,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1243258545,
+    "wof:lastmodified":1537073318,
+    "wof:name":"Namarripa",
+    "wof:parent_id":1091696213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.73306,
+    -15.7175,
+    37.73306,
+    -15.7175
+],
+  "geometry": {"coordinates":[37.73306,-15.7175],"type":"Point"}
+}

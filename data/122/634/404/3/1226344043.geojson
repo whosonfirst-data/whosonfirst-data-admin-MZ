@@ -1,0 +1,67 @@
+{
+  "id": 1226344043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.28861,-23.70861,35.28861,-23.70861",
+    "geom:latitude":-23.70861,
+    "geom:longitude":35.28861,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"B. Sebastiao",
+    "gn:country_code":"MZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1102817,
+    "gn:latitude":-23.70861,
+    "gn:longitude":35.28861,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"B. Sebasti\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091700259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1102817
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"965afa16a534386d1bf38a76ae66dcf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700259,
+            "locality_id":1226344043,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1226344043,
+    "wof:lastmodified":1536792238,
+    "wof:name":"B. Sebastiao",
+    "wof:parent_id":1091700259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28861,
+    -23.70861,
+    35.28861,
+    -23.70861
+],
+  "geometry": {"coordinates":[35.28861,-23.70861],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327429039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.09833,-14.99694,39.09833,-14.99694",
+    "geom:latitude":-14.99694,
+    "geom:longitude":39.09833,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Muialela",
+    "gn:country_code":"MZ",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036038,
+    "gn:latitude":-14.99694,
+    "gn:longitude":39.09833,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Muialela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036038
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b1beabbf56ef41f2cc85fd9cb237fb17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700965,
+            "locality_id":1327429039,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1327429039,
+    "wof:lastmodified":1536685671,
+    "wof:name":"Muialela",
+    "wof:parent_id":1091700965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.09833,
+    -14.99694,
+    39.09833,
+    -14.99694
+],
+  "geometry": {"coordinates":[39.09833,-14.99694],"type":"Point"}
+}

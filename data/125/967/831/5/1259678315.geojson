@@ -1,0 +1,72 @@
+{
+  "id": 1259678315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.90222,-15.60778,35.90222,-15.60778",
+    "geom:latitude":-15.60778,
+    "geom:longitude":35.90222,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chefe Chicapa",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028664,
+    "gn:latitude":-15.60778,
+    "gn:longitude":35.90222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Chicapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pol\u00f3ssa",
+        "Chefe Chicapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091699895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028664
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c1abb721356b475b5f1ca1c73b65e37e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699895,
+            "locality_id":1259678315,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1259678315,
+    "wof:lastmodified":1537674491,
+    "wof:name":"Chefe Chicapa",
+    "wof:parent_id":1091699895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.90222,
+    -15.60778,
+    35.90222,
+    -15.60778
+],
+  "geometry": {"coordinates":[35.90222,-15.60778],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276328913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.59278,-16.03833,37.59278,-16.03833",
+    "geom:latitude":-16.03833,
+    "geom:longitude":37.59278,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Mutui",
+    "gn:country_code":"MZ",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1093564,
+    "gn:latitude":-16.03833,
+    "gn:longitude":37.59278,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Mutui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1093564
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9a761debdae1d2e0842de4f6268cc949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697943,
+            "locality_id":1276328913,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1276328913,
+    "wof:lastmodified":1536785038,
+    "wof:name":"Mutui",
+    "wof:parent_id":1091697943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.59278,
+    -16.03833,
+    37.59278,
+    -16.03833
+],
+  "geometry": {"coordinates":[37.59278,-16.03833],"type":"Point"}
+}

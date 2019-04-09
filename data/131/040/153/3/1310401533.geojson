@@ -1,0 +1,67 @@
+{
+  "id": 1310401533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.70444,-16.13194,37.70444,-16.13194",
+    "geom:latitude":-16.13194,
+    "geom:longitude":37.70444,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Maco",
+    "gn:country_code":"MZ",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042498,
+    "gn:latitude":-16.13194,
+    "gn:longitude":37.70444,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Maco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042498
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e52eb19d677d801e073ff94736f39661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697943,
+            "locality_id":1310401533,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1310401533,
+    "wof:lastmodified":1537064177,
+    "wof:name":"Maco",
+    "wof:parent_id":1091697943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.70444000000001,
+    -16.13194,
+    37.70444000000001,
+    -16.13194
+],
+  "geometry": {"coordinates":[37.70444000000001,-16.13194],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226147051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.13417,-11.62861,40.13417,-11.62861",
+    "geom:latitude":-11.62861,
+    "geom:longitude":40.13417,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Nicuimirero",
+    "gn:country_code":"MZ",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029877,
+    "gn:latitude":-11.62861,
+    "gn:longitude":40.13417,
+    "gn:modification_date":"1995-02-06",
+    "gn:name":"Nicuimirero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029877
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e85a335cb393c78d5d4adfd1cd72dd13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700013,
+            "locality_id":1226147051,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1226147051,
+    "wof:lastmodified":1537072706,
+    "wof:name":"Nicuimirero",
+    "wof:parent_id":1091700013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.13417000000001,
+    -11.62861,
+    40.13417000000001,
+    -11.62861
+],
+  "geometry": {"coordinates":[40.13417000000001,-11.62861],"type":"Point"}
+}

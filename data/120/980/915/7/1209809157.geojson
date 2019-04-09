@@ -1,0 +1,67 @@
+{
+  "id": 1209809157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.46611,-20.74167,33.46611,-20.74167",
+    "geom:latitude":-20.74167,
+    "geom:longitude":33.46611,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Guilaze",
+    "gn:country_code":"MZ",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045621,
+    "gn:latitude":-20.74167,
+    "gn:longitude":33.46611,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Guilaze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045621
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6af7e9d54c6e5bd7fe8af0e837f3b81e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1209809157,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1209809157,
+    "wof:lastmodified":1536387231,
+    "wof:name":"Guilaze",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.46611,
+    -20.74167000000001,
+    33.46611,
+    -20.74167000000001
+],
+  "geometry": {"coordinates":[33.46611,-20.74167000000001],"type":"Point"}
+}

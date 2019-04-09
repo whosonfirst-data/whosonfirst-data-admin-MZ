@@ -1,0 +1,67 @@
+{
+  "id": 1309720717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.32694,-23.97333,32.32694,-23.97333",
+    "geom:latitude":-23.97333,
+    "geom:longitude":32.32694,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chefe Banga",
+    "gn:country_code":"MZ",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1098263,
+    "gn:latitude":-23.97333,
+    "gn:longitude":32.32694,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chefe Banga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091699347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1098263
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c77c5ab84c19f2d56f1c6d0afac35528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699347,
+            "locality_id":1309720717,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1309720717,
+    "wof:lastmodified":1537051499,
+    "wof:name":"Chefe Banga",
+    "wof:parent_id":1091699347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.32694,
+    -23.97333,
+    32.32694,
+    -23.97333
+],
+  "geometry": {"coordinates":[32.32694,-23.97333],"type":"Point"}
+}

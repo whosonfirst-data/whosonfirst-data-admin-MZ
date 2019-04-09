@@ -1,0 +1,67 @@
+{
+  "id": 1242766607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.05222,-20.17167,33.05222,-20.17167",
+    "geom:latitude":-20.17167,
+    "geom:longitude":33.05222,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Chissamo",
+    "gn:country_code":"MZ",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048741,
+    "gn:latitude":-20.17167,
+    "gn:longitude":33.05222,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chissamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091700331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048741
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bb11578acf440a4a71c65030a21e8579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700331,
+            "locality_id":1242766607,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1242766607,
+    "wof:lastmodified":1536791784,
+    "wof:name":"Chissamo",
+    "wof:parent_id":1091700331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.05222,
+    -20.17167,
+    33.05222,
+    -20.17167
+],
+  "geometry": {"coordinates":[33.05222,-20.17167],"type":"Point"}
+}

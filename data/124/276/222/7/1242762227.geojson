@@ -1,0 +1,72 @@
+{
+  "id": 1242762227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82194,-15.91333,35.82194,-15.91333",
+    "geom:latitude":-15.91333,
+    "geom:longitude":35.82194,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chefe Cazembe",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044224,
+    "gn:latitude":-15.91333,
+    "gn:longitude":35.82194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Cazembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jumbe",
+        "Chefe Cazembe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091699895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044224
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"46e97a37ec03dad6d332c45a1fd5daa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699895,
+            "locality_id":1242762227,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1242762227,
+    "wof:lastmodified":1537674563,
+    "wof:name":"Chefe Cazembe",
+    "wof:parent_id":1091699895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82194000000001,
+    -15.91333,
+    35.82194000000001,
+    -15.91333
+],
+  "geometry": {"coordinates":[35.82194000000001,-15.91333],"type":"Point"}
+}

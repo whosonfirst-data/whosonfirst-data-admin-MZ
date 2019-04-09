@@ -1,0 +1,72 @@
+{
+  "id": 1343265157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.77306,-22.57528,32.77306,-22.57528",
+    "geom:latitude":-22.57528,
+    "geom:longitude":32.77306,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Regedor Ocuanhe",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029457,
+    "gn:latitude":-22.57528,
+    "gn:longitude":32.77306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Regedor Ocuanhe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ocuanhe",
+        "Regedor Ocuanhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029457
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"86f5bba92884c00d55cd9538fdfea43b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696709,
+            "locality_id":1343265157,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1343265157,
+    "wof:lastmodified":1537674495,
+    "wof:name":"Regedor Ocuanhe",
+    "wof:parent_id":1091696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.77306,
+    -22.57528,
+    32.77306,
+    -22.57528
+],
+  "geometry": {"coordinates":[32.77306,-22.57528],"type":"Point"}
+}

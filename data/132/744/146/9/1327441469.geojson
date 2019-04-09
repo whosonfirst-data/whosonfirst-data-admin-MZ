@@ -1,0 +1,67 @@
+{
+  "id": 1327441469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.11667,-15.51667,31.11667,-15.51667",
+    "geom:latitude":-15.51667,
+    "geom:longitude":31.11667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Nhassamo",
+    "gn:country_code":"MZ",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1030357,
+    "gn:latitude":-15.51667,
+    "gn:longitude":31.11667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Nhassamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091701729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1030357
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"76c92d839de87f277bf15db9f2338a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701729,
+            "locality_id":1327441469,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1327441469,
+    "wof:lastmodified":1536667655,
+    "wof:name":"Nhassamo",
+    "wof:parent_id":1091701729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.11667000000001,
+    -15.51667,
+    31.11667000000001,
+    -15.51667
+],
+  "geometry": {"coordinates":[31.11667000000001,-15.51667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259496305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.30389,-23.89861,32.30389,-23.89861",
+    "geom:latitude":-23.89861,
+    "geom:longitude":32.30389,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Madingane",
+    "gn:country_code":"MZ",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042148,
+    "gn:latitude":-23.89861,
+    "gn:longitude":32.30389,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mading\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091699347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042148
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c5b09780aa00f120be3b390d430fd0dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699347,
+            "locality_id":1259496305,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1259496305,
+    "wof:lastmodified":1536839310,
+    "wof:name":"Madingane",
+    "wof:parent_id":1091699347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.30389,
+    -23.89861,
+    32.30389,
+    -23.89861
+],
+  "geometry": {"coordinates":[32.30389,-23.89861],"type":"Point"}
+}

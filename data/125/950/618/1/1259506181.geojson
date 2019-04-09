@@ -1,0 +1,67 @@
+{
+  "id": 1259506181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.94833,-20.38361,33.94833,-20.38361",
+    "geom:latitude":-20.38361,
+    "geom:longitude":33.94833,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Chalombe",
+    "gn:country_code":"MZ",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050467,
+    "gn:latitude":-20.38361,
+    "gn:longitude":33.94833,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chalombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050467
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8b91a00165908ca3c37e799c79d410a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696561,
+            "locality_id":1259506181,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1259506181,
+    "wof:lastmodified":1536825272,
+    "wof:name":"Chalombe",
+    "wof:parent_id":1091696561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.94833,
+    -20.38361,
+    33.94833,
+    -20.38361
+],
+  "geometry": {"coordinates":[33.94833,-20.38361],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209612805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.38167,-14.42556,38.38167,-14.42556",
+    "geom:latitude":-14.42556,
+    "geom:longitude":38.38167,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nacapa",
+    "gn:country_code":"MZ",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088734,
+    "gn:latitude":-14.42556,
+    "gn:longitude":38.38167,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Nacapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088734
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"408a58dade0bbf8c8a614f748ae0f3b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209612805
+        }
+    ],
+    "wof:id":1209612805,
+    "wof:lastmodified":1536281791,
+    "wof:name":"Nacapa",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.38167,
+    -14.42556,
+    38.38167,
+    -14.42556
+],
+  "geometry": {"coordinates":[38.38167,-14.42556],"type":"Point"}
+}

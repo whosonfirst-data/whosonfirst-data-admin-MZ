@@ -1,0 +1,72 @@
+{
+  "id": 1226238259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.44889,-16.1425,37.44889,-16.1425",
+    "geom:latitude":-16.1425,
+    "geom:longitude":37.44889,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Manuel Junqueiro",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044218,
+    "gn:latitude":-16.1425,
+    "gn:longitude":37.44889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Manuel Junqueiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Junqueiro",
+        "Manuel Junqueiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044218
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6abd44a550f0ca7bdae7958c5fd0c07d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697943,
+            "locality_id":1226238259,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1226238259,
+    "wof:lastmodified":1537674563,
+    "wof:name":"Manuel Junqueiro",
+    "wof:parent_id":1091697943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.44889000000001,
+    -16.1425,
+    37.44889000000001,
+    -16.1425
+],
+  "geometry": {"coordinates":[37.44889000000001,-16.1425],"type":"Point"}
+}

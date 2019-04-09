@@ -1,0 +1,72 @@
+{
+  "id": 1226464769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.04528,-16.15306,39.04528,-16.15306",
+    "geom:latitude":-16.15306,
+    "geom:longitude":39.04528,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Regulo Fernando",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046369,
+    "gn:latitude":-16.15306,
+    "gn:longitude":39.04528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00e9gulo Fernando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fernando",
+        "R\u00e9gulo Fernando"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046369
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1a79ccc2870326e78137080a1ecc9dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1226464769,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1226464769,
+    "wof:lastmodified":1537674575,
+    "wof:name":"Regulo Fernando",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.04528,
+    -16.15306,
+    39.04528,
+    -16.15306
+],
+  "geometry": {"coordinates":[39.04528,-16.15306],"type":"Point"}
+}

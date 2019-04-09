@@ -1,0 +1,67 @@
+{
+  "id": 1225834775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.99861,-16.53833,38.99861,-16.53833",
+    "geom:latitude":-16.53833,
+    "geom:longitude":38.99861,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chefe Amela",
+    "gn:country_code":"MZ",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1094210,
+    "gn:latitude":-16.53833,
+    "gn:longitude":38.99861,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Chefe Amela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1094210
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"dd166a1cbc850c60868a0cb180238bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701291,
+            "locality_id":1225834775,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1225834775,
+    "wof:lastmodified":1537028311,
+    "wof:name":"Chefe Amela",
+    "wof:parent_id":1091701291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.99861,
+    -16.53833,
+    38.99861,
+    -16.53833
+],
+  "geometry": {"coordinates":[38.99861,-16.53833],"type":"Point"}
+}

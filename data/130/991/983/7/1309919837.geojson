@@ -1,0 +1,73 @@
+{
+  "id": 1309919837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.52667,-13.13417,39.52667,-13.13417",
+    "geom:latitude":-13.13417,
+    "geom:longitude":39.52667,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Regulo Namaluma",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034198,
+    "gn:latitude":-13.13417,
+    "gn:longitude":39.52667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00e9gulo Namaluma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namaluma",
+        "Namahuma",
+        "R\u00e9gulo Namaluma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034198
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c2cd1d0fcaece03f27231c5c611ccd09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696241,
+            "locality_id":1309919837,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1309919837,
+    "wof:lastmodified":1537674508,
+    "wof:name":"Regulo Namaluma",
+    "wof:parent_id":1091696241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.52667,
+    -13.13417,
+    39.52667,
+    -13.13417
+],
+  "geometry": {"coordinates":[39.52667,-13.13417],"type":"Point"}
+}

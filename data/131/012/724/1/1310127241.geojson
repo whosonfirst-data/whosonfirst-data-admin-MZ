@@ -1,0 +1,67 @@
+{
+  "id": 1310127241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.45472,-15.25944,36.45472,-15.25944",
+    "geom:latitude":-15.25944,
+    "geom:longitude":36.45472,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Meposso",
+    "gn:country_code":"MZ",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092224,
+    "gn:latitude":-15.25944,
+    "gn:longitude":36.45472,
+    "gn:modification_date":"1998-05-14",
+    "gn:name":"Chefe Meposso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091697375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092224
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d77f028d76d93631d9b435a0e9531506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697375,
+            "locality_id":1310127241,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1310127241,
+    "wof:lastmodified":1536964992,
+    "wof:name":"Chefe Meposso",
+    "wof:parent_id":1091697375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.45472,
+    -15.25944,
+    36.45472,
+    -15.25944
+],
+  "geometry": {"coordinates":[36.45472,-15.25944],"type":"Point"}
+}

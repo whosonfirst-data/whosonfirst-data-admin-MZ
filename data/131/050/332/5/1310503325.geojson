@@ -1,0 +1,67 @@
+{
+  "id": 1310503325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.36056,-23.34,35.36056,-23.34",
+    "geom:latitude":-23.34,
+    "geom:longitude":35.36056,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Muguivisa",
+    "gn:country_code":"MZ",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036064,
+    "gn:latitude":-23.34,
+    "gn:longitude":35.36056,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Muguivisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091699313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036064
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a53b929cea2ee5966f0bcf49abb1fc89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699313,
+            "locality_id":1310503325,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1310503325,
+    "wof:lastmodified":1536920693,
+    "wof:name":"Muguivisa",
+    "wof:parent_id":1091699313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.36056,
+    -23.34,
+    35.36056,
+    -23.34
+],
+  "geometry": {"coordinates":[35.36056,-23.34],"type":"Point"}
+}

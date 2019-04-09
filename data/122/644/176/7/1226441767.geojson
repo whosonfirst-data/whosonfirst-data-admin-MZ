@@ -1,0 +1,67 @@
+{
+  "id": 1226441767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.82833,-20.61472,33.82833,-20.61472",
+    "geom:latitude":-20.61472,
+    "geom:longitude":33.82833,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Languene",
+    "gn:country_code":"MZ",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044055,
+    "gn:latitude":-20.61472,
+    "gn:longitude":33.82833,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Languene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044055
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"01fe23aad9ed933fcbedb289411ebd37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696561,
+            "locality_id":1226441767,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1226441767,
+    "wof:lastmodified":1536651056,
+    "wof:name":"Languene",
+    "wof:parent_id":1091696561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.82833,
+    -20.61472,
+    33.82833,
+    -20.61472
+],
+  "geometry": {"coordinates":[33.82833,-20.61472],"type":"Point"}
+}

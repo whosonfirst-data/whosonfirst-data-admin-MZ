@@ -1,0 +1,67 @@
+{
+  "id": 1310403551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.96833,-14.50139,38.96833,-14.50139",
+    "geom:latitude":-14.50139,
+    "geom:longitude":38.96833,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mauio",
+    "gn:country_code":"MZ",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088697,
+    "gn:latitude":-14.50139,
+    "gn:longitude":38.96833,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Mauio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088697
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"50160d7f70c17be6c69186b351f47191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699653,
+            "locality_id":1310403551,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1310403551,
+    "wof:lastmodified":1537061371,
+    "wof:name":"Mauio",
+    "wof:parent_id":1091699653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.96833,
+    -14.50139,
+    38.96833,
+    -14.50139
+],
+  "geometry": {"coordinates":[38.96833,-14.50139],"type":"Point"}
+}

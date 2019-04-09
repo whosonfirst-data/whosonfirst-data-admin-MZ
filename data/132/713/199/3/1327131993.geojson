@@ -1,0 +1,67 @@
+{
+  "id": 1327131993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.55222,-16.36167,39.55222,-16.36167",
+    "geom:latitude":-16.36167,
+    "geom:longitude":39.55222,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Regulo Mauiza",
+    "gn:country_code":"MZ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095247,
+    "gn:latitude":-16.36167,
+    "gn:longitude":39.55222,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"R\u00e9gulo Mauiza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095247
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c1a05dd8c9ffbdd6967b36403221c710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1327131993,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1327131993,
+    "wof:lastmodified":1536614371,
+    "wof:name":"Regulo Mauiza",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.55222,
+    -16.36167,
+    39.55222,
+    -16.36167
+],
+  "geometry": {"coordinates":[39.55222,-16.36167],"type":"Point"}
+}

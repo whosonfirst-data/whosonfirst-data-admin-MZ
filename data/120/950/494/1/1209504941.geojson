@@ -1,0 +1,66 @@
+{
+  "id": 1209504941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.91,-16.56861,37.91,-16.56861",
+    "geom:latitude":-16.56861,
+    "geom:longitude":37.91,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Muata",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036871,
+    "gn:latitude":-16.56861,
+    "gn:longitude":37.91,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Muata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muaco",
+        "Muata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036871
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c85c6ded40164e841cbab8466df252ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209504941
+        }
+    ],
+    "wof:id":1209504941,
+    "wof:lastmodified":1537674522,
+    "wof:name":"Muata",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.91,
+    -16.56861,
+    37.91,
+    -16.56861
+],
+  "geometry": {"coordinates":[37.91,-16.56861],"type":"Point"}
+}

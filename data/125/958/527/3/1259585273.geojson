@@ -1,0 +1,67 @@
+{
+  "id": 1259585273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.73,-24.01139,34.73,-24.01139",
+    "geom:latitude":-24.01139,
+    "geom:longitude":34.73,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cat. Episcopal Sao Pacule",
+    "gn:country_code":"MZ",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097118,
+    "gn:latitude":-24.01139,
+    "gn:longitude":34.73,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Cat. Episcopal S\u00e3o Pacule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097118
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"54bf886f51c025b9b69e3811e9b9076e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701265,
+            "locality_id":1259585273,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1259585273,
+    "wof:lastmodified":1536712556,
+    "wof:name":"Cat. Episcopal Sao Pacule",
+    "wof:parent_id":1091701265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.73,
+    -24.01139,
+    34.73,
+    -24.01139
+],
+  "geometry": {"coordinates":[34.73,-24.01139],"type":"Point"}
+}

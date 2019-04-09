@@ -1,0 +1,67 @@
+{
+  "id": 1242965975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.99694,-15.15083,38.99694,-15.15083",
+    "geom:latitude":-15.15083,
+    "geom:longitude":38.99694,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tupula",
+    "gn:country_code":"MZ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025516,
+    "gn:latitude":-15.15083,
+    "gn:longitude":38.99694,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Tupula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025516
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f46042e0f50c7428f490f66288c1be10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700965,
+            "locality_id":1242965975,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1242965975,
+    "wof:lastmodified":1537000547,
+    "wof:name":"Tupula",
+    "wof:parent_id":1091700965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.99694,
+    -15.15083,
+    38.99694,
+    -15.15083
+],
+  "geometry": {"coordinates":[38.99694,-15.15083],"type":"Point"}
+}

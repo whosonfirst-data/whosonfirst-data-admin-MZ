@@ -1,0 +1,67 @@
+{
+  "id": 1276984527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.16028,-11.93,40.16028,-11.93",
+    "geom:latitude":-11.93,
+    "geom:longitude":40.16028,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Alotocuanha",
+    "gn:country_code":"MZ",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053146,
+    "gn:latitude":-11.93,
+    "gn:longitude":40.16028,
+    "gn:modification_date":"1995-02-06",
+    "gn:name":"Alotocuanha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091698583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053146
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"31ffb696221f251759d4a407263e4af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698583,
+            "locality_id":1276984527,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276984527,
+    "wof:lastmodified":1536900967,
+    "wof:name":"Alotocuanha",
+    "wof:parent_id":1091698583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.16028,
+    -11.93,
+    40.16028,
+    -11.93
+],
+  "geometry": {"coordinates":[40.16028,-11.93],"type":"Point"}
+}

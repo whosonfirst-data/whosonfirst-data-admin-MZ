@@ -1,0 +1,67 @@
+{
+  "id": 1277060091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.44806,-19.56389,33.44806,-19.56389",
+    "geom:latitude":-19.56389,
+    "geom:longitude":33.44806,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Muciua",
+    "gn:country_code":"MZ",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036423,
+    "gn:latitude":-19.56389,
+    "gn:longitude":33.44806,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Muciua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091701483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036423
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f54cd5a13ba4a718fa575f80b28913ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701483,
+            "locality_id":1277060091,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1277060091,
+    "wof:lastmodified":1536799471,
+    "wof:name":"Muciua",
+    "wof:parent_id":1091701483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.44806,
+    -19.56389,
+    33.44806,
+    -19.56389
+],
+  "geometry": {"coordinates":[33.44806,-19.56389],"type":"Point"}
+}

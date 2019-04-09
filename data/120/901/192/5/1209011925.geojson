@@ -1,0 +1,61 @@
+{
+  "id": 1209011925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1675,-24.495,35.1675,-24.495",
+    "geom:latitude":-24.495,
+    "geom:longitude":35.1675,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Siane",
+    "gn:country_code":"MZ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027008,
+    "gn:latitude":-24.495,
+    "gn:longitude":35.1675,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Siane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027008
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b02990e0c7238262e82313fa4d043c97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209011925
+        }
+    ],
+    "wof:id":1209011925,
+    "wof:lastmodified":1536300418,
+    "wof:name":"Siane",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1675,
+    -24.495,
+    35.1675,
+    -24.495
+],
+  "geometry": {"coordinates":[35.1675,-24.495],"type":"Point"}
+}

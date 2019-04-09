@@ -1,0 +1,67 @@
+{
+  "id": 1277083355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.23528,-21.98778,33.23528,-21.98778",
+    "geom:latitude":-21.98778,
+    "geom:longitude":33.23528,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Bande",
+    "gn:country_code":"MZ",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052552,
+    "gn:latitude":-21.98778,
+    "gn:longitude":33.23528,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Bande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052552
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a64b42a85bafae84b380d0bb87f2d693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696709,
+            "locality_id":1277083355,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1277083355,
+    "wof:lastmodified":1536767078,
+    "wof:name":"Bande",
+    "wof:parent_id":1091696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.23528,
+    -21.98778,
+    33.23528,
+    -21.98778
+],
+  "geometry": {"coordinates":[33.23528,-21.98778],"type":"Point"}
+}

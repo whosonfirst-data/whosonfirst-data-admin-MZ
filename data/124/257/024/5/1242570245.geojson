@@ -1,0 +1,67 @@
+{
+  "id": 1242570245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.13444,-16.14083,39.13444,-16.14083",
+    "geom:latitude":-16.14083,
+    "geom:longitude":39.13444,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Caetano",
+    "gn:country_code":"MZ",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051707,
+    "gn:latitude":-16.14083,
+    "gn:longitude":39.13444,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Caetano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051707
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1fc2373ae0176bbbef79220483a45dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1242570245,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1242570245,
+    "wof:lastmodified":1537071198,
+    "wof:name":"Caetano",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.13444000000001,
+    -16.14083,
+    39.13444000000001,
+    -16.14083
+],
+  "geometry": {"coordinates":[39.13444000000001,-16.14083],"type":"Point"}
+}

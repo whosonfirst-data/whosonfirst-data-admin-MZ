@@ -1,0 +1,67 @@
+{
+  "id": 1225948441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.555,-13.06,40.555,-13.06",
+    "geom:latitude":-13.06,
+    "geom:longitude":40.555,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Posto de Caca",
+    "gn:country_code":"MZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086177,
+    "gn:latitude":-13.06,
+    "gn:longitude":40.555,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Posto de Ca\u00e7a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091699683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086177
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"543a01a46bed4bf11b8a16d6088edaba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699683,
+            "locality_id":1225948441,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1225948441,
+    "wof:lastmodified":1536864073,
+    "wof:name":"Posto de Caca",
+    "wof:parent_id":1091699683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.555,
+    -13.06,
+    40.555,
+    -13.06
+],
+  "geometry": {"coordinates":[40.555,-13.06],"type":"Point"}
+}

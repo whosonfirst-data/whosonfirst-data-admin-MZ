@@ -1,0 +1,67 @@
+{
+  "id": 1343353231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.955,-14.07611,37.955,-14.07611",
+    "geom:latitude":-14.07611,
+    "geom:longitude":37.955,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mcapua",
+    "gn:country_code":"MZ",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039427,
+    "gn:latitude":-14.07611,
+    "gn:longitude":37.955,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Mcap\u00faa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091701189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039427
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"895454a365068f12c3408a701432bb79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701189,
+            "locality_id":1343353231,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1343353231,
+    "wof:lastmodified":1536901081,
+    "wof:name":"Mcapua",
+    "wof:parent_id":1091701189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.955,
+    -14.07611,
+    37.955,
+    -14.07611
+],
+  "geometry": {"coordinates":[37.955,-14.07611],"type":"Point"}
+}

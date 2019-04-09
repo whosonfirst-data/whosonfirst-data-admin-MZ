@@ -1,0 +1,67 @@
+{
+  "id": 1310690339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.46722,-20.72556,33.46722,-20.72556",
+    "geom:latitude":-20.72556,
+    "geom:longitude":33.46722,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Dondonhe",
+    "gn:country_code":"MZ",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046911,
+    "gn:latitude":-20.72556,
+    "gn:longitude":33.46722,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Dondonhe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046911
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"48eeb666ab4a02afe5d949cdbb666f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1310690339,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1310690339,
+    "wof:lastmodified":1536650031,
+    "wof:name":"Dondonhe",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.46722,
+    -20.72556,
+    33.46722,
+    -20.72556
+],
+  "geometry": {"coordinates":[33.46722,-20.72556],"type":"Point"}
+}

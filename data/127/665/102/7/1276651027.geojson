@@ -1,0 +1,67 @@
+{
+  "id": 1276651027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.38028,-16.36333,36.38028,-16.36333",
+    "geom:latitude":-16.36333,
+    "geom:longitude":36.38028,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Limbue",
+    "gn:country_code":"MZ",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043744,
+    "gn:latitude":-16.36333,
+    "gn:longitude":36.38028,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Limbu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043744
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cab5a8a6040777e0774627297b5621d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698327,
+            "locality_id":1276651027,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1276651027,
+    "wof:lastmodified":1536849009,
+    "wof:name":"Limbue",
+    "wof:parent_id":1091698327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.38028,
+    -16.36333,
+    36.38028,
+    -16.36333
+],
+  "geometry": {"coordinates":[36.38028,-16.36333],"type":"Point"}
+}

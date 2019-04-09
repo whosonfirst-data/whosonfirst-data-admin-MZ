@@ -1,0 +1,67 @@
+{
+  "id": 1310606071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.32389,-17.26944,34.32389,-17.26944",
+    "geom:latitude":-17.26944,
+    "geom:longitude":34.32389,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Uanchite",
+    "gn:country_code":"MZ",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025331,
+    "gn:latitude":-17.26944,
+    "gn:longitude":34.32389,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Uanchite",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091699141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025331
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0f3f4d226983118bc54ebbcae394785c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699141,
+            "locality_id":1310606071,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1310606071,
+    "wof:lastmodified":1536772397,
+    "wof:name":"Uanchite",
+    "wof:parent_id":1091699141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.32389000000001,
+    -17.26944,
+    34.32389000000001,
+    -17.26944
+],
+  "geometry": {"coordinates":[34.32389000000001,-17.26944],"type":"Point"}
+}

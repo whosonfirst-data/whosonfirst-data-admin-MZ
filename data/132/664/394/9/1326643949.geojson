@@ -1,0 +1,67 @@
+{
+  "id": 1326643949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.67278,-12.53111,39.67278,-12.53111",
+    "geom:latitude":-12.53111,
+    "geom:longitude":39.67278,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Ferena",
+    "gn:country_code":"MZ",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046375,
+    "gn:latitude":-12.53111,
+    "gn:longitude":39.67278,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Ferena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091699771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046375
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"98cc83f8eae030bc52b65f3b73d04535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699771,
+            "locality_id":1326643949,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1326643949,
+    "wof:lastmodified":1536821992,
+    "wof:name":"Ferena",
+    "wof:parent_id":1091699771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.67278,
+    -12.53111,
+    39.67278,
+    -12.53111
+],
+  "geometry": {"coordinates":[39.67278,-12.53111],"type":"Point"}
+}

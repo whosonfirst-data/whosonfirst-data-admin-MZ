@@ -1,0 +1,67 @@
+{
+  "id": 1310123801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.44417,-11.985,40.44417,-11.985",
+    "geom:latitude":-11.985,
+    "geom:longitude":40.44417,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Nagulue",
+    "gn:country_code":"MZ",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085194,
+    "gn:latitude":-11.985,
+    "gn:longitude":40.44417,
+    "gn:modification_date":"1995-02-06",
+    "gn:name":"Nagulu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091698583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085194
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e6bb734dc4c393ae2696b188a8a36466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698583,
+            "locality_id":1310123801,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1310123801,
+    "wof:lastmodified":1536969774,
+    "wof:name":"Nagulue",
+    "wof:parent_id":1091698583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.44417,
+    -11.985,
+    40.44417,
+    -11.985
+],
+  "geometry": {"coordinates":[40.44417,-11.985],"type":"Point"}
+}

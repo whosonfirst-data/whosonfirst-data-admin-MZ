@@ -1,0 +1,72 @@
+{
+  "id": 1243385909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.82056,-15.05667,31.82056,-15.05667",
+    "geom:latitude":-15.05667,
+    "geom:longitude":31.82056,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Cachombo",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051757,
+    "gn:latitude":-15.05667,
+    "gn:longitude":31.82056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cachombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cachomba",
+        "Cachombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051757
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4ebb7697423c8f5cc589ffad7c350e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699093,
+            "locality_id":1243385909,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1243385909,
+    "wof:lastmodified":1537674604,
+    "wof:name":"Cachombo",
+    "wof:parent_id":1091699093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.82056,
+    -15.05667,
+    31.82056,
+    -15.05667
+],
+  "geometry": {"coordinates":[31.82056,-15.05667],"type":"Point"}
+}

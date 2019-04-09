@@ -1,0 +1,61 @@
+{
+  "id": 1209018525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.145,-14.00278,39.145,-14.00278",
+    "geom:latitude":-14.00278,
+    "geom:longitude":39.145,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Piteria",
+    "gn:country_code":"MZ",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088278,
+    "gn:latitude":-14.00278,
+    "gn:longitude":39.145,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Pit\u00e9ria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088278
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ee9e1bd9ba29eca2bf7324d5dbd653af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209018525
+        }
+    ],
+    "wof:id":1209018525,
+    "wof:lastmodified":1536300218,
+    "wof:name":"Piteria",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.145,
+    -14.00278,
+    39.145,
+    -14.00278
+],
+  "geometry": {"coordinates":[39.145,-14.00278],"type":"Point"}
+}

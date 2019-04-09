@@ -1,0 +1,67 @@
+{
+  "id": 1260173309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.32111,-13.40417,35.32111,-13.40417",
+    "geom:latitude":-13.40417,
+    "geom:longitude":35.32111,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Aldeia Ncalangoma",
+    "gn:country_code":"MZ",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085828,
+    "gn:latitude":-13.40417,
+    "gn:longitude":35.32111,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Aldeia Ncalangoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085828
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"80a0fb003146813ca1d1151583665917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698283,
+            "locality_id":1260173309,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1260173309,
+    "wof:lastmodified":1536860538,
+    "wof:name":"Aldeia Ncalangoma",
+    "wof:parent_id":1091698283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.32111,
+    -13.40417,
+    35.32111,
+    -13.40417
+],
+  "geometry": {"coordinates":[35.32111,-13.40417],"type":"Point"}
+}

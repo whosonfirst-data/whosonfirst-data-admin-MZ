@@ -1,0 +1,73 @@
+{
+  "id": 1327326095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.41444,-14.94861,37.41444,-14.94861",
+    "geom:latitude":-14.94861,
+    "geom:longitude":37.41444,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Malema",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041486,
+    "gn:latitude":-14.94861,
+    "gn:longitude":37.41444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Malema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Entre Rios",
+        "Malema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091698863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041486,
+        "wk:page":"Malema"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0c0ebffe656da296dce1d5b575b96d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698863,
+            "locality_id":1327326095,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1327326095,
+    "wof:lastmodified":1537674547,
+    "wof:name":"Malema",
+    "wof:parent_id":1091698863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.41444,
+    -14.94861,
+    37.41444,
+    -14.94861
+],
+  "geometry": {"coordinates":[37.41444,-14.94861],"type":"Point"}
+}

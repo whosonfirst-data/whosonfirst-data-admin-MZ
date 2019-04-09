@@ -1,0 +1,67 @@
+{
+  "id": 1310319715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13333,-14.8,31.13333,-14.8",
+    "geom:latitude":-14.8,
+    "geom:longitude":31.13333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Xelim",
+    "gn:country_code":"MZ",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024505,
+    "gn:latitude":-14.8,
+    "gn:longitude":31.13333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Xelim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091701729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024505
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"366a6cb2d8c607e4242b770f0be59779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701729,
+            "locality_id":1310319715,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1310319715,
+    "wof:lastmodified":1536687385,
+    "wof:name":"Xelim",
+    "wof:parent_id":1091701729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13333,
+    -14.8,
+    31.13333,
+    -14.8
+],
+  "geometry": {"coordinates":[31.13333,-14.8],"type":"Point"}
+}

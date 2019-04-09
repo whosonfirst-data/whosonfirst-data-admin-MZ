@@ -1,0 +1,67 @@
+{
+  "id": 1193007209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.46694,-20.92056,33.46694,-20.92056",
+    "geom:latitude":-20.92056,
+    "geom:longitude":33.46694,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Inhamecabira",
+    "gn:country_code":"MZ",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045103,
+    "gn:latitude":-20.92056,
+    "gn:longitude":33.46694,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Inhamecabira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045103
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"280d83e0f57b4bb270897df194ebf8d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1193007209,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1193007209,
+    "wof:lastmodified":1536365122,
+    "wof:name":"Inhamecabira",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.46694,
+    -20.92056,
+    33.46694,
+    -20.92056
+],
+  "geometry": {"coordinates":[33.46694,-20.92056],"type":"Point"}
+}

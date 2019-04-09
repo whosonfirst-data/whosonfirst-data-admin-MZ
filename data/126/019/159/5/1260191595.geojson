@@ -1,0 +1,72 @@
+{
+  "id": 1260191595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.23,-24.32667,33.23,-24.32667",
+    "geom:latitude":-24.32667,
+    "geom:longitude":33.23,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"M. Utoi",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039754,
+    "gn:latitude":-24.32667,
+    "gn:longitude":33.23,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"M. Ut\u00f3i",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mat\u00fangu\u00e9",
+        "M. Ut\u00f3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091697721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039754
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"338ab1f44954cef8ef8721d73aec8312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697721,
+            "locality_id":1260191595,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1260191595,
+    "wof:lastmodified":1537674536,
+    "wof:name":"M. Utoi",
+    "wof:parent_id":1091697721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.23,
+    -24.32667,
+    33.23,
+    -24.32667
+],
+  "geometry": {"coordinates":[33.23,-24.32667],"type":"Point"}
+}

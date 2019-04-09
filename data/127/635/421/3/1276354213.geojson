@@ -1,0 +1,67 @@
+{
+  "id": 1276354213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96667,-18.08333,35.96667,-18.08333",
+    "geom:latitude":-18.08333,
+    "geom:longitude":35.96667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sabesse",
+    "gn:country_code":"MZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027762,
+    "gn:latitude":-18.08333,
+    "gn:longitude":35.96667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Sabesse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027762
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b07c7551e1cf413be5e0a426adb70f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700251,
+            "locality_id":1276354213,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1276354213,
+    "wof:lastmodified":1536750477,
+    "wof:name":"Sabesse",
+    "wof:parent_id":1091700251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96667,
+    -18.08333,
+    35.96667,
+    -18.08333
+],
+  "geometry": {"coordinates":[35.96667,-18.08333],"type":"Point"}
+}

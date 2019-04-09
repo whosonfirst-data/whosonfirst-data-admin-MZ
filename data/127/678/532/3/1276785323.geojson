@@ -1,0 +1,67 @@
+{
+  "id": 1276785323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.56528,-15.35167,37.56528,-15.35167",
+    "geom:latitude":-15.35167,
+    "geom:longitude":37.56528,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Munoa",
+    "gn:country_code":"MZ",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090871,
+    "gn:latitude":-15.35167,
+    "gn:longitude":37.56528,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"Munoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090871
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9710b1282b7ac8b5df5e0b7d0fa35cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696213,
+            "locality_id":1276785323,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1276785323,
+    "wof:lastmodified":1536670342,
+    "wof:name":"Munoa",
+    "wof:parent_id":1091696213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.56528,
+    -15.35167,
+    37.56528,
+    -15.35167
+],
+  "geometry": {"coordinates":[37.56528,-15.35167],"type":"Point"}
+}

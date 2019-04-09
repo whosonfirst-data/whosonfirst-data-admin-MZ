@@ -1,0 +1,67 @@
+{
+  "id": 1309828253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.58889,-15.0625,39.58889,-15.0625",
+    "geom:latitude":-15.0625,
+    "geom:longitude":39.58889,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nipurro",
+    "gn:country_code":"MZ",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029742,
+    "gn:latitude":-15.0625,
+    "gn:longitude":39.58889,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Nipurro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029742
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"027ac136eaebba31a40d8b85b33561d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699601,
+            "locality_id":1309828253,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1309828253,
+    "wof:lastmodified":1536898735,
+    "wof:name":"Nipurro",
+    "wof:parent_id":1091699601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.58889,
+    -15.0625,
+    39.58889,
+    -15.0625
+],
+  "geometry": {"coordinates":[39.58889,-15.0625],"type":"Point"}
+}

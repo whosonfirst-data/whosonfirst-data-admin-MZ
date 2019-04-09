@@ -1,0 +1,72 @@
+{
+  "id": 1242995221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.24972,-15.81889,39.24972,-15.81889",
+    "geom:latitude":-15.81889,
+    "geom:longitude":39.24972,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Quatieque",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028446,
+    "gn:latitude":-15.81889,
+    "gn:longitude":39.24972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Quatieque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quatiegue",
+        "Quatieque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028446
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b2b6a152b795ee5141ddb831f3b39c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700133,
+            "locality_id":1242995221,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1242995221,
+    "wof:lastmodified":1537674490,
+    "wof:name":"Quatieque",
+    "wof:parent_id":1091700133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.24972,
+    -15.81889,
+    39.24972,
+    -15.81889
+],
+  "geometry": {"coordinates":[39.24972,-15.81889],"type":"Point"}
+}

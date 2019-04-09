@@ -1,0 +1,72 @@
+{
+  "id": 1310318315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.07028,-24.06861,33.07028,-24.06861",
+    "geom:latitude":-24.06861,
+    "geom:longitude":33.07028,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Valente",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025625,
+    "gn:latitude":-24.06861,
+    "gn:longitude":33.07028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Valente",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsova-Tsova",
+        "Valente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091697721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025625
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6fe10cc53e93549e212b8b6f12a78e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697721,
+            "locality_id":1310318315,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1310318315,
+    "wof:lastmodified":1537674477,
+    "wof:name":"Valente",
+    "wof:parent_id":1091697721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.07028,
+    -24.06861,
+    33.07028,
+    -24.06861
+],
+  "geometry": {"coordinates":[33.07028,-24.06861],"type":"Point"}
+}

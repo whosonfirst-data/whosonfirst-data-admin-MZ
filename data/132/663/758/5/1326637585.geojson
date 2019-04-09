@@ -1,0 +1,67 @@
+{
+  "id": 1326637585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.33361,-24.27806,35.33361,-24.27806",
+    "geom:latitude":-24.27806,
+    "geom:longitude":35.33361,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Induna Gove",
+    "gn:country_code":"MZ",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101962,
+    "gn:latitude":-24.27806,
+    "gn:longitude":35.33361,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Induna Gove",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101962
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2dbcdd4d020d13cdd364f917fd9dbcd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698147,
+            "locality_id":1326637585,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1326637585,
+    "wof:lastmodified":1536831024,
+    "wof:name":"Induna Gove",
+    "wof:parent_id":1091698147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33361,
+    -24.27806,
+    35.33361,
+    -24.27806
+],
+  "geometry": {"coordinates":[35.33361,-24.27806],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209099445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.09444,-15.53028,33.09444,-15.53028",
+    "geom:latitude":-15.53028,
+    "geom:longitude":33.09444,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Aldeia Chimadzi",
+    "gn:country_code":"MZ",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089356,
+    "gn:latitude":-15.53028,
+    "gn:longitude":33.09444,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Aldeia Chimadzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089356
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"571eed8ead075f82f09d513da6435af6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209099445
+        }
+    ],
+    "wof:id":1209099445,
+    "wof:lastmodified":1536297781,
+    "wof:name":"Aldeia Chimadzi",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.09444000000001,
+    -15.53028,
+    33.09444000000001,
+    -15.53028
+],
+  "geometry": {"coordinates":[33.09444000000001,-15.53028],"type":"Point"}
+}

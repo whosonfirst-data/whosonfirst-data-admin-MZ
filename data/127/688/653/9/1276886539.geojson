@@ -1,0 +1,67 @@
+{
+  "id": 1276886539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.06861,-23.53722,33.06861,-23.53722",
+    "geom:latitude":-23.53722,
+    "geom:longitude":33.06861,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Serracao Velha",
+    "gn:country_code":"MZ",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104476,
+    "gn:latitude":-23.53722,
+    "gn:longitude":33.06861,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Serra\u00e7\u00e3o Velha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104476
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fa8e7ea132c15535900c0b2c9df4a1f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696709,
+            "locality_id":1276886539,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1276886539,
+    "wof:lastmodified":1537030827,
+    "wof:name":"Serracao Velha",
+    "wof:parent_id":1091696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.06861,
+    -23.53722,
+    33.06861,
+    -23.53722
+],
+  "geometry": {"coordinates":[33.06861,-23.53722],"type":"Point"}
+}

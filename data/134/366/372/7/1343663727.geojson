@@ -1,0 +1,72 @@
+{
+  "id": 1343663727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.09056,-23.0625,35.09056,-23.0625",
+    "geom:latitude":-23.0625,
+    "geom:longitude":35.09056,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Induna Vumelela",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024631,
+    "gn:latitude":-23.0625,
+    "gn:longitude":35.09056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Induna Vumelela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vomelela",
+        "Induna Vumelela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091699313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024631
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3f926841b915756c06e859b6ef0de43d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699313,
+            "locality_id":1343663727,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1343663727,
+    "wof:lastmodified":1537674471,
+    "wof:name":"Induna Vumelela",
+    "wof:parent_id":1091699313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.09056,
+    -23.0625,
+    35.09056,
+    -23.0625
+],
+  "geometry": {"coordinates":[35.09056,-23.0625],"type":"Point"}
+}

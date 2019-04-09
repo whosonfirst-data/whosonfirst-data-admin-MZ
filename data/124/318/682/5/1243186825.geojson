@@ -1,0 +1,63 @@
+{
+  "id": 1243186825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.45,-15.63333,34.45,-15.63333",
+    "geom:latitude":-15.63333,
+    "geom:longitude":34.45,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Cassapa",
+    "gn:country_code":"MZ",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050940,
+    "gn:latitude":-15.63333,
+    "gn:longitude":34.45,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Cassapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050940
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"53c9ee15cb4da4ea562b68f6c2b35f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243186825,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243186825,
+    "wof:lastmodified":1536682713,
+    "wof:name":"Cassapa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.45,
+    -15.63333,
+    34.45,
+    -15.63333
+],
+  "geometry": {"coordinates":[34.45,-15.63333],"type":"Point"}
+}

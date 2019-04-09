@@ -1,0 +1,67 @@
+{
+  "id": 1310612633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.31306,-23.50917,35.31306,-23.50917",
+    "geom:latitude":-23.50917,
+    "geom:longitude":35.31306,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Panga",
+    "gn:country_code":"MZ",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029167,
+    "gn:latitude":-23.50917,
+    "gn:longitude":35.31306,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Panga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091700259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029167
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cf295de359bab78adcce7437b3ed403b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700259,
+            "locality_id":1310612633,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1310612633,
+    "wof:lastmodified":1536762637,
+    "wof:name":"Panga",
+    "wof:parent_id":1091700259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.31306,
+    -23.50917,
+    35.31306,
+    -23.50917
+],
+  "geometry": {"coordinates":[35.31306,-23.50917],"type":"Point"}
+}

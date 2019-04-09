@@ -1,0 +1,72 @@
+{
+  "id": 1260174133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.50278,-14.69056,38.50278,-14.69056",
+    "geom:latitude":-14.69056,
+    "geom:longitude":38.50278,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Uatia",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025210,
+    "gn:latitude":-14.69056,
+    "gn:longitude":38.50278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Uatia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uatua",
+        "Uatia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091701415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025210
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"92ac5b48c8bfc1d80416c831abe13264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701415,
+            "locality_id":1260174133,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1260174133,
+    "wof:lastmodified":1537674475,
+    "wof:name":"Uatia",
+    "wof:parent_id":1091701415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.50278,
+    -14.69056,
+    38.50278,
+    -14.69056
+],
+  "geometry": {"coordinates":[38.50278,-14.69056],"type":"Point"}
+}

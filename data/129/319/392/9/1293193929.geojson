@@ -1,0 +1,67 @@
+{
+  "id": 1293193929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.61667,-14.66389,40.61667,-14.66389",
+    "geom:latitude":-14.66389,
+    "geom:longitude":40.61667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Salimo",
+    "gn:country_code":"MZ",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027584,
+    "gn:latitude":-14.66389,
+    "gn:longitude":40.61667,
+    "gn:modification_date":"1994-04-21",
+    "gn:name":"Salimo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027584
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2bee8fbd9b1c7fa47c8dee128391c235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700727,
+            "locality_id":1293193929,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1293193929,
+    "wof:lastmodified":1536713622,
+    "wof:name":"Salimo",
+    "wof:parent_id":1091700727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.61667,
+    -14.66389,
+    40.61667,
+    -14.66389
+],
+  "geometry": {"coordinates":[40.61667,-14.66389],"type":"Point"}
+}

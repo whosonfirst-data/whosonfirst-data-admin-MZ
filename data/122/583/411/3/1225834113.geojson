@@ -1,0 +1,70 @@
+{
+  "id": 1225834113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.65833,-20.72167,32.65833,-20.72167",
+    "geom:latitude":-20.72167,
+    "geom:longitude":32.65833,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Meicuana",
+    "gn:country_code":"MZ",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039001,
+    "gn:latitude":-20.72167,
+    "gn:longitude":32.65833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Meicuana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Meicuana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091700331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039001
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0ec172fcffe6d0a49b0061645f60bc43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700331,
+            "locality_id":1225834113,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1225834113,
+    "wof:lastmodified":1537674532,
+    "wof:name":"Meicuana",
+    "wof:parent_id":1091700331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.65833,
+    -20.72167,
+    32.65833,
+    -20.72167
+],
+  "geometry": {"coordinates":[32.65833,-20.72167],"type":"Point"}
+}

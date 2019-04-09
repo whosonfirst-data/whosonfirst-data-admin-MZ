@@ -1,0 +1,67 @@
+{
+  "id": 1225940961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.47389,-17.0825,37.47389,-17.0825",
+    "geom:latitude":-17.0825,
+    "geom:longitude":37.47389,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Rafael",
+    "gn:country_code":"MZ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028246,
+    "gn:latitude":-17.0825,
+    "gn:longitude":37.47389,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Rafael",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028246
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bdc888b52c6dae6a28f7a94bb297bc15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698671,
+            "locality_id":1225940961,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1225940961,
+    "wof:lastmodified":1536875384,
+    "wof:name":"Rafael",
+    "wof:parent_id":1091698671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.47389,
+    -17.0825,
+    37.47389,
+    -17.0825
+],
+  "geometry": {"coordinates":[37.47389,-17.0825],"type":"Point"}
+}

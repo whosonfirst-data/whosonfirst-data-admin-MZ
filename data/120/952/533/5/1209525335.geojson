@@ -1,0 +1,61 @@
+{
+  "id": 1209525335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8,-15.11667,30.8,-15.11667",
+    "geom:latitude":-15.11667,
+    "geom:longitude":30.8,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Inhansupa",
+    "gn:country_code":"MZ",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045024,
+    "gn:latitude":-15.11667,
+    "gn:longitude":30.8,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Inhansupa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045024
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4ac84ce6cf98a7db7af977adfdeb128f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209525335
+        }
+    ],
+    "wof:id":1209525335,
+    "wof:lastmodified":1536284449,
+    "wof:name":"Inhansupa",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8,
+    -15.11667,
+    30.8,
+    -15.11667
+],
+  "geometry": {"coordinates":[30.8,-15.11667],"type":"Point"}
+}

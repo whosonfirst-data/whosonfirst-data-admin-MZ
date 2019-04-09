@@ -1,0 +1,67 @@
+{
+  "id": 1343366599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.43667,-23.9,35.43667,-23.9",
+    "geom:latitude":-23.9,
+    "geom:longitude":35.43667,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Camisa",
+    "gn:country_code":"MZ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051405,
+    "gn:latitude":-23.9,
+    "gn:longitude":35.43667,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Camisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051405
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a43eecff3a44f8ba158d22cad88b5a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697029,
+            "locality_id":1343366599,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1343366599,
+    "wof:lastmodified":1536880848,
+    "wof:name":"Camisa",
+    "wof:parent_id":1091697029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.43667,
+    -23.9,
+    35.43667,
+    -23.9
+],
+  "geometry": {"coordinates":[35.43667,-23.9],"type":"Point"}
+}

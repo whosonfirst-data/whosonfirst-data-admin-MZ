@@ -1,0 +1,66 @@
+{
+  "id": 1209404551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.56306,-15.26417,37.56306,-15.26417",
+    "geom:latitude":-15.26417,
+    "geom:longitude":37.56306,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Comua",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047891,
+    "gn:latitude":-15.26417,
+    "gn:longitude":37.56306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Comua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comum-a",
+        "Comua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047891
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ca340ca1f7a1c3b5c360ed63bee59c1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209404551
+        }
+    ],
+    "wof:id":1209404551,
+    "wof:lastmodified":1537674582,
+    "wof:name":"Comua",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.56306,
+    -15.26417,
+    37.56306,
+    -15.26417
+],
+  "geometry": {"coordinates":[37.56306,-15.26417],"type":"Point"}
+}

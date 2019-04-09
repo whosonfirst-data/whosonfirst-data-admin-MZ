@@ -1,0 +1,67 @@
+{
+  "id": 1260069143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.07139,-20.74389,33.07139,-20.74389",
+    "geom:latitude":-20.74389,
+    "geom:longitude":33.07139,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Gueliche",
+    "gn:country_code":"MZ",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045688,
+    "gn:latitude":-20.74389,
+    "gn:longitude":33.07139,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Gueliche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091700331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045688
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cfb1f4f2402e0356b1dfed990a089047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700331,
+            "locality_id":1260069143,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1260069143,
+    "wof:lastmodified":1537007986,
+    "wof:name":"Gueliche",
+    "wof:parent_id":1091700331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.07139,
+    -20.74389,
+    33.07139,
+    -20.74389
+],
+  "geometry": {"coordinates":[33.07139,-20.74389],"type":"Point"}
+}

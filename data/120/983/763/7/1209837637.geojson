@@ -1,0 +1,67 @@
+{
+  "id": 1209837637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.4225,-14.545,40.4225,-14.545",
+    "geom:latitude":-14.545,
+    "geom:longitude":40.4225,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Remula",
+    "gn:country_code":"MZ",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028095,
+    "gn:latitude":-14.545,
+    "gn:longitude":40.4225,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Remula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028095
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2b8a05e01d5c07cc55d17fb4c6ad9f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700727,
+            "locality_id":1209837637,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1209837637,
+    "wof:lastmodified":1536394172,
+    "wof:name":"Remula",
+    "wof:parent_id":1091700727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.4225,
+    -14.545,
+    40.4225,
+    -14.545
+],
+  "geometry": {"coordinates":[40.4225,-14.545],"type":"Point"}
+}

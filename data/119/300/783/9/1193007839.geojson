@@ -1,0 +1,72 @@
+{
+  "id": 1193007839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98694,-18.08278,35.98694,-18.08278",
+    "geom:latitude":-18.08278,
+    "geom:longitude":35.98694,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Cardoso",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051033,
+    "gn:latitude":-18.08278,
+    "gn:longitude":35.98694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cardoso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cardozo",
+        "Cardoso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051033
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"95ede4b55c17247a11f2ae71c111f1ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700251,
+            "locality_id":1193007839,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1193007839,
+    "wof:lastmodified":1537674600,
+    "wof:name":"Cardoso",
+    "wof:parent_id":1091700251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98694000000001,
+    -18.08278,
+    35.98694000000001,
+    -18.08278
+],
+  "geometry": {"coordinates":[35.98694000000001,-18.08278],"type":"Point"}
+}

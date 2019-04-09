@@ -1,0 +1,67 @@
+{
+  "id": 1193150929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.29889,-13.02917,39.29889,-13.02917",
+    "geom:latitude":-13.02917,
+    "geom:longitude":39.29889,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chapelia",
+    "gn:country_code":"MZ",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050286,
+    "gn:latitude":-13.02917,
+    "gn:longitude":39.29889,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Chapelia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050286
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"19c3def438f8e41f6943dd10e2993765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1193150929,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1193150929,
+    "wof:lastmodified":1536378312,
+    "wof:name":"Chapelia",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.29889,
+    -13.02917,
+    39.29889,
+    -13.02917
+],
+  "geometry": {"coordinates":[39.29889,-13.02917],"type":"Point"}
+}

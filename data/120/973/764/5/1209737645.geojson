@@ -1,0 +1,67 @@
+{
+  "id": 1209737645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.45417,-14.85444,39.45417,-14.85444",
+    "geom:latitude":-14.85444,
+    "geom:longitude":39.45417,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mopeo",
+    "gn:country_code":"MZ",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037105,
+    "gn:latitude":-14.85444,
+    "gn:longitude":39.45417,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Mopeo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037105
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e15911bae139c70188dc60add54061e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700409,
+            "locality_id":1209737645,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1209737645,
+    "wof:lastmodified":1536371958,
+    "wof:name":"Mopeo",
+    "wof:parent_id":1091700409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.45417,
+    -14.85444,
+    39.45417,
+    -14.85444
+],
+  "geometry": {"coordinates":[39.45417,-14.85444],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344059997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.49472,-23.85167,33.49472,-23.85167",
+    "geom:latitude":-23.85167,
+    "geom:longitude":33.49472,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Bagia",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052640,
+    "gn:latitude":-23.85167,
+    "gn:longitude":33.49472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bagia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bai\u00e9",
+        "Bagia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052640
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9a08e6878c32967d855c3b72da5e6bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696709,
+            "locality_id":1344059997,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1344059997,
+    "wof:lastmodified":1537674610,
+    "wof:name":"Bagia",
+    "wof:parent_id":1091696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.49472,
+    -23.85167,
+    33.49472,
+    -23.85167
+],
+  "geometry": {"coordinates":[33.49472,-23.85167],"type":"Point"}
+}

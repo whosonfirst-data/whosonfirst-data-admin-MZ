@@ -1,0 +1,67 @@
+{
+  "id": 1243063117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.30917,-19.84861,33.30917,-19.84861",
+    "geom:latitude":-19.84861,
+    "geom:longitude":33.30917,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Assiengana",
+    "gn:country_code":"MZ",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052744,
+    "gn:latitude":-19.84861,
+    "gn:longitude":33.30917,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Assiengana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091701483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052744
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bbd4a5b0d9231bb1c4fef061a86725af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701483,
+            "locality_id":1243063117,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1243063117,
+    "wof:lastmodified":1536859778,
+    "wof:name":"Assiengana",
+    "wof:parent_id":1091701483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.30917,
+    -19.84861,
+    33.30917,
+    -19.84861
+],
+  "geometry": {"coordinates":[33.30917,-19.84861],"type":"Point"}
+}

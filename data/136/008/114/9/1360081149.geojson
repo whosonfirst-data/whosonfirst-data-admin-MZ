@@ -1,0 +1,67 @@
+{
+  "id": 1360081149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.55111,-21.33333,33.55111,-21.33333",
+    "geom:latitude":-21.33333,
+    "geom:longitude":33.55111,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Seventine",
+    "gn:country_code":"MZ",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027018,
+    "gn:latitude":-21.33333,
+    "gn:longitude":33.55111,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Seventine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027018
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"47078bf9371169af9464b3e1e7170725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1360081149,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1360081149,
+    "wof:lastmodified":1536951549,
+    "wof:name":"Seventine",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.55110999999999,
+    -21.33333,
+    33.55110999999999,
+    -21.33333
+],
+  "geometry": {"coordinates":[33.55110999999999,-21.33333],"type":"Point"}
+}

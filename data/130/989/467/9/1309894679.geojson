@@ -1,0 +1,67 @@
+{
+  "id": 1309894679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.68056,-21.21639,32.68056,-21.21639",
+    "geom:latitude":-21.21639,
+    "geom:longitude":32.68056,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Josefa",
+    "gn:country_code":"MZ",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044299,
+    "gn:latitude":-21.21639,
+    "gn:longitude":32.68056,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Josefa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044299
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8d2e664200ff2c2841bdcc84e8f3df84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1309894679,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1309894679,
+    "wof:lastmodified":1536802940,
+    "wof:name":"Josefa",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.68056,
+    -21.21639,
+    32.68056,
+    -21.21639
+],
+  "geometry": {"coordinates":[32.68056,-21.21639],"type":"Point"}
+}

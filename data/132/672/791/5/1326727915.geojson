@@ -1,0 +1,67 @@
+{
+  "id": 1326727915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.5775,-16.41139,39.5775,-16.41139",
+    "geom:latitude":-16.41139,
+    "geom:longitude":39.5775,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Herdade",
+    "gn:country_code":"MZ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095595,
+    "gn:latitude":-16.41139,
+    "gn:longitude":39.5775,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Herdade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095595
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"44b7a5ab20af45ab8d5c5e504b5e6154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1326727915,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1326727915,
+    "wof:lastmodified":1536702290,
+    "wof:name":"Herdade",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.5775,
+    -16.41139,
+    39.5775,
+    -16.41139
+],
+  "geometry": {"coordinates":[39.5775,-16.41139],"type":"Point"}
+}

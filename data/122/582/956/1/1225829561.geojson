@@ -1,0 +1,67 @@
+{
+  "id": 1225829561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.81444,-16.36028,37.81444,-16.36028",
+    "geom:latitude":-16.36028,
+    "geom:longitude":37.81444,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mateus",
+    "gn:country_code":"MZ",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095745,
+    "gn:latitude":-16.36028,
+    "gn:longitude":37.81444,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Mateus",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095745
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6f52ce292f3230825b81585b86280cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697943,
+            "locality_id":1225829561,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1225829561,
+    "wof:lastmodified":1537035482,
+    "wof:name":"Mateus",
+    "wof:parent_id":1091697943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.81444000000001,
+    -16.36028,
+    37.81444000000001,
+    -16.36028
+],
+  "geometry": {"coordinates":[37.81444000000001,-16.36028],"type":"Point"}
+}

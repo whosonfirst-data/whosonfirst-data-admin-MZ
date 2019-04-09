@@ -1,0 +1,67 @@
+{
+  "id": 1327347677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.72611,-11.80222,39.72611,-11.80222",
+    "geom:latitude":-11.80222,
+    "geom:longitude":39.72611,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Eutete",
+    "gn:country_code":"MZ",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085100,
+    "gn:latitude":-11.80222,
+    "gn:longitude":39.72611,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Eutete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085100
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5e0b36fbb6989d53f728be98fd3b8f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700543,
+            "locality_id":1327347677,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1327347677,
+    "wof:lastmodified":1536803043,
+    "wof:name":"Eutete",
+    "wof:parent_id":1091700543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.72611,
+    -11.80222,
+    39.72611,
+    -11.80222
+],
+  "geometry": {"coordinates":[39.72611,-11.80222],"type":"Point"}
+}

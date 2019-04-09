@@ -1,0 +1,67 @@
+{
+  "id": 1193008019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.56,-16.3,37.56,-16.3",
+    "geom:latitude":-16.3,
+    "geom:longitude":37.56,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Orapula",
+    "gn:country_code":"MZ",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029372,
+    "gn:latitude":-16.3,
+    "gn:longitude":37.56,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Orapula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029372
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"11dd7addede02ec929c0b4ef13bc398b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697943,
+            "locality_id":1193008019,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1193008019,
+    "wof:lastmodified":1536364572,
+    "wof:name":"Orapula",
+    "wof:parent_id":1091697943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.56,
+    -16.3,
+    37.56,
+    -16.3
+],
+  "geometry": {"coordinates":[37.56,-16.3],"type":"Point"}
+}

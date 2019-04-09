@@ -1,0 +1,67 @@
+{
+  "id": 1260376289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.37833,-16.65111,33.37833,-16.65111",
+    "geom:latitude":-16.65111,
+    "geom:longitude":33.37833,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Gimo",
+    "gn:country_code":"MZ",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046000,
+    "gn:latitude":-16.65111,
+    "gn:longitude":33.37833,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Gimo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046000
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"85b96952252858530e734b22e98db56a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696537,
+            "locality_id":1260376289,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1260376289,
+    "wof:lastmodified":1537081459,
+    "wof:name":"Gimo",
+    "wof:parent_id":1091696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.37833,
+    -16.65111,
+    33.37833,
+    -16.65111
+],
+  "geometry": {"coordinates":[33.37833,-16.65111],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242695935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1,-19.63333,35.1,-19.63333",
+    "geom:latitude":-19.63333,
+    "geom:longitude":35.1,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Pedro",
+    "gn:country_code":"MZ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028942,
+    "gn:latitude":-19.63333,
+    "gn:longitude":35.1,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Pedro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028942
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f549804cbb3cfa9e9efb757f0121b8b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696899,
+            "locality_id":1242695935,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1242695935,
+    "wof:lastmodified":1536893033,
+    "wof:name":"Pedro",
+    "wof:parent_id":1091696899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1,
+    -19.63333,
+    35.1,
+    -19.63333
+],
+  "geometry": {"coordinates":[35.1,-19.63333],"type":"Point"}
+}

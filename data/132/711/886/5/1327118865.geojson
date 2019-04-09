@@ -1,0 +1,67 @@
+{
+  "id": 1327118865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.67556,-15.34528,37.67556,-15.34528",
+    "geom:latitude":-15.34528,
+    "geom:longitude":37.67556,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Conane",
+    "gn:country_code":"MZ",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090877,
+    "gn:latitude":-15.34528,
+    "gn:longitude":37.67556,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"Conane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090877
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b533eaebe14954666d5ab3fd0067fb19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696213,
+            "locality_id":1327118865,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1327118865,
+    "wof:lastmodified":1536634385,
+    "wof:name":"Conane",
+    "wof:parent_id":1091696213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.67556,
+    -15.34528,
+    37.67556,
+    -15.34528
+],
+  "geometry": {"coordinates":[37.67556,-15.34528],"type":"Point"}
+}

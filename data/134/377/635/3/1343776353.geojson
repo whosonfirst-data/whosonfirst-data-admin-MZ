@@ -1,0 +1,72 @@
+{
+  "id": 1343776353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.95139,-13.30889,38.95139,-13.30889",
+    "geom:latitude":-13.30889,
+    "geom:longitude":38.95139,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Napaha",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1032877,
+    "gn:latitude":-13.30889,
+    "gn:longitude":38.95139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Napaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nap\u00e1",
+        "Napaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1032877
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"99ca26bb3a1b7f31d80205e3e54da075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1343776353,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1343776353,
+    "wof:lastmodified":1537674504,
+    "wof:name":"Napaha",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.95139,
+    -13.30889,
+    38.95139,
+    -13.30889
+],
+  "geometry": {"coordinates":[38.95139,-13.30889],"type":"Point"}
+}

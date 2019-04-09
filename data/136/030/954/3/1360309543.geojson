@@ -1,0 +1,67 @@
+{
+  "id": 1360309543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.08333,-26.03333,32.08333,-26.03333",
+    "geom:latitude":-26.03333,
+    "geom:longitude":32.08333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zinja",
+    "gn:country_code":"MZ",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024149,
+    "gn:latitude":-26.03333,
+    "gn:longitude":32.08333,
+    "gn:modification_date":"1997-09-02",
+    "gn:name":"Zinja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678215,
+        421175623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024149
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"175b5c129e9606b9d71c3948678f06d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421175623,
+            "locality_id":1360309543,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":1360309543,
+    "wof:lastmodified":1536619711,
+    "wof:name":"Zinja",
+    "wof:parent_id":421175623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.08333,
+    -26.03333,
+    32.08333,
+    -26.03333
+],
+  "geometry": {"coordinates":[32.08333,-26.03333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276144453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.67806,-15.65528,38.67806,-15.65528",
+    "geom:latitude":-15.65528,
+    "geom:longitude":38.67806,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Inveia",
+    "gn:country_code":"MZ",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044921,
+    "gn:latitude":-15.65528,
+    "gn:longitude":38.67806,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Inveia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044921
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a5a8bacdc5b4e7deffd74ffc7a91ed6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700589,
+            "locality_id":1276144453,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1276144453,
+    "wof:lastmodified":1537030511,
+    "wof:name":"Inveia",
+    "wof:parent_id":1091700589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.67806,
+    -15.65528,
+    38.67806,
+    -15.65528
+],
+  "geometry": {"coordinates":[38.67806,-15.65528],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209411071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.42611,-15.435,37.42611,-15.435",
+    "geom:latitude":-15.435,
+    "geom:longitude":37.42611,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tchiuarra",
+    "gn:country_code":"MZ",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026208,
+    "gn:latitude":-15.435,
+    "gn:longitude":37.42611,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"Tchiuarra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026208
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e1825b44faffd8492a4f1887c9a62c9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209411071
+        }
+    ],
+    "wof:id":1209411071,
+    "wof:lastmodified":1536287835,
+    "wof:name":"Tchiuarra",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.42611,
+    -15.435,
+    37.42611,
+    -15.435
+],
+  "geometry": {"coordinates":[37.42611,-15.435],"type":"Point"}
+}

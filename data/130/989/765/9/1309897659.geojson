@@ -1,0 +1,72 @@
+{
+  "id": 1309897659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.03528,-12.84278,35.03528,-12.84278",
+    "geom:latitude":-12.84278,
+    "geom:longitude":35.03528,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Luengo",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043324,
+    "gn:latitude":-12.84278,
+    "gn:longitude":35.03528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Luengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luenga",
+        "Luengo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043324
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"73fbbe38e6847a784b8dee2b3dc30da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698193,
+            "locality_id":1309897659,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1309897659,
+    "wof:lastmodified":1537674560,
+    "wof:name":"Luengo",
+    "wof:parent_id":1091698193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03528,
+    -12.84278,
+    35.03528,
+    -12.84278
+],
+  "geometry": {"coordinates":[35.03528,-12.84278],"type":"Point"}
+}

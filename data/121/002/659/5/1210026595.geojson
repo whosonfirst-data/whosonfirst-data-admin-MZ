@@ -1,0 +1,61 @@
+{
+  "id": 1210026595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.66667,-14.51667,40.66667,-14.51667",
+    "geom:latitude":-14.51667,
+    "geom:longitude":40.66667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ripaue",
+    "gn:country_code":"MZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028008,
+    "gn:latitude":-14.51667,
+    "gn:longitude":40.66667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Ripau\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028008
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0e1c950fad95b0afb742952757987962",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1210026595,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1210026595,
+    "wof:lastmodified":1536390446,
+    "wof:name":"Ripaue",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.66667,
+    -14.51667,
+    40.66667,
+    -14.51667
+],
+  "geometry": {"coordinates":[40.66667,-14.51667],"type":"Point"}
+}

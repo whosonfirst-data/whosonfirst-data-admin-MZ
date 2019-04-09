@@ -1,0 +1,67 @@
+{
+  "id": 1259385897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.97111,-24.475,32.97111,-24.475",
+    "geom:latitude":-24.475,
+    "geom:longitude":32.97111,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gandelhaze",
+    "gn:country_code":"MZ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104028,
+    "gn:latitude":-24.475,
+    "gn:longitude":32.97111,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Gandelhaze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104028
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"01f36a91dbe5ef6ce5151c466996a4c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696849,
+            "locality_id":1259385897,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1259385897,
+    "wof:lastmodified":1536997992,
+    "wof:name":"Gandelhaze",
+    "wof:parent_id":1091696849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.97111,
+    -24.475,
+    32.97111,
+    -24.475
+],
+  "geometry": {"coordinates":[32.97111,-24.475],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260081191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.67278,-25.35083,32.67278,-25.35083",
+    "geom:latitude":-25.35083,
+    "geom:longitude":32.67278,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mathilde Lehman",
+    "gn:country_code":"MZ",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090092,
+    "gn:latitude":-25.35083,
+    "gn:longitude":32.67278,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Mathilde Lehman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090092
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d65daef2cf6ebe80b0ffe5b5fd081243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699015,
+            "locality_id":1260081191,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1260081191,
+    "wof:lastmodified":1536990501,
+    "wof:name":"Mathilde Lehman",
+    "wof:parent_id":1091699015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.67278,
+    -25.35083,
+    32.67278,
+    -25.35083
+],
+  "geometry": {"coordinates":[32.67278,-25.35083],"type":"Point"}
+}

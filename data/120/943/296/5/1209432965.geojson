@@ -1,0 +1,61 @@
+{
+  "id": 1209432965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68333,-15.2,30.68333,-15.2",
+    "geom:latitude":-15.2,
+    "geom:longitude":30.68333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tembo",
+    "gn:country_code":"MZ",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026102,
+    "gn:latitude":-15.2,
+    "gn:longitude":30.68333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Tembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026102
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7de01b71d078d7a66397ecb2316b4dd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209432965
+        }
+    ],
+    "wof:id":1209432965,
+    "wof:lastmodified":1536287184,
+    "wof:name":"Tembo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68333,
+    -15.2,
+    30.68333,
+    -15.2
+],
+  "geometry": {"coordinates":[30.68333,-15.2],"type":"Point"}
+}

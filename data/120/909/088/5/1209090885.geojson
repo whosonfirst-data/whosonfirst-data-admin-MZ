@@ -1,0 +1,61 @@
+{
+  "id": 1209090885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.16972,-17.57861,37.16972,-17.57861",
+    "geom:latitude":-17.57861,
+    "geom:longitude":37.16972,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Padera",
+    "gn:country_code":"MZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029311,
+    "gn:latitude":-17.57861,
+    "gn:longitude":37.16972,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Padera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029311
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e46062e85909dc2d6be4945edb6175b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209090885
+        }
+    ],
+    "wof:id":1209090885,
+    "wof:lastmodified":1536298039,
+    "wof:name":"Padera",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.16972,
+    -17.57861,
+    37.16972,
+    -17.57861
+],
+  "geometry": {"coordinates":[37.16972,-17.57861],"type":"Point"}
+}

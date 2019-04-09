@@ -1,0 +1,72 @@
+{
+  "id": 1259992465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.17333,-24.23667,33.17333,-24.23667",
+    "geom:latitude":-24.23667,
+    "geom:longitude":33.17333,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Valente",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045492,
+    "gn:latitude":-24.23667,
+    "gn:longitude":33.17333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Valente",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guvene",
+        "Valente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091697721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045492
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"45534d331ce2801960d9265eaf3a3575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697721,
+            "locality_id":1259992465,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1259992465,
+    "wof:lastmodified":1537674569,
+    "wof:name":"Valente",
+    "wof:parent_id":1091697721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.17333,
+    -24.23667,
+    33.17333,
+    -24.23667
+],
+  "geometry": {"coordinates":[33.17333,-24.23667],"type":"Point"}
+}

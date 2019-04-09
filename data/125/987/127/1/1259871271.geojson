@@ -1,0 +1,67 @@
+{
+  "id": 1259871271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.92111,-14.71611,36.92111,-14.71611",
+    "geom:latitude":-14.71611,
+    "geom:longitude":36.92111,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Cochopo",
+    "gn:country_code":"MZ",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088004,
+    "gn:latitude":-14.71611,
+    "gn:longitude":36.92111,
+    "gn:modification_date":"1997-04-30",
+    "gn:name":"Chefe Cochopo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091697375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088004
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"42662dc06be5aaaa8673515e07d4c335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697375,
+            "locality_id":1259871271,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1259871271,
+    "wof:lastmodified":1536797011,
+    "wof:name":"Chefe Cochopo",
+    "wof:parent_id":1091697375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.92111,
+    -14.71611,
+    36.92111,
+    -14.71611
+],
+  "geometry": {"coordinates":[36.92111,-14.71611],"type":"Point"}
+}

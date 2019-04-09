@@ -1,0 +1,67 @@
+{
+  "id": 1259803529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.13639,-15.21639,34.13639,-15.21639",
+    "geom:latitude":-15.21639,
+    "geom:longitude":34.13639,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Pequituba",
+    "gn:country_code":"MZ",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028841,
+    "gn:latitude":-15.21639,
+    "gn:longitude":34.13639,
+    "gn:modification_date":"1998-05-15",
+    "gn:name":"Pequituba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091701561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028841
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c66cf4493b24bed98e3bccab0ce66b4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701561,
+            "locality_id":1259803529,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1259803529,
+    "wof:lastmodified":1536894133,
+    "wof:name":"Pequituba",
+    "wof:parent_id":1091701561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.13639000000001,
+    -15.21639,
+    34.13639000000001,
+    -15.21639
+],
+  "geometry": {"coordinates":[34.13639000000001,-15.21639],"type":"Point"}
+}

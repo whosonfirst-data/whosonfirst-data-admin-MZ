@@ -1,0 +1,75 @@
+{
+  "id": 1344254719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.31556,-15.10917,39.31556,-15.10917",
+    "geom:latitude":-15.10917,
+    "geom:longitude":39.31556,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Seminario",
+    "gn:country_code":"MZ",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1093337,
+    "gn:latitude":-15.10917,
+    "gn:longitude":39.31556,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Semin\u00e1rio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700965,
+        1091697151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1093337
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9c6439ce099353a36ee00cbcbcbc7e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700965,
+            "locality_id":1344254719,
+            "region_id":85674827
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697151,
+            "locality_id":1344254719,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1344254719,
+    "wof:lastmodified":1537089326,
+    "wof:name":"Seminario",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.31556,
+    -15.10917,
+    39.31556,
+    -15.10917
+],
+  "geometry": {"coordinates":[39.31556,-15.10917],"type":"Point"}
+}

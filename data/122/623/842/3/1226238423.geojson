@@ -1,0 +1,72 @@
+{
+  "id": 1226238423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.45694,-16.39972,37.45694,-16.39972",
+    "geom:latitude":-16.39972,
+    "geom:longitude":37.45694,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chefe Camulho",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027509,
+    "gn:latitude":-16.39972,
+    "gn:longitude":37.45694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Camulho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samela",
+        "Chefe Camulho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027509
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f91d3cd45ee2d0f9476b5400e9aaaee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697943,
+            "locality_id":1226238423,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1226238423,
+    "wof:lastmodified":1537674486,
+    "wof:name":"Chefe Camulho",
+    "wof:parent_id":1091697943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.45694,
+    -16.39972,
+    37.45694,
+    -16.39972
+],
+  "geometry": {"coordinates":[37.45694,-16.39972],"type":"Point"}
+}

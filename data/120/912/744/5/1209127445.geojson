@@ -1,0 +1,61 @@
+{
+  "id": 1209127445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00667,-14.24028,36.00667,-14.24028",
+    "geom:latitude":-14.24028,
+    "geom:longitude":36.00667,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Cocola",
+    "gn:country_code":"MZ",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087894,
+    "gn:latitude":-14.24028,
+    "gn:longitude":36.00667,
+    "gn:modification_date":"1997-04-30",
+    "gn:name":"Chefe Cocola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087894
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ce4c58f5ea31984fe92554619b788650",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209127445
+        }
+    ],
+    "wof:id":1209127445,
+    "wof:lastmodified":1536296913,
+    "wof:name":"Chefe Cocola",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00667,
+    -14.240279999999998,
+    36.00667,
+    -14.240279999999998
+],
+  "geometry": {"coordinates":[36.00667,-14.24028],"type":"Point"}
+}

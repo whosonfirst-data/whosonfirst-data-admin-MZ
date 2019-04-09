@@ -1,0 +1,67 @@
+{
+  "id": 1243258553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.60222,-16.83028,36.60222,-16.83028",
+    "geom:latitude":-16.83028,
+    "geom:longitude":36.60222,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Luade",
+    "gn:country_code":"MZ",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1093493,
+    "gn:latitude":-16.83028,
+    "gn:longitude":36.60222,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Luade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1093493
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"aaf7c88e5de925c01ce5f7eb51e08767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700047,
+            "locality_id":1243258553,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1243258553,
+    "wof:lastmodified":1537073308,
+    "wof:name":"Luade",
+    "wof:parent_id":1091700047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.60222,
+    -16.83028,
+    36.60222,
+    -16.83028
+],
+  "geometry": {"coordinates":[36.60222,-16.83028],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276882811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.48778,-12.05167,40.48778,-12.05167",
+    "geom:latitude":-12.05167,
+    "geom:longitude":40.48778,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Mambo",
+    "gn:country_code":"MZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085775,
+    "gn:latitude":-12.05167,
+    "gn:longitude":40.48778,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Mambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091698583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085775
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"72a44e74f947b3fb0aa5ea3a9ddc6101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698583,
+            "locality_id":1276882811,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276882811,
+    "wof:lastmodified":1537035546,
+    "wof:name":"Mambo",
+    "wof:parent_id":1091698583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.48778,
+    -12.05167,
+    40.48778,
+    -12.05167
+],
+  "geometry": {"coordinates":[40.48778,-12.05167],"type":"Point"}
+}

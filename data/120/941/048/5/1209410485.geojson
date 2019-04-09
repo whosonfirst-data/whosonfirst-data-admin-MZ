@@ -1,0 +1,64 @@
+{
+  "id": 1209410485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.89917,-20.40361,32.89917,-20.40361",
+    "geom:latitude":-20.40361,
+    "geom:longitude":32.89917,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Vica",
+    "gn:country_code":"MZ",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024728,
+    "gn:latitude":-20.40361,
+    "gn:longitude":32.89917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Vica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024728
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a144bfa1caedd26575781ddd6adff443",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209410485
+        }
+    ],
+    "wof:id":1209410485,
+    "wof:lastmodified":1537674472,
+    "wof:name":"Vica",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.89917,
+    -20.40361,
+    32.89917,
+    -20.40361
+],
+  "geometry": {"coordinates":[32.89917,-20.40361],"type":"Point"}
+}

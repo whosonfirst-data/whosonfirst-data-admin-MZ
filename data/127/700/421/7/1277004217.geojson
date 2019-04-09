@@ -1,0 +1,67 @@
+{
+  "id": 1277004217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28028,-15.7175,39.28028,-15.7175",
+    "geom:latitude":-15.7175,
+    "geom:longitude":39.28028,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Gil",
+    "gn:country_code":"MZ",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046011,
+    "gn:latitude":-15.7175,
+    "gn:longitude":39.28028,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Gil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046011
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e99bf8119e41c32745edbcc015b3523f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700133,
+            "locality_id":1277004217,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1277004217,
+    "wof:lastmodified":1536873588,
+    "wof:name":"Gil",
+    "wof:parent_id":1091700133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28028,
+    -15.7175,
+    39.28028,
+    -15.7175
+],
+  "geometry": {"coordinates":[39.28028,-15.7175],"type":"Point"}
+}

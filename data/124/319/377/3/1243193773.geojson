@@ -1,0 +1,67 @@
+{
+  "id": 1243193773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5,-13.17556,35.5,-13.17556",
+    "geom:latitude":-13.17556,
+    "geom:longitude":35.5,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Lumbagulo",
+    "gn:country_code":"MZ",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043254,
+    "gn:latitude":-13.17556,
+    "gn:longitude":35.5,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Lumbagulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091700505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043254
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0419d421e728f0746453c9367fa66647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700505,
+            "locality_id":1243193773,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1243193773,
+    "wof:lastmodified":1536672816,
+    "wof:name":"Lumbagulo",
+    "wof:parent_id":1091700505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5,
+    -13.17556,
+    35.5,
+    -13.17556
+],
+  "geometry": {"coordinates":[35.5,-13.17556],"type":"Point"}
+}

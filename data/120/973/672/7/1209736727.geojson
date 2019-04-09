@@ -1,0 +1,67 @@
+{
+  "id": 1209736727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.59,-13.21028,35.59,-13.21028",
+    "geom:latitude":-13.21028,
+    "geom:longitude":35.59,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Liungo",
+    "gn:country_code":"MZ",
+    "gn:dem":1062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043560,
+    "gn:latitude":-13.21028,
+    "gn:longitude":35.59,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Liungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043560
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bdbf058c0fe83e23bfd5c02009400b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698283,
+            "locality_id":1209736727,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1209736727,
+    "wof:lastmodified":1536372931,
+    "wof:name":"Liungo",
+    "wof:parent_id":1091698283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.59,
+    -13.21028,
+    35.59,
+    -13.21028
+],
+  "geometry": {"coordinates":[35.59,-13.21028],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210038537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.47972,-14.51639,39.47972,-14.51639",
+    "geom:latitude":-14.51639,
+    "geom:longitude":39.47972,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Rupane",
+    "gn:country_code":"MZ",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088357,
+    "gn:latitude":-14.51639,
+    "gn:longitude":39.47972,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Rupane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088357
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"124e7fe200136225cad55ee4f27bf215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700409,
+            "locality_id":1210038537,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1210038537,
+    "wof:lastmodified":1536385381,
+    "wof:name":"Rupane",
+    "wof:parent_id":1091700409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.47972,
+    -14.51639,
+    39.47972,
+    -14.51639
+],
+  "geometry": {"coordinates":[39.47972,-14.51639],"type":"Point"}
+}

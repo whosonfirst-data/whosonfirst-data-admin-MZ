@@ -1,0 +1,67 @@
+{
+  "id": 1226638509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.95722,-13.84583,39.95722,-13.84583",
+    "geom:latitude":-13.84583,
+    "geom:longitude":39.95722,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Namieca",
+    "gn:country_code":"MZ",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086721,
+    "gn:latitude":-13.84583,
+    "gn:longitude":39.95722,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Namieca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091697455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086721
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"edbc24e0b353018a3c30a956d16cc62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697455,
+            "locality_id":1226638509,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1226638509,
+    "wof:lastmodified":1536868735,
+    "wof:name":"Namieca",
+    "wof:parent_id":1091697455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.95722,
+    -13.84583,
+    39.95722,
+    -13.84583
+],
+  "geometry": {"coordinates":[39.95722,-13.84583],"type":"Point"}
+}

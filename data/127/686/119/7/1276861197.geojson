@@ -1,0 +1,67 @@
+{
+  "id": 1276861197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.30778,-17.05861,38.30778,-17.05861",
+    "geom:latitude":-17.05861,
+    "geom:longitude":38.30778,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chefe Cuene",
+    "gn:country_code":"MZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096487,
+    "gn:latitude":-17.05861,
+    "gn:longitude":38.30778,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Chefe Cuene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096487
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"609028837091c8fe4dd972d6ec179d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701291,
+            "locality_id":1276861197,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1276861197,
+    "wof:lastmodified":1537063345,
+    "wof:name":"Chefe Cuene",
+    "wof:parent_id":1091701291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.30778,
+    -17.05861,
+    38.30778,
+    -17.05861
+],
+  "geometry": {"coordinates":[38.30778,-17.05861],"type":"Point"}
+}

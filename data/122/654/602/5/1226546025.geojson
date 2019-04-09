@@ -1,0 +1,72 @@
+{
+  "id": 1226546025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.06889,-25.16417,32.06889,-25.16417",
+    "geom:latitude":-25.16417,
+    "geom:longitude":32.06889,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Machatuine",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042677,
+    "gn:latitude":-25.16417,
+    "gn:longitude":32.06889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Machatu\u00edne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matuganhana",
+        "Machatu\u00edne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042677
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"70660a0a8e728d2a034ed12c8dccb6d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699925,
+            "locality_id":1226546025,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1226546025,
+    "wof:lastmodified":1537674555,
+    "wof:name":"Machatuine",
+    "wof:parent_id":1091699925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.06889,
+    -25.16417,
+    32.06889,
+    -25.16417
+],
+  "geometry": {"coordinates":[32.06889,-25.16417],"type":"Point"}
+}

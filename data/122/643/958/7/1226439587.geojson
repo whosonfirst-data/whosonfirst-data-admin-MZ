@@ -1,0 +1,67 @@
+{
+  "id": 1226439587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.24194,-15.64639,33.24194,-15.64639",
+    "geom:latitude":-15.64639,
+    "geom:longitude":33.24194,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Aldeia Mtovo",
+    "gn:country_code":"MZ",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089351,
+    "gn:latitude":-15.64639,
+    "gn:longitude":33.24194,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Aldeia Mtovo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089351
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"eabc5e94b7277fbfd6ff00d9b007f949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696825,
+            "locality_id":1226439587,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1226439587,
+    "wof:lastmodified":1536654372,
+    "wof:name":"Aldeia Mtovo",
+    "wof:parent_id":1091696825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.24194,
+    -15.64639,
+    33.24194,
+    -15.64639
+],
+  "geometry": {"coordinates":[33.24194,-15.64639],"type":"Point"}
+}

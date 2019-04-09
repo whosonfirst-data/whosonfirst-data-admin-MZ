@@ -1,0 +1,67 @@
+{
+  "id": 1276756833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.74444,-15.84833,39.74444,-15.84833",
+    "geom:latitude":-15.84833,
+    "geom:longitude":39.74444,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tauani",
+    "gn:country_code":"MZ",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026319,
+    "gn:latitude":-15.84833,
+    "gn:longitude":39.74444,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Tau\u00e2ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091696277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026319
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c7bd38712c8b1bd8fe967c6457e27f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696277,
+            "locality_id":1276756833,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1276756833,
+    "wof:lastmodified":1536708729,
+    "wof:name":"Tauani",
+    "wof:parent_id":1091696277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.74444,
+    -15.84833,
+    39.74444,
+    -15.84833
+],
+  "geometry": {"coordinates":[39.74444,-15.84833],"type":"Point"}
+}

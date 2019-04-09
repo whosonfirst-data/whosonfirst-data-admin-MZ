@@ -1,0 +1,67 @@
+{
+  "id": 1360170299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.80389,-15.66417,31.80389,-15.66417",
+    "geom:latitude":-15.66417,
+    "geom:longitude":31.80389,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Chigongo",
+    "gn:country_code":"MZ",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089426,
+    "gn:latitude":-15.66417,
+    "gn:longitude":31.80389,
+    "gn:modification_date":"1997-05-30",
+    "gn:name":"Chigongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089426
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"20f6a8e00b2e1a4265efff953645e0ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699093,
+            "locality_id":1360170299,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1360170299,
+    "wof:lastmodified":1536821899,
+    "wof:name":"Chigongo",
+    "wof:parent_id":1091699093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.80389000000001,
+    -15.66417,
+    31.80389000000001,
+    -15.66417
+],
+  "geometry": {"coordinates":[31.80389000000001,-15.66417],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259677633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.84583,-17.23556,33.84583,-17.23556",
+    "geom:latitude":-17.23556,
+    "geom:longitude":33.84583,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bandeira",
+    "gn:country_code":"MZ",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052543,
+    "gn:latitude":-17.23556,
+    "gn:longitude":33.84583,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Bandeira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052543
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0bb5f9a9bffb5442c89f8037d49bf35a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697771,
+            "locality_id":1259677633,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1259677633,
+    "wof:lastmodified":1537072366,
+    "wof:name":"Bandeira",
+    "wof:parent_id":1091697771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.84583,
+    -17.23556,
+    33.84583,
+    -17.23556
+],
+  "geometry": {"coordinates":[33.84583,-17.23556],"type":"Point"}
+}

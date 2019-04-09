@@ -1,0 +1,67 @@
+{
+  "id": 1277079067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.03833,-18.53972,34.03833,-18.53972",
+    "geom:latitude":-18.53972,
+    "geom:longitude":34.03833,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Gramucana",
+    "gn:country_code":"MZ",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045757,
+    "gn:latitude":-18.53972,
+    "gn:longitude":34.03833,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Gramucana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091697631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045757
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f36874ce297090bf9a543d2c351475c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697631,
+            "locality_id":1277079067,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1277079067,
+    "wof:lastmodified":1536773513,
+    "wof:name":"Gramucana",
+    "wof:parent_id":1091697631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.03833,
+    -18.53972000000001,
+    34.03833,
+    -18.53972000000001
+],
+  "geometry": {"coordinates":[34.03833,-18.53972000000001],"type":"Point"}
+}

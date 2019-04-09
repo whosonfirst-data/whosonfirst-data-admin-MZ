@@ -1,0 +1,67 @@
+{
+  "id": 1259880389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.49833,-24.8675,32.49833,-24.8675",
+    "geom:latitude":-24.8675,
+    "geom:longitude":32.49833,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Cofi",
+    "gn:country_code":"MZ",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048038,
+    "gn:latitude":-24.8675,
+    "gn:longitude":32.49833,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"C\u00f3fi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048038
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f821eb9114e04e0f5bb1b6376649d2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1259880389,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1259880389,
+    "wof:lastmodified":1536784135,
+    "wof:name":"Cofi",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.49833,
+    -24.8675,
+    32.49833,
+    -24.8675
+],
+  "geometry": {"coordinates":[32.49833,-24.8675],"type":"Point"}
+}

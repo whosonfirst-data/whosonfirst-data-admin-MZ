@@ -1,0 +1,67 @@
+{
+  "id": 1276221655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15083,-18.42889,36.15083,-18.42889",
+    "geom:latitude":-18.42889,
+    "geom:longitude":36.15083,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Muanavina",
+    "gn:country_code":"MZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036737,
+    "gn:latitude":-18.42889,
+    "gn:longitude":36.15083,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Muanavina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036737
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f889756770a7c706712793aeeed3fd5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696729,
+            "locality_id":1276221655,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1276221655,
+    "wof:lastmodified":1536929288,
+    "wof:name":"Muanavina",
+    "wof:parent_id":1091696729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15083,
+    -18.42889,
+    36.15083,
+    -18.42889
+],
+  "geometry": {"coordinates":[36.15083,-18.42889],"type":"Point"}
+}

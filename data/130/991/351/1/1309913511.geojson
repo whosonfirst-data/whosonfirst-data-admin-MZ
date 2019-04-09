@@ -1,0 +1,67 @@
+{
+  "id": 1309913511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.46889,-23.59778,34.46889,-23.59778",
+    "geom:latitude":-23.59778,
+    "geom:longitude":34.46889,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Macuanine",
+    "gn:country_code":"MZ",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042367,
+    "gn:latitude":-23.59778,
+    "gn:longitude":34.46889,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Macuanine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042367
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"99b60abf87ff3a96d9e533e84942202c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697505,
+            "locality_id":1309913511,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1309913511,
+    "wof:lastmodified":1536776374,
+    "wof:name":"Macuanine",
+    "wof:parent_id":1091697505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.46889,
+    -23.59778,
+    34.46889,
+    -23.59778
+],
+  "geometry": {"coordinates":[34.46889,-23.59778],"type":"Point"}
+}

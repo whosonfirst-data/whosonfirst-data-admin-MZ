@@ -1,0 +1,67 @@
+{
+  "id": 1225948363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.97694,-12.58222,39.97694,-12.58222",
+    "geom:latitude":-12.58222,
+    "geom:longitude":39.97694,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Camba",
+    "gn:country_code":"MZ",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051483,
+    "gn:latitude":-12.58222,
+    "gn:longitude":39.97694,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Camba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091699771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051483
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b867819211558f55c00759ade7e3f085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699771,
+            "locality_id":1225948363,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1225948363,
+    "wof:lastmodified":1536864179,
+    "wof:name":"Camba",
+    "wof:parent_id":1091699771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.97694,
+    -12.58222,
+    39.97694,
+    -12.58222
+],
+  "geometry": {"coordinates":[39.97694,-12.58222],"type":"Point"}
+}

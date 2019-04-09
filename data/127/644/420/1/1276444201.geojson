@@ -1,0 +1,73 @@
+{
+  "id": 1276444201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.07833,-21.97806,34.07833,-21.97806",
+    "geom:latitude":-21.97806,
+    "geom:longitude":34.07833,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Regulo Chichongue",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049754,
+    "gn:latitude":-21.97806,
+    "gn:longitude":34.07833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00e9gulo Chichongue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chichengue",
+        "Chichongue",
+        "R\u00e9gulo Chichongue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049754
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5cbc2ce195a818e3aa46607975d4384d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698405,
+            "locality_id":1276444201,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1276444201,
+    "wof:lastmodified":1537674593,
+    "wof:name":"Regulo Chichongue",
+    "wof:parent_id":1091698405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.07833,
+    -21.97806,
+    34.07833,
+    -21.97806
+],
+  "geometry": {"coordinates":[34.07833,-21.97806],"type":"Point"}
+}

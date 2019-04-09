@@ -1,0 +1,67 @@
+{
+  "id": 1226453953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.10806,-24.43278,35.10806,-24.43278",
+    "geom:latitude":-24.43278,
+    "geom:longitude":35.10806,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cat. Metodista",
+    "gn:country_code":"MZ",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1102437,
+    "gn:latitude":-24.43278,
+    "gn:longitude":35.10806,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Cat. Metodista",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1102437
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"aadbe14dc087ac816f788fc9ee3cb3cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698019,
+            "locality_id":1226453953,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1226453953,
+    "wof:lastmodified":1536632119,
+    "wof:name":"Cat. Metodista",
+    "wof:parent_id":1091698019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.10805999999999,
+    -24.43278,
+    35.10805999999999,
+    -24.43278
+],
+  "geometry": {"coordinates":[35.10805999999999,-24.43278],"type":"Point"}
+}

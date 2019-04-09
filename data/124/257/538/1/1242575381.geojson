@@ -1,0 +1,67 @@
+{
+  "id": 1242575381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.13889,-14.93583,38.13889,-14.93583",
+    "geom:latitude":-14.93583,
+    "geom:longitude":38.13889,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Matarij",
+    "gn:country_code":"MZ",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088170,
+    "gn:latitude":-14.93583,
+    "gn:longitude":38.13889,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Matarij",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091701415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088170
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0f635fca6174862db8811e71f741d481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701415,
+            "locality_id":1242575381,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1242575381,
+    "wof:lastmodified":1537064048,
+    "wof:name":"Matarij",
+    "wof:parent_id":1091701415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.13889,
+    -14.93583,
+    38.13889,
+    -14.93583
+],
+  "geometry": {"coordinates":[38.13889,-14.93583],"type":"Point"}
+}

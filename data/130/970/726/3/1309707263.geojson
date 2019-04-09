@@ -1,0 +1,67 @@
+{
+  "id": 1309707263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31333,-15.44194,36.31333,-15.44194",
+    "geom:latitude":-15.44194,
+    "geom:longitude":36.31333,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Mutepa",
+    "gn:country_code":"MZ",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091657,
+    "gn:latitude":-15.44194,
+    "gn:longitude":36.31333,
+    "gn:modification_date":"1998-05-14",
+    "gn:name":"Mutepa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091699895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091657
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5a38c08d09c3f4f8a222bb2c0a9910d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699895,
+            "locality_id":1309707263,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1309707263,
+    "wof:lastmodified":1537070153,
+    "wof:name":"Mutepa",
+    "wof:parent_id":1091699895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31333,
+    -15.44194,
+    36.31333,
+    -15.44194
+],
+  "geometry": {"coordinates":[36.31333,-15.44194],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242881695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.80889,-21.90306,34.80889,-21.90306",
+    "geom:latitude":-21.90306,
+    "geom:longitude":34.80889,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Notica",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029550,
+    "gn:latitude":-21.90306,
+    "gn:longitude":34.80889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Noti\u00e7a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Notice",
+        "Noti\u00e7a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029550
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"83e7779306276ca8c5477331ee120f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698063,
+            "locality_id":1242881695,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1242881695,
+    "wof:lastmodified":1537674496,
+    "wof:name":"Notica",
+    "wof:parent_id":1091698063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.80889000000001,
+    -21.90306,
+    34.80889000000001,
+    -21.90306
+],
+  "geometry": {"coordinates":[34.80889000000001,-21.90306],"type":"Point"}
+}

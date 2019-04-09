@@ -1,0 +1,67 @@
+{
+  "id": 1259994301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.66667,-16.76667,37.66667,-16.76667",
+    "geom:latitude":-16.76667,
+    "geom:longitude":37.66667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Avarra",
+    "gn:country_code":"MZ",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052688,
+    "gn:latitude":-16.76667,
+    "gn:longitude":37.66667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Avarra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052688
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b68bd6f62d030371fe14297cb165ecd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698671,
+            "locality_id":1259994301,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1259994301,
+    "wof:lastmodified":1536617255,
+    "wof:name":"Avarra",
+    "wof:parent_id":1091698671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.66667,
+    -16.76667,
+    37.66667,
+    -16.76667
+],
+  "geometry": {"coordinates":[37.66667,-16.76667],"type":"Point"}
+}

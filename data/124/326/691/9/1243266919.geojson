@@ -1,0 +1,67 @@
+{
+  "id": 1243266919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.45361,-23.52944,32.45361,-23.52944",
+    "geom:latitude":-23.52944,
+    "geom:longitude":32.45361,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Chibuco",
+    "gn:country_code":"MZ",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049875,
+    "gn:latitude":-23.52944,
+    "gn:longitude":32.45361,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chibuco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049875
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3c4b1fa865691e874742023e9c59d44c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696621,
+            "locality_id":1243266919,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1243266919,
+    "wof:lastmodified":1537061564,
+    "wof:name":"Chibuco",
+    "wof:parent_id":1091696621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.45361,
+    -23.52944,
+    32.45361,
+    -23.52944
+],
+  "geometry": {"coordinates":[32.45361,-23.52944],"type":"Point"}
+}

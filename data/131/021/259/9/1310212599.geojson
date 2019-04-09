@@ -1,0 +1,67 @@
+{
+  "id": 1310212599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.80667,-24.585,34.80667,-24.585",
+    "geom:latitude":-24.585,
+    "geom:longitude":34.80667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chongone",
+    "gn:country_code":"MZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1099988,
+    "gn:latitude":-24.585,
+    "gn:longitude":34.80667,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chongone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1099988
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f32fb5d150e03c561e59ec6a07a3ccf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701681,
+            "locality_id":1310212599,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1310212599,
+    "wof:lastmodified":1536840914,
+    "wof:name":"Chongone",
+    "wof:parent_id":1091701681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.80667,
+    -24.585,
+    34.80667,
+    -24.585
+],
+  "geometry": {"coordinates":[34.80667,-24.585],"type":"Point"}
+}

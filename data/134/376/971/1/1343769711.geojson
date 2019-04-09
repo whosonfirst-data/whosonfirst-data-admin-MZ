@@ -1,0 +1,67 @@
+{
+  "id": 1343769711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.02278,-23.20722,35.02278,-23.20722",
+    "geom:latitude":-23.20722,
+    "geom:longitude":35.02278,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cabo Matecheque",
+    "gn:country_code":"MZ",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101610,
+    "gn:latitude":-23.20722,
+    "gn:longitude":35.02278,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Cabo Matecheque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091700259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101610
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5b754dbe1ea88ba39eda3c08ffe17083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700259,
+            "locality_id":1343769711,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1343769711,
+    "wof:lastmodified":1536797677,
+    "wof:name":"Cabo Matecheque",
+    "wof:parent_id":1091700259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.02278,
+    -23.20722,
+    35.02278,
+    -23.20722
+],
+  "geometry": {"coordinates":[35.02278,-23.20722],"type":"Point"}
+}

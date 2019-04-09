@@ -1,0 +1,67 @@
+{
+  "id": 1309925761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.76333,-15.49667,32.76333,-15.49667",
+    "geom:latitude":-15.49667,
+    "geom:longitude":32.76333,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Chiringa",
+    "gn:country_code":"MZ",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085561,
+    "gn:latitude":-15.49667,
+    "gn:longitude":32.76333,
+    "gn:modification_date":"1997-06-03",
+    "gn:name":"Chiringa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085561
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0c8fce2ebee639e8e26c4a61749be543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699093,
+            "locality_id":1309925761,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1309925761,
+    "wof:lastmodified":1536758370,
+    "wof:name":"Chiringa",
+    "wof:parent_id":1091699093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.76333,
+    -15.49667,
+    32.76333,
+    -15.49667
+],
+  "geometry": {"coordinates":[32.76333,-15.49667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343450599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.81972,-17.60806,36.81972,-17.60806",
+    "geom:latitude":-17.60806,
+    "geom:longitude":36.81972,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Nicoadala",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029901,
+    "gn:latitude":-17.60806,
+    "gn:longitude":36.81972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nicoadala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nicuadala",
+        "Nicoadala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029901
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e1e0836daa234d960b7a206eb7281378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701163,
+            "locality_id":1343450599,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1343450599,
+    "wof:lastmodified":1537674497,
+    "wof:name":"Nicoadala",
+    "wof:parent_id":1091701163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.81972,
+    -17.60806000000001,
+    36.81972,
+    -17.60806000000001
+],
+  "geometry": {"coordinates":[36.81972,-17.60806000000001],"type":"Point"}
+}

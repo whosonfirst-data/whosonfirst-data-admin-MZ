@@ -1,0 +1,67 @@
+{
+  "id": 1310098079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.46222,-14.68806,39.46222,-14.68806",
+    "geom:latitude":-14.68806,
+    "geom:longitude":39.46222,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nacorrea",
+    "gn:country_code":"MZ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034769,
+    "gn:latitude":-14.68806,
+    "gn:longitude":39.46222,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Nacorrea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034769
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"84a5f3709a136d4703515e8315163aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700409,
+            "locality_id":1310098079,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1310098079,
+    "wof:lastmodified":1537006478,
+    "wof:name":"Nacorrea",
+    "wof:parent_id":1091700409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.46222,
+    -14.68806,
+    39.46222,
+    -14.68806
+],
+  "geometry": {"coordinates":[39.46222,-14.68806],"type":"Point"}
+}

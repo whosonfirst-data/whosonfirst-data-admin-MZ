@@ -1,0 +1,67 @@
+{
+  "id": 1310029781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.61667,-25.0,32.61667,-25.0",
+    "geom:latitude":-25.0,
+    "geom:longitude":32.61667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ungubana",
+    "gn:country_code":"MZ",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024997,
+    "gn:latitude":-25.0,
+    "gn:longitude":32.61667,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Ungubana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024997
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c33b86e81004eb0f6bc6514a03c8d5d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1310029781,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1310029781,
+    "wof:lastmodified":1536605326,
+    "wof:name":"Ungubana",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.61667,
+    -25.0,
+    32.61667,
+    -25.0
+],
+  "geometry": {"coordinates":[32.61667,-25.0],"type":"Point"}
+}

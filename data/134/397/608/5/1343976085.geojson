@@ -1,0 +1,72 @@
+{
+  "id": 1343976085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.86667,-16.4,32.86667,-16.4",
+    "geom:latitude":-16.4,
+    "geom:longitude":32.86667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Chicoipa",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049714,
+    "gn:latitude":-16.4,
+    "gn:longitude":32.86667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chicoipa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabaisue",
+        "Chicoipa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049714
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"29055350d3588e6398b9fb6b28ba4a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696537,
+            "locality_id":1343976085,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1343976085,
+    "wof:lastmodified":1537674593,
+    "wof:name":"Chicoipa",
+    "wof:parent_id":1091696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.86667,
+    -16.4,
+    32.86667,
+    -16.4
+],
+  "geometry": {"coordinates":[32.86667,-16.4],"type":"Point"}
+}

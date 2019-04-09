@@ -1,0 +1,67 @@
+{
+  "id": 1242973893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.72083,-24.7875,33.72083,-24.7875",
+    "geom:latitude":-24.7875,
+    "geom:longitude":33.72083,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Bartolomeu",
+    "gn:country_code":"MZ",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052451,
+    "gn:latitude":-24.7875,
+    "gn:longitude":33.72083,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Bartolomeu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052451
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5ceda180d79267e1a65f90cabd6bc547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696583,
+            "locality_id":1242973893,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1242973893,
+    "wof:lastmodified":1536988975,
+    "wof:name":"Bartolomeu",
+    "wof:parent_id":1091696583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.72083,
+    -24.7875,
+    33.72083,
+    -24.7875
+],
+  "geometry": {"coordinates":[33.72083,-24.7875],"type":"Point"}
+}

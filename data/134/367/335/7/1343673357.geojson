@@ -1,0 +1,67 @@
+{
+  "id": 1343673357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.42722,-24.42611,34.42722,-24.42611",
+    "geom:latitude":-24.42611,
+    "geom:longitude":34.42722,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Joao Mulehe",
+    "gn:country_code":"MZ",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1098109,
+    "gn:latitude":-24.42611,
+    "gn:longitude":34.42722,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Jo\u00e3o Mulehe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1098109
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b76a0ba68582c0fe0138ba4082b4e57f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698019,
+            "locality_id":1343673357,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1343673357,
+    "wof:lastmodified":1536937156,
+    "wof:name":"Joao Mulehe",
+    "wof:parent_id":1091698019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.42722,
+    -24.42611,
+    34.42722,
+    -24.42611
+],
+  "geometry": {"coordinates":[34.42722,-24.42611],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210002049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.41389,-14.84722,33.41389,-14.84722",
+    "geom:latitude":-14.84722,
+    "geom:longitude":33.41389,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Chuala",
+    "gn:country_code":"MZ",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048283,
+    "gn:latitude":-14.84722,
+    "gn:longitude":33.41389,
+    "gn:modification_date":"1997-04-24",
+    "gn:name":"Chuala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091698455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048283
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d045bb6c57ad53b0effa53f194f74168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698455,
+            "locality_id":1210002049,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1210002049,
+    "wof:lastmodified":1536377674,
+    "wof:name":"Chuala",
+    "wof:parent_id":1091698455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.41389,
+    -14.84722,
+    33.41389,
+    -14.84722
+],
+  "geometry": {"coordinates":[33.41389,-14.84722],"type":"Point"}
+}

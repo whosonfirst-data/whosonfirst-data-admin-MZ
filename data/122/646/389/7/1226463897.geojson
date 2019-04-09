@@ -1,0 +1,67 @@
+{
+  "id": 1226463897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.14278,-12.64861,35.14278,-12.64861",
+    "geom:latitude":-12.64861,
+    "geom:longitude":35.14278,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Malimba",
+    "gn:country_code":"MZ",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041429,
+    "gn:latitude":-12.64861,
+    "gn:longitude":35.14278,
+    "gn:modification_date":"1995-06-21",
+    "gn:name":"Malimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091701443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041429
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5781ac15ba9de7f70a7f50a44fa3817a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701443,
+            "locality_id":1226463897,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1226463897,
+    "wof:lastmodified":1536617156,
+    "wof:name":"Malimba",
+    "wof:parent_id":1091701443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.14278,
+    -12.64861,
+    35.14278,
+    -12.64861
+],
+  "geometry": {"coordinates":[35.14278,-12.64861],"type":"Point"}
+}

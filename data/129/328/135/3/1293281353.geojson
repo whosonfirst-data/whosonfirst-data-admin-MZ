@@ -1,0 +1,67 @@
+{
+  "id": 1293281353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.49806,-18.39583,33.49806,-18.39583",
+    "geom:latitude":-18.39583,
+    "geom:longitude":33.49806,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"M'panze",
+    "gn:country_code":"MZ",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036959,
+    "gn:latitude":-18.39583,
+    "gn:longitude":33.49806,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"M\u2019panze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091696359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036959
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"081ce09a2d21cad8aa1dbefef41614a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696359,
+            "locality_id":1293281353,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1293281353,
+    "wof:lastmodified":1537081046,
+    "wof:name":"M'panze",
+    "wof:parent_id":1091696359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.49806,
+    -18.39583,
+    33.49806,
+    -18.39583
+],
+  "geometry": {"coordinates":[33.49806,-18.39583],"type":"Point"}
+}

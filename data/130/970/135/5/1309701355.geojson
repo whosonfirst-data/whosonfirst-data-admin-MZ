@@ -1,0 +1,67 @@
+{
+  "id": 1309701355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.63972,-16.79472,33.63972,-16.79472",
+    "geom:latitude":-16.79472,
+    "geom:longitude":33.63972,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nhampalaza",
+    "gn:country_code":"MZ",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1030933,
+    "gn:latitude":-16.79472,
+    "gn:longitude":33.63972,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Nhampalaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1030933
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d758081317cafcb31b83a05e82e9cd05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697771,
+            "locality_id":1309701355,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1309701355,
+    "wof:lastmodified":1537078594,
+    "wof:name":"Nhampalaza",
+    "wof:parent_id":1091697771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.63972,
+    -16.79472,
+    33.63972,
+    -16.79472
+],
+  "geometry": {"coordinates":[33.63972,-16.79472],"type":"Point"}
+}

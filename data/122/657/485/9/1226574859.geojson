@@ -1,0 +1,72 @@
+{
+  "id": 1226574859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.74361,-18.46861,34.74361,-18.46861",
+    "geom:latitude":-18.46861,
+    "geom:longitude":34.74361,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Muchana",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036480,
+    "gn:latitude":-18.46861,
+    "gn:longitude":34.74361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Muchana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muchamba",
+        "Muchana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036480
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"23a0f8e0df0a816283fcdb7d7619b622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696559,
+            "locality_id":1226574859,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1226574859,
+    "wof:lastmodified":1537674520,
+    "wof:name":"Muchana",
+    "wof:parent_id":1091696559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.74361,
+    -18.46861,
+    34.74361,
+    -18.46861
+],
+  "geometry": {"coordinates":[34.74361,-18.46861],"type":"Point"}
+}

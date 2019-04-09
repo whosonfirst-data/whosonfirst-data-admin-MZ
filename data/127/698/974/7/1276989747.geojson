@@ -1,0 +1,67 @@
+{
+  "id": 1276989747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.88167,-23.64,33.88167,-23.64",
+    "geom:latitude":-23.64,
+    "geom:longitude":33.88167,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Govene",
+    "gn:country_code":"MZ",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045767,
+    "gn:latitude":-23.64,
+    "gn:longitude":33.88167,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Govene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045767
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"634112f015f509bc2d4e84684ef0692c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696709,
+            "locality_id":1276989747,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1276989747,
+    "wof:lastmodified":1536893493,
+    "wof:name":"Govene",
+    "wof:parent_id":1091696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.88167,
+    -23.64,
+    33.88167,
+    -23.64
+],
+  "geometry": {"coordinates":[33.88167,-23.64],"type":"Point"}
+}

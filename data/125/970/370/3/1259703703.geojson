@@ -1,0 +1,67 @@
+{
+  "id": 1259703703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.96667,-15.52333,30.96667,-15.52333",
+    "geom:latitude":-15.52333,
+    "geom:longitude":30.96667,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Caburo",
+    "gn:country_code":"MZ",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089177,
+    "gn:latitude":-15.52333,
+    "gn:longitude":30.96667,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Caburo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091701729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089177
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a80c232cf3b1a03ace7d1ccf25138e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701729,
+            "locality_id":1259703703,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1259703703,
+    "wof:lastmodified":1537036412,
+    "wof:name":"Caburo",
+    "wof:parent_id":1091701729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.96667,
+    -15.52333,
+    30.96667,
+    -15.52333
+],
+  "geometry": {"coordinates":[30.96667,-15.52333],"type":"Point"}
+}

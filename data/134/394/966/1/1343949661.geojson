@@ -1,0 +1,72 @@
+{
+  "id": 1343949661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.22361,-13.09778,35.22361,-13.09778",
+    "geom:latitude":-13.09778,
+    "geom:longitude":35.22361,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Aldeia Bagarila",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052646,
+    "gn:latitude":-13.09778,
+    "gn:longitude":35.22361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aldeia Bagarila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bagalira",
+        "Aldeia Bagarila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091701443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052646
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a0a045dec4edfa9eedc91f137a6b4991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701443,
+            "locality_id":1343949661,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1343949661,
+    "wof:lastmodified":1537674610,
+    "wof:name":"Aldeia Bagarila",
+    "wof:parent_id":1091701443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.22361,
+    -13.09778,
+    35.22361,
+    -13.09778
+],
+  "geometry": {"coordinates":[35.22361,-13.09778],"type":"Point"}
+}

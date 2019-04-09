@@ -1,0 +1,67 @@
+{
+  "id": 1360269251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.86444,-19.07,33.86444,-19.07",
+    "geom:latitude":-19.07,
+    "geom:longitude":33.86444,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Faife",
+    "gn:country_code":"MZ",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046470,
+    "gn:latitude":-19.07,
+    "gn:longitude":33.86444,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Faife",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046470
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"29868857e8b4ea6439689d44316c1e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697585,
+            "locality_id":1360269251,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1360269251,
+    "wof:lastmodified":1536679987,
+    "wof:name":"Faife",
+    "wof:parent_id":1091697585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.86444,
+    -19.07,
+    33.86444,
+    -19.07
+],
+  "geometry": {"coordinates":[33.86444,-19.07],"type":"Point"}
+}

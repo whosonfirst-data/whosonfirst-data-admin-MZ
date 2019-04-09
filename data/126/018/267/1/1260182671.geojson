@@ -1,0 +1,67 @@
+{
+  "id": 1260182671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.68917,-25.32778,32.68917,-25.32778",
+    "geom:latitude":-25.32778,
+    "geom:longitude":32.68917,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Nhambi",
+    "gn:country_code":"MZ",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090090,
+    "gn:latitude":-25.32778,
+    "gn:longitude":32.68917,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Nhambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090090
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b239009d30db895e5fab81cbc1bd2c84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699015,
+            "locality_id":1260182671,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1260182671,
+    "wof:lastmodified":1536847966,
+    "wof:name":"Nhambi",
+    "wof:parent_id":1091699015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.68917,
+    -25.32778,
+    32.68917,
+    -25.32778
+],
+  "geometry": {"coordinates":[32.68917,-25.32778],"type":"Point"}
+}

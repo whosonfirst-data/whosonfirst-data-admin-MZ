@@ -1,0 +1,61 @@
+{
+  "id": 1209437099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.13722,-14.68694,38.13722,-14.68694",
+    "geom:latitude":-14.68694,
+    "geom:longitude":38.13722,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Namarica",
+    "gn:country_code":"MZ",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034114,
+    "gn:latitude":-14.68694,
+    "gn:longitude":38.13722,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Namarica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034114
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cb3851636ac1293f13bd7ce9817e8ef9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209437099
+        }
+    ],
+    "wof:id":1209437099,
+    "wof:lastmodified":1536287071,
+    "wof:name":"Namarica",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.13722,
+    -14.68694,
+    38.13722,
+    -14.68694
+],
+  "geometry": {"coordinates":[38.13722,-14.68694],"type":"Point"}
+}

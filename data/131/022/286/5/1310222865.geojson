@@ -1,0 +1,67 @@
+{
+  "id": 1310222865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.18139,-11.75861,40.18139,-11.75861",
+    "geom:latitude":-11.75861,
+    "geom:longitude":40.18139,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chuie",
+    "gn:country_code":"MZ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048238,
+    "gn:latitude":-11.75861,
+    "gn:longitude":40.18139,
+    "gn:modification_date":"1995-02-06",
+    "gn:name":"Chuie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048238
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c307c228a53c79f13f56bbb618c82781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700543,
+            "locality_id":1310222865,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1310222865,
+    "wof:lastmodified":1536826252,
+    "wof:name":"Chuie",
+    "wof:parent_id":1091700543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.18139,
+    -11.75861,
+    40.18139,
+    -11.75861
+],
+  "geometry": {"coordinates":[40.18139,-11.75861],"type":"Point"}
+}

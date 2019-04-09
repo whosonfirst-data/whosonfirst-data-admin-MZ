@@ -1,0 +1,72 @@
+{
+  "id": 1343949743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.37389,-12.8675,37.37389,-12.8675",
+    "geom:latitude":-12.8675,
+    "geom:longitude":37.37389,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Cumongoe",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047492,
+    "gn:latitude":-12.8675,
+    "gn:longitude":37.37389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cumongoe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cumongu\u00e8",
+        "Cumongoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047492
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f8353ffdd34334e45c4df86fb5b6ff30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699257,
+            "locality_id":1343949743,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1343949743,
+    "wof:lastmodified":1537674579,
+    "wof:name":"Cumongoe",
+    "wof:parent_id":1091699257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.37389,
+    -12.8675,
+    37.37389,
+    -12.8675
+],
+  "geometry": {"coordinates":[37.37389,-12.8675],"type":"Point"}
+}

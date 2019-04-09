@@ -1,0 +1,67 @@
+{
+  "id": 1327218339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.43667,-17.29806,36.43667,-17.29806",
+    "geom:latitude":-17.29806,
+    "geom:longitude":36.43667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zunguza",
+    "gn:country_code":"MZ",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024052,
+    "gn:latitude":-17.29806,
+    "gn:longitude":36.43667,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Zunguza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024052
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"058bb889d70be7d3fd882033e73ab942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701163,
+            "locality_id":1327218339,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1327218339,
+    "wof:lastmodified":1536989127,
+    "wof:name":"Zunguza",
+    "wof:parent_id":1091701163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.43667,
+    -17.29806,
+    36.43667,
+    -17.29806
+],
+  "geometry": {"coordinates":[36.43667,-17.29806],"type":"Point"}
+}

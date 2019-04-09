@@ -1,0 +1,61 @@
+{
+  "id": 1209113711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.94111,-21.47528,34.94111,-21.47528",
+    "geom:latitude":-21.47528,
+    "geom:longitude":34.94111,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mainato",
+    "gn:country_code":"MZ",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104618,
+    "gn:latitude":-21.47528,
+    "gn:longitude":34.94111,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mainato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104618
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8d663c2a88df84f645971ad12579a658",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209113711
+        }
+    ],
+    "wof:id":1209113711,
+    "wof:lastmodified":1536297323,
+    "wof:name":"Mainato",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.941109999999995,
+    -21.47528,
+    34.941109999999995,
+    -21.47528
+],
+  "geometry": {"coordinates":[34.94110999999999,-21.47528],"type":"Point"}
+}

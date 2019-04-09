@@ -1,0 +1,67 @@
+{
+  "id": 1242599861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.03556,-13.53472,40.03556,-13.53472",
+    "geom:latitude":-13.53472,
+    "geom:longitude":40.03556,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Colava",
+    "gn:country_code":"MZ",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047832,
+    "gn:latitude":-13.53472,
+    "gn:longitude":40.03556,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Colava",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091697455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047832
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c01960c89062700b749c588e5938f66a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697455,
+            "locality_id":1242599861,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1242599861,
+    "wof:lastmodified":1537030329,
+    "wof:name":"Colava",
+    "wof:parent_id":1091697455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.03556,
+    -13.53472,
+    40.03556,
+    -13.53472
+],
+  "geometry": {"coordinates":[40.03556,-13.53472],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209409451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24806,-14.29639,36.24806,-14.29639",
+    "geom:latitude":-14.29639,
+    "geom:longitude":36.24806,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Mataca",
+    "gn:country_code":"MZ",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087908,
+    "gn:latitude":-14.29639,
+    "gn:longitude":36.24806,
+    "gn:modification_date":"1997-04-30",
+    "gn:name":"Chefe Mataca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087908
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"20db16651e63aabbd1c8a2a2c5ca2073",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209409451
+        }
+    ],
+    "wof:id":1209409451,
+    "wof:lastmodified":1536287887,
+    "wof:name":"Chefe Mataca",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24806,
+    -14.29639,
+    36.24806,
+    -14.29639
+],
+  "geometry": {"coordinates":[36.24806,-14.29639],"type":"Point"}
+}

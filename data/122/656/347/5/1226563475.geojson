@@ -1,0 +1,67 @@
+{
+  "id": 1226563475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.06417,-11.57556,35.06417,-11.57556",
+    "geom:latitude":-11.57556,
+    "geom:longitude":35.06417,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Catial",
+    "gn:country_code":"MZ",
+    "gn:dem":1297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050828,
+    "gn:latitude":-11.57556,
+    "gn:longitude":35.06417,
+    "gn:modification_date":"1995-02-03",
+    "gn:name":"Catial",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050828
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"286df14ca52c6a59ed4d4ee3402a4125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698193,
+            "locality_id":1226563475,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1226563475,
+    "wof:lastmodified":1536972187,
+    "wof:name":"Catial",
+    "wof:parent_id":1091698193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.06417,
+    -11.57556,
+    35.06417,
+    -11.57556
+],
+  "geometry": {"coordinates":[35.06417,-11.57556],"type":"Point"}
+}

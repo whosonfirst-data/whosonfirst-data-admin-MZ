@@ -1,0 +1,67 @@
+{
+  "id": 1327128089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58444,-18.68278,33.58444,-18.68278",
+    "geom:latitude":-18.68278,
+    "geom:longitude":33.58444,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zibatira",
+    "gn:country_code":"MZ",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024202,
+    "gn:latitude":-18.68278,
+    "gn:longitude":33.58444,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Zibatira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024202
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"30bb3663df2f26169b66ef9272c3c70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698625,
+            "locality_id":1327128089,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1327128089,
+    "wof:lastmodified":1536620243,
+    "wof:name":"Zibatira",
+    "wof:parent_id":1091698625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58444,
+    -18.68278,
+    33.58444,
+    -18.68278
+],
+  "geometry": {"coordinates":[33.58444,-18.68278],"type":"Point"}
+}

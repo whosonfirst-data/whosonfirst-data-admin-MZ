@@ -1,0 +1,67 @@
+{
+  "id": 1343757153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.20722,-14.31222,38.20722,-14.31222",
+    "geom:latitude":-14.31222,
+    "geom:longitude":38.20722,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Muala",
+    "gn:country_code":"MZ",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036823,
+    "gn:latitude":-14.31222,
+    "gn:longitude":38.20722,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Muala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091698233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036823
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"96ce56824d95276af590dbe77ff72f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698233,
+            "locality_id":1343757153,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1343757153,
+    "wof:lastmodified":1536814975,
+    "wof:name":"Muala",
+    "wof:parent_id":1091698233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.20722,
+    -14.31222,
+    38.20722,
+    -14.31222
+],
+  "geometry": {"coordinates":[38.20722,-14.31222],"type":"Point"}
+}

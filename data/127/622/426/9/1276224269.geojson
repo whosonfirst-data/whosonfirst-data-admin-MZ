@@ -1,0 +1,67 @@
+{
+  "id": 1276224269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.21417,-13.1925,35.21417,-13.1925",
+    "geom:latitude":-13.1925,
+    "geom:longitude":35.21417,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Palolanga",
+    "gn:country_code":"MZ",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029246,
+    "gn:latitude":-13.1925,
+    "gn:longitude":35.21417,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Palolanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029246
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f5bcd109b66ad3ca16e58c92e71b24a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698283,
+            "locality_id":1276224269,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1276224269,
+    "wof:lastmodified":1536925734,
+    "wof:name":"Palolanga",
+    "wof:parent_id":1091698283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21417,
+    -13.1925,
+    35.21417,
+    -13.1925
+],
+  "geometry": {"coordinates":[35.21417,-13.1925],"type":"Point"}
+}

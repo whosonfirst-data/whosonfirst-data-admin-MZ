@@ -1,0 +1,67 @@
+{
+  "id": 1260266595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.55917,-20.65111,33.55917,-20.65111",
+    "geom:latitude":-20.65111,
+    "geom:longitude":33.55917,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Manasse",
+    "gn:country_code":"MZ",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041245,
+    "gn:latitude":-20.65111,
+    "gn:longitude":33.55917,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Manasse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041245
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9e63b544481fa360e7fff9743f747016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1260266595,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1260266595,
+    "wof:lastmodified":1536734734,
+    "wof:name":"Manasse",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.55917,
+    -20.65111,
+    33.55917,
+    -20.65111
+],
+  "geometry": {"coordinates":[33.55917,-20.65111],"type":"Point"}
+}

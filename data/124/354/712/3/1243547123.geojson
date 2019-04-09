@@ -1,0 +1,67 @@
+{
+  "id": 1243547123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.03222,-16.63472,39.03222,-16.63472",
+    "geom:latitude":-16.63472,
+    "geom:longitude":39.03222,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chefe Pequenino",
+    "gn:country_code":"MZ",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095991,
+    "gn:latitude":-16.63472,
+    "gn:longitude":39.03222,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Chefe Pequenino",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095991
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3e98f8daf37cc1e6395eac3abef5eeb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1243547123,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1243547123,
+    "wof:lastmodified":1536660533,
+    "wof:name":"Chefe Pequenino",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.03222,
+    -16.63472,
+    39.03222,
+    -16.63472
+],
+  "geometry": {"coordinates":[39.03222,-16.63472],"type":"Point"}
+}

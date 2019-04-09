@@ -1,0 +1,75 @@
+{
+  "id": 1360280677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.30472,-15.04722,39.30472,-15.04722",
+    "geom:latitude":-15.04722,
+    "geom:longitude":39.30472,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Travessa",
+    "gn:country_code":"MZ",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025655,
+    "gn:latitude":-15.04722,
+    "gn:longitude":39.30472,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Travessa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700965,
+        1091697151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025655
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"291c1dba06cd3147d49a47357ad5062c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700965,
+            "locality_id":1360280677,
+            "region_id":85674827
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697151,
+            "locality_id":1360280677,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1360280677,
+    "wof:lastmodified":1536663547,
+    "wof:name":"Travessa",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.30472,
+    -15.04722,
+    39.30472,
+    -15.04722
+],
+  "geometry": {"coordinates":[39.30472,-15.04722],"type":"Point"}
+}

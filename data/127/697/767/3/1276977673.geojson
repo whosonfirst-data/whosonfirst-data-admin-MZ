@@ -1,0 +1,67 @@
+{
+  "id": 1276977673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.17889,-16.52056,39.17889,-16.52056",
+    "geom:latitude":-16.52056,
+    "geom:longitude":39.17889,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Monsa",
+    "gn:country_code":"MZ",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095667,
+    "gn:latitude":-16.52056,
+    "gn:longitude":39.17889,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Monsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095667
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a632cd0b2c40829b87493e2675fa8da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1276977673,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1276977673,
+    "wof:lastmodified":1536910525,
+    "wof:name":"Monsa",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.17889,
+    -16.52056,
+    39.17889,
+    -16.52056
+],
+  "geometry": {"coordinates":[39.17889,-16.52056],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259577839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.76972,-14.26944,37.76972,-14.26944",
+    "geom:latitude":-14.26944,
+    "geom:longitude":37.76972,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Txagoma",
+    "gn:country_code":"MZ",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025490,
+    "gn:latitude":-14.26944,
+    "gn:longitude":37.76972,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Txagoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091701189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025490
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fbccfe7eb6c23eb7128312486329943e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701189,
+            "locality_id":1259577839,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1259577839,
+    "wof:lastmodified":1536723362,
+    "wof:name":"Txagoma",
+    "wof:parent_id":1091701189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.76972,
+    -14.26944,
+    37.76972,
+    -14.26944
+],
+  "geometry": {"coordinates":[37.76972,-14.26944],"type":"Point"}
+}

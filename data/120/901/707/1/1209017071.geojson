@@ -1,0 +1,61 @@
+{
+  "id": 1209017071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.03083,-24.72917,34.03083,-24.72917",
+    "geom:latitude":-24.72917,
+    "geom:longitude":34.03083,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"F. Mazuze",
+    "gn:country_code":"MZ",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1100589,
+    "gn:latitude":-24.72917,
+    "gn:longitude":34.03083,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"F. Mazuze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1100589
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e3f3c8833891a284a84d810c4f31f3a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209017071
+        }
+    ],
+    "wof:id":1209017071,
+    "wof:lastmodified":1536300263,
+    "wof:name":"F. Mazuze",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.03083,
+    -24.72917,
+    34.03083,
+    -24.72917
+],
+  "geometry": {"coordinates":[34.03083,-24.72917],"type":"Point"}
+}

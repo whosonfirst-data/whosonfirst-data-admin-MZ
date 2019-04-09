@@ -1,0 +1,72 @@
+{
+  "id": 1327244367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.36111,-24.56944,33.36111,-24.56944",
+    "geom:latitude":-24.56944,
+    "geom:longitude":33.36111,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Chefe Chilacho",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049403,
+    "gn:latitude":-24.56944,
+    "gn:longitude":33.36111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Chilacho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chilacho",
+        "Chefe Chilacho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049403
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"035e6e8a59c1b2154d36fd65b9137aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696583,
+            "locality_id":1327244367,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1327244367,
+    "wof:lastmodified":1537674591,
+    "wof:name":"Chefe Chilacho",
+    "wof:parent_id":1091696583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.36111,
+    -24.56944,
+    33.36111,
+    -24.56944
+],
+  "geometry": {"coordinates":[33.36111,-24.56944],"type":"Point"}
+}

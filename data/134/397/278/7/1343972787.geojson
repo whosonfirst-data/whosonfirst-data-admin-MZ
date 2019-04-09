@@ -1,0 +1,63 @@
+{
+  "id": 1343972787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.6,-14.1,40.6,-14.1",
+    "geom:latitude":-14.1,
+    "geom:longitude":40.6,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Langu",
+    "gn:country_code":"MZ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044068,
+    "gn:latitude":-14.1,
+    "gn:longitude":40.6,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Langu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044068
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fd4480de7010e380d4d470c63298a13b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343972787,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343972787,
+    "wof:lastmodified":1537001397,
+    "wof:name":"Langu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.6,
+    -14.1,
+    40.6,
+    -14.1
+],
+  "geometry": {"coordinates":[40.6,-14.1],"type":"Point"}
+}

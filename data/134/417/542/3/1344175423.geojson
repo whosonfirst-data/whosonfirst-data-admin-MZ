@@ -1,0 +1,72 @@
+{
+  "id": 1344175423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.16667,-17.28333,35.16667,-17.28333",
+    "geom:latitude":-17.28333,
+    "geom:longitude":35.16667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Cambola",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051452,
+    "gn:latitude":-17.28333,
+    "gn:longitude":35.16667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cambola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cambota",
+        "Cambola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091700637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051452
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"754b3a68350df12d6bf8d4e623951533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700637,
+            "locality_id":1344175423,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1344175423,
+    "wof:lastmodified":1537674603,
+    "wof:name":"Cambola",
+    "wof:parent_id":1091700637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16667,
+    -17.28333,
+    35.16667,
+    -17.28333
+],
+  "geometry": {"coordinates":[35.16667,-17.28333],"type":"Point"}
+}

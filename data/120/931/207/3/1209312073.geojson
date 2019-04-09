@@ -1,0 +1,61 @@
+{
+  "id": 1209312073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.96194,-14.80361,39.96194,-14.80361",
+    "geom:latitude":-14.80361,
+    "geom:longitude":39.96194,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Assuate",
+    "gn:country_code":"MZ",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052739,
+    "gn:latitude":-14.80361,
+    "gn:longitude":39.96194,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Assuate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052739
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"eaea05f92e88ae5ddea7cf253847eb11",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209312073
+        }
+    ],
+    "wof:id":1209312073,
+    "wof:lastmodified":1536290992,
+    "wof:name":"Assuate",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.96194000000001,
+    -14.80361,
+    39.96194000000001,
+    -14.80361
+],
+  "geometry": {"coordinates":[39.96194000000001,-14.80361],"type":"Point"}
+}

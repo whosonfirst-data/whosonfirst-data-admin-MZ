@@ -1,0 +1,67 @@
+{
+  "id": 1276781839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.0,-21.96667,35.0,-21.96667",
+    "geom:latitude":-21.96667,
+    "geom:longitude":35.0,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Lifurra",
+    "gn:country_code":"MZ",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043803,
+    "gn:latitude":-21.96667,
+    "gn:longitude":35.0,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Lifurra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043803
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8ab3502d13a2c3729c3995e4b149700c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698063,
+            "locality_id":1276781839,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1276781839,
+    "wof:lastmodified":1536674930,
+    "wof:name":"Lifurra",
+    "wof:parent_id":1091698063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0,
+    -21.96667,
+    35.0,
+    -21.96667
+],
+  "geometry": {"coordinates":[35.0,-21.96667],"type":"Point"}
+}

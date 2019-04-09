@@ -1,0 +1,67 @@
+{
+  "id": 1260102295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.57333,-15.08278,40.57333,-15.08278",
+    "geom:latitude":-15.08278,
+    "geom:longitude":40.57333,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Itipa",
+    "gn:country_code":"MZ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091509,
+    "gn:latitude":-15.08278,
+    "gn:longitude":40.57333,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Itipa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091697977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091509
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"eb5fc98b3f327073d3652ef8ae2088f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697977,
+            "locality_id":1260102295,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1260102295,
+    "wof:lastmodified":1536960935,
+    "wof:name":"Itipa",
+    "wof:parent_id":1091697977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.57333,
+    -15.08278,
+    40.57333,
+    -15.08278
+],
+  "geometry": {"coordinates":[40.57333,-15.08278],"type":"Point"}
+}

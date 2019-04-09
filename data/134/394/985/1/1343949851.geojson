@@ -1,0 +1,67 @@
+{
+  "id": 1343949851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.18139,-12.43278,36.18139,-12.43278",
+    "geom:latitude":-12.43278,
+    "geom:longitude":36.18139,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mataca",
+    "gn:country_code":"MZ",
+    "gn:dem":777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040119,
+    "gn:latitude":-12.43278,
+    "gn:longitude":36.18139,
+    "gn:modification_date":"1995-06-23",
+    "gn:name":"Mataca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040119
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"192687ac7ef2f6bb2b3b21ee67c85ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699465,
+            "locality_id":1343949851,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1343949851,
+    "wof:lastmodified":1537033912,
+    "wof:name":"Mataca",
+    "wof:parent_id":1091699465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.18139,
+    -12.43278,
+    36.18139,
+    -12.43278
+],
+  "geometry": {"coordinates":[36.18139,-12.43278],"type":"Point"}
+}

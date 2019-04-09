@@ -1,0 +1,67 @@
+{
+  "id": 1310028023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.2425,-17.23583,35.2425,-17.23583",
+    "geom:latitude":-17.23583,
+    "geom:longitude":35.2425,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Campira",
+    "gn:country_code":"MZ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051382,
+    "gn:latitude":-17.23583,
+    "gn:longitude":35.2425,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Campira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091700637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051382
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e171e92ca70110d701fe9a28a8336a1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700637,
+            "locality_id":1310028023,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1310028023,
+    "wof:lastmodified":1536608081,
+    "wof:name":"Campira",
+    "wof:parent_id":1091700637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2425,
+    -17.23583,
+    35.2425,
+    -17.23583
+],
+  "geometry": {"coordinates":[35.2425,-17.23583],"type":"Point"}
+}

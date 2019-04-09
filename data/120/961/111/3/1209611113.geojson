@@ -1,0 +1,61 @@
+{
+  "id": 1209611113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.7075,-16.25278,37.7075,-16.25278",
+    "geom:latitude":-16.25278,
+    "geom:longitude":37.7075,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Upua",
+    "gn:country_code":"MZ",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024940,
+    "gn:latitude":-16.25278,
+    "gn:longitude":37.7075,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Upua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024940
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1781545a61cb0b80c2f24f79e11abe84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209611113
+        }
+    ],
+    "wof:id":1209611113,
+    "wof:lastmodified":1536281843,
+    "wof:name":"Upua",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.7075,
+    -16.252779999999998,
+    37.7075,
+    -16.252779999999998
+],
+  "geometry": {"coordinates":[37.7075,-16.25278],"type":"Point"}
+}

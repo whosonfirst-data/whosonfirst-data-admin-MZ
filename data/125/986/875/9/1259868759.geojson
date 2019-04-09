@@ -1,0 +1,70 @@
+{
+  "id": 1259868759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.56111,-20.73444,32.56111,-20.73444",
+    "geom:latitude":-20.73444,
+    "geom:longitude":32.56111,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Pete",
+    "gn:country_code":"MZ",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028808,
+    "gn:latitude":-20.73444,
+    "gn:longitude":32.56111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Pete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091700331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028808
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8a40d047b9ebd9f39f9eb0019149d6fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700331,
+            "locality_id":1259868759,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1259868759,
+    "wof:lastmodified":1537674492,
+    "wof:name":"Pete",
+    "wof:parent_id":1091700331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.56111,
+    -20.73444,
+    32.56111,
+    -20.73444
+],
+  "geometry": {"coordinates":[32.56111,-20.73444],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243548213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.40694,-20.625,33.40694,-20.625",
+    "geom:latitude":-20.625,
+    "geom:longitude":33.40694,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Magobeia",
+    "gn:country_code":"MZ",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041924,
+    "gn:latitude":-20.625,
+    "gn:longitude":33.40694,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Magobeia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041924
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4ec04dda21ade020ddce8e05fe5ba9fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1243548213,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1243548213,
+    "wof:lastmodified":1536659020,
+    "wof:name":"Magobeia",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.40694000000001,
+    -20.625,
+    33.40694000000001,
+    -20.625
+],
+  "geometry": {"coordinates":[33.40694000000001,-20.625],"type":"Point"}
+}

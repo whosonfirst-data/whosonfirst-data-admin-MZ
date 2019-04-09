@@ -1,0 +1,67 @@
+{
+  "id": 1243538313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.49889,-19.80028,33.49889,-19.80028",
+    "geom:latitude":-19.80028,
+    "geom:longitude":33.49889,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Peniceira",
+    "gn:country_code":"MZ",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028876,
+    "gn:latitude":-19.80028,
+    "gn:longitude":33.49889,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Peniceira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091701483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028876
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cda893f385d11476f4969ff2184ba54d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701483,
+            "locality_id":1243538313,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1243538313,
+    "wof:lastmodified":1536673104,
+    "wof:name":"Peniceira",
+    "wof:parent_id":1091701483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.49889,
+    -19.80028,
+    33.49889,
+    -19.80028
+],
+  "geometry": {"coordinates":[33.49889,-19.80028],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1210018355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.90028,-21.81472,34.90028,-21.81472",
+    "geom:latitude":-21.81472,
+    "geom:longitude":34.90028,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chefe Rumbatsatsa",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027863,
+    "gn:latitude":-21.81472,
+    "gn:longitude":34.90028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Rumbatsatsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rumba\u00e7a\u00e7a",
+        "Chefe Rumbatsatsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027863
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d50b0132d76d3edb3f0d011e2e8c7485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698063,
+            "locality_id":1210018355,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1210018355,
+    "wof:lastmodified":1537674487,
+    "wof:name":"Chefe Rumbatsatsa",
+    "wof:parent_id":1091698063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.90028,
+    -21.81472,
+    34.90028,
+    -21.81472
+],
+  "geometry": {"coordinates":[34.90028,-21.81472],"type":"Point"}
+}

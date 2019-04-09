@@ -1,0 +1,67 @@
+{
+  "id": 1259703643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.70861,-16.41778,33.70861,-16.41778",
+    "geom:latitude":-16.41778,
+    "geom:longitude":33.70861,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Vinho",
+    "gn:country_code":"MZ",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024664,
+    "gn:latitude":-16.41778,
+    "gn:longitude":33.70861,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Vinho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024664
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"01a1a719aa827a1281f7981bdd7cdb2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696537,
+            "locality_id":1259703643,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1259703643,
+    "wof:lastmodified":1537036494,
+    "wof:name":"Vinho",
+    "wof:parent_id":1091696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.70861,
+    -16.41778,
+    33.70861,
+    -16.41778
+],
+  "geometry": {"coordinates":[33.70861,-16.41778],"type":"Point"}
+}

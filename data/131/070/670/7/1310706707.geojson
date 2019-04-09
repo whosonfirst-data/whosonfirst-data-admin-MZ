@@ -1,0 +1,67 @@
+{
+  "id": 1310706707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.43667,-19.15361,34.43667,-19.15361",
+    "geom:latitude":-19.15361,
+    "geom:longitude":34.43667,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Gulamopinso",
+    "gn:country_code":"MZ",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045583,
+    "gn:latitude":-19.15361,
+    "gn:longitude":34.43667,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Gulamopinso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091701119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045583
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e29068a0543ab52b7be4f49a2eae9026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701119,
+            "locality_id":1310706707,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1310706707,
+    "wof:lastmodified":1536624623,
+    "wof:name":"Gulamopinso",
+    "wof:parent_id":1091701119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.43667,
+    -19.15361,
+    34.43667,
+    -19.15361
+],
+  "geometry": {"coordinates":[34.43667,-19.15361],"type":"Point"}
+}

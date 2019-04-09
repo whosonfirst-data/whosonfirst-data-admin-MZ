@@ -1,0 +1,72 @@
+{
+  "id": 1343775155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.80806,-24.24833,32.80806,-24.24833",
+    "geom:latitude":-24.24833,
+    "geom:longitude":32.80806,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Zima",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052868,
+    "gn:latitude":-24.24833,
+    "gn:longitude":32.80806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ant\u00f3nio",
+        "Zima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091697721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052868
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0a5630bd722b6e8cb2b94dd4e1589e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697721,
+            "locality_id":1343775155,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1343775155,
+    "wof:lastmodified":1537674611,
+    "wof:name":"Zima",
+    "wof:parent_id":1091697721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.80806,
+    -24.24833,
+    32.80806,
+    -24.24833
+],
+  "geometry": {"coordinates":[32.80806,-24.24833],"type":"Point"}
+}

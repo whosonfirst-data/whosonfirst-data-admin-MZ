@@ -1,0 +1,61 @@
+{
+  "id": 1209533377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.67611,-12.00583,39.67611,-12.00583",
+    "geom:latitude":-12.00583,
+    "geom:longitude":39.67611,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Massomue",
+    "gn:country_code":"MZ",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040166,
+    "gn:latitude":-12.00583,
+    "gn:longitude":39.67611,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Massomue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040166
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2940b6bef05922233c7ba8c1c11048d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209533377
+        }
+    ],
+    "wof:id":1209533377,
+    "wof:lastmodified":1536284214,
+    "wof:name":"Massomue",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.67611,
+    -12.00583,
+    39.67611,
+    -12.00583
+],
+  "geometry": {"coordinates":[39.67611,-12.00583],"type":"Point"}
+}

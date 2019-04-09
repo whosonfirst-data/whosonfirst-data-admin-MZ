@@ -1,0 +1,67 @@
+{
+  "id": 1360196233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.51222,-23.30806,34.51222,-23.30806",
+    "geom:latitude":-23.30806,
+    "geom:longitude":34.51222,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malezane",
+    "gn:country_code":"MZ",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1102171,
+    "gn:latitude":-23.30806,
+    "gn:longitude":34.51222,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Malezane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1102171
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"60683946390002f6c3c81d1cf4ddfa43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697505,
+            "locality_id":1360196233,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1360196233,
+    "wof:lastmodified":1536785770,
+    "wof:name":"Malezane",
+    "wof:parent_id":1091697505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.51222,
+    -23.30806,
+    34.51222,
+    -23.30806
+],
+  "geometry": {"coordinates":[34.51222,-23.30806],"type":"Point"}
+}

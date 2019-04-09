@@ -1,0 +1,61 @@
+{
+  "id": 1209637409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.08639,-15.20639,40.08639,-15.20639",
+    "geom:latitude":-15.20639,
+    "geom:longitude":40.08639,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Puepoe",
+    "gn:country_code":"MZ",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028545,
+    "gn:latitude":-15.20639,
+    "gn:longitude":40.08639,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Puepoe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028545
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f43fea81b44c32246f832586e810ca61",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209637409
+        }
+    ],
+    "wof:id":1209637409,
+    "wof:lastmodified":1536280997,
+    "wof:name":"Puepoe",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.08639,
+    -15.20639,
+    40.08639,
+    -15.20639
+],
+  "geometry": {"coordinates":[40.08639,-15.20639],"type":"Point"}
+}

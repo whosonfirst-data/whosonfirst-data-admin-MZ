@@ -1,0 +1,61 @@
+{
+  "id": 1209313619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.57167,-19.33833,34.57167,-19.33833",
+    "geom:latitude":-19.33833,
+    "geom:longitude":34.57167,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Chissanja",
+    "gn:country_code":"MZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048723,
+    "gn:latitude":-19.33833,
+    "gn:longitude":34.57167,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chissanja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048723
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0ce663983afb9a34cefe00ff28869f57",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209313619
+        }
+    ],
+    "wof:id":1209313619,
+    "wof:lastmodified":1536290941,
+    "wof:name":"Chissanja",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.571670000000005,
+    -19.33833,
+    34.571670000000005,
+    -19.33833
+],
+  "geometry": {"coordinates":[34.57167,-19.33833],"type":"Point"}
+}

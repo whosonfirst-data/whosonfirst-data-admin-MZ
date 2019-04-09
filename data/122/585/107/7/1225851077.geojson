@@ -1,0 +1,67 @@
+{
+  "id": 1225851077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.85639,-24.97,32.85639,-24.97",
+    "geom:latitude":-24.97,
+    "geom:longitude":32.85639,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Uazavene",
+    "gn:country_code":"MZ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025203,
+    "gn:latitude":-24.97,
+    "gn:longitude":32.85639,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Uazavene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025203
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3449adeec88dd89580ce10a982d95fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1225851077,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1225851077,
+    "wof:lastmodified":1537005210,
+    "wof:name":"Uazavene",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.85639,
+    -24.97,
+    32.85639,
+    -24.97
+],
+  "geometry": {"coordinates":[32.85639,-24.97],"type":"Point"}
+}

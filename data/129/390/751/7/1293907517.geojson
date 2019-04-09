@@ -1,0 +1,67 @@
+{
+  "id": 1293907517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.51861,-25.61056,32.51861,-25.61056",
+    "geom:latitude":-25.61056,
+    "geom:longitude":32.51861,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"C. Muzele",
+    "gn:country_code":"MZ",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090048,
+    "gn:latitude":-25.61056,
+    "gn:longitude":32.51861,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"C. Muzele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090048
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c82d5f00319ce3fcb4e9d2108673cb22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699925,
+            "locality_id":1293907517,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1293907517,
+    "wof:lastmodified":1536678737,
+    "wof:name":"C. Muzele",
+    "wof:parent_id":1091699925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.51861,
+    -25.61056,
+    32.51861,
+    -25.61056
+],
+  "geometry": {"coordinates":[32.51861,-25.61056],"type":"Point"}
+}

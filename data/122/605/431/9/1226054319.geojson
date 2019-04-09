@@ -1,0 +1,67 @@
+{
+  "id": 1226054319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.74389,-24.57417,34.74389,-24.57417",
+    "geom:latitude":-24.57417,
+    "geom:longitude":34.74389,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mecano Meque",
+    "gn:country_code":"MZ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1098744,
+    "gn:latitude":-24.57417,
+    "gn:longitude":34.74389,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Mecano Meque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1098744
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"eb09c11f237b7975f3c637b0b52056c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701681,
+            "locality_id":1226054319,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1226054319,
+    "wof:lastmodified":1536713065,
+    "wof:name":"Mecano Meque",
+    "wof:parent_id":1091701681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.74389,
+    -24.57417,
+    34.74389,
+    -24.57417
+],
+  "geometry": {"coordinates":[34.74389,-24.57417],"type":"Point"}
+}

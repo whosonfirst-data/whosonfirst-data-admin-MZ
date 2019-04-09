@@ -1,0 +1,67 @@
+{
+  "id": 1327226275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.82833,-14.94389,39.82833,-14.94389",
+    "geom:latitude":-14.94389,
+    "geom:longitude":39.82833,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Cuvea",
+    "gn:country_code":"MZ",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047359,
+    "gn:latitude":-14.94389,
+    "gn:longitude":39.82833,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Cuvea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047359
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2f1819e7e40e80590a6d2883290aefd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699601,
+            "locality_id":1327226275,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1327226275,
+    "wof:lastmodified":1536977882,
+    "wof:name":"Cuvea",
+    "wof:parent_id":1091699601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.82833,
+    -14.94389,
+    39.82833,
+    -14.94389
+],
+  "geometry": {"coordinates":[39.82833,-14.94389],"type":"Point"}
+}

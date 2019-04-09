@@ -1,0 +1,67 @@
+{
+  "id": 1242591817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.85472,-11.35889,39.85472,-11.35889",
+    "geom:latitude":-11.35889,
+    "geom:longitude":39.85472,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Ahema",
+    "gn:country_code":"MZ",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053276,
+    "gn:latitude":-11.35889,
+    "gn:longitude":39.85472,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Ahema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053276
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d69b8ceb38674ecd7c8321b7cd37a7c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701043,
+            "locality_id":1242591817,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1242591817,
+    "wof:lastmodified":1537041334,
+    "wof:name":"Ahema",
+    "wof:parent_id":1091701043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.85472,
+    -11.35889,
+    39.85472,
+    -11.35889
+],
+  "geometry": {"coordinates":[39.85472,-11.35889],"type":"Point"}
+}

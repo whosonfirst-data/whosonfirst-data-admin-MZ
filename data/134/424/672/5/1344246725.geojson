@@ -1,0 +1,72 @@
+{
+  "id": 1344246725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.41583,-15.67139,36.41583,-15.67139",
+    "geom:latitude":-15.67139,
+    "geom:longitude":36.41583,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Possulo",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028597,
+    "gn:latitude":-15.67139,
+    "gn:longitude":36.41583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u00f3ssulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e1ssulo",
+        "P\u00f3ssulo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091699895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028597
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"17f0075791fca8023e652e333ca4f978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699895,
+            "locality_id":1344246725,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1344246725,
+    "wof:lastmodified":1537674491,
+    "wof:name":"Possulo",
+    "wof:parent_id":1091699895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.41583,
+    -15.67139,
+    36.41583,
+    -15.67139
+],
+  "geometry": {"coordinates":[36.41583,-15.67139],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209246571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.09889,-21.25889,34.09889,-21.25889",
+    "geom:latitude":-21.25889,
+    "geom:longitude":34.09889,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Mapounce",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040682,
+    "gn:latitude":-21.25889,
+    "gn:longitude":34.09889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mapounce",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mapouce",
+        "Mapounce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040682
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a9d74e4f56910ed391a072bd6b9cc303",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209246571
+        }
+    ],
+    "wof:id":1209246571,
+    "wof:lastmodified":1537674542,
+    "wof:name":"Mapounce",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.09889,
+    -21.25889,
+    34.09889,
+    -21.25889
+],
+  "geometry": {"coordinates":[34.09889,-21.25889],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209517431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.67889,-24.40806,34.67889,-24.40806",
+    "geom:latitude":-24.40806,
+    "geom:longitude":34.67889,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Cabo Mussana",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035405,
+    "gn:latitude":-24.40806,
+    "gn:longitude":34.67889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cabo Mussana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mussano",
+        "Cabo Mussana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035405
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"044b093393b39d9177a9e40fc7c4587b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209517431
+        }
+    ],
+    "wof:id":1209517431,
+    "wof:lastmodified":1537674513,
+    "wof:name":"Cabo Mussana",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.67889,
+    -24.40806,
+    34.67889,
+    -24.40806
+],
+  "geometry": {"coordinates":[34.67889,-24.40806],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360190933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.49806,-24.68083,32.49806,-24.68083",
+    "geom:latitude":-24.68083,
+    "geom:longitude":32.49806,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Feniace",
+    "gn:country_code":"MZ",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1103498,
+    "gn:latitude":-24.68083,
+    "gn:longitude":32.49806,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Feniace",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1103498
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b1d23f4565efdbd4af7e8086195725e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1360190933,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1360190933,
+    "wof:lastmodified":1536793212,
+    "wof:name":"Feniace",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.49806,
+    -24.68083,
+    32.49806,
+    -24.68083
+],
+  "geometry": {"coordinates":[32.49806,-24.68083],"type":"Point"}
+}

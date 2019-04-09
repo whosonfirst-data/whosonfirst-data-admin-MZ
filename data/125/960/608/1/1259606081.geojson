@@ -1,0 +1,67 @@
+{
+  "id": 1259606081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.41111,-19.1825,35.41111,-19.1825",
+    "geom:latitude":-19.1825,
+    "geom:longitude":35.41111,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Gano",
+    "gn:country_code":"MZ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046102,
+    "gn:latitude":-19.1825,
+    "gn:longitude":35.41111,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Gano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091700377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046102
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"386a4325c68789c2ee8e5ef9b86e1ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700377,
+            "locality_id":1259606081,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1259606081,
+    "wof:lastmodified":1536682202,
+    "wof:name":"Gano",
+    "wof:parent_id":1091700377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.41111,
+    -19.1825,
+    35.41111,
+    -19.1825
+],
+  "geometry": {"coordinates":[35.41111,-19.1825],"type":"Point"}
+}

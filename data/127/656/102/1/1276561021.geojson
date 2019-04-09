@@ -1,0 +1,67 @@
+{
+  "id": 1276561021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.47139,-23.93472,33.47139,-23.93472",
+    "geom:latitude":-23.93472,
+    "geom:longitude":33.47139,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Machonga",
+    "gn:country_code":"MZ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1102961,
+    "gn:latitude":-23.93472,
+    "gn:longitude":33.47139,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Machonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1102961
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b0e0c523ff004b0b3e50b6098455f65a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696583,
+            "locality_id":1276561021,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1276561021,
+    "wof:lastmodified":1536970592,
+    "wof:name":"Machonga",
+    "wof:parent_id":1091696583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.47139,
+    -23.93472,
+    33.47139,
+    -23.93472
+],
+  "geometry": {"coordinates":[33.47139,-23.93472],"type":"Point"}
+}

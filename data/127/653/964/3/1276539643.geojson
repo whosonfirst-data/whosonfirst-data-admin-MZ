@@ -1,0 +1,67 @@
+{
+  "id": 1276539643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.875,-16.98472,34.875,-16.98472",
+    "geom:latitude":-16.98472,
+    "geom:longitude":34.875,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Quadi",
+    "gn:country_code":"MZ",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028458,
+    "gn:latitude":-16.98472,
+    "gn:longitude":34.875,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Quadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091700637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028458
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"399ac68507e8ec6c631796410c8fcfdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700637,
+            "locality_id":1276539643,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1276539643,
+    "wof:lastmodified":1536998781,
+    "wof:name":"Quadi",
+    "wof:parent_id":1091700637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.875,
+    -16.98472000000001,
+    34.875,
+    -16.98472000000001
+],
+  "geometry": {"coordinates":[34.875,-16.98472000000001],"type":"Point"}
+}

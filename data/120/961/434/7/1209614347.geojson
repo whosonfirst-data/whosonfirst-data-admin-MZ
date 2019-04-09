@@ -1,0 +1,67 @@
+{
+  "id": 1209614347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.45528,-18.10861,34.45528,-18.10861",
+    "geom:latitude":-18.10861,
+    "geom:longitude":34.45528,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Nhamacolono",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1031551,
+    "gn:latitude":-18.10861,
+    "gn:longitude":34.45528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nhamacolono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nhamacolomo",
+        "Nhamacolongo",
+        "Nhamacolono"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1031551
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"84641cf8f774d2104ae3b359b9a80c31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209614347
+        }
+    ],
+    "wof:id":1209614347,
+    "wof:lastmodified":1537674500,
+    "wof:name":"Nhamacolono",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.45528,
+    -18.10861,
+    34.45528,
+    -18.10861
+],
+  "geometry": {"coordinates":[34.45528,-18.10861],"type":"Point"}
+}

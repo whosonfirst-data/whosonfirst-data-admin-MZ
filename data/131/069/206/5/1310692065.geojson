@@ -1,0 +1,72 @@
+{
+  "id": 1310692065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.08361,-15.63333,34.08361,-15.63333",
+    "geom:latitude":-15.63333,
+    "geom:longitude":34.08361,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sicito",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026998,
+    "gn:latitude":-15.63333,
+    "gn:longitude":34.08361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sicito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sicoto",
+        "Sicito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026998
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6ba8d8393df324ac4332c9ee45dd4f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699971,
+            "locality_id":1310692065,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1310692065,
+    "wof:lastmodified":1537674483,
+    "wof:name":"Sicito",
+    "wof:parent_id":1091699971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.08361,
+    -15.63333,
+    34.08361,
+    -15.63333
+],
+  "geometry": {"coordinates":[34.08361,-15.63333],"type":"Point"}
+}

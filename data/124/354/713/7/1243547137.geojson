@@ -1,0 +1,75 @@
+{
+  "id": 1243547137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.19778,-15.10111,39.19778,-15.10111",
+    "geom:latitude":-15.10111,
+    "geom:longitude":39.19778,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Merronha",
+    "gn:country_code":"MZ",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038496,
+    "gn:latitude":-15.10111,
+    "gn:longitude":39.19778,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Merronha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700965,
+        1091697151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038496
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f0d3d2a1ff9008ada023740ac60a4d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700965,
+            "locality_id":1243547137,
+            "region_id":85674827
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697151,
+            "locality_id":1243547137,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1243547137,
+    "wof:lastmodified":1536660514,
+    "wof:name":"Merronha",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.19778,
+    -15.10111,
+    39.19778,
+    -15.10111
+],
+  "geometry": {"coordinates":[39.19778,-15.10111],"type":"Point"}
+}

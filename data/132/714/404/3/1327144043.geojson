@@ -1,0 +1,72 @@
+{
+  "id": 1327144043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.12028,-12.30722,40.12028,-12.30722",
+    "geom:latitude":-12.30722,
+    "geom:longitude":40.12028,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Abdala",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053359,
+    "gn:latitude":-12.30722,
+    "gn:longitude":40.12028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Abdala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abudala",
+        "Abdala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091698583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053359
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"72edfcd37ecfed2c07702c101b2a0504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698583,
+            "locality_id":1327144043,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1327144043,
+    "wof:lastmodified":1537674615,
+    "wof:name":"Abdala",
+    "wof:parent_id":1091698583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.12028,
+    -12.30722,
+    40.12028,
+    -12.30722
+],
+  "geometry": {"coordinates":[40.12028,-12.30722],"type":"Point"}
+}

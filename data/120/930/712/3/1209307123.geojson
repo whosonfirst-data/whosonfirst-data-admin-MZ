@@ -1,0 +1,66 @@
+{
+  "id": 1209307123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.76611,-15.00111,40.76611,-15.00111",
+    "geom:latitude":-15.00111,
+    "geom:longitude":40.76611,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Cabaceira Pequena",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051838,
+    "gn:latitude":-15.00111,
+    "gn:longitude":40.76611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cabaceira Pequena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabaceira",
+        "Cabaceira Pequena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051838
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9557ac5243de6028ccd018c987086587",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209307123
+        }
+    ],
+    "wof:id":1209307123,
+    "wof:lastmodified":1537674605,
+    "wof:name":"Cabaceira Pequena",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.76611,
+    -15.00111,
+    40.76611,
+    -15.00111
+],
+  "geometry": {"coordinates":[40.76611,-15.00111],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259977335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.91333,-15.04194,37.91333,-15.04194",
+    "geom:latitude":-15.04194,
+    "geom:longitude":37.91333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Valaquela",
+    "gn:country_code":"MZ",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024842,
+    "gn:latitude":-15.04194,
+    "gn:longitude":37.91333,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"Valaquela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091701415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024842
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d495016d65c74555f2a837052e45b3b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701415,
+            "locality_id":1259977335,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1259977335,
+    "wof:lastmodified":1536643349,
+    "wof:name":"Valaquela",
+    "wof:parent_id":1091701415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.91333,
+    -15.04194,
+    37.91333,
+    -15.04194
+],
+  "geometry": {"coordinates":[37.91333,-15.04194],"type":"Point"}
+}

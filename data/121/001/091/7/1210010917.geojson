@@ -1,0 +1,67 @@
+{
+  "id": 1210010917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.13028,-17.08917,38.13028,-17.08917",
+    "geom:latitude":-17.08917,
+    "geom:longitude":38.13028,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chefe Namadoro",
+    "gn:country_code":"MZ",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096474,
+    "gn:latitude":-17.08917,
+    "gn:longitude":38.13028,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Chefe Namadoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096474
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"948c083980d13f26f3b2a80dcfad3d29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701291,
+            "locality_id":1210010917,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1210010917,
+    "wof:lastmodified":1536368400,
+    "wof:name":"Chefe Namadoro",
+    "wof:parent_id":1091701291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.13028,
+    -17.08917000000001,
+    38.13028,
+    -17.08917000000001
+],
+  "geometry": {"coordinates":[38.13028,-17.08917000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242792433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65,-14.36667,35.65,-14.36667",
+    "geom:latitude":-14.36667,
+    "geom:longitude":35.65,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Antigo Posto de Mandimba",
+    "gn:country_code":"MZ",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052900,
+    "gn:latitude":-14.36667,
+    "gn:longitude":35.65,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Antigo P\u00f4sto de Mandimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052900
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"96496fb3e30ced048b03380355ff5fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698923,
+            "locality_id":1242792433,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1242792433,
+    "wof:lastmodified":1536754142,
+    "wof:name":"Antigo Posto de Mandimba",
+    "wof:parent_id":1091698923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65,
+    -14.36667,
+    35.65,
+    -14.36667
+],
+  "geometry": {"coordinates":[35.65,-14.36667],"type":"Point"}
+}

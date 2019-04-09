@@ -1,0 +1,61 @@
+{
+  "id": 1209198271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.37028,-21.25889,33.37028,-21.25889",
+    "geom:latitude":-21.25889,
+    "geom:longitude":33.37028,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Muchai",
+    "gn:country_code":"MZ",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036482,
+    "gn:latitude":-21.25889,
+    "gn:longitude":33.37028,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Muchai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036482
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1b0302f71f906f75bc142a3488978278",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209198271
+        }
+    ],
+    "wof:id":1209198271,
+    "wof:lastmodified":1536294699,
+    "wof:name":"Muchai",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.37028,
+    -21.25889,
+    33.37028,
+    -21.25889
+],
+  "geometry": {"coordinates":[33.37028,-21.25889],"type":"Point"}
+}

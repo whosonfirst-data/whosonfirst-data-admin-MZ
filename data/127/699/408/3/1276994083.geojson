@@ -1,0 +1,67 @@
+{
+  "id": 1276994083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.83639,-23.92472,33.83639,-23.92472",
+    "geom:latitude":-23.92472,
+    "geom:longitude":33.83639,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Manaico",
+    "gn:country_code":"MZ",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1102854,
+    "gn:latitude":-23.92472,
+    "gn:longitude":33.83639,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Manai\u00e7o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1102854
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c9e23646dfd97a2b41331d198d9b1174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696583,
+            "locality_id":1276994083,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1276994083,
+    "wof:lastmodified":1536887472,
+    "wof:name":"Manaico",
+    "wof:parent_id":1091696583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.83639,
+    -23.92472,
+    33.83639,
+    -23.92472
+],
+  "geometry": {"coordinates":[33.83639,-23.92472],"type":"Point"}
+}

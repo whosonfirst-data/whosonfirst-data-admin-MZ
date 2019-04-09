@@ -1,0 +1,61 @@
+{
+  "id": 1209117819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.43722,-21.27222,34.43722,-21.27222",
+    "geom:latitude":-21.27222,
+    "geom:longitude":34.43722,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Machunguele",
+    "gn:country_code":"MZ",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101103,
+    "gn:latitude":-21.27222,
+    "gn:longitude":34.43722,
+    "gn:modification_date":"1998-04-29",
+    "gn:name":"Machunguele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101103
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4012a14ddae7c2bde80534a89be2d4fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209117819
+        }
+    ],
+    "wof:id":1209117819,
+    "wof:lastmodified":1536297200,
+    "wof:name":"Machunguele",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.43722,
+    -21.27222,
+    34.43722,
+    -21.27222
+],
+  "geometry": {"coordinates":[34.43722,-21.27222],"type":"Point"}
+}

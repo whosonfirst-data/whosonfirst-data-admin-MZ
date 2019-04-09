@@ -1,0 +1,72 @@
+{
+  "id": 1310711887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.36667,-16.4,32.36667,-16.4",
+    "geom:latitude":-16.4,
+    "geom:longitude":32.36667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ziquite",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024140,
+    "gn:latitude":-16.4,
+    "gn:longitude":32.36667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ziquite",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sombreiro",
+        "Ziquite"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024140
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b52aedeb574860e1916222e5c14a2e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696467,
+            "locality_id":1310711887,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1310711887,
+    "wof:lastmodified":1537674468,
+    "wof:name":"Ziquite",
+    "wof:parent_id":1091696467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.36667,
+    -16.4,
+    32.36667,
+    -16.4
+],
+  "geometry": {"coordinates":[32.36667,-16.4],"type":"Point"}
+}

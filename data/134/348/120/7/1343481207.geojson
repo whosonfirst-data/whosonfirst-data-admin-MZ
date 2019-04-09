@@ -1,0 +1,67 @@
+{
+  "id": 1343481207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.03306,-16.05028,33.03306,-16.05028",
+    "geom:latitude":-16.05028,
+    "geom:longitude":33.03306,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Mulinganica",
+    "gn:country_code":"MZ",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035811,
+    "gn:latitude":-16.05028,
+    "gn:longitude":33.03306,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Mulingani\u00e7a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035811
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f0e3048827428224087e52d94e012208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696537,
+            "locality_id":1343481207,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1343481207,
+    "wof:lastmodified":1536716564,
+    "wof:name":"Mulinganica",
+    "wof:parent_id":1091696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.03306,
+    -16.05027999999999,
+    33.03306,
+    -16.05027999999999
+],
+  "geometry": {"coordinates":[33.03306,-16.05027999999999],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343773541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.13028,-22.34083,35.13028,-22.34083",
+    "geom:latitude":-22.34083,
+    "geom:longitude":35.13028,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ueitimane",
+    "gn:country_code":"MZ",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025160,
+    "gn:latitude":-22.34083,
+    "gn:longitude":35.13028,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Ueitimane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025160
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bed836d63439549a2c57876feceba7fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701605,
+            "locality_id":1343773541,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1343773541,
+    "wof:lastmodified":1536792329,
+    "wof:name":"Ueitimane",
+    "wof:parent_id":1091701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.13028,
+    -22.34083,
+    35.13028,
+    -22.34083
+],
+  "geometry": {"coordinates":[35.13028,-22.34083],"type":"Point"}
+}

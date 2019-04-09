@@ -1,0 +1,67 @@
+{
+  "id": 1193159811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.91556,-20.39194,33.91556,-20.39194",
+    "geom:latitude":-20.39194,
+    "geom:longitude":33.91556,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Nova Golega",
+    "gn:country_code":"MZ",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029540,
+    "gn:latitude":-20.39194,
+    "gn:longitude":33.91556,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Nova Goleg\u00e3",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029540
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"14a912d6c7e9b55f29b4166f72c98bcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696561,
+            "locality_id":1193159811,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1193159811,
+    "wof:lastmodified":1536369163,
+    "wof:name":"Nova Golega",
+    "wof:parent_id":1091696561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.91556,
+    -20.39194,
+    33.91556,
+    -20.39194
+],
+  "geometry": {"coordinates":[33.91556,-20.39194],"type":"Point"}
+}

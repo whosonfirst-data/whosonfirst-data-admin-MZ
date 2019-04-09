@@ -1,0 +1,67 @@
+{
+  "id": 1293185459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76306,-18.01222,35.76306,-18.01222",
+    "geom:latitude":-18.01222,
+    "geom:longitude":35.76306,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Torrezao",
+    "gn:country_code":"MZ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025681,
+    "gn:latitude":-18.01222,
+    "gn:longitude":35.76306,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Torrez\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025681
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cb8f898be04334ebcd6c527e8e781674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700251,
+            "locality_id":1293185459,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1293185459,
+    "wof:lastmodified":1536725950,
+    "wof:name":"Torrezao",
+    "wof:parent_id":1091700251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76306,
+    -18.01222000000001,
+    35.76306,
+    -18.01222000000001
+],
+  "geometry": {"coordinates":[35.76306,-18.01222000000001],"type":"Point"}
+}

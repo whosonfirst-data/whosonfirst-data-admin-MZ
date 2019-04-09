@@ -1,0 +1,72 @@
+{
+  "id": 1243438579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.97278,-16.00306,37.97278,-16.00306",
+    "geom:latitude":-16.00306,
+    "geom:longitude":37.97278,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chefe Uelela",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025156,
+    "gn:latitude":-16.00306,
+    "gn:longitude":37.97278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Uelela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uelela",
+        "Chefe Uelela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025156
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8ad3ba2d51d3c1570a60efe63858976c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696213,
+            "locality_id":1243438579,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1243438579,
+    "wof:lastmodified":1537674475,
+    "wof:name":"Chefe Uelela",
+    "wof:parent_id":1091696213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.97278,
+    -16.00306,
+    37.97278,
+    -16.00306
+],
+  "geometry": {"coordinates":[37.97278,-16.00306],"type":"Point"}
+}

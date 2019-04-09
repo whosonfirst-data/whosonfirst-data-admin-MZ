@@ -1,0 +1,67 @@
+{
+  "id": 1242991849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.09944,-16.95222,38.09944,-16.95222",
+    "geom:latitude":-16.95222,
+    "geom:longitude":38.09944,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Aburene",
+    "gn:country_code":"MZ",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053350,
+    "gn:latitude":-16.95222,
+    "gn:longitude":38.09944,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Aburene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053350
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2e48f179153de35c5a6ca9987bc1d14e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701291,
+            "locality_id":1242991849,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1242991849,
+    "wof:lastmodified":1536963835,
+    "wof:name":"Aburene",
+    "wof:parent_id":1091701291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.09944,
+    -16.95222,
+    38.09944,
+    -16.95222
+],
+  "geometry": {"coordinates":[38.09944,-16.95222],"type":"Point"}
+}

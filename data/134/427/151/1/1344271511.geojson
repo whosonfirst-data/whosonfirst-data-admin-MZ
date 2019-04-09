@@ -1,0 +1,67 @@
+{
+  "id": 1344271511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.65083,-12.07083,39.65083,-12.07083",
+    "geom:latitude":-12.07083,
+    "geom:longitude":39.65083,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Maguera",
+    "gn:country_code":"MZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041854,
+    "gn:latitude":-12.07083,
+    "gn:longitude":39.65083,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Maguera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041854
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d2e656417c8f94b83d0bcb474ce1f5c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1344271511,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1344271511,
+    "wof:lastmodified":1537065205,
+    "wof:name":"Maguera",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.65083,
+    -12.07083,
+    39.65083,
+    -12.07083
+],
+  "geometry": {"coordinates":[39.65083,-12.07083],"type":"Point"}
+}

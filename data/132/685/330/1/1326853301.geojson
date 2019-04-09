@@ -1,0 +1,67 @@
+{
+  "id": 1326853301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.59917,-20.13389,33.59917,-20.13389",
+    "geom:latitude":-20.13389,
+    "geom:longitude":33.59917,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Bongo",
+    "gn:country_code":"MZ",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052077,
+    "gn:latitude":-20.13389,
+    "gn:longitude":33.59917,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Bongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052077
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e6860413dd6487c8fb71aaab8e09099e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696561,
+            "locality_id":1326853301,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1326853301,
+    "wof:lastmodified":1537017693,
+    "wof:name":"Bongo",
+    "wof:parent_id":1091696561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.59917,
+    -20.13389,
+    33.59917,
+    -20.13389
+],
+  "geometry": {"coordinates":[33.59917,-20.13389],"type":"Point"}
+}

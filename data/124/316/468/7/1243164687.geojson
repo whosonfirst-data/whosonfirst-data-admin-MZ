@@ -1,0 +1,67 @@
+{
+  "id": 1243164687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.54444,-14.07889,40.54444,-14.07889",
+    "geom:latitude":-14.07889,
+    "geom:longitude":40.54444,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Cocuata",
+    "gn:country_code":"MZ",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048058,
+    "gn:latitude":-14.07889,
+    "gn:longitude":40.54444,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Cocuata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048058
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2d372bda26bcbc0611ab6c3045072fb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699799,
+            "locality_id":1243164687,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1243164687,
+    "wof:lastmodified":1536715139,
+    "wof:name":"Cocuata",
+    "wof:parent_id":1091699799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.54444,
+    -14.07889,
+    40.54444,
+    -14.07889
+],
+  "geometry": {"coordinates":[40.54444,-14.07889],"type":"Point"}
+}

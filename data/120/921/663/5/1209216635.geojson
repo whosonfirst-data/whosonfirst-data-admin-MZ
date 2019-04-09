@@ -1,0 +1,61 @@
+{
+  "id": 1209216635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.36556,-21.78917,34.36556,-21.78917",
+    "geom:latitude":-21.78917,
+    "geom:longitude":34.36556,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Suacane",
+    "gn:country_code":"MZ",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026698,
+    "gn:latitude":-21.78917,
+    "gn:longitude":34.36556,
+    "gn:modification_date":"1998-04-29",
+    "gn:name":"Suacane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026698
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1cfff93741cf054f8dfbea1f31e9eeea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209216635
+        }
+    ],
+    "wof:id":1209216635,
+    "wof:lastmodified":1536294109,
+    "wof:name":"Suacane",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.365559999999995,
+    -21.78917,
+    34.365559999999995,
+    -21.78917
+],
+  "geometry": {"coordinates":[34.36556,-21.78917],"type":"Point"}
+}

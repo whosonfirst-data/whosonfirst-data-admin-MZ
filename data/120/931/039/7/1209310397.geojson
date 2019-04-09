@@ -1,0 +1,61 @@
+{
+  "id": 1209310397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.01778,-16.80528,37.01778,-16.80528",
+    "geom:latitude":-16.80528,
+    "geom:longitude":37.01778,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Regulo Bive",
+    "gn:country_code":"MZ",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1094319,
+    "gn:latitude":-16.80528,
+    "gn:longitude":37.01778,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"R\u00e9gulo Bive",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1094319
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2b2af826590d417a72d4036938c5c590",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209310397
+        }
+    ],
+    "wof:id":1209310397,
+    "wof:lastmodified":1536291049,
+    "wof:name":"Regulo Bive",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.01778,
+    -16.80528,
+    37.01778,
+    -16.80528
+],
+  "geometry": {"coordinates":[37.01778,-16.80528],"type":"Point"}
+}

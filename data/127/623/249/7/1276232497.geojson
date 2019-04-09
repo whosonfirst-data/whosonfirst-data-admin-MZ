@@ -1,0 +1,67 @@
+{
+  "id": 1276232497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86472,-18.21528,35.86472,-18.21528",
+    "geom:latitude":-18.21528,
+    "geom:longitude":35.86472,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Afonso",
+    "gn:country_code":"MZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053297,
+    "gn:latitude":-18.21528,
+    "gn:longitude":35.86472,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Afonso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091699215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053297
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f33e2d5821a7473380525517b82b524a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699215,
+            "locality_id":1276232497,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1276232497,
+    "wof:lastmodified":1536914326,
+    "wof:name":"Afonso",
+    "wof:parent_id":1091699215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86472,
+    -18.21528,
+    35.86472,
+    -18.21528
+],
+  "geometry": {"coordinates":[35.86472,-18.21528],"type":"Point"}
+}

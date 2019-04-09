@@ -1,0 +1,61 @@
+{
+  "id": 1209433051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.4,-12.93333,40.4,-12.93333",
+    "geom:latitude":-12.93333,
+    "geom:longitude":40.4,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Mueve",
+    "gn:country_code":"MZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036129,
+    "gn:latitude":-12.93333,
+    "gn:longitude":40.4,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Mueve",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036129
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b2423ed99a76723ae7a4628088c2bb6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209433051
+        }
+    ],
+    "wof:id":1209433051,
+    "wof:lastmodified":1536287182,
+    "wof:name":"Mueve",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.4,
+    -12.93333,
+    40.4,
+    -12.93333
+],
+  "geometry": {"coordinates":[40.4,-12.93333],"type":"Point"}
+}

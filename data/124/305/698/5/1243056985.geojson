@@ -1,0 +1,71 @@
+{
+  "id": 1243056985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.51889,-18.27722,33.51889,-18.27722",
+    "geom:latitude":-18.27722,
+    "geom:longitude":33.51889,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"M'txeula",
+    "gn:country_code":"MZ",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036897,
+    "gn:latitude":-18.27722,
+    "gn:longitude":33.51889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"M\u2019tx\u00e9\u00f9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u2019tx\u00e9ula",
+        "M\u2019tx\u00e9\u00f9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036897
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6ed6262a0006a035bb03c3a7ef4957f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698625,
+            "locality_id":1243056985,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1243056985,
+    "wof:lastmodified":1537674522,
+    "wof:name":"M'txeula",
+    "wof:parent_id":1091698625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.51889,
+    -18.27722,
+    33.51889,
+    -18.27722
+],
+  "geometry": {"coordinates":[33.51889,-18.27722],"type":"Point"}
+}

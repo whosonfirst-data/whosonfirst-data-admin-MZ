@@ -1,0 +1,64 @@
+{
+  "id": 1360077745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.74194,-14.26611,40.74194,-14.26611",
+    "geom:latitude":-14.26611,
+    "geom:longitude":40.74194,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Fica",
+    "gn:country_code":"MZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046347,
+    "gn:latitude":-14.26611,
+    "gn:longitude":40.74194,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Fica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046347
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"46107ca8176f2d1f033335dbe8cae177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "locality_id":1360077745,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360077745,
+    "wof:lastmodified":1536956368,
+    "wof:name":"Fica",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.74194,
+    -14.26611,
+    40.74194,
+    -14.26611
+],
+  "geometry": {"coordinates":[40.74194,-14.26611],"type":"Point"}
+}

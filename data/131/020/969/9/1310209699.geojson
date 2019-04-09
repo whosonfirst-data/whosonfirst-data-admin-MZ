@@ -1,0 +1,67 @@
+{
+  "id": 1310209699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.41667,-21.16444,34.41667,-21.16444",
+    "geom:latitude":-21.16444,
+    "geom:longitude":34.41667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mambirrice",
+    "gn:country_code":"MZ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1100718,
+    "gn:latitude":-21.16444,
+    "gn:longitude":34.41667,
+    "gn:modification_date":"1998-04-29",
+    "gn:name":"Mambirrice",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091698487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1100718
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"dca95f12d8c2483cba164a0d5cc32132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698487,
+            "locality_id":1310209699,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1310209699,
+    "wof:lastmodified":1536845097,
+    "wof:name":"Mambirrice",
+    "wof:parent_id":1091698487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.41667,
+    -21.16444,
+    34.41667,
+    -21.16444
+],
+  "geometry": {"coordinates":[34.41667,-21.16444],"type":"Point"}
+}

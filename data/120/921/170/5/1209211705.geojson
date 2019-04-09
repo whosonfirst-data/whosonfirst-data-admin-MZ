@@ -1,0 +1,66 @@
+{
+  "id": 1209211705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.71222,-12.36556,34.71222,-12.36556",
+    "geom:latitude":-12.36556,
+    "geom:longitude":34.71222,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mecanda",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039351,
+    "gn:latitude":-12.36556,
+    "gn:longitude":34.71222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mecanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mecunda",
+        "Mecanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039351
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6774f5cde2df0ad885d097ce7516e37f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209211705
+        }
+    ],
+    "wof:id":1209211705,
+    "wof:lastmodified":1537674533,
+    "wof:name":"Mecanda",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.71222,
+    -12.36556,
+    34.71222,
+    -12.36556
+],
+  "geometry": {"coordinates":[34.71222,-12.36556],"type":"Point"}
+}

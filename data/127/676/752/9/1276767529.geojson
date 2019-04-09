@@ -1,0 +1,72 @@
+{
+  "id": 1276767529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.09583,-17.57167,35.09583,-17.57167",
+    "geom:latitude":-17.57167,
+    "geom:longitude":35.09583,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jesane",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025636,
+    "gn:latitude":-17.57167,
+    "gn:longitude":35.09583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jesane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsecha",
+        "Jesane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025636
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bc3c0bbf74e0480f70843560d98298f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696493,
+            "locality_id":1276767529,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1276767529,
+    "wof:lastmodified":1537674477,
+    "wof:name":"Jesane",
+    "wof:parent_id":1091696493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.09583,
+    -17.57167,
+    35.09583,
+    -17.57167
+],
+  "geometry": {"coordinates":[35.09583,-17.57167],"type":"Point"}
+}

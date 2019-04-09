@@ -1,0 +1,67 @@
+{
+  "id": 1343582561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.44472,-12.51722,35.44472,-12.51722",
+    "geom:latitude":-12.51722,
+    "geom:longitude":35.44472,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Istambul",
+    "gn:country_code":"MZ",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044848,
+    "gn:latitude":-12.51722,
+    "gn:longitude":35.44472,
+    "gn:modification_date":"1995-06-21",
+    "gn:name":"Istambul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091701443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044848
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"89d59de1818b3a0287e34b0eb0f9209e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701443,
+            "locality_id":1343582561,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1343582561,
+    "wof:lastmodified":1537064763,
+    "wof:name":"Istambul",
+    "wof:parent_id":1091701443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.44472000000001,
+    -12.51722,
+    35.44472000000001,
+    -12.51722
+],
+  "geometry": {"coordinates":[35.44472000000001,-12.51722],"type":"Point"}
+}

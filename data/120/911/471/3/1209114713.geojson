@@ -1,0 +1,61 @@
+{
+  "id": 1209114713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.40833,-23.14583,32.40833,-23.14583",
+    "geom:latitude":-23.14583,
+    "geom:longitude":32.40833,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Chivaca",
+    "gn:country_code":"MZ",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048461,
+    "gn:latitude":-23.14583,
+    "gn:longitude":32.40833,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chiva\u00e7a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048461
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"58183559cf9a446fc6aab3e55936fab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209114713
+        }
+    ],
+    "wof:id":1209114713,
+    "wof:lastmodified":1536297292,
+    "wof:name":"Chivaca",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.40833,
+    -23.14583,
+    32.40833,
+    -23.14583
+],
+  "geometry": {"coordinates":[32.40833,-23.14583],"type":"Point"}
+}

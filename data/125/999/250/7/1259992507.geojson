@@ -1,0 +1,67 @@
+{
+  "id": 1259992507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.03056,-24.85556,34.03056,-24.85556",
+    "geom:latitude":-24.85556,
+    "geom:longitude":34.03056,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Chicocololo",
+    "gn:country_code":"MZ",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049721,
+    "gn:latitude":-24.85556,
+    "gn:longitude":34.03056,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chicocololo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091698967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049721
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0176c8094983b3d41baf735b5d77f5e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698967,
+            "locality_id":1259992507,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1259992507,
+    "wof:lastmodified":1536619958,
+    "wof:name":"Chicocololo",
+    "wof:parent_id":1091698967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.03055999999999,
+    -24.85556,
+    34.03055999999999,
+    -24.85556
+],
+  "geometry": {"coordinates":[34.03055999999999,-24.85556],"type":"Point"}
+}

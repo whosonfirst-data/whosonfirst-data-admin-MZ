@@ -1,0 +1,67 @@
+{
+  "id": 1343377403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1,-25.0,32.1,-25.0",
+    "geom:latitude":-25.0,
+    "geom:longitude":32.1,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Massiuine",
+    "gn:country_code":"MZ",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040184,
+    "gn:latitude":-25.0,
+    "gn:longitude":32.1,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Massiuine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040184
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f1a6106cc5d9503dbd24c0b4337f73a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699925,
+            "locality_id":1343377403,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1343377403,
+    "wof:lastmodified":1536864717,
+    "wof:name":"Massiuine",
+    "wof:parent_id":1091699925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1,
+    -25.0,
+    32.1,
+    -25.0
+],
+  "geometry": {"coordinates":[32.1,-25.0],"type":"Point"}
+}

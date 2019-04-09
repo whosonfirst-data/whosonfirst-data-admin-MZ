@@ -1,0 +1,67 @@
+{
+  "id": 1226153269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.08333,-13.43333,39.08333,-13.43333",
+    "geom:latitude":-13.43333,
+    "geom:longitude":39.08333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Munelia",
+    "gn:country_code":"MZ",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035741,
+    "gn:latitude":-13.43333,
+    "gn:longitude":39.08333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Munelia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035741
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4f960fb2404c0166aa29ff4127913474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700995,
+            "locality_id":1226153269,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1226153269,
+    "wof:lastmodified":1537063929,
+    "wof:name":"Munelia",
+    "wof:parent_id":1091700995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.08333,
+    -13.43333,
+    39.08333,
+    -13.43333
+],
+  "geometry": {"coordinates":[39.08333,-13.43333],"type":"Point"}
+}

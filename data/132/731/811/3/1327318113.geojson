@@ -1,0 +1,67 @@
+{
+  "id": 1327318113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.79222,-17.79306,36.79222,-17.79306",
+    "geom:latitude":-17.79306,
+    "geom:longitude":36.79222,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Elalane",
+    "gn:country_code":"MZ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046733,
+    "gn:latitude":-17.79306,
+    "gn:longitude":36.79222,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Elalane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046733
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"97e664f9b4eba0681cdda54182caeec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701163,
+            "locality_id":1327318113,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1327318113,
+    "wof:lastmodified":1536844834,
+    "wof:name":"Elalane",
+    "wof:parent_id":1091701163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.79222,
+    -17.79306,
+    36.79222,
+    -17.79306
+],
+  "geometry": {"coordinates":[36.79222,-17.79306],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209434849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.63389,-14.83167,31.63389,-14.83167",
+    "geom:latitude":-14.83167,
+    "geom:longitude":31.63389,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Chabala",
+    "gn:country_code":"MZ",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050632,
+    "gn:latitude":-14.83167,
+    "gn:longitude":31.63389,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Chabala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050632
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a37baada8d5c2681d08e09b932328631",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209434849
+        }
+    ],
+    "wof:id":1209434849,
+    "wof:lastmodified":1536287135,
+    "wof:name":"Chabala",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.63389,
+    -14.83167,
+    31.63389,
+    -14.83167
+],
+  "geometry": {"coordinates":[31.63389,-14.83167],"type":"Point"}
+}

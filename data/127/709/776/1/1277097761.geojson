@@ -1,0 +1,67 @@
+{
+  "id": 1277097761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.63722,-14.34417,36.63722,-14.34417",
+    "geom:latitude":-14.34417,
+    "geom:longitude":36.63722,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mueha",
+    "gn:country_code":"MZ",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088117,
+    "gn:latitude":-14.34417,
+    "gn:longitude":36.63722,
+    "gn:modification_date":"1997-04-30",
+    "gn:name":"Mueha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088117
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0915058fb84c22d02eaa9b1bbd094c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699845,
+            "locality_id":1277097761,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1277097761,
+    "wof:lastmodified":1536745744,
+    "wof:name":"Mueha",
+    "wof:parent_id":1091699845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.63722,
+    -14.34417,
+    36.63722,
+    -14.34417
+],
+  "geometry": {"coordinates":[36.63722,-14.34417],"type":"Point"}
+}

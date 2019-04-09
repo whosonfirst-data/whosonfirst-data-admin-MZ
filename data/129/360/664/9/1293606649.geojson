@@ -1,0 +1,67 @@
+{
+  "id": 1293606649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.73056,-13.07,39.73056,-13.07",
+    "geom:latitude":-13.07,
+    "geom:longitude":39.73056,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chefe Marraca",
+    "gn:country_code":"MZ",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087741,
+    "gn:latitude":-13.07,
+    "gn:longitude":39.73056,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Chefe Marraca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087741
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"88fb5b3d04559f4477c7697e9130fe48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696241,
+            "locality_id":1293606649,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1293606649,
+    "wof:lastmodified":1536612876,
+    "wof:name":"Chefe Marraca",
+    "wof:parent_id":1091696241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.73056,
+    -13.07,
+    39.73056,
+    -13.07
+],
+  "geometry": {"coordinates":[39.73056,-13.07],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309706327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.18417,-18.44417,33.18417,-18.44417",
+    "geom:latitude":-18.44417,
+    "geom:longitude":33.18417,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zefa",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024236,
+    "gn:latitude":-18.44417,
+    "gn:longitude":33.18417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zefa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e9fa",
+        "Zefa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091696359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024236
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1221c61fd46353cd90e7fa2d042a1b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696359,
+            "locality_id":1309706327,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1309706327,
+    "wof:lastmodified":1537674469,
+    "wof:name":"Zefa",
+    "wof:parent_id":1091696359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.18417,
+    -18.44417,
+    33.18417,
+    -18.44417
+],
+  "geometry": {"coordinates":[33.18417,-18.44417],"type":"Point"}
+}

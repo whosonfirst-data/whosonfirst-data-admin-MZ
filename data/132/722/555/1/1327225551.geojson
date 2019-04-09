@@ -1,0 +1,72 @@
+{
+  "id": 1327225551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.33833,-13.61667,35.33833,-13.61667",
+    "geom:latitude":-13.61667,
+    "geom:longitude":35.33833,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Ligomba",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043802,
+    "gn:latitude":-13.61667,
+    "gn:longitude":35.33833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ligomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ligamba",
+        "Ligomba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043802
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"58cc646c13f0bd83d2584ecb97a2c713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698283,
+            "locality_id":1327225551,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1327225551,
+    "wof:lastmodified":1537674561,
+    "wof:name":"Ligomba",
+    "wof:parent_id":1091698283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33833,
+    -13.61667,
+    35.33833,
+    -13.61667
+],
+  "geometry": {"coordinates":[35.33833,-13.61667],"type":"Point"}
+}

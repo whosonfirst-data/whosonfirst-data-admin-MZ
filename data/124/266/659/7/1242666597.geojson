@@ -1,0 +1,72 @@
+{
+  "id": 1242666597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.02917,-19.70667,33.02917,-19.70667",
+    "geom:latitude":-19.70667,
+    "geom:longitude":33.02917,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Garicanhi",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046086,
+    "gn:latitude":-19.70667,
+    "gn:longitude":33.02917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Garicanhi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caricanhi",
+        "Garicanhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091701483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046086
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2f04c1665404c3f9ef7dd178710e2f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701483,
+            "locality_id":1242666597,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1242666597,
+    "wof:lastmodified":1537674573,
+    "wof:name":"Garicanhi",
+    "wof:parent_id":1091701483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.02917,
+    -19.70667000000001,
+    33.02917,
+    -19.70667000000001
+],
+  "geometry": {"coordinates":[33.02917,-19.70667000000001],"type":"Point"}
+}

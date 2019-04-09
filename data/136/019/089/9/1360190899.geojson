@@ -1,0 +1,67 @@
+{
+  "id": 1360190899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.04472,-24.97667,32.04472,-24.97667",
+    "geom:latitude":-24.97667,
+    "geom:longitude":32.04472,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Ifacube",
+    "gn:country_code":"MZ",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045360,
+    "gn:latitude":-24.97667,
+    "gn:longitude":32.04472,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Ifacube",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045360
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0057edc01cc1e403dd54d797f29e632a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699925,
+            "locality_id":1360190899,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1360190899,
+    "wof:lastmodified":1536793265,
+    "wof:name":"Ifacube",
+    "wof:parent_id":1091699925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.04472,
+    -24.97667,
+    32.04472,
+    -24.97667
+],
+  "geometry": {"coordinates":[32.04472,-24.97667],"type":"Point"}
+}

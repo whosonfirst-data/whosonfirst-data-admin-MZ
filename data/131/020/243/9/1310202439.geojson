@@ -1,0 +1,67 @@
+{
+  "id": 1310202439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.13639,-16.05361,39.13639,-16.05361",
+    "geom:latitude":-16.05361,
+    "geom:longitude":39.13639,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Suati",
+    "gn:country_code":"MZ",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026684,
+    "gn:latitude":-16.05361,
+    "gn:longitude":39.13639,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Suati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026684
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"de19d8747d3a97227e82563c821c58e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1310202439,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1310202439,
+    "wof:lastmodified":1536855518,
+    "wof:name":"Suati",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.13639000000001,
+    -16.05361,
+    39.13639000000001,
+    -16.05361
+],
+  "geometry": {"coordinates":[39.13639000000001,-16.05361],"type":"Point"}
+}

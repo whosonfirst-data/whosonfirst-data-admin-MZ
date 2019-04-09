@@ -1,0 +1,67 @@
+{
+  "id": 1310119989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.38361,-12.96056,39.38361,-12.96056",
+    "geom:latitude":-12.96056,
+    "geom:longitude":39.38361,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Polupo",
+    "gn:country_code":"MZ",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085616,
+    "gn:latitude":-12.96056,
+    "gn:longitude":39.38361,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Polupo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085616
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3308552e2f9ec6aad1a0dd8689546c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696241,
+            "locality_id":1310119989,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1310119989,
+    "wof:lastmodified":1536975007,
+    "wof:name":"Polupo",
+    "wof:parent_id":1091696241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.38361,
+    -12.96056,
+    39.38361,
+    -12.96056
+],
+  "geometry": {"coordinates":[39.38361,-12.96056],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209316507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.42583,-22.49028,34.42583,-22.49028",
+    "geom:latitude":-22.49028,
+    "geom:longitude":34.42583,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jossia",
+    "gn:country_code":"MZ",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101763,
+    "gn:latitude":-22.49028,
+    "gn:longitude":34.42583,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Jossia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101763
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4b5e1e51ab95cd508c0bf875600882c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209316507
+        }
+    ],
+    "wof:id":1209316507,
+    "wof:lastmodified":1536290845,
+    "wof:name":"Jossia",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.42583,
+    -22.49028,
+    34.42583,
+    -22.49028
+],
+  "geometry": {"coordinates":[34.42583,-22.49028],"type":"Point"}
+}

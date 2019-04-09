@@ -1,0 +1,67 @@
+{
+  "id": 1293281401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.37889,-20.78333,33.37889,-20.78333",
+    "geom:latitude":-20.78333,
+    "geom:longitude":33.37889,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Caissiu",
+    "gn:country_code":"MZ",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051637,
+    "gn:latitude":-20.78333,
+    "gn:longitude":33.37889,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Caissiu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051637
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"08fcd60fc7502a8235d076ea938cd163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1293281401,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1293281401,
+    "wof:lastmodified":1537080983,
+    "wof:name":"Caissiu",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.37889000000001,
+    -20.78333,
+    33.37889000000001,
+    -20.78333
+],
+  "geometry": {"coordinates":[33.37889000000001,-20.78333],"type":"Point"}
+}

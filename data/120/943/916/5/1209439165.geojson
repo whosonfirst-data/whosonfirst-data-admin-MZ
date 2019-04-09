@@ -1,0 +1,61 @@
+{
+  "id": 1209439165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.12944,-25.31778,32.12944,-25.31778",
+    "geom:latitude":-25.31778,
+    "geom:longitude":32.12944,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mecubane",
+    "gn:country_code":"MZ",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039171,
+    "gn:latitude":-25.31778,
+    "gn:longitude":32.12944,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Mecubane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039171
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e18cef8adb88d6bddbd650ffec0d8806",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209439165
+        }
+    ],
+    "wof:id":1209439165,
+    "wof:lastmodified":1536287009,
+    "wof:name":"Mecubane",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.12944,
+    -25.31778,
+    32.12944,
+    -25.31778
+],
+  "geometry": {"coordinates":[32.12944,-25.31778],"type":"Point"}
+}

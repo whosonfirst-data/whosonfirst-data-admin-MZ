@@ -1,0 +1,67 @@
+{
+  "id": 1242691683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.82972,-11.34889,39.82972,-11.34889",
+    "geom:latitude":-11.34889,
+    "geom:longitude":39.82972,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Ichee",
+    "gn:country_code":"MZ",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085121,
+    "gn:latitude":-11.34889,
+    "gn:longitude":39.82972,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Iche\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085121
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"78d6659df4d793bbff94da41feaf03ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701043,
+            "locality_id":1242691683,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1242691683,
+    "wof:lastmodified":1536899382,
+    "wof:name":"Ichee",
+    "wof:parent_id":1091701043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.82972,
+    -11.34889,
+    39.82972,
+    -11.34889
+],
+  "geometry": {"coordinates":[39.82972,-11.34889],"type":"Point"}
+}

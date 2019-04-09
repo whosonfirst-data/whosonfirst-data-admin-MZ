@@ -1,0 +1,67 @@
+{
+  "id": 1293389133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.16694,-20.26556,34.16694,-20.26556",
+    "geom:latitude":-20.26556,
+    "geom:longitude":34.16694,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Inhangara",
+    "gn:country_code":"MZ",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045046,
+    "gn:latitude":-20.26556,
+    "gn:longitude":34.16694,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Inhangara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045046
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"90ad3ba34f7ccbf8a33e7886d796d4f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696395,
+            "locality_id":1293389133,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1293389133,
+    "wof:lastmodified":1536929548,
+    "wof:name":"Inhangara",
+    "wof:parent_id":1091696395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.16694,
+    -20.26556,
+    34.16694,
+    -20.26556
+],
+  "geometry": {"coordinates":[34.16694,-20.26556],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209329439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.6,-12.35,40.6,-12.35",
+    "geom:latitude":-12.35,
+    "geom:longitude":40.6,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Manaua",
+    "gn:country_code":"MZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041241,
+    "gn:latitude":-12.35,
+    "gn:longitude":40.6,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Man\u00e1ua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041241
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"117d1f1bb3a1bdb575534d3813a3ebdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209329439
+        }
+    ],
+    "wof:id":1209329439,
+    "wof:lastmodified":1536290420,
+    "wof:name":"Manaua",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.6,
+    -12.35,
+    40.6,
+    -12.35
+],
+  "geometry": {"coordinates":[40.6,-12.35],"type":"Point"}
+}

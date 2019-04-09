@@ -1,0 +1,67 @@
+{
+  "id": 1260286259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.16389,-24.46083,34.16389,-24.46083",
+    "geom:latitude":-24.46083,
+    "geom:longitude":34.16389,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"J Guerreiro",
+    "gn:country_code":"MZ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097908,
+    "gn:latitude":-24.46083,
+    "gn:longitude":34.16389,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"J Guerreiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097908
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"78002bdb338792b0ff41f57af3792c04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698019,
+            "locality_id":1260286259,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1260286259,
+    "wof:lastmodified":1536708541,
+    "wof:name":"J Guerreiro",
+    "wof:parent_id":1091698019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.16389,
+    -24.46083,
+    34.16389,
+    -24.46083
+],
+  "geometry": {"coordinates":[34.16389,-24.46083],"type":"Point"}
+}

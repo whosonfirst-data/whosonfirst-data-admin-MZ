@@ -1,0 +1,61 @@
+{
+  "id": 1209611101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.32806,-15.48667,37.32806,-15.48667",
+    "geom:latitude":-15.48667,
+    "geom:longitude":37.32806,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Namutua",
+    "gn:country_code":"MZ",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092877,
+    "gn:latitude":-15.48667,
+    "gn:longitude":37.32806,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"Namutua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092877
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1563100a94a00e0015667ef5a5e095d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209611101
+        }
+    ],
+    "wof:id":1209611101,
+    "wof:lastmodified":1536281844,
+    "wof:name":"Namutua",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.32806,
+    -15.486670000000002,
+    37.32806,
+    -15.486670000000002
+],
+  "geometry": {"coordinates":[37.32806,-15.48667],"type":"Point"}
+}

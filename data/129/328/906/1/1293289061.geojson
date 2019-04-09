@@ -1,0 +1,67 @@
+{
+  "id": 1293289061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.50778,-17.06944,38.50778,-17.06944",
+    "geom:latitude":-17.06944,
+    "geom:longitude":38.50778,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Regulo Muia",
+    "gn:country_code":"MZ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096565,
+    "gn:latitude":-17.06944,
+    "gn:longitude":38.50778,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"R\u00e9gulo Muia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096565
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ecbb11b5f37c2bed7b1cf72cc7bcd1a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701291,
+            "locality_id":1293289061,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1293289061,
+    "wof:lastmodified":1537070038,
+    "wof:name":"Regulo Muia",
+    "wof:parent_id":1091701291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.50778,
+    -17.06944,
+    38.50778,
+    -17.06944
+],
+  "geometry": {"coordinates":[38.50778,-17.06944],"type":"Point"}
+}

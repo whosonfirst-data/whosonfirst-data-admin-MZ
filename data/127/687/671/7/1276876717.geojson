@@ -1,0 +1,68 @@
+{
+  "id": 1276876717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.94333,-12.99778,39.94333,-12.99778",
+    "geom:latitude":-12.99778,
+    "geom:longitude":39.94333,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Ngeue",
+    "gn:country_code":"MZ",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085767,
+    "gn:latitude":-12.99778,
+    "gn:longitude":39.94333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ngeue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085767,
+        "wk:page":"Ngeue"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"73e1e887718c562de00f948b3ef80d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696241,
+            "locality_id":1276876717,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276876717,
+    "wof:lastmodified":1537569940,
+    "wof:name":"Ngeue",
+    "wof:parent_id":1091696241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.94333,
+    -12.99778,
+    39.94333,
+    -12.99778
+],
+  "geometry": {"coordinates":[39.94333,-12.99778],"type":"Point"}
+}

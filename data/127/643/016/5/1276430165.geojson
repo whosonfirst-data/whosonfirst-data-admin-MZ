@@ -1,0 +1,67 @@
+{
+  "id": 1276430165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.70583,-16.43806,33.70583,-16.43806",
+    "geom:latitude":-16.43806,
+    "geom:longitude":33.70583,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Chareca",
+    "gn:country_code":"MZ",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050257,
+    "gn:latitude":-16.43806,
+    "gn:longitude":33.70583,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Chareca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050257
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4bb00b77080d2f6d9749841e6742f5a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697771,
+            "locality_id":1276430165,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1276430165,
+    "wof:lastmodified":1536648553,
+    "wof:name":"Chareca",
+    "wof:parent_id":1091697771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.70583,
+    -16.43806,
+    33.70583,
+    -16.43806
+],
+  "geometry": {"coordinates":[33.70583,-16.43806],"type":"Point"}
+}

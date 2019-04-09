@@ -1,0 +1,67 @@
+{
+  "id": 1293284821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.88056,-15.00722,37.88056,-15.00722",
+    "geom:latitude":-15.00722,
+    "geom:longitude":37.88056,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Namuali",
+    "gn:country_code":"MZ",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090543,
+    "gn:latitude":-15.00722,
+    "gn:longitude":37.88056,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"Namuali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091701415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090543
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"858ee70d1dbab72c0e27f90332fc4b05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701415,
+            "locality_id":1293284821,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1293284821,
+    "wof:lastmodified":1537076087,
+    "wof:name":"Namuali",
+    "wof:parent_id":1091701415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.88056,
+    -15.00722,
+    37.88056,
+    -15.00722
+],
+  "geometry": {"coordinates":[37.88056,-15.00722],"type":"Point"}
+}

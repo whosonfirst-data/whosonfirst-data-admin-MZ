@@ -1,0 +1,67 @@
+{
+  "id": 1276653751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86111,-15.28222,35.86111,-15.28222",
+    "geom:latitude":-15.28222,
+    "geom:longitude":35.86111,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Palale",
+    "gn:country_code":"MZ",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029273,
+    "gn:latitude":-15.28222,
+    "gn:longitude":35.86111,
+    "gn:modification_date":"1998-05-15",
+    "gn:name":"Pal\u00e1l\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029273
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cb6ac83e284f0cad8599c0420deb3748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699553,
+            "locality_id":1276653751,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1276653751,
+    "wof:lastmodified":1536845396,
+    "wof:name":"Palale",
+    "wof:parent_id":1091699553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86111,
+    -15.28222,
+    35.86111,
+    -15.28222
+],
+  "geometry": {"coordinates":[35.86111,-15.28222],"type":"Point"}
+}

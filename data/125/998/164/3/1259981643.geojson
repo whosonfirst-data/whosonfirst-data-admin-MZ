@@ -1,0 +1,67 @@
+{
+  "id": 1259981643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.45778,-23.89861,35.45778,-23.89861",
+    "geom:latitude":-23.89861,
+    "geom:longitude":35.45778,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Enoque",
+    "gn:country_code":"MZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1103385,
+    "gn:latitude":-23.89861,
+    "gn:longitude":35.45778,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Enoque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1103385
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"24d022f06e6e9078b9505163162a61e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697029,
+            "locality_id":1259981643,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1259981643,
+    "wof:lastmodified":1536636614,
+    "wof:name":"Enoque",
+    "wof:parent_id":1091697029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.45778,
+    -23.89861,
+    35.45778,
+    -23.89861
+],
+  "geometry": {"coordinates":[35.45778,-23.89861],"type":"Point"}
+}

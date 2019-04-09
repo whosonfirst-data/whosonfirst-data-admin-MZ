@@ -1,0 +1,67 @@
+{
+  "id": 1242978419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.07139,-24.33028,35.07139,-24.33028",
+    "geom:latitude":-24.33028,
+    "geom:longitude":35.07139,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cabo mahena",
+    "gn:country_code":"MZ",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1102191,
+    "gn:latitude":-24.33028,
+    "gn:longitude":35.07139,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Cabo mahena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1102191
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8579191221d6b833ad2045823e8668c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698147,
+            "locality_id":1242978419,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1242978419,
+    "wof:lastmodified":1536982525,
+    "wof:name":"Cabo mahena",
+    "wof:parent_id":1091698147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.07139,
+    -24.33028,
+    35.07139,
+    -24.33028
+],
+  "geometry": {"coordinates":[35.07139,-24.33028],"type":"Point"}
+}

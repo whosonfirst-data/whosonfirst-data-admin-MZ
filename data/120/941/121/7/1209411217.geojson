@@ -1,0 +1,61 @@
+{
+  "id": 1209411217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.74222,-17.14583,37.74222,-17.14583",
+    "geom:latitude":-17.14583,
+    "geom:longitude":37.74222,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Livavia",
+    "gn:country_code":"MZ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043551,
+    "gn:latitude":-17.14583,
+    "gn:longitude":37.74222,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Livavia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043551
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8ff731d070aa42699ebc9fca0c889707",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209411217
+        }
+    ],
+    "wof:id":1209411217,
+    "wof:lastmodified":1536287831,
+    "wof:name":"Livavia",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.74222,
+    -17.14583,
+    37.74222,
+    -17.14583
+],
+  "geometry": {"coordinates":[37.74222,-17.14583],"type":"Point"}
+}

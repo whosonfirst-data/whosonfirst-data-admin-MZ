@@ -1,0 +1,67 @@
+{
+  "id": 1276972239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.10611,-14.32611,40.10611,-14.32611",
+    "geom:latitude":-14.32611,
+    "geom:longitude":40.10611,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mata",
+    "gn:country_code":"MZ",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040130,
+    "gn:latitude":-14.32611,
+    "gn:longitude":40.10611,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Mata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040130
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1be1e23e27cda3c9e36b8a725440a611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700773,
+            "locality_id":1276972239,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1276972239,
+    "wof:lastmodified":1536918053,
+    "wof:name":"Mata",
+    "wof:parent_id":1091700773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.10611,
+    -14.32611,
+    40.10611,
+    -14.32611
+],
+  "geometry": {"coordinates":[40.10611,-14.32611],"type":"Point"}
+}

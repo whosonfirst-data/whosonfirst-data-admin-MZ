@@ -1,0 +1,67 @@
+{
+  "id": 1259705913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.21472,-16.75306,39.21472,-16.75306",
+    "geom:latitude":-16.75306,
+    "geom:longitude":39.21472,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Regedor Macone",
+    "gn:country_code":"MZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096236,
+    "gn:latitude":-16.75306,
+    "gn:longitude":39.21472,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Regedor Macone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096236
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"066129d1c230c418d0bba49de8fb909a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1259705913,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1259705913,
+    "wof:lastmodified":1537033377,
+    "wof:name":"Regedor Macone",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.21472,
+    -16.75306,
+    39.21472,
+    -16.75306
+],
+  "geometry": {"coordinates":[39.21472,-16.75306],"type":"Point"}
+}

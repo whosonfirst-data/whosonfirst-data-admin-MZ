@@ -1,0 +1,67 @@
+{
+  "id": 1226750897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.60556,-22.9075,33.60556,-22.9075",
+    "geom:latitude":-22.9075,
+    "geom:longitude":33.60556,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Metuque",
+    "gn:country_code":"MZ",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1100239,
+    "gn:latitude":-22.9075,
+    "gn:longitude":33.60556,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Metuque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1100239
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8967eeb254238116f3c60332deadbfe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696709,
+            "locality_id":1226750897,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1226750897,
+    "wof:lastmodified":1536708378,
+    "wof:name":"Metuque",
+    "wof:parent_id":1091696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.60556,
+    -22.9075,
+    33.60556,
+    -22.9075
+],
+  "geometry": {"coordinates":[33.60556,-22.9075],"type":"Point"}
+}

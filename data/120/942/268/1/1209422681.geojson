@@ -1,0 +1,61 @@
+{
+  "id": 1209422681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.92083,-21.31778,34.92083,-21.31778",
+    "geom:latitude":-21.31778,
+    "geom:longitude":34.92083,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mafumisse",
+    "gn:country_code":"MZ",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104072,
+    "gn:latitude":-21.31778,
+    "gn:longitude":34.92083,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mafumisse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104072
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"21f91c01b73bd78475c9503cc8c92e68",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209422681
+        }
+    ],
+    "wof:id":1209422681,
+    "wof:lastmodified":1536287479,
+    "wof:name":"Mafumisse",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.92083,
+    -21.31778,
+    34.92083,
+    -21.31778
+],
+  "geometry": {"coordinates":[34.92083,-21.31778],"type":"Point"}
+}

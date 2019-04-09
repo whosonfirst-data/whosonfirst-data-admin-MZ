@@ -1,0 +1,67 @@
+{
+  "id": 1260179549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.60583,-15.295,40.60583,-15.295",
+    "geom:latitude":-15.295,
+    "geom:longitude":40.60583,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Miratone",
+    "gn:country_code":"MZ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091553,
+    "gn:latitude":-15.295,
+    "gn:longitude":40.60583,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Miratone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091553
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f0a89e0a1b37af66190b065acdea07c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700287,
+            "locality_id":1260179549,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1260179549,
+    "wof:lastmodified":1536852320,
+    "wof:name":"Miratone",
+    "wof:parent_id":1091700287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.60583,
+    -15.295,
+    40.60583,
+    -15.295
+],
+  "geometry": {"coordinates":[40.60583,-15.295],"type":"Point"}
+}

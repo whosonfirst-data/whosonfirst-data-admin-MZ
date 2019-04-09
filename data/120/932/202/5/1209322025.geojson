@@ -1,0 +1,66 @@
+{
+  "id": 1209322025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.4425,-23.41667,35.4425,-23.41667",
+    "geom:latitude":-23.41667,
+    "geom:longitude":35.4425,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Chefe Chiduca",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041856,
+    "gn:latitude":-23.41667,
+    "gn:longitude":35.4425,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Chiduca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maguenha",
+        "Chefe Chiduca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041856
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e90ec6da8db7b6ae8ffa980f3dffb043",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209322025
+        }
+    ],
+    "wof:id":1209322025,
+    "wof:lastmodified":1537674550,
+    "wof:name":"Chefe Chiduca",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4425,
+    -23.41667,
+    35.4425,
+    -23.41667
+],
+  "geometry": {"coordinates":[35.4425,-23.41667],"type":"Point"}
+}

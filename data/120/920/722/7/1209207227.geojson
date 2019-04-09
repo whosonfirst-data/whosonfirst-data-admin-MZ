@@ -1,0 +1,66 @@
+{
+  "id": 1209207227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.97667,-14.83611,38.97667,-14.83611",
+    "geom:latitude":-14.83611,
+    "geom:longitude":38.97667,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mivia",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037912,
+    "gn:latitude":-14.83611,
+    "gn:longitude":38.97667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mivia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mevia",
+        "Mivia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037912
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"90de36231bbbd1210121dd918a455d89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209207227
+        }
+    ],
+    "wof:id":1209207227,
+    "wof:lastmodified":1537674527,
+    "wof:name":"Mivia",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.97667,
+    -14.83611,
+    38.97667,
+    -14.83611
+],
+  "geometry": {"coordinates":[38.97667,-14.83611],"type":"Point"}
+}

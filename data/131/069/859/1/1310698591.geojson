@@ -1,0 +1,67 @@
+{
+  "id": 1310698591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.8525,-14.79444,36.8525,-14.79444",
+    "geom:latitude":-14.79444,
+    "geom:longitude":36.8525,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Oano",
+    "gn:country_code":"MZ",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088003,
+    "gn:latitude":-14.79444,
+    "gn:longitude":36.8525,
+    "gn:modification_date":"1997-04-30",
+    "gn:name":"Oano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091697375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088003
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"acfdfadb1aa7dd2b52d46c877578a992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697375,
+            "locality_id":1310698591,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1310698591,
+    "wof:lastmodified":1536637223,
+    "wof:name":"Oano",
+    "wof:parent_id":1091697375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.8525,
+    -14.79444,
+    36.8525,
+    -14.79444
+],
+  "geometry": {"coordinates":[36.8525,-14.79444],"type":"Point"}
+}

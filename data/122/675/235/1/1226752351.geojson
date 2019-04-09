@@ -1,0 +1,72 @@
+{
+  "id": 1226752351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.79972,-20.08667,33.79972,-20.08667",
+    "geom:latitude":-20.08667,
+    "geom:longitude":33.79972,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Balane",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051929,
+    "gn:latitude":-20.08667,
+    "gn:longitude":33.79972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Balane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bulane",
+        "Balane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051929
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e6a78fceeac2742c5263ce2b7e9c75a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696561,
+            "locality_id":1226752351,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1226752351,
+    "wof:lastmodified":1537674606,
+    "wof:name":"Balane",
+    "wof:parent_id":1091696561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.79972,
+    -20.08667,
+    33.79972,
+    -20.08667
+],
+  "geometry": {"coordinates":[33.79972,-20.08667],"type":"Point"}
+}

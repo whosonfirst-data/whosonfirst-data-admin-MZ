@@ -1,0 +1,61 @@
+{
+  "id": 1209216525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.58222,-21.90194,34.58222,-21.90194",
+    "geom:latitude":-21.90194,
+    "geom:longitude":34.58222,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Andela",
+    "gn:country_code":"MZ",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052981,
+    "gn:latitude":-21.90194,
+    "gn:longitude":34.58222,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Andela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052981
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"49e203f99f4bc1062f27222551f22acc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209216525
+        }
+    ],
+    "wof:id":1209216525,
+    "wof:lastmodified":1536294113,
+    "wof:name":"Andela",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.58222,
+    -21.90194,
+    34.58222,
+    -21.90194
+],
+  "geometry": {"coordinates":[34.58222,-21.90194],"type":"Point"}
+}

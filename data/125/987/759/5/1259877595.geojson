@@ -1,0 +1,67 @@
+{
+  "id": 1259877595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.29417,-14.58972,39.29417,-14.58972",
+    "geom:latitude":-14.58972,
+    "geom:longitude":39.29417,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Cabo Antonio",
+    "gn:country_code":"MZ",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088368,
+    "gn:latitude":-14.58972,
+    "gn:longitude":39.29417,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Cabo Ant\u00f3nio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088368
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fbe4051625a36d13b3cb34b5949bb6d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700409,
+            "locality_id":1259877595,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1259877595,
+    "wof:lastmodified":1536788162,
+    "wof:name":"Cabo Antonio",
+    "wof:parent_id":1091700409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.29417,
+    -14.58972,
+    39.29417,
+    -14.58972
+],
+  "geometry": {"coordinates":[39.29417,-14.58972],"type":"Point"}
+}

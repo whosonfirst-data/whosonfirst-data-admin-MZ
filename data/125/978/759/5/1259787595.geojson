@@ -1,0 +1,67 @@
+{
+  "id": 1259787595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.26222,-11.74056,40.26222,-11.74056",
+    "geom:latitude":-11.74056,
+    "geom:longitude":40.26222,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Apitaina",
+    "gn:country_code":"MZ",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052842,
+    "gn:latitude":-11.74056,
+    "gn:longitude":40.26222,
+    "gn:modification_date":"1995-02-06",
+    "gn:name":"Apitaina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052842
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"99b344b2d640fde55d8d077a2cda666d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700013,
+            "locality_id":1259787595,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1259787595,
+    "wof:lastmodified":1536917762,
+    "wof:name":"Apitaina",
+    "wof:parent_id":1091700013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.26222,
+    -11.74056,
+    40.26222,
+    -11.74056
+],
+  "geometry": {"coordinates":[40.26222,-11.74056],"type":"Point"}
+}

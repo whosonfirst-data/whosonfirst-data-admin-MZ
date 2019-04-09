@@ -1,0 +1,66 @@
+{
+  "id": 1209123725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.10861,-13.16167,39.10861,-13.16167",
+    "geom:latitude":-13.16167,
+    "geom:longitude":39.10861,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Oloco",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045453,
+    "gn:latitude":-13.16167,
+    "gn:longitude":39.10861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oloco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Holoco",
+        "Oloco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045453
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"574b0cc80ceacfc9396daaa85cbc6c05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209123725
+        }
+    ],
+    "wof:id":1209123725,
+    "wof:lastmodified":1537674569,
+    "wof:name":"Oloco",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.10861,
+    -13.16167,
+    39.10861,
+    -13.16167
+],
+  "geometry": {"coordinates":[39.10861,-13.16167],"type":"Point"}
+}

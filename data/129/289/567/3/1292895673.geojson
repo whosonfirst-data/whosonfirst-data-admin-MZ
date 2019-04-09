@@ -1,0 +1,67 @@
+{
+  "id": 1292895673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9275,-16.87417,35.9275,-16.87417",
+    "geom:latitude":-16.87417,
+    "geom:longitude":35.9275,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Nhalicoco",
+    "gn:country_code":"MZ",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1031638,
+    "gn:latitude":-16.87417,
+    "gn:longitude":35.9275,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Nhalicoco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1031638
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3c98e60ae89352c05ca704e0e44ab2e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700255,
+            "locality_id":1292895673,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1292895673,
+    "wof:lastmodified":1536645670,
+    "wof:name":"Nhalicoco",
+    "wof:parent_id":1091700255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9275,
+    -16.87417,
+    35.9275,
+    -16.87417
+],
+  "geometry": {"coordinates":[35.9275,-16.87417],"type":"Point"}
+}

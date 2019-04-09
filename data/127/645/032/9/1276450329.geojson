@@ -1,0 +1,67 @@
+{
+  "id": 1276450329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.48056,-23.91833,35.48056,-23.91833",
+    "geom:latitude":-23.91833,
+    "geom:longitude":35.48056,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Mune",
+    "gn:country_code":"MZ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035742,
+    "gn:latitude":-23.91833,
+    "gn:longitude":35.48056,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Mune",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035742
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8d915a3c411c1ede8a435ea685c055b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697029,
+            "locality_id":1276450329,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1276450329,
+    "wof:lastmodified":1536619708,
+    "wof:name":"Mune",
+    "wof:parent_id":1091697029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48056,
+    -23.91833,
+    35.48056,
+    -23.91833
+],
+  "geometry": {"coordinates":[35.48056,-23.91833],"type":"Point"}
+}

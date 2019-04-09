@@ -1,0 +1,67 @@
+{
+  "id": 1243463991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.07389,-12.49639,40.07389,-12.49639",
+    "geom:latitude":-12.49639,
+    "geom:longitude":40.07389,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Piloto",
+    "gn:country_code":"MZ",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085642,
+    "gn:latitude":-12.49639,
+    "gn:longitude":40.07389,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Piloto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091699771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085642
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3d3f3baf3c545fa655ab653ffb8f7ed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699771,
+            "locality_id":1243463991,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1243463991,
+    "wof:lastmodified":1536780647,
+    "wof:name":"Piloto",
+    "wof:parent_id":1091699771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.07389000000001,
+    -12.49639,
+    40.07389000000001,
+    -12.49639
+],
+  "geometry": {"coordinates":[40.07389000000001,-12.49639],"type":"Point"}
+}

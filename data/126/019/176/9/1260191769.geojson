@@ -1,0 +1,67 @@
+{
+  "id": 1260191769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.80806,-23.67361,33.80806,-23.67361",
+    "geom:latitude":-23.67361,
+    "geom:longitude":33.80806,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mundoza",
+    "gn:country_code":"MZ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104400,
+    "gn:latitude":-23.67361,
+    "gn:longitude":33.80806,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mundoza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104400
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"980db4b09a01a885a03f2e276ce24b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696709,
+            "locality_id":1260191769,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1260191769,
+    "wof:lastmodified":1536835463,
+    "wof:name":"Mundoza",
+    "wof:parent_id":1091696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.80806,
+    -23.67361,
+    33.80806,
+    -23.67361
+],
+  "geometry": {"coordinates":[33.80806,-23.67361],"type":"Point"}
+}

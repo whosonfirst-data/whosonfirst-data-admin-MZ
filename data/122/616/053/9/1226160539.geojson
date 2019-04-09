@@ -1,0 +1,72 @@
+{
+  "id": 1226160539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.55639,-12.90083,38.55639,-12.90083",
+    "geom:latitude":-12.90083,
+    "geom:longitude":38.55639,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Cachali",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051330,
+    "gn:latitude":-12.90083,
+    "gn:longitude":38.55639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cach\u00e1li",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canch\u00e1li",
+        "Cach\u00e1li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051330
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"83ee1487ea447658da1ed50f03dc62dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1226160539,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1226160539,
+    "wof:lastmodified":1537674603,
+    "wof:name":"Cachali",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.55639,
+    -12.90083,
+    38.55639,
+    -12.90083
+],
+  "geometry": {"coordinates":[38.55639,-12.90083],"type":"Point"}
+}

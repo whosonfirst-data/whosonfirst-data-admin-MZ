@@ -1,0 +1,67 @@
+{
+  "id": 1242871129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.61333,-15.13583,36.61333,-15.13583",
+    "geom:latitude":-15.13583,
+    "geom:longitude":36.61333,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Macua",
+    "gn:country_code":"MZ",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042386,
+    "gn:latitude":-15.13583,
+    "gn:longitude":36.61333,
+    "gn:modification_date":"1998-05-14",
+    "gn:name":"Macua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091697375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042386
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0526464dcc7ed0895e707b510531da46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697375,
+            "locality_id":1242871129,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1242871129,
+    "wof:lastmodified":1536639995,
+    "wof:name":"Macua",
+    "wof:parent_id":1091697375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.61333,
+    -15.13583,
+    36.61333,
+    -15.13583
+],
+  "geometry": {"coordinates":[36.61333,-15.13583],"type":"Point"}
+}

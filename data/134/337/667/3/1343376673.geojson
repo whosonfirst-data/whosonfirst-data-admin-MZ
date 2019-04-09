@@ -1,0 +1,67 @@
+{
+  "id": 1343376673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.52472,-13.41944,40.52472,-13.41944",
+    "geom:latitude":-13.41944,
+    "geom:longitude":40.52472,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chefe Bacar",
+    "gn:country_code":"MZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086400,
+    "gn:latitude":-13.41944,
+    "gn:longitude":40.52472,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Chefe Bacar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091699683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086400
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"360188a6262632ab015c320ae87de9e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699683,
+            "locality_id":1343376673,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1343376673,
+    "wof:lastmodified":1536865788,
+    "wof:name":"Chefe Bacar",
+    "wof:parent_id":1091699683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.52472,
+    -13.41944,
+    40.52472,
+    -13.41944
+],
+  "geometry": {"coordinates":[40.52472,-13.41944],"type":"Point"}
+}

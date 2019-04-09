@@ -1,0 +1,67 @@
+{
+  "id": 1327451919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.24389,-17.67222,33.24389,-17.67222",
+    "geom:latitude":-17.67222,
+    "geom:longitude":33.24389,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Comacha",
+    "gn:country_code":"MZ",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047974,
+    "gn:latitude":-17.67222,
+    "gn:longitude":33.24389,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Com\u00e1cha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091696359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047974
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6fd059748c65b585f93368bd0102f762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696359,
+            "locality_id":1327451919,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1327451919,
+    "wof:lastmodified":1536652508,
+    "wof:name":"Comacha",
+    "wof:parent_id":1091696359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.24389,
+    -17.67222000000001,
+    33.24389,
+    -17.67222000000001
+],
+  "geometry": {"coordinates":[33.24389,-17.67222000000001],"type":"Point"}
+}

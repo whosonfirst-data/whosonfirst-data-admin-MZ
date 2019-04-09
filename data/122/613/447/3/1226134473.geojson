@@ -1,0 +1,67 @@
+{
+  "id": 1226134473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.55361,-13.04444,37.55361,-13.04444",
+    "geom:latitude":-13.04444,
+    "geom:longitude":37.55361,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mepinda",
+    "gn:country_code":"MZ",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038712,
+    "gn:latitude":-13.04444,
+    "gn:longitude":37.55361,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Mepinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038712
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"71714ba5257372ab5cbf26d956342010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699257,
+            "locality_id":1226134473,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1226134473,
+    "wof:lastmodified":1537090786,
+    "wof:name":"Mepinda",
+    "wof:parent_id":1091699257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.55361,
+    -13.04444,
+    37.55361,
+    -13.04444
+],
+  "geometry": {"coordinates":[37.55361,-13.04444],"type":"Point"}
+}

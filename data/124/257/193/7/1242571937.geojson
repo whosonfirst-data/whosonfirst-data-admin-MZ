@@ -1,0 +1,72 @@
+{
+  "id": 1242571937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.51722,-13.34194,37.51722,-13.34194",
+    "geom:latitude":-13.34194,
+    "geom:longitude":37.51722,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Curmoto",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051007,
+    "gn:latitude":-13.34194,
+    "gn:longitude":37.51722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Curmoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carmoto",
+        "Curmoto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051007
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2c881ebf059dfe84d40f2c15f1f08ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699257,
+            "locality_id":1242571937,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1242571937,
+    "wof:lastmodified":1537674600,
+    "wof:name":"Curmoto",
+    "wof:parent_id":1091699257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.51722,
+    -13.34194,
+    37.51722,
+    -13.34194
+],
+  "geometry": {"coordinates":[37.51722,-13.34194],"type":"Point"}
+}

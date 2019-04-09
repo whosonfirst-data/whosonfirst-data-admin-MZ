@@ -1,0 +1,72 @@
+{
+  "id": 1344164447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.55278,-24.52028,34.55278,-24.52028",
+    "geom:latitude":-24.52028,
+    "geom:longitude":34.55278,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"M. Lixanga",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043535,
+    "gn:latitude":-24.52028,
+    "gn:longitude":34.55278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"M. Lixanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lixanga",
+        "M. Lixanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043535
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6185ac9577e2574f665cc08021e41ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701681,
+            "locality_id":1344164447,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1344164447,
+    "wof:lastmodified":1537674560,
+    "wof:name":"M. Lixanga",
+    "wof:parent_id":1091701681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.55278,
+    -24.52028,
+    34.55278,
+    -24.52028
+],
+  "geometry": {"coordinates":[34.55278,-24.52028],"type":"Point"}
+}

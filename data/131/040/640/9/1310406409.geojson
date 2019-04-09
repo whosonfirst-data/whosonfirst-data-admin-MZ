@@ -1,0 +1,67 @@
+{
+  "id": 1310406409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.82111,-25.28389,32.82111,-25.28389",
+    "geom:latitude":-25.28389,
+    "geom:longitude":32.82111,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Nhamane",
+    "gn:country_code":"MZ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1031410,
+    "gn:latitude":-25.28389,
+    "gn:longitude":32.82111,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Nhamane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1031410
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9a82c26ce05f64c137488c2ee35300db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699015,
+            "locality_id":1310406409,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1310406409,
+    "wof:lastmodified":1537057464,
+    "wof:name":"Nhamane",
+    "wof:parent_id":1091699015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.82111,
+    -25.28389,
+    32.82111,
+    -25.28389
+],
+  "geometry": {"coordinates":[32.82111,-25.28389],"type":"Point"}
+}

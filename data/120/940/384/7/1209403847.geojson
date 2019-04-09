@@ -1,0 +1,61 @@
+{
+  "id": 1209403847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.04889,-19.63639,33.04889,-19.63639",
+    "geom:latitude":-19.63639,
+    "geom:longitude":33.04889,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mapombera",
+    "gn:country_code":"MZ",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040691,
+    "gn:latitude":-19.63639,
+    "gn:longitude":33.04889,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mapombera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040691
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"86fc35ed591daa090ae9ac669b00a537",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209403847
+        }
+    ],
+    "wof:id":1209403847,
+    "wof:lastmodified":1536288058,
+    "wof:name":"Mapombera",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.04889,
+    -19.63639,
+    33.04889,
+    -19.63639
+],
+  "geometry": {"coordinates":[33.04889,-19.63639],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293592369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.51472,-23.33361,33.51472,-23.33361",
+    "geom:latitude":-23.33361,
+    "geom:longitude":33.51472,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Joanisse",
+    "gn:country_code":"MZ",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104943,
+    "gn:latitude":-23.33361,
+    "gn:longitude":33.51472,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Joanisse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104943
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4315b0db03ebb846c9331d1c8ee666f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696709,
+            "locality_id":1293592369,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1293592369,
+    "wof:lastmodified":1536634592,
+    "wof:name":"Joanisse",
+    "wof:parent_id":1091696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.51472,
+    -23.33361,
+    33.51472,
+    -23.33361
+],
+  "geometry": {"coordinates":[33.51472,-23.33361],"type":"Point"}
+}

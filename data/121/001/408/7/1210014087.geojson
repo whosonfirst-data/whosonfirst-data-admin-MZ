@@ -1,0 +1,67 @@
+{
+  "id": 1210014087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.70833,-16.02778,39.70833,-16.02778",
+    "geom:latitude":-16.02778,
+    "geom:longitude":39.70833,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Regulo Mulembua",
+    "gn:country_code":"MZ",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1094020,
+    "gn:latitude":-16.02778,
+    "gn:longitude":39.70833,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"R\u00e9gulo Mulembua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091696277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1094020
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0720cba7e5c65e1efabd6f42ee30c389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696277,
+            "locality_id":1210014087,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1210014087,
+    "wof:lastmodified":1536395884,
+    "wof:name":"Regulo Mulembua",
+    "wof:parent_id":1091696277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.70833,
+    -16.02778,
+    39.70833,
+    -16.02778
+],
+  "geometry": {"coordinates":[39.70833,-16.02778],"type":"Point"}
+}

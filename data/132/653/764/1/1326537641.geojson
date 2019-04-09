@@ -1,0 +1,67 @@
+{
+  "id": 1326537641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.86306,-21.335,34.86306,-21.335",
+    "geom:latitude":-21.335,
+    "geom:longitude":34.86306,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Matungo",
+    "gn:country_code":"MZ",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039756,
+    "gn:latitude":-21.335,
+    "gn:longitude":34.86306,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Matungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039756
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6cad3335c5b02153057baf786c8db179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697673,
+            "locality_id":1326537641,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1326537641,
+    "wof:lastmodified":1536975661,
+    "wof:name":"Matungo",
+    "wof:parent_id":1091697673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.86306,
+    -21.335,
+    34.86306,
+    -21.335
+],
+  "geometry": {"coordinates":[34.86306,-21.335],"type":"Point"}
+}

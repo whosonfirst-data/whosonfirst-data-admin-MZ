@@ -1,0 +1,72 @@
+{
+  "id": 1276441041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.0225,-18.83278,34.0225,-18.83278",
+    "geom:latitude":-18.83278,
+    "geom:longitude":34.0225,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sengo-Senge",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027064,
+    "gn:latitude":-18.83278,
+    "gn:longitude":34.0225,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sengo-Senge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sengo Sengo",
+        "Sengo-Senge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091697631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027064
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"78ae9f9ad3df37c61a2f5a3cc2b5fc54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697631,
+            "locality_id":1276441041,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1276441041,
+    "wof:lastmodified":1537674484,
+    "wof:name":"Sengo-Senge",
+    "wof:parent_id":1091697631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.0225,
+    -18.83278,
+    34.0225,
+    -18.83278
+],
+  "geometry": {"coordinates":[34.0225,-18.83278],"type":"Point"}
+}

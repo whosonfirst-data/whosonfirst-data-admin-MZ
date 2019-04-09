@@ -1,0 +1,72 @@
+{
+  "id": 1343881187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.49,-18.48667,34.49,-18.48667",
+    "geom:latitude":-18.48667,
+    "geom:longitude":34.49,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Joaque",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044469,
+    "gn:latitude":-18.48667,
+    "gn:longitude":34.49,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Joaque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canganetole",
+        "Joaque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091697631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044469
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"96d3c833dd606da5957598b81cdb01fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697631,
+            "locality_id":1343881187,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1343881187,
+    "wof:lastmodified":1537674564,
+    "wof:name":"Joaque",
+    "wof:parent_id":1091697631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.49,
+    -18.48667,
+    34.49,
+    -18.48667
+],
+  "geometry": {"coordinates":[34.49,-18.48667],"type":"Point"}
+}

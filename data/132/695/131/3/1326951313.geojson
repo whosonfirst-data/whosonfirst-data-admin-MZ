@@ -1,0 +1,67 @@
+{
+  "id": 1326951313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.62333,-14.98833,36.62333,-14.98833",
+    "geom:latitude":-14.98833,
+    "geom:longitude":36.62333,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Saulo",
+    "gn:country_code":"MZ",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087969,
+    "gn:latitude":-14.98833,
+    "gn:longitude":36.62333,
+    "gn:modification_date":"1997-04-30",
+    "gn:name":"Saulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091697375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087969
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a32cd6cc7dc329d122baa2ebb9434420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697375,
+            "locality_id":1326951313,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1326951313,
+    "wof:lastmodified":1536876536,
+    "wof:name":"Saulo",
+    "wof:parent_id":1091697375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.62333,
+    -14.98833,
+    36.62333,
+    -14.98833
+],
+  "geometry": {"coordinates":[36.62333,-14.98833],"type":"Point"}
+}

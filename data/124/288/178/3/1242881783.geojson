@@ -1,0 +1,66 @@
+{
+  "id": 1242881783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.44385,-22.13283,35.44385,-22.13283",
+    "geom:latitude":-22.13283,
+    "geom:longitude":35.44385,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dugong Beach Lodge",
+    "gn:country_code":"MZ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11128429,
+    "gn:latitude":-22.13283,
+    "gn:longitude":35.44385,
+    "gn:modification_date":"2016-05-08",
+    "gn:name":"Dugong Beach Lodge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dugong Beach Lodge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11128429
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e5361c4b6466327624e9586dd4d7fb60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1242881783,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242881783,
+    "wof:lastmodified":1537674618,
+    "wof:name":"Dugong Beach Lodge",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.44385,
+    -22.13283,
+    35.44385,
+    -22.13283
+],
+  "geometry": {"coordinates":[35.44385,-22.13283],"type":"Point"}
+}

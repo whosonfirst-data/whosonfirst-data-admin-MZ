@@ -1,0 +1,67 @@
+{
+  "id": 1242575299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.3075,-16.42528,39.3075,-16.42528",
+    "geom:latitude":-16.42528,
+    "geom:longitude":39.3075,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Cabo Lacamuatio",
+    "gn:country_code":"MZ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095539,
+    "gn:latitude":-16.42528,
+    "gn:longitude":39.3075,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Cabo Lacamuatio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095539
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0070540c8a44ad93e8d4b86ff3c36e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1242575299,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1242575299,
+    "wof:lastmodified":1537064159,
+    "wof:name":"Cabo Lacamuatio",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.3075,
+    -16.42527999999999,
+    39.3075,
+    -16.42527999999999
+],
+  "geometry": {"coordinates":[39.3075,-16.42527999999999],"type":"Point"}
+}

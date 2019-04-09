@@ -1,0 +1,67 @@
+{
+  "id": 1310218231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58889,-25.06694,33.58889,-25.06694",
+    "geom:latitude":-25.06694,
+    "geom:longitude":33.58889,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"I. Massenganhane",
+    "gn:country_code":"MZ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1099491,
+    "gn:latitude":-25.06694,
+    "gn:longitude":33.58889,
+    "gn:modification_date":"1998-11-24",
+    "gn:name":"I. Massenganhane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091701651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1099491
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4a8810827f1f1b0d44f02c95dab922c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701651,
+            "locality_id":1310218231,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1310218231,
+    "wof:lastmodified":1536832807,
+    "wof:name":"I. Massenganhane",
+    "wof:parent_id":1091701651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58889,
+    -25.06694,
+    33.58889,
+    -25.06694
+],
+  "geometry": {"coordinates":[33.58889,-25.06694],"type":"Point"}
+}

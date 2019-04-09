@@ -1,0 +1,67 @@
+{
+  "id": 1225962061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.32556,-12.47861,40.32556,-12.47861",
+    "geom:latitude":-12.47861,
+    "geom:longitude":40.32556,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Polobue",
+    "gn:country_code":"MZ",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028666,
+    "gn:latitude":-12.47861,
+    "gn:longitude":40.32556,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"P\u00f2l\u00f2bue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028666
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"da75a222ab202903db4488e1c3b44178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701371,
+            "locality_id":1225962061,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1225962061,
+    "wof:lastmodified":1536844681,
+    "wof:name":"Polobue",
+    "wof:parent_id":1091701371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.32556,
+    -12.47861,
+    40.32556,
+    -12.47861
+],
+  "geometry": {"coordinates":[40.32556,-12.47861],"type":"Point"}
+}

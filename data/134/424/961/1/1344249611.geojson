@@ -1,0 +1,67 @@
+{
+  "id": 1344249611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.17611,-14.80556,38.17611,-14.80556",
+    "geom:latitude":-14.80556,
+    "geom:longitude":38.17611,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Lucumune",
+    "gn:country_code":"MZ",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043339,
+    "gn:latitude":-14.80556,
+    "gn:longitude":38.17611,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Lucumune",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091701415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043339
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f7cb84357d2b21ccded33143d8a62251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701415,
+            "locality_id":1344249611,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1344249611,
+    "wof:lastmodified":1537096641,
+    "wof:name":"Lucumune",
+    "wof:parent_id":1091701415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.17611,
+    -14.80556,
+    38.17611,
+    -14.80556
+],
+  "geometry": {"coordinates":[38.17611,-14.80556],"type":"Point"}
+}

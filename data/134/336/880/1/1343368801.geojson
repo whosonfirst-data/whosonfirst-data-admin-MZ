@@ -1,0 +1,67 @@
+{
+  "id": 1343368801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.31667,-16.4,33.31667,-16.4",
+    "geom:latitude":-16.4,
+    "geom:longitude":33.31667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Joanguete",
+    "gn:country_code":"MZ",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044561,
+    "gn:latitude":-16.4,
+    "gn:longitude":33.31667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Joangu\u00e9te",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044561
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"093b982b352e8869da404f9d469dd90b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696537,
+            "locality_id":1343368801,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1343368801,
+    "wof:lastmodified":1536877562,
+    "wof:name":"Joanguete",
+    "wof:parent_id":1091696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.31667,
+    -16.4,
+    33.31667,
+    -16.4
+],
+  "geometry": {"coordinates":[33.31667,-16.4],"type":"Point"}
+}

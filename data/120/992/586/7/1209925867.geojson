@@ -1,0 +1,67 @@
+{
+  "id": 1209925867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.56722,-22.06278,33.56722,-22.06278",
+    "geom:latitude":-22.06278,
+    "geom:longitude":33.56722,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Angule",
+    "gn:country_code":"MZ",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052933,
+    "gn:latitude":-22.06278,
+    "gn:longitude":33.56722,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Angule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052933
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"78361281b2c4fc7c01a9ecc577ca4b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698405,
+            "locality_id":1209925867,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1209925867,
+    "wof:lastmodified":1536394940,
+    "wof:name":"Angule",
+    "wof:parent_id":1091698405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.56722,
+    -22.06278,
+    33.56722,
+    -22.06278
+],
+  "geometry": {"coordinates":[33.56722,-22.06278],"type":"Point"}
+}

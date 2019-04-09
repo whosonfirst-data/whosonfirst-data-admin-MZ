@@ -1,0 +1,67 @@
+{
+  "id": 1293903597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.81,-15.25972,31.81,-15.25972",
+    "geom:latitude":-15.25972,
+    "geom:longitude":31.81,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Chimacheca",
+    "gn:country_code":"MZ",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049333,
+    "gn:latitude":-15.25972,
+    "gn:longitude":31.81,
+    "gn:modification_date":"1997-05-30",
+    "gn:name":"Chimacheca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049333
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"379401efa23c9667d57f122ecae2191c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699093,
+            "locality_id":1293903597,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1293903597,
+    "wof:lastmodified":1536684389,
+    "wof:name":"Chimacheca",
+    "wof:parent_id":1091699093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.81,
+    -15.25972,
+    31.81,
+    -15.25972
+],
+  "geometry": {"coordinates":[31.81,-15.25972],"type":"Point"}
+}

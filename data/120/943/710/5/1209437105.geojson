@@ -1,0 +1,66 @@
+{
+  "id": 1209437105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.60444,-16.35,39.60444,-16.35",
+    "geom:latitude":-16.35,
+    "geom:longitude":39.60444,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Chefe Muleva",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038897,
+    "gn:latitude":-16.35,
+    "gn:longitude":39.60444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Muleva",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melua",
+        "Chefe Muleva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038897
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fbdb2eed6e385b2dded98c79b1fff817",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209437105
+        }
+    ],
+    "wof:id":1209437105,
+    "wof:lastmodified":1537674531,
+    "wof:name":"Chefe Muleva",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.60444,
+    -16.35,
+    39.60444,
+    -16.35
+],
+  "geometry": {"coordinates":[39.60444,-16.35],"type":"Point"}
+}

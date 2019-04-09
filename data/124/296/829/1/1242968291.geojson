@@ -1,0 +1,67 @@
+{
+  "id": 1242968291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.69194,-14.94139,38.69194,-14.94139",
+    "geom:latitude":-14.94139,
+    "geom:longitude":38.69194,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Namina",
+    "gn:country_code":"MZ",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088208,
+    "gn:latitude":-14.94139,
+    "gn:longitude":38.69194,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Namina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088208
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"646ab96cd6c18e82438716d7e0710083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699653,
+            "locality_id":1242968291,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1242968291,
+    "wof:lastmodified":1536997213,
+    "wof:name":"Namina",
+    "wof:parent_id":1091699653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.69194,
+    -14.94139,
+    38.69194,
+    -14.94139
+],
+  "geometry": {"coordinates":[38.69194,-14.94139],"type":"Point"}
+}

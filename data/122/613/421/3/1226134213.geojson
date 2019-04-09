@@ -1,0 +1,72 @@
+{
+  "id": 1226134213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.15917,-11.59472,35.15917,-11.59472",
+    "geom:latitude":-11.59472,
+    "geom:longitude":35.15917,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Uliane",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":1418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025577,
+    "gn:latitude":-11.59472,
+    "gn:longitude":35.15917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Uliane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuliane",
+        "Uliane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025577
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"80057665944c617a7652c8079a8f9f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698193,
+            "locality_id":1226134213,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1226134213,
+    "wof:lastmodified":1537674477,
+    "wof:name":"Uliane",
+    "wof:parent_id":1091698193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15917,
+    -11.59472,
+    35.15917,
+    -11.59472
+],
+  "geometry": {"coordinates":[35.15917,-11.59472],"type":"Point"}
+}

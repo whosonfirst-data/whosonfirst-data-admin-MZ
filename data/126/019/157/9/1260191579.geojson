@@ -1,0 +1,72 @@
+{
+  "id": 1260191579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.93472,-22.87056,31.93472,-22.87056",
+    "geom:latitude":-22.87056,
+    "geom:longitude":31.93472,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Regulo Mapai",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040790,
+    "gn:latitude":-22.87056,
+    "gn:longitude":31.93472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Regulo Mapai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mapai",
+        "Regulo Mapai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040790
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"631f925746a2060d5619b5cef491a824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696621,
+            "locality_id":1260191579,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1260191579,
+    "wof:lastmodified":1537674543,
+    "wof:name":"Regulo Mapai",
+    "wof:parent_id":1091696621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.93472,
+    -22.87056,
+    31.93472,
+    -22.87056
+],
+  "geometry": {"coordinates":[31.93472,-22.87056],"type":"Point"}
+}

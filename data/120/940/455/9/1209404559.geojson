@@ -1,0 +1,61 @@
+{
+  "id": 1209404559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.74611,-17.56861,35.74611,-17.56861",
+    "geom:latitude":-17.56861,
+    "geom:longitude":35.74611,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Standiguia",
+    "gn:country_code":"MZ",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026706,
+    "gn:latitude":-17.56861,
+    "gn:longitude":35.74611,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Standiguia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026706
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bcbd298478cb659b40ea315daf7dcb5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209404559
+        }
+    ],
+    "wof:id":1209404559,
+    "wof:lastmodified":1536288038,
+    "wof:name":"Standiguia",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.74610999999999,
+    -17.56861,
+    35.74610999999999,
+    -17.56861
+],
+  "geometry": {"coordinates":[35.74610999999999,-17.56861],"type":"Point"}
+}

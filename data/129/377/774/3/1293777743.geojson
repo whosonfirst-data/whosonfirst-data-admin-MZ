@@ -1,0 +1,67 @@
+{
+  "id": 1293777743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.83889,-17.00528,33.83889,-17.00528",
+    "geom:latitude":-17.00528,
+    "geom:longitude":33.83889,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Chatessule",
+    "gn:country_code":"MZ",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050225,
+    "gn:latitude":-17.00528,
+    "gn:longitude":33.83889,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Ch\u00e0tessul\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050225
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8e1ce28cbffac40e2a119c48d511448e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697771,
+            "locality_id":1293777743,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1293777743,
+    "wof:lastmodified":1536864382,
+    "wof:name":"Chatessule",
+    "wof:parent_id":1091697771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.83889,
+    -17.00528,
+    33.83889,
+    -17.00528
+],
+  "geometry": {"coordinates":[33.83889,-17.00528],"type":"Point"}
+}

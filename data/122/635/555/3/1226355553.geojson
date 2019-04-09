@@ -1,0 +1,67 @@
+{
+  "id": 1226355553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.81667,-23.56417,31.81667,-23.56417",
+    "geom:latitude":-23.56417,
+    "geom:longitude":31.81667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mabambe",
+    "gn:country_code":"MZ",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097028,
+    "gn:latitude":-23.56417,
+    "gn:longitude":31.81667,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mabambe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091699347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097028
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7e40b49d12157df9571b200cfcfd5d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699347,
+            "locality_id":1226355553,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1226355553,
+    "wof:lastmodified":1536775891,
+    "wof:name":"Mabambe",
+    "wof:parent_id":1091699347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.81667,
+    -23.56417,
+    31.81667,
+    -23.56417
+],
+  "geometry": {"coordinates":[31.81667,-23.56417],"type":"Point"}
+}

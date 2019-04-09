@@ -1,0 +1,67 @@
+{
+  "id": 1343671807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.9,-18.91667,34.9,-18.91667",
+    "geom:latitude":-18.91667,
+    "geom:longitude":34.9,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Cafumpe",
+    "gn:country_code":"MZ",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051685,
+    "gn:latitude":-18.91667,
+    "gn:longitude":34.9,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Cafumpe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091700377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051685
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c1fbd11d88c9679c606a610e4452e66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700377,
+            "locality_id":1343671807,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1343671807,
+    "wof:lastmodified":1536939328,
+    "wof:name":"Cafumpe",
+    "wof:parent_id":1091700377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.9,
+    -18.91667,
+    34.9,
+    -18.91667
+],
+  "geometry": {"coordinates":[34.9,-18.91667],"type":"Point"}
+}

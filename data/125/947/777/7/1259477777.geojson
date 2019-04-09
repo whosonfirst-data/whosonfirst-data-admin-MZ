@@ -1,0 +1,67 @@
+{
+  "id": 1259477777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.97194,-16.895,38.97194,-16.895",
+    "geom:latitude":-16.895,
+    "geom:longitude":38.97194,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Meloca",
+    "gn:country_code":"MZ",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038920,
+    "gn:latitude":-16.895,
+    "gn:longitude":38.97194,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Meloca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038920
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ba58404b5ed18ce7e10e878c5c135e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701291,
+            "locality_id":1259477777,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1259477777,
+    "wof:lastmodified":1536865734,
+    "wof:name":"Meloca",
+    "wof:parent_id":1091701291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.97194,
+    -16.895,
+    38.97194,
+    -16.895
+],
+  "geometry": {"coordinates":[38.97194,-16.895],"type":"Point"}
+}

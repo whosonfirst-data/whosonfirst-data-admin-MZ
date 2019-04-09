@@ -1,0 +1,67 @@
+{
+  "id": 1310406187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.48611,-25.89861,32.48611,-25.89861",
+    "geom:latitude":-25.89861,
+    "geom:longitude":32.48611,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Machava",
+    "gn:country_code":"MZ",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042669,
+    "gn:latitude":-25.89861,
+    "gn:longitude":32.48611,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Machava",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091696953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042669
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"035e4e5003a7200b0fc2d075c5cc8432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696953,
+            "locality_id":1310406187,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1310406187,
+    "wof:lastmodified":1537057765,
+    "wof:name":"Machava",
+    "wof:parent_id":1091696953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.48611,
+    -25.89861,
+    32.48611,
+    -25.89861
+],
+  "geometry": {"coordinates":[32.48611,-25.89861],"type":"Point"}
+}

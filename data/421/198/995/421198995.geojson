@@ -1,0 +1,94 @@
+{
+  "id": 421198995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.93281,-26.00758,32.93281,-26.00758",
+    "geom:latitude":-26.00758,
+    "geom:longitude":32.93281,
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Inhaca"
+    ],
+    "name:eng_x_preferred":[
+        "Inhaca"
+    ],
+    "name:ger_x_preferred":[
+        "Inhaca"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30f3\u30cf\u30ab"
+    ],
+    "name:unk_x_variant":[
+        "Portinho da Inhaca"
+    ],
+    "qs:gn_country":"MZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1045194,
+    "qs:gn_pop":0,
+    "qs:name":"Inhaca",
+    "qs:name_adm0":"Mo\u00e7ambique",
+    "qs:name_adm1":"Maputo",
+    "qs:photos":383,
+    "qs:photos_1k":78,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":383,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":448933,
+    "qs:woe_adm0":23424902,
+    "qs:woe_id":1548314,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":489,
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674853,
+        1091697125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045194,
+        "gp:id":1548314,
+        "qs:id":448933,
+        "wd:id":"Q16892662",
+        "wk:page":"Inhaca"
+    },
+    "wof:country":"MZ",
+    "wof:created":1459009974,
+    "wof:geomhash":"7c7b69b94fc91c74d7561d8cb89f70cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697125,
+            "locality_id":421198995,
+            "region_id":85674853
+        }
+    ],
+    "wof:id":421198995,
+    "wof:lastmodified":1553816386,
+    "wof:name":"Inhaca",
+    "wof:parent_id":1091697125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.93281,
+    -26.00758,
+    32.93281,
+    -26.00758
+],
+  "geometry": {"coordinates":[32.93281,-26.00758],"type":"Point"}
+}

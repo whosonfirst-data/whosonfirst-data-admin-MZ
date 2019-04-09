@@ -1,0 +1,67 @@
+{
+  "id": 1226553887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.57111,-12.88167,38.57111,-12.88167",
+    "geom:latitude":-12.88167,
+    "geom:longitude":38.57111,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Laue",
+    "gn:country_code":"MZ",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044008,
+    "gn:latitude":-12.88167,
+    "gn:longitude":38.57111,
+    "gn:modification_date":"1995-06-22",
+    "gn:name":"Laue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044008
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"51f89f477073264c87c8689b6dec2641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1226553887,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1226553887,
+    "wof:lastmodified":1536985430,
+    "wof:name":"Laue",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.57111,
+    -12.88167,
+    38.57111,
+    -12.88167
+],
+  "geometry": {"coordinates":[38.57111,-12.88167],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209306165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.39944,-11.69667,38.39944,-11.69667",
+    "geom:latitude":-11.69667,
+    "geom:longitude":38.39944,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chirangue",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048841,
+    "gn:latitude":-11.69667,
+    "gn:longitude":38.39944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chirangue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u00edrangue",
+        "Chirangue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048841
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3be73e0bb2f7903f7810ffe8032419f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209306165
+        }
+    ],
+    "wof:id":1209306165,
+    "wof:lastmodified":1537674588,
+    "wof:name":"Chirangue",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.39944000000001,
+    -11.69667,
+    38.39944000000001,
+    -11.69667
+],
+  "geometry": {"coordinates":[38.39944000000001,-11.69667],"type":"Point"}
+}

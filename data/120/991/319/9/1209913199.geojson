@@ -1,0 +1,72 @@
+{
+  "id": 1209913199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.20611,-17.70694,35.20611,-17.70694",
+    "geom:latitude":-17.70694,
+    "geom:longitude":35.20611,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Juze",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044191,
+    "gn:latitude":-17.70694,
+    "gn:longitude":35.20611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Juze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Joze",
+        "Juze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044191
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f7bfa4fd016fd415077d25dc95430cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696493,
+            "locality_id":1209913199,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1209913199,
+    "wof:lastmodified":1537674563,
+    "wof:name":"Juze",
+    "wof:parent_id":1091696493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20610999999999,
+    -17.70694,
+    35.20610999999999,
+    -17.70694
+],
+  "geometry": {"coordinates":[35.20610999999999,-17.70694],"type":"Point"}
+}

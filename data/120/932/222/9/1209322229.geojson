@@ -1,0 +1,61 @@
+{
+  "id": 1209322229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.98333,-21.63278,34.98333,-21.63278",
+    "geom:latitude":-21.63278,
+    "geom:longitude":34.98333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Laisse",
+    "gn:country_code":"MZ",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044133,
+    "gn:latitude":-21.63278,
+    "gn:longitude":34.98333,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Laisse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044133
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8f2ad3a2dc15a5fe620d5536dac18cf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209322229
+        }
+    ],
+    "wof:id":1209322229,
+    "wof:lastmodified":1536290652,
+    "wof:name":"Laisse",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98333,
+    -21.63278,
+    34.98333,
+    -21.63278
+],
+  "geometry": {"coordinates":[34.98333,-21.63278],"type":"Point"}
+}

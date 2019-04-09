@@ -1,0 +1,67 @@
+{
+  "id": 1343566171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12028,-18.70056,36.12028,-18.70056",
+    "geom:latitude":-18.70056,
+    "geom:longitude":36.12028,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Nhamagiua",
+    "gn:country_code":"MZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1031472,
+    "gn:latitude":-18.70056,
+    "gn:longitude":36.12028,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Nhamagiua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1031472
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9c9e3418fae1990f21dcdd274217457f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696729,
+            "locality_id":1343566171,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1343566171,
+    "wof:lastmodified":1537087972,
+    "wof:name":"Nhamagiua",
+    "wof:parent_id":1091696729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12028,
+    -18.70056,
+    36.12028,
+    -18.70056
+],
+  "geometry": {"coordinates":[36.12028,-18.70056],"type":"Point"}
+}

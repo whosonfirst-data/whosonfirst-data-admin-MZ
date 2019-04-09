@@ -1,0 +1,67 @@
+{
+  "id": 1326739063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.77167,-24.10194,33.77167,-24.10194",
+    "geom:latitude":-24.10194,
+    "geom:longitude":33.77167,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chicauane",
+    "gn:country_code":"MZ",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096756,
+    "gn:latitude":-24.10194,
+    "gn:longitude":33.77167,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chicauane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096756
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"62ccc60f2ba689039cd4d261744949df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696583,
+            "locality_id":1326739063,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1326739063,
+    "wof:lastmodified":1536685795,
+    "wof:name":"Chicauane",
+    "wof:parent_id":1091696583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.77167,
+    -24.10194,
+    33.77167,
+    -24.10194
+],
+  "geometry": {"coordinates":[33.77167,-24.10194],"type":"Point"}
+}

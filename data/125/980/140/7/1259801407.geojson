@@ -1,0 +1,67 @@
+{
+  "id": 1259801407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.12111,-12.57028,40.12111,-12.57028",
+    "geom:latitude":-12.57028,
+    "geom:longitude":40.12111,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Raune",
+    "gn:country_code":"MZ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028147,
+    "gn:latitude":-12.57028,
+    "gn:longitude":40.12111,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Ra\u00f9ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091699771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028147
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"451a070242923b915f980b2a993a51a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699771,
+            "locality_id":1259801407,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1259801407,
+    "wof:lastmodified":1536897278,
+    "wof:name":"Raune",
+    "wof:parent_id":1091699771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.12111,
+    -12.57028,
+    40.12111,
+    -12.57028
+],
+  "geometry": {"coordinates":[40.12111,-12.57028],"type":"Point"}
+}

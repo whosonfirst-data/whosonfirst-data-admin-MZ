@@ -1,0 +1,61 @@
+{
+  "id": 1209307227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.79083,-14.64944,40.79083,-14.64944",
+    "geom:latitude":-14.64944,
+    "geom:longitude":40.79083,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Inago",
+    "gn:country_code":"MZ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045306,
+    "gn:latitude":-14.64944,
+    "gn:longitude":40.79083,
+    "gn:modification_date":"1994-04-21",
+    "gn:name":"Inago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045306
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"404c54c4cb58693e3b15bc88de591d53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209307227
+        }
+    ],
+    "wof:id":1209307227,
+    "wof:lastmodified":1536291153,
+    "wof:name":"Inago",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.79083,
+    -14.64944,
+    40.79083,
+    -14.64944
+],
+  "geometry": {"coordinates":[40.79083,-14.64944],"type":"Point"}
+}

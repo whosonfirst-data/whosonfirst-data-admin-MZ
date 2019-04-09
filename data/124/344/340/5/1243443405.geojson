@@ -1,0 +1,67 @@
+{
+  "id": 1243443405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.63889,-16.43222,33.63889,-16.43222",
+    "geom:latitude":-16.43222,
+    "geom:longitude":33.63889,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Serenga",
+    "gn:country_code":"MZ",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027049,
+    "gn:latitude":-16.43222,
+    "gn:longitude":33.63889,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Serenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027049
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7a64862a044dd0115459cb7c364f6f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697771,
+            "locality_id":1243443405,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1243443405,
+    "wof:lastmodified":1536809486,
+    "wof:name":"Serenga",
+    "wof:parent_id":1091697771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.63889,
+    -16.43222,
+    33.63889,
+    -16.43222
+],
+  "geometry": {"coordinates":[33.63889,-16.43222],"type":"Point"}
+}

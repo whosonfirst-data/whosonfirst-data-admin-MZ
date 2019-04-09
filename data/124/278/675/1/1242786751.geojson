@@ -1,0 +1,67 @@
+{
+  "id": 1242786751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.87444,-23.91917,32.87444,-23.91917",
+    "geom:latitude":-23.91917,
+    "geom:longitude":32.87444,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ocosse",
+    "gn:country_code":"MZ",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1098024,
+    "gn:latitude":-23.91917,
+    "gn:longitude":32.87444,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Ocosse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091698365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1098024
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1ccabb8d6f7b5b27bcebfaefb6e40299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698365,
+            "locality_id":1242786751,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1242786751,
+    "wof:lastmodified":1536762601,
+    "wof:name":"Ocosse",
+    "wof:parent_id":1091698365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.87444,
+    -23.91917,
+    32.87444,
+    -23.91917
+],
+  "geometry": {"coordinates":[32.87444,-23.91917],"type":"Point"}
+}

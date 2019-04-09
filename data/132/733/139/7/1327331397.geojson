@@ -1,0 +1,72 @@
+{
+  "id": 1327331397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.80222,-14.77417,39.80222,-14.77417",
+    "geom:latitude":-14.77417,
+    "geom:longitude":39.80222,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Maxangula",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042699,
+    "gn:latitude":-14.77417,
+    "gn:longitude":39.80222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maxangula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Machangula",
+        "Maxangula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042699
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3dbb08d7701b8099c89797d385be712a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700409,
+            "locality_id":1327331397,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1327331397,
+    "wof:lastmodified":1537674556,
+    "wof:name":"Maxangula",
+    "wof:parent_id":1091700409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.80222,
+    -14.77417,
+    39.80222,
+    -14.77417
+],
+  "geometry": {"coordinates":[39.80222,-14.77417],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226444275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.30528,-22.19333,35.30528,-22.19333",
+    "geom:latitude":-22.19333,
+    "geom:longitude":35.30528,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zaqueu",
+    "gn:country_code":"MZ",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1100407,
+    "gn:latitude":-22.19333,
+    "gn:longitude":35.30528,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Zaqueu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1100407
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6b52eb79918f51a139ebdec945eafeb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701605,
+            "locality_id":1226444275,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1226444275,
+    "wof:lastmodified":1536647195,
+    "wof:name":"Zaqueu",
+    "wof:parent_id":1091701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.30528,
+    -22.19333,
+    35.30528,
+    -22.19333
+],
+  "geometry": {"coordinates":[35.30528,-22.19333],"type":"Point"}
+}

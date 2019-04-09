@@ -1,0 +1,72 @@
+{
+  "id": 1259466907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.475,-18.30222,33.475,-18.30222",
+    "geom:latitude":-18.30222,
+    "geom:longitude":33.475,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tenete",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026083,
+    "gn:latitude":-18.30222,
+    "gn:longitude":33.475,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tenete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ten\u00eate",
+        "Tenete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026083
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"67e602df31ab10bd5298162ebdc224c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698625,
+            "locality_id":1259466907,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1259466907,
+    "wof:lastmodified":1537674479,
+    "wof:name":"Tenete",
+    "wof:parent_id":1091698625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.475,
+    -18.30222,
+    33.475,
+    -18.30222
+],
+  "geometry": {"coordinates":[33.475,-18.30222],"type":"Point"}
+}

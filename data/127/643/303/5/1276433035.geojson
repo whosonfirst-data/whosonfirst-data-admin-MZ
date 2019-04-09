@@ -1,0 +1,72 @@
+{
+  "id": 1276433035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.18528,-12.49472,35.18528,-12.49472",
+    "geom:latitude":-12.49472,
+    "geom:longitude":35.18528,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Malanganha",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040065,
+    "gn:latitude":-12.49472,
+    "gn:longitude":35.18528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Malanganha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matanganha",
+        "Malanganha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091701443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040065
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"85ea764faf5d6be6e48610cf4bd616f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701443,
+            "locality_id":1276433035,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1276433035,
+    "wof:lastmodified":1537674538,
+    "wof:name":"Malanganha",
+    "wof:parent_id":1091701443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.18528,
+    -12.49472,
+    35.18528,
+    -12.49472
+],
+  "geometry": {"coordinates":[35.18528,-12.49472],"type":"Point"}
+}

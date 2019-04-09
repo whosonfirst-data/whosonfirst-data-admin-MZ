@@ -1,0 +1,67 @@
+{
+  "id": 1243454719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.09778,-25.32861,33.09778,-25.32861",
+    "geom:latitude":-25.32861,
+    "geom:longitude":33.09778,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"C. Matelombe",
+    "gn:country_code":"MZ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1099170,
+    "gn:latitude":-25.32861,
+    "gn:longitude":33.09778,
+    "gn:modification_date":"1998-11-24",
+    "gn:name":"C. Matelombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1099170
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"942923ad6e760281d89002a4eb501f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699015,
+            "locality_id":1243454719,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1243454719,
+    "wof:lastmodified":1536793866,
+    "wof:name":"C. Matelombe",
+    "wof:parent_id":1091699015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.09778,
+    -25.32861,
+    33.09778,
+    -25.32861
+],
+  "geometry": {"coordinates":[33.09778,-25.32861],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243543529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.73833,-17.04556,33.73833,-17.04556",
+    "geom:latitude":-17.04556,
+    "geom:longitude":33.73833,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Soluso",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026642,
+    "gn:latitude":-17.04556,
+    "gn:longitude":33.73833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Soluso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suluso",
+        "Soluso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026642
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c3b9f22282ae1cce34d1010a03c8bcc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697771,
+            "locality_id":1243543529,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1243543529,
+    "wof:lastmodified":1537674482,
+    "wof:name":"Soluso",
+    "wof:parent_id":1091697771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.73833,
+    -17.04556,
+    33.73833,
+    -17.04556
+],
+  "geometry": {"coordinates":[33.73833,-17.04556],"type":"Point"}
+}

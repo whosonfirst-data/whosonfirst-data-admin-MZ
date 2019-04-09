@@ -1,0 +1,67 @@
+{
+  "id": 1309903597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.71528,-14.43639,38.71528,-14.43639",
+    "geom:latitude":-14.43639,
+    "geom:longitude":38.71528,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Marreia",
+    "gn:country_code":"MZ",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040434,
+    "gn:latitude":-14.43639,
+    "gn:longitude":38.71528,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Marreia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040434
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a0d84d1cb0c9600649b3e1af7a1eaa08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699653,
+            "locality_id":1309903597,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1309903597,
+    "wof:lastmodified":1536790550,
+    "wof:name":"Marreia",
+    "wof:parent_id":1091699653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.71528,
+    -14.43639,
+    38.71528,
+    -14.43639
+],
+  "geometry": {"coordinates":[38.71528,-14.43639],"type":"Point"}
+}

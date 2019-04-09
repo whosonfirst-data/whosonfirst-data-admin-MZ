@@ -1,0 +1,67 @@
+{
+  "id": 1226066369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24139,-15.04389,36.24139,-15.04389",
+    "geom:latitude":-15.04389,
+    "geom:longitude":36.24139,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Nivinho",
+    "gn:country_code":"MZ",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092613,
+    "gn:latitude":-15.04389,
+    "gn:longitude":36.24139,
+    "gn:modification_date":"1998-05-14",
+    "gn:name":"Chefe Nivinho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092613
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3122e3a49ace13b0a1f45cb79cce38fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699553,
+            "locality_id":1226066369,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1226066369,
+    "wof:lastmodified":1536695721,
+    "wof:name":"Chefe Nivinho",
+    "wof:parent_id":1091699553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24139,
+    -15.04389,
+    36.24139,
+    -15.04389
+],
+  "geometry": {"coordinates":[36.24139,-15.04389],"type":"Point"}
+}

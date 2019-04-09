@@ -1,0 +1,67 @@
+{
+  "id": 1259992501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7775,-21.48694,32.7775,-21.48694",
+    "geom:latitude":-21.48694,
+    "geom:longitude":32.7775,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Chiqueto",
+    "gn:country_code":"MZ",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048871,
+    "gn:latitude":-21.48694,
+    "gn:longitude":32.7775,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chiqueto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091699281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048871
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e765708d3b85cdbf95776a415f6128d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699281,
+            "locality_id":1259992501,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1259992501,
+    "wof:lastmodified":1536619966,
+    "wof:name":"Chiqueto",
+    "wof:parent_id":1091699281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7775,
+    -21.48694,
+    32.7775,
+    -21.48694
+],
+  "geometry": {"coordinates":[32.7775,-21.48694],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243560533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.63361,-24.85389,32.63361,-24.85389",
+    "geom:latitude":-24.85389,
+    "geom:longitude":32.63361,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mucazo",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041616,
+    "gn:latitude":-24.85389,
+    "gn:longitude":32.63361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mucazo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Majocuana",
+        "Mucazo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041616
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"333f6e60e7f686a650af740995edb570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1243560533,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1243560533,
+    "wof:lastmodified":1537674548,
+    "wof:name":"Mucazo",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.63361,
+    -24.85389,
+    32.63361,
+    -24.85389
+],
+  "geometry": {"coordinates":[32.63361,-24.85389],"type":"Point"}
+}

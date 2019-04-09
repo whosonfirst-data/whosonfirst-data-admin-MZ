@@ -1,0 +1,67 @@
+{
+  "id": 1259590925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.83639,-22.31333,34.83639,-22.31333",
+    "geom:latitude":-22.31333,
+    "geom:longitude":34.83639,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Uanessela",
+    "gn:country_code":"MZ",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104904,
+    "gn:latitude":-22.31333,
+    "gn:longitude":34.83639,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Uanessela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104904
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ad3a0f5fa097a0425a6a798a134f777d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701605,
+            "locality_id":1259590925,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1259590925,
+    "wof:lastmodified":1536704303,
+    "wof:name":"Uanessela",
+    "wof:parent_id":1091701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.83639,
+    -22.31333,
+    34.83639,
+    -22.31333
+],
+  "geometry": {"coordinates":[34.83639,-22.31333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209615585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.36667,-25.66667,32.36667,-25.66667",
+    "geom:latitude":-25.66667,
+    "geom:longitude":32.36667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Uamibela",
+    "gn:country_code":"MZ",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025349,
+    "gn:latitude":-25.66667,
+    "gn:longitude":32.36667,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Uamibela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025349
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cc429ce33730270cc4003cfa6b1c1ae8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209615585
+        }
+    ],
+    "wof:id":1209615585,
+    "wof:lastmodified":1536281700,
+    "wof:name":"Uamibela",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.36667,
+    -25.66667,
+    32.36667,
+    -25.66667
+],
+  "geometry": {"coordinates":[32.36667,-25.66667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242973905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.99139,-23.65778,31.99139,-23.65778",
+    "geom:latitude":-23.65778,
+    "geom:longitude":31.99139,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Joao Laisse",
+    "gn:country_code":"MZ",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096982,
+    "gn:latitude":-23.65778,
+    "gn:longitude":31.99139,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Jo\u00e3o Laisse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091699347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096982
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"347eee3c15b11ba302a734e0981dfa62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699347,
+            "locality_id":1242973905,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1242973905,
+    "wof:lastmodified":1536988959,
+    "wof:name":"Joao Laisse",
+    "wof:parent_id":1091699347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.99139000000001,
+    -23.65778,
+    31.99139000000001,
+    -23.65778
+],
+  "geometry": {"coordinates":[31.99139000000001,-23.65778],"type":"Point"}
+}

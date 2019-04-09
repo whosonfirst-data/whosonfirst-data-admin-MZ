@@ -1,0 +1,67 @@
+{
+  "id": 1293884119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.67861,-24.86639,32.67861,-24.86639",
+    "geom:latitude":-24.86639,
+    "geom:longitude":32.67861,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Faranhica",
+    "gn:country_code":"MZ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046413,
+    "gn:latitude":-24.86639,
+    "gn:longitude":32.67861,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Faranhica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046413
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"075d33000ec9366b686de2f8975989b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1293884119,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1293884119,
+    "wof:lastmodified":1536712768,
+    "wof:name":"Faranhica",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.67861,
+    -24.86639,
+    32.67861,
+    -24.86639
+],
+  "geometry": {"coordinates":[32.67861,-24.86639],"type":"Point"}
+}

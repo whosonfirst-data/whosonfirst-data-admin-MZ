@@ -1,0 +1,67 @@
+{
+  "id": 1327048487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.91667,-16.33333,39.91667,-16.33333",
+    "geom:latitude":-16.33333,
+    "geom:longitude":39.91667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Baea",
+    "gn:country_code":"MZ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052650,
+    "gn:latitude":-16.33333,
+    "gn:longitude":39.91667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Ba\u00eaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091696277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052650
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1a2832af71c93bd99640f8b91bc54b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696277,
+            "locality_id":1327048487,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1327048487,
+    "wof:lastmodified":1536737207,
+    "wof:name":"Baea",
+    "wof:parent_id":1091696277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.91667,
+    -16.33333,
+    39.91667,
+    -16.33333
+],
+  "geometry": {"coordinates":[39.91667,-16.33333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242978131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.91639,-21.85028,34.91639,-21.85028",
+    "geom:latitude":-21.85028,
+    "geom:longitude":34.91639,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tasse",
+    "gn:country_code":"MZ",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026336,
+    "gn:latitude":-21.85028,
+    "gn:longitude":34.91639,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Tasse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026336
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"764e227499adb821af1c188bd568d2b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698063,
+            "locality_id":1242978131,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1242978131,
+    "wof:lastmodified":1536982927,
+    "wof:name":"Tasse",
+    "wof:parent_id":1091698063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.91639,
+    -21.85028,
+    34.91639,
+    -21.85028
+],
+  "geometry": {"coordinates":[34.91639,-21.85028],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310493311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.72278,-14.52944,36.72278,-14.52944",
+    "geom:latitude":-14.52944,
+    "geom:longitude":36.72278,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Entre-Montes",
+    "gn:country_code":"MZ",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088041,
+    "gn:latitude":-14.52944,
+    "gn:longitude":36.72278,
+    "gn:modification_date":"1997-04-30",
+    "gn:name":"Entre-Montes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091697375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088041
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5fe323682f3f522285a9f686318ce3f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697375,
+            "locality_id":1310493311,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1310493311,
+    "wof:lastmodified":1536935286,
+    "wof:name":"Entre-Montes",
+    "wof:parent_id":1091697375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.72278,
+    -14.52944,
+    36.72278,
+    -14.52944
+],
+  "geometry": {"coordinates":[36.72278,-14.52944],"type":"Point"}
+}

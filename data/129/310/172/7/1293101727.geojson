@@ -1,0 +1,67 @@
+{
+  "id": 1293101727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.00417,-21.97167,33.00417,-21.97167",
+    "geom:latitude":-21.97167,
+    "geom:longitude":33.00417,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Mainhece",
+    "gn:country_code":"MZ",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041679,
+    "gn:latitude":-21.97167,
+    "gn:longitude":33.00417,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mainhece",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091699281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041679
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bca85b960826d4a7c0cb0de16993f014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699281,
+            "locality_id":1293101727,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1293101727,
+    "wof:lastmodified":1536845104,
+    "wof:name":"Mainhece",
+    "wof:parent_id":1091699281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.00417,
+    -21.97167,
+    33.00417,
+    -21.97167
+],
+  "geometry": {"coordinates":[33.00417,-21.97167],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226554485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.48333,-15.11667,31.48333,-15.11667",
+    "geom:latitude":-15.11667,
+    "geom:longitude":31.48333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Macuriaxe",
+    "gn:country_code":"MZ",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042253,
+    "gn:latitude":-15.11667,
+    "gn:longitude":31.48333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Macuriaxe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042253
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"17250b913ee5a348e41e8f0948df05f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699093,
+            "locality_id":1226554485,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1226554485,
+    "wof:lastmodified":1536984565,
+    "wof:name":"Macuriaxe",
+    "wof:parent_id":1091699093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.48333,
+    -15.11667,
+    31.48333,
+    -15.11667
+],
+  "geometry": {"coordinates":[31.48333,-15.11667],"type":"Point"}
+}

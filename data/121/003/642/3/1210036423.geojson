@@ -1,0 +1,67 @@
+{
+  "id": 1210036423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.14778,-15.42167,33.14778,-15.42167",
+    "geom:latitude":-15.42167,
+    "geom:longitude":33.14778,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Aldeia Chambambe",
+    "gn:country_code":"MZ",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085531,
+    "gn:latitude":-15.42167,
+    "gn:longitude":33.14778,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Aldeia Chambambe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085531
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"91f2cd16a60ce7181e64082cd235b665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696825,
+            "locality_id":1210036423,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1210036423,
+    "wof:lastmodified":1536386292,
+    "wof:name":"Aldeia Chambambe",
+    "wof:parent_id":1091696825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.14778,
+    -15.42167,
+    33.14778,
+    -15.42167
+],
+  "geometry": {"coordinates":[33.14778,-15.42167],"type":"Point"}
+}

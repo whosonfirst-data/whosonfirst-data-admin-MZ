@@ -1,0 +1,61 @@
+{
+  "id": 1209304231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.65611,-18.33778,36.65611,-18.33778",
+    "geom:latitude":-18.33778,
+    "geom:longitude":36.65611,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Poane",
+    "gn:country_code":"MZ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028704,
+    "gn:latitude":-18.33778,
+    "gn:longitude":36.65611,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Poane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028704
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"144a9d8224eb47a4ebec7140b8a05974",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209304231
+        }
+    ],
+    "wof:id":1209304231,
+    "wof:lastmodified":1536291251,
+    "wof:name":"Poane",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.65611,
+    -18.33778,
+    36.65611,
+    -18.33778
+],
+  "geometry": {"coordinates":[36.65611,-18.33778],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276538687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.08028,-17.2275,38.08028,-17.2275",
+    "geom:latitude":-17.2275,
+    "geom:longitude":38.08028,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chefe Cadre",
+    "gn:country_code":"MZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096775,
+    "gn:latitude":-17.2275,
+    "gn:longitude":38.08028,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Chefe Cadre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096775
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"57e90da7dc4d6cf57525ccfa3fae88af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698671,
+            "locality_id":1276538687,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1276538687,
+    "wof:lastmodified":1537000048,
+    "wof:name":"Chefe Cadre",
+    "wof:parent_id":1091698671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.08028,
+    -17.2275,
+    38.08028,
+    -17.2275
+],
+  "geometry": {"coordinates":[38.08028,-17.2275],"type":"Point"}
+}

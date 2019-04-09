@@ -1,0 +1,67 @@
+{
+  "id": 1276466069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.24611,-15.06167,37.24611,-15.06167",
+    "geom:latitude":-15.06167,
+    "geom:longitude":37.24611,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tchossano",
+    "gn:country_code":"MZ",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026200,
+    "gn:latitude":-15.06167,
+    "gn:longitude":37.24611,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"Tchossano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026200
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"68e7e33153128f71fff2c884af833581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697801,
+            "locality_id":1276466069,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1276466069,
+    "wof:lastmodified":1537094814,
+    "wof:name":"Tchossano",
+    "wof:parent_id":1091697801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.24611,
+    -15.06167,
+    37.24611,
+    -15.06167
+],
+  "geometry": {"coordinates":[37.24611,-15.06167],"type":"Point"}
+}

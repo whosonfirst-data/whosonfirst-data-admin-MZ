@@ -1,0 +1,79 @@
+{
+  "id": 421174115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.89389,-19.19472,33.89389,-19.19472",
+    "geom:latitude":-19.19472,
+    "geom:longitude":33.89389,
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Inchopes"
+    ],
+    "qs:gn_country":"MZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1045289,
+    "qs:gn_pop":0,
+    "qs:name":"Inchope",
+    "qs:name_adm0":"Mo\u00e7ambique",
+    "qs:name_adm1":"Manica",
+    "qs:photos":41,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":41,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":317100,
+    "qs:woe_adm0":23424902,
+    "qs:woe_id":1548262,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045289,
+        "gp:id":1548262,
+        "qs:id":317100
+    },
+    "wof:country":"MZ",
+    "wof:created":1459009020,
+    "wof:geomhash":"11ca1cb944c3d8e70c0924c5d265c857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697585,
+            "locality_id":421174115,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":421174115,
+    "wof:lastmodified":1501216736,
+    "wof:name":"Inchope",
+    "wof:parent_id":1091697585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.89389,
+    -19.19472,
+    33.89389,
+    -19.19472
+],
+  "geometry": {"coordinates":[33.89389,-19.19472],"type":"Point"}
+}

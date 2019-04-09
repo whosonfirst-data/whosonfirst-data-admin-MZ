@@ -1,0 +1,61 @@
+{
+  "id": 1209625153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.26667,-25.03333,32.26667,-25.03333",
+    "geom:latitude":-25.03333,
+    "geom:longitude":32.26667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Chalate",
+    "gn:country_code":"MZ",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050508,
+    "gn:latitude":-25.03333,
+    "gn:longitude":32.26667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Chalate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050508
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5005768fbf3f6b23074021107fc2089e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209625153
+        }
+    ],
+    "wof:id":1209625153,
+    "wof:lastmodified":1536281380,
+    "wof:name":"Chalate",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.26667,
+    -25.03333,
+    32.26667,
+    -25.03333
+],
+  "geometry": {"coordinates":[32.26667,-25.03333],"type":"Point"}
+}

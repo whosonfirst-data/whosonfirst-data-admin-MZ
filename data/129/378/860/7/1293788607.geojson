@@ -1,0 +1,67 @@
+{
+  "id": 1293788607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.39278,-17.18444,34.39278,-17.18444",
+    "geom:latitude":-17.18444,
+    "geom:longitude":34.39278,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Catulene",
+    "gn:country_code":"MZ",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050794,
+    "gn:latitude":-17.18444,
+    "gn:longitude":34.39278,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Catulene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050794
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9008dfdea5d520b34529c1288460abf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696557,
+            "locality_id":1293788607,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1293788607,
+    "wof:lastmodified":1536848895,
+    "wof:name":"Catulene",
+    "wof:parent_id":1091696557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.39278,
+    -17.18444,
+    34.39278,
+    -17.18444
+],
+  "geometry": {"coordinates":[34.39278,-17.18444],"type":"Point"}
+}

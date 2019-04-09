@@ -1,0 +1,61 @@
+{
+  "id": 1209637609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.12444,-14.27556,40.12444,-14.27556",
+    "geom:latitude":-14.27556,
+    "geom:longitude":40.12444,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Meteia",
+    "gn:country_code":"MZ",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038149,
+    "gn:latitude":-14.27556,
+    "gn:longitude":40.12444,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Meteia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038149
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e4f14fb548a77dd624fbcf56c92e6935",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209637609
+        }
+    ],
+    "wof:id":1209637609,
+    "wof:lastmodified":1536280991,
+    "wof:name":"Meteia",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.12444,
+    -14.27556,
+    40.12444,
+    -14.27556
+],
+  "geometry": {"coordinates":[40.12444,-14.27556],"type":"Point"}
+}

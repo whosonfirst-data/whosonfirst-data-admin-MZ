@@ -1,0 +1,67 @@
+{
+  "id": 1193121021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.48528,-20.68806,33.48528,-20.68806",
+    "geom:latitude":-20.68806,
+    "geom:longitude":33.48528,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Maloa",
+    "gn:country_code":"MZ",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041406,
+    "gn:latitude":-20.68806,
+    "gn:longitude":33.48528,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mal\u00f4a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041406
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"06885733c9c707c2b4fab2465d998130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1193121021,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1193121021,
+    "wof:lastmodified":1536364282,
+    "wof:name":"Maloa",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.48528,
+    -20.68806,
+    33.48528,
+    -20.68806
+],
+  "geometry": {"coordinates":[33.48528,-20.68806],"type":"Point"}
+}

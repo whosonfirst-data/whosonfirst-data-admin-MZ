@@ -1,0 +1,67 @@
+{
+  "id": 1259587931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.17083,-18.96667,34.17083,-18.96667",
+    "geom:latitude":-18.96667,
+    "geom:longitude":34.17083,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Canhese",
+    "gn:country_code":"MZ",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051237,
+    "gn:latitude":-18.96667,
+    "gn:longitude":34.17083,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Canhese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091697631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051237
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"56573c27a55b0e735fd99fc291a88e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697631,
+            "locality_id":1259587931,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1259587931,
+    "wof:lastmodified":1536708666,
+    "wof:name":"Canhese",
+    "wof:parent_id":1091697631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.17083,
+    -18.96667,
+    34.17083,
+    -18.96667
+],
+  "geometry": {"coordinates":[34.17083,-18.96667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344152433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.05306,-17.33583,33.05306,-17.33583",
+    "geom:latitude":-17.33583,
+    "geom:longitude":33.05306,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Catandica",
+    "gn:country_code":"MZ",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050872,
+    "gn:latitude":-17.33583,
+    "gn:longitude":33.05306,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Catandica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091696359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050872
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"94ec2ac6eda445bf59df0f6b30e1a239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696359,
+            "locality_id":1344152433,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1344152433,
+    "wof:lastmodified":1536742660,
+    "wof:name":"Catandica",
+    "wof:parent_id":1091696359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.05306,
+    -17.33583,
+    33.05306,
+    -17.33583
+],
+  "geometry": {"coordinates":[33.05306,-17.33583],"type":"Point"}
+}

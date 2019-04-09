@@ -1,0 +1,67 @@
+{
+  "id": 1309812379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.44361,-22.19667,32.44361,-22.19667",
+    "geom:latitude":-22.19667,
+    "geom:longitude":32.44361,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Juliao Chauque",
+    "gn:country_code":"MZ",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1099135,
+    "gn:latitude":-22.19667,
+    "gn:longitude":32.44361,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Juli\u00e3o Cha\u00faque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1099135
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5c03a480a8a1b8594941721e7f1614d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696621,
+            "locality_id":1309812379,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1309812379,
+    "wof:lastmodified":1536922145,
+    "wof:name":"Juliao Chauque",
+    "wof:parent_id":1091696621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.44361,
+    -22.19667,
+    32.44361,
+    -22.19667
+],
+  "geometry": {"coordinates":[32.44361,-22.19667],"type":"Point"}
+}

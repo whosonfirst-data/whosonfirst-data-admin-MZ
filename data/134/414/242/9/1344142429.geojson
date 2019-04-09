@@ -1,0 +1,67 @@
+{
+  "id": 1344142429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.21833,-15.56528,32.21833,-15.56528",
+    "geom:latitude":-15.56528,
+    "geom:longitude":32.21833,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Engano",
+    "gn:country_code":"MZ",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1046678,
+    "gn:latitude":-15.56528,
+    "gn:longitude":32.21833,
+    "gn:modification_date":"1997-06-03",
+    "gn:name":"Engano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046678
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"78a806c4ced536b02b9130431a7d2030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699093,
+            "locality_id":1344142429,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1344142429,
+    "wof:lastmodified":1536757489,
+    "wof:name":"Engano",
+    "wof:parent_id":1091699093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.21833,
+    -15.56528,
+    32.21833,
+    -15.56528
+],
+  "geometry": {"coordinates":[32.21833,-15.56528],"type":"Point"}
+}

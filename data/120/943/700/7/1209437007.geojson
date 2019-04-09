@@ -1,0 +1,61 @@
+{
+  "id": 1209437007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.42778,-14.68278,40.42778,-14.68278",
+    "geom:latitude":-14.68278,
+    "geom:longitude":40.42778,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mepatene",
+    "gn:country_code":"MZ",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038767,
+    "gn:latitude":-14.68278,
+    "gn:longitude":40.42778,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Mepatene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038767
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"282083fe6a452c83904b5bf7786214cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209437007
+        }
+    ],
+    "wof:id":1209437007,
+    "wof:lastmodified":1536287073,
+    "wof:name":"Mepatene",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.42778,
+    -14.68278,
+    40.42778,
+    -14.68278
+],
+  "geometry": {"coordinates":[40.42778,-14.68278],"type":"Point"}
+}

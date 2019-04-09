@@ -1,0 +1,64 @@
+{
+  "id": 1209090019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.61,-20.58722,32.61,-20.58722",
+    "geom:latitude":-20.58722,
+    "geom:longitude":32.61,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mezita",
+    "gn:country_code":"MZ",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037861,
+    "gn:latitude":-20.58722,
+    "gn:longitude":32.61,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mezita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Mezita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037861
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e05eeab1a8f3502072ab8e0c2126989d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209090019
+        }
+    ],
+    "wof:id":1209090019,
+    "wof:lastmodified":1537674527,
+    "wof:name":"Mezita",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.61,
+    -20.58722,
+    32.61,
+    -20.58722
+],
+  "geometry": {"coordinates":[32.61,-20.58722],"type":"Point"}
+}

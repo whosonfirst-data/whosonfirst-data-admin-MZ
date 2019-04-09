@@ -1,0 +1,67 @@
+{
+  "id": 1310400845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.32222,-19.91306,33.32222,-19.91306",
+    "geom:latitude":-19.91306,
+    "geom:longitude":33.32222,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Facanhe",
+    "gn:country_code":"MZ",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046500,
+    "gn:latitude":-19.91306,
+    "gn:longitude":33.32222,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Facanhe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091701483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046500
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"99a48e497e085280ce1f1d3cb29f00b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701483,
+            "locality_id":1310400845,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1310400845,
+    "wof:lastmodified":1537065114,
+    "wof:name":"Facanhe",
+    "wof:parent_id":1091701483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.32222,
+    -19.91306,
+    33.32222,
+    -19.91306
+],
+  "geometry": {"coordinates":[33.32222,-19.91306],"type":"Point"}
+}

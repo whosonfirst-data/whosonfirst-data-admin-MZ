@@ -1,0 +1,67 @@
+{
+  "id": 1292914957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.34333,-21.98194,34.34333,-21.98194",
+    "geom:latitude":-21.98194,
+    "geom:longitude":34.34333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Messere",
+    "gn:country_code":"MZ",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038359,
+    "gn:latitude":-21.98194,
+    "gn:longitude":34.34333,
+    "gn:modification_date":"1998-04-29",
+    "gn:name":"Messere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038359
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ab7fb531a0ec2b71ce44fb560b600ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698405,
+            "locality_id":1292914957,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1292914957,
+    "wof:lastmodified":1536616003,
+    "wof:name":"Messere",
+    "wof:parent_id":1091698405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.34333,
+    -21.98194,
+    34.34333,
+    -21.98194
+],
+  "geometry": {"coordinates":[34.34333,-21.98194],"type":"Point"}
+}

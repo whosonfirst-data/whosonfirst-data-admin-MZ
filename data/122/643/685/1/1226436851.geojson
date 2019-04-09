@@ -1,0 +1,72 @@
+{
+  "id": 1226436851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91889,-15.36778,35.91889,-15.36778",
+    "geom:latitude":-15.36778,
+    "geom:longitude":35.91889,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Nangune",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035371,
+    "gn:latitude":-15.36778,
+    "gn:longitude":35.91889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Nangune",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mussinge",
+        "Chefe Nangune"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035371
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c97649f59450d8f7a7f84860bd52d120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699553,
+            "locality_id":1226436851,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1226436851,
+    "wof:lastmodified":1537674513,
+    "wof:name":"Chefe Nangune",
+    "wof:parent_id":1091699553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91889000000001,
+    -15.36778,
+    35.91889000000001,
+    -15.36778
+],
+  "geometry": {"coordinates":[35.91889000000001,-15.36778],"type":"Point"}
+}

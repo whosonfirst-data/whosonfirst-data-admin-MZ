@@ -1,0 +1,67 @@
+{
+  "id": 1310318051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.48472,-25.04194,33.48472,-25.04194",
+    "geom:latitude":-25.04194,
+    "geom:longitude":33.48472,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Aldeia V. Lenine",
+    "gn:country_code":"MZ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1099909,
+    "gn:latitude":-25.04194,
+    "gn:longitude":33.48472,
+    "gn:modification_date":"1998-11-24",
+    "gn:name":"Aldeia V. Lenine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091701651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1099909
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"57557279db0daf6af3951c01c7daa660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701651,
+            "locality_id":1310318051,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1310318051,
+    "wof:lastmodified":1536689856,
+    "wof:name":"Aldeia V. Lenine",
+    "wof:parent_id":1091701651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.48472,
+    -25.04194,
+    33.48472,
+    -25.04194
+],
+  "geometry": {"coordinates":[33.48472,-25.04194],"type":"Point"}
+}

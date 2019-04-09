@@ -1,0 +1,67 @@
+{
+  "id": 1293281965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.83333,-17.18056,37.83333,-17.18056",
+    "geom:latitude":-17.18056,
+    "geom:longitude":37.83333,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Murrumo",
+    "gn:country_code":"MZ",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035477,
+    "gn:latitude":-17.18056,
+    "gn:longitude":37.83333,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Murrumo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035477
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"da0e28e695880b25a21f29552ee5eab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698671,
+            "locality_id":1293281965,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1293281965,
+    "wof:lastmodified":1537080171,
+    "wof:name":"Murrumo",
+    "wof:parent_id":1091698671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.83333,
+    -17.18056,
+    37.83333,
+    -17.18056
+],
+  "geometry": {"coordinates":[37.83333,-17.18056],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243267901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.71361,-11.58222,39.71361,-11.58222",
+    "geom:latitude":-11.58222,
+    "geom:longitude":39.71361,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Namaua",
+    "gn:country_code":"MZ",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034018,
+    "gn:latitude":-11.58222,
+    "gn:longitude":39.71361,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Namaua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034018
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"724cec22c67929a7573ae49a23bd7d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1243267901,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1243267901,
+    "wof:lastmodified":1537060216,
+    "wof:name":"Namaua",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.71361,
+    -11.58222,
+    39.71361,
+    -11.58222
+],
+  "geometry": {"coordinates":[39.71361,-11.58222],"type":"Point"}
+}

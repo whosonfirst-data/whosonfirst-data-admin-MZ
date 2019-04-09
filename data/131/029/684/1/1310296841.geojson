@@ -1,0 +1,67 @@
+{
+  "id": 1310296841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.92861,-13.39833,34.92861,-13.39833",
+    "geom:latitude":-13.39833,
+    "geom:longitude":34.92861,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Bilange",
+    "gn:country_code":"MZ",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052263,
+    "gn:latitude":-13.39833,
+    "gn:longitude":34.92861,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Bilange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052263
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d752c004d5839e58c18f1f844fc0093e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698283,
+            "locality_id":1310296841,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1310296841,
+    "wof:lastmodified":1536720821,
+    "wof:name":"Bilange",
+    "wof:parent_id":1091698283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.92861,
+    -13.39833,
+    34.92861,
+    -13.39833
+],
+  "geometry": {"coordinates":[34.92861,-13.39833],"type":"Point"}
+}

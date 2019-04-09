@@ -1,0 +1,67 @@
+{
+  "id": 1260288547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.23528,-12.59083,40.23528,-12.59083",
+    "geom:latitude":-12.59083,
+    "geom:longitude":40.23528,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Namagere",
+    "gn:country_code":"MZ",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085745,
+    "gn:latitude":-12.59083,
+    "gn:longitude":40.23528,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Namagere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085745
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"614c4b4625b60387777d9c2da2093cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701371,
+            "locality_id":1260288547,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1260288547,
+    "wof:lastmodified":1536705402,
+    "wof:name":"Namagere",
+    "wof:parent_id":1091701371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.23528,
+    -12.59083,
+    40.23528,
+    -12.59083
+],
+  "geometry": {"coordinates":[40.23528,-12.59083],"type":"Point"}
+}

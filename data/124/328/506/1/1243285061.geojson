@@ -1,0 +1,72 @@
+{
+  "id": 1243285061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.75,-14.30333,36.75,-14.30333",
+    "geom:latitude":-14.30333,
+    "geom:longitude":36.75,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Cueliua",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047587,
+    "gn:latitude":-14.30333,
+    "gn:longitude":36.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Cueliua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cu\u00e9luia",
+        "Chefe Cueliua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047587
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"513554d9047fcbbe695ecd005702a579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699845,
+            "locality_id":1243285061,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1243285061,
+    "wof:lastmodified":1537674580,
+    "wof:name":"Chefe Cueliua",
+    "wof:parent_id":1091699845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.75,
+    -14.30333,
+    36.75,
+    -14.30333
+],
+  "geometry": {"coordinates":[36.75,-14.30333],"type":"Point"}
+}

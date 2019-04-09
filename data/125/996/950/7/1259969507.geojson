@@ -1,0 +1,67 @@
+{
+  "id": 1259969507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.02917,-15.32194,38.02917,-15.32194",
+    "geom:latitude":-15.32194,
+    "geom:longitude":38.02917,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Nahoa",
+    "gn:country_code":"MZ",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034563,
+    "gn:latitude":-15.32194,
+    "gn:longitude":38.02917,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Nah\u00f4a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034563
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8403260fe8a3d5961a6c31c89b2e368e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697545,
+            "locality_id":1259969507,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1259969507,
+    "wof:lastmodified":1536655317,
+    "wof:name":"Nahoa",
+    "wof:parent_id":1091697545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.02917,
+    -15.32194,
+    38.02917,
+    -15.32194
+],
+  "geometry": {"coordinates":[38.02917,-15.32194],"type":"Point"}
+}

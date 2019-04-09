@@ -1,0 +1,67 @@
+{
+  "id": 1309807671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.73694,-12.7675,39.73694,-12.7675",
+    "geom:latitude":-12.7675,
+    "geom:longitude":39.73694,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Naeie",
+    "gn:country_code":"MZ",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034609,
+    "gn:latitude":-12.7675,
+    "gn:longitude":39.73694,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Na\u00e9i\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034609
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c5b2f3bd28dbf8fbb05e3bf5fe4187da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696241,
+            "locality_id":1309807671,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1309807671,
+    "wof:lastmodified":1536929022,
+    "wof:name":"Naeie",
+    "wof:parent_id":1091696241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.73694,
+    -12.7675,
+    39.73694,
+    -12.7675
+],
+  "geometry": {"coordinates":[39.73694,-12.7675],"type":"Point"}
+}

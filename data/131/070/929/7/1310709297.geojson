@@ -1,0 +1,67 @@
+{
+  "id": 1310709297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23361,-23.75444,35.23361,-23.75444",
+    "geom:latitude":-23.75444,
+    "geom:longitude":35.23361,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chefe Livengue",
+    "gn:country_code":"MZ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1102787,
+    "gn:latitude":-23.75444,
+    "gn:longitude":35.23361,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Chefe Livengue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091700259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1102787
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c9b1ddc3e389ce36584657ae68ba8b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700259,
+            "locality_id":1310709297,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1310709297,
+    "wof:lastmodified":1536620751,
+    "wof:name":"Chefe Livengue",
+    "wof:parent_id":1091700259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23361,
+    -23.75444,
+    35.23361,
+    -23.75444
+],
+  "geometry": {"coordinates":[35.23361,-23.75444],"type":"Point"}
+}

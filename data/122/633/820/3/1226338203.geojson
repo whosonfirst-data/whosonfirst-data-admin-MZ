@@ -1,0 +1,67 @@
+{
+  "id": 1226338203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.93611,-17.46944,36.93611,-17.46944",
+    "geom:latitude":-17.46944,
+    "geom:longitude":36.93611,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Camacho",
+    "gn:country_code":"MZ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051513,
+    "gn:latitude":-17.46944,
+    "gn:longitude":36.93611,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Camacho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051513
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0309155abd3119365e6dc7fed9e26f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700865,
+            "locality_id":1226338203,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1226338203,
+    "wof:lastmodified":1536800407,
+    "wof:name":"Camacho",
+    "wof:parent_id":1091700865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.93611,
+    -17.46944,
+    36.93611,
+    -17.46944
+],
+  "geometry": {"coordinates":[36.93611,-17.46944],"type":"Point"}
+}

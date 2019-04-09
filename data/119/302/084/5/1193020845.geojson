@@ -1,0 +1,67 @@
+{
+  "id": 1193020845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.10222,-18.82639,35.10222,-18.82639",
+    "geom:latitude":-18.82639,
+    "geom:longitude":35.10222,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Chimica",
+    "gn:country_code":"MZ",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049271,
+    "gn:latitude":-18.82639,
+    "gn:longitude":35.10222,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Chimica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091700377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049271
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e028fb8f213270f4b0ffecf060bdfa66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700377,
+            "locality_id":1193020845,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1193020845,
+    "wof:lastmodified":1536373406,
+    "wof:name":"Chimica",
+    "wof:parent_id":1091700377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.10222,
+    -18.82639,
+    35.10222,
+    -18.82639
+],
+  "geometry": {"coordinates":[35.10222,-18.82639],"type":"Point"}
+}

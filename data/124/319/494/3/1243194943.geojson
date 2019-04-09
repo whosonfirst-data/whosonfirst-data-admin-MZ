@@ -1,0 +1,67 @@
+{
+  "id": 1243194943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.84056,-20.13528,33.84056,-20.13528",
+    "geom:latitude":-20.13528,
+    "geom:longitude":33.84056,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Diva",
+    "gn:country_code":"MZ",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047015,
+    "gn:latitude":-20.13528,
+    "gn:longitude":33.84056,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Diva",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047015
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"715d0c5391aa26cd5e310a4c3126cbde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696561,
+            "locality_id":1243194943,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1243194943,
+    "wof:lastmodified":1536671122,
+    "wof:name":"Diva",
+    "wof:parent_id":1091696561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.84056,
+    -20.13528,
+    33.84056,
+    -20.13528
+],
+  "geometry": {"coordinates":[33.84056,-20.13528],"type":"Point"}
+}

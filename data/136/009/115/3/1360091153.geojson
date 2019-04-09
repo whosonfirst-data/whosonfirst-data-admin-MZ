@@ -1,0 +1,67 @@
+{
+  "id": 1360091153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.50694,-24.9125,32.50694,-24.9125",
+    "geom:latitude":-24.9125,
+    "geom:longitude":32.50694,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Bombo",
+    "gn:country_code":"MZ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052116,
+    "gn:latitude":-24.9125,
+    "gn:longitude":32.50694,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Bombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052116
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b3bfe752aa81a194b8648b8d51470470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1360091153,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1360091153,
+    "wof:lastmodified":1536937616,
+    "wof:name":"Bombo",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.50694,
+    -24.9125,
+    32.50694,
+    -24.9125
+],
+  "geometry": {"coordinates":[32.50694,-24.9125],"type":"Point"}
+}

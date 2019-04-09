@@ -1,0 +1,67 @@
+{
+  "id": 1260086297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.545,-26.00806,32.545,-26.00806",
+    "geom:latitude":-26.00806,
+    "geom:longitude":32.545,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chefe Chamissava",
+    "gn:country_code":"MZ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089701,
+    "gn:latitude":-26.00806,
+    "gn:longitude":32.545,
+    "gn:modification_date":"1997-09-02",
+    "gn:name":"Chefe Chamissava",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674853,
+        1091697125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089701
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"00d70d8a0c329f23e0b2be950076321b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697125,
+            "locality_id":1260086297,
+            "region_id":85674853
+        }
+    ],
+    "wof:id":1260086297,
+    "wof:lastmodified":1536983153,
+    "wof:name":"Chefe Chamissava",
+    "wof:parent_id":1091697125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.545,
+    -26.00806,
+    32.545,
+    -26.00806
+],
+  "geometry": {"coordinates":[32.545,-26.00806],"type":"Point"}
+}

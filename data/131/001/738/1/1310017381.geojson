@@ -1,0 +1,67 @@
+{
+  "id": 1310017381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.51167,-21.15028,34.51167,-21.15028",
+    "geom:latitude":-21.15028,
+    "geom:longitude":34.51167,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Joaquim Govene",
+    "gn:country_code":"MZ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1103621,
+    "gn:latitude":-21.15028,
+    "gn:longitude":34.51167,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Joaquim Govene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1103621
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"baa7f601fb38590b93708b3b6262b227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697673,
+            "locality_id":1310017381,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1310017381,
+    "wof:lastmodified":1536624154,
+    "wof:name":"Joaquim Govene",
+    "wof:parent_id":1091697673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.51167,
+    -21.15028,
+    34.51167,
+    -21.15028
+],
+  "geometry": {"coordinates":[34.51167,-21.15028],"type":"Point"}
+}

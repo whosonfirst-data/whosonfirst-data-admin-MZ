@@ -1,0 +1,67 @@
+{
+  "id": 1326515705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.73722,-16.30306,33.73722,-16.30306",
+    "geom:latitude":-16.30306,
+    "geom:longitude":33.73722,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Farme",
+    "gn:country_code":"MZ",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046410,
+    "gn:latitude":-16.30306,
+    "gn:longitude":33.73722,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Farme",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046410
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3b1881bf49733211518fd414abf19d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699971,
+            "locality_id":1326515705,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1326515705,
+    "wof:lastmodified":1537007194,
+    "wof:name":"Farme",
+    "wof:parent_id":1091699971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.73722,
+    -16.30306,
+    33.73722,
+    -16.30306
+],
+  "geometry": {"coordinates":[33.73722,-16.30306],"type":"Point"}
+}

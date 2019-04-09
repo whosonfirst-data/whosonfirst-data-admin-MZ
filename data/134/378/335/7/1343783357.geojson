@@ -1,0 +1,72 @@
+{
+  "id": 1343783357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.45222,-12.73806,37.45222,-12.73806",
+    "geom:latitude":-12.73806,
+    "geom:longitude":37.45222,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Namacuaiaia",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1033191,
+    "gn:latitude":-12.73806,
+    "gn:longitude":37.45222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Namacuaiaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nancuaiaia",
+        "Namacuaiaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1033191
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"074c6c318bc03fba478faf14f1c097e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699257,
+            "locality_id":1343783357,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1343783357,
+    "wof:lastmodified":1537674505,
+    "wof:name":"Namacuaiaia",
+    "wof:parent_id":1091699257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.45222,
+    -12.73806,
+    37.45222,
+    -12.73806
+],
+  "geometry": {"coordinates":[37.45222,-12.73806],"type":"Point"}
+}

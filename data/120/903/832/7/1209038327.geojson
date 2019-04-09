@@ -1,0 +1,61 @@
+{
+  "id": 1209038327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.66694,-20.52139,33.66694,-20.52139",
+    "geom:latitude":-20.52139,
+    "geom:longitude":33.66694,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Chivai",
+    "gn:country_code":"MZ",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048460,
+    "gn:latitude":-20.52139,
+    "gn:longitude":33.66694,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chivai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048460
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"60d31d6b482559bbe316584e0aeba841",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209038327
+        }
+    ],
+    "wof:id":1209038327,
+    "wof:lastmodified":1536299627,
+    "wof:name":"Chivai",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.666940000000004,
+    -20.52139,
+    33.666940000000004,
+    -20.52139
+],
+  "geometry": {"coordinates":[33.66694,-20.52139],"type":"Point"}
+}

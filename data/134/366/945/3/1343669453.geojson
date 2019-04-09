@@ -1,0 +1,67 @@
+{
+  "id": 1343669453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1925,-23.45333,35.1925,-23.45333",
+    "geom:latitude":-23.45333,
+    "geom:longitude":35.1925,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Martins",
+    "gn:country_code":"MZ",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1102222,
+    "gn:latitude":-23.45333,
+    "gn:longitude":35.1925,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Martins",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091700259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1102222
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a4fff027877fbda58a01aee2301ea59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700259,
+            "locality_id":1343669453,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1343669453,
+    "wof:lastmodified":1536942603,
+    "wof:name":"Martins",
+    "wof:parent_id":1091700259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1925,
+    -23.45333,
+    35.1925,
+    -23.45333
+],
+  "geometry": {"coordinates":[35.1925,-23.45333],"type":"Point"}
+}

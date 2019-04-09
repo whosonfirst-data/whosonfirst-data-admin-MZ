@@ -1,0 +1,72 @@
+{
+  "id": 1209929225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.51667,-15.66667,30.51667,-15.66667",
+    "geom:latitude":-15.66667,
+    "geom:longitude":30.51667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Gregorio",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045751,
+    "gn:latitude":-15.66667,
+    "gn:longitude":30.51667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Greg\u00f3rio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorogoda",
+        "Greg\u00f3rio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091698723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045751
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c52a14ce0beaad4170699be9f90ead56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698723,
+            "locality_id":1209929225,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1209929225,
+    "wof:lastmodified":1537674571,
+    "wof:name":"Gregorio",
+    "wof:parent_id":1091698723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.51667,
+    -15.66667,
+    30.51667,
+    -15.66667
+],
+  "geometry": {"coordinates":[30.51667,-15.66667],"type":"Point"}
+}

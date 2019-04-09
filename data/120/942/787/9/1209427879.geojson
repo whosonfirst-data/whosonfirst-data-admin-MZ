@@ -1,0 +1,67 @@
+{
+  "id": 1209427879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.63,-24.30806,33.63,-24.30806",
+    "geom:latitude":-24.30806,
+    "geom:longitude":33.63,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vila Gomes da Costa",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024689,
+    "gn:latitude":-24.30806,
+    "gn:longitude":33.63,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vila Gomes da Costa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Changane",
+        "Alto Changane",
+        "Vila Gomes da Costa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024689
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fd499f9fafa845f3091af77fda1bf6cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209427879
+        }
+    ],
+    "wof:id":1209427879,
+    "wof:lastmodified":1537674471,
+    "wof:name":"Vila Gomes da Costa",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.63,
+    -24.30806,
+    33.63,
+    -24.30806
+],
+  "geometry": {"coordinates":[33.63,-24.30806],"type":"Point"}
+}

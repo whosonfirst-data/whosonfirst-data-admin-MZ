@@ -1,0 +1,67 @@
+{
+  "id": 1226535005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.74889,-13.73694,39.74889,-13.73694",
+    "geom:latitude":-13.73694,
+    "geom:longitude":39.74889,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Chefe Mario",
+    "gn:country_code":"MZ",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086931,
+    "gn:latitude":-13.73694,
+    "gn:longitude":39.74889,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Chefe M\u00e1rio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091697455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086931
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"55c74cc8efa9caeac6925c08cc455616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697455,
+            "locality_id":1226535005,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1226535005,
+    "wof:lastmodified":1537012862,
+    "wof:name":"Chefe Mario",
+    "wof:parent_id":1091697455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.74889,
+    -13.73694,
+    39.74889,
+    -13.73694
+],
+  "geometry": {"coordinates":[39.74889,-13.73694],"type":"Point"}
+}

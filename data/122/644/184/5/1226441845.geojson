@@ -1,0 +1,67 @@
+{
+  "id": 1226441845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11417,-18.02,35.11417,-18.02",
+    "geom:latitude":-18.02,
+    "geom:longitude":35.11417,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Santove",
+    "gn:country_code":"MZ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027319,
+    "gn:latitude":-18.02,
+    "gn:longitude":35.11417,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Santove",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027319
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"41a5ab30c9968211ab58026bbdfc2eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696559,
+            "locality_id":1226441845,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1226441845,
+    "wof:lastmodified":1536650938,
+    "wof:name":"Santove",
+    "wof:parent_id":1091696559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11417,
+    -18.02,
+    35.11417,
+    -18.02
+],
+  "geometry": {"coordinates":[35.11417,-18.02],"type":"Point"}
+}

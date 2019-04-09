@@ -1,0 +1,70 @@
+{
+  "id": 1310225001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.02076,-16.18826,32.02076,-16.18826",
+    "geom:latitude":-16.18826,
+    "geom:longitude":32.02076,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Chissando",
+    "gn:country_code":"MZ",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048738,
+    "gn:latitude":-16.18826,
+    "gn:longitude":32.02076,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chissando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Chissando"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048738
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f70dfca93a8c4ff25baa30c07992d21c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696467,
+            "locality_id":1310225001,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1310225001,
+    "wof:lastmodified":1537674587,
+    "wof:name":"Chissando",
+    "wof:parent_id":1091696467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.02076,
+    -16.18826,
+    32.02076,
+    -16.18826
+],
+  "geometry": {"coordinates":[32.02076,-16.18826],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209317563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.25778,-24.70361,33.25778,-24.70361",
+    "geom:latitude":-24.70361,
+    "geom:longitude":33.25778,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Nassone",
+    "gn:country_code":"MZ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1032610,
+    "gn:latitude":-24.70361,
+    "gn:longitude":33.25778,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Nassone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1032610
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3d16fdb562097c70842eb70ec2d3d7b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209317563
+        }
+    ],
+    "wof:id":1209317563,
+    "wof:lastmodified":1536290810,
+    "wof:name":"Nassone",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.25778,
+    -24.70361,
+    33.25778,
+    -24.70361
+],
+  "geometry": {"coordinates":[33.25778,-24.70361],"type":"Point"}
+}

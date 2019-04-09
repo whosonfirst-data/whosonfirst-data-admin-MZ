@@ -1,0 +1,64 @@
+{
+  "id": 1209024575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.65694,-20.74417,32.65694,-20.74417",
+    "geom:latitude":-20.74417,
+    "geom:longitude":32.65694,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tutere",
+    "gn:country_code":"MZ",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025503,
+    "gn:latitude":-20.74417,
+    "gn:longitude":32.65694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tutere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Tutere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025503
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"307dfe8fcc8730f3940dfec47c738106",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209024575
+        }
+    ],
+    "wof:id":1209024575,
+    "wof:lastmodified":1537674476,
+    "wof:name":"Tutere",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.65694000000001,
+    -20.74417,
+    32.65694000000001,
+    -20.74417
+],
+  "geometry": {"coordinates":[32.65694000000001,-20.74417],"type":"Point"}
+}

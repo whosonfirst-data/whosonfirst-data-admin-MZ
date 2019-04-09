@@ -1,0 +1,67 @@
+{
+  "id": 1243544243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.21667,-17.22222,38.21667,-17.22222",
+    "geom:latitude":-17.22222,
+    "geom:longitude":38.21667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Regulo Basserra",
+    "gn:country_code":"MZ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096792,
+    "gn:latitude":-17.22222,
+    "gn:longitude":38.21667,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"R\u00e9gulo Basserra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096792
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"05b92eb01a562bab1a21c11416f76001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701291,
+            "locality_id":1243544243,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1243544243,
+    "wof:lastmodified":1536664614,
+    "wof:name":"Regulo Basserra",
+    "wof:parent_id":1091701291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.21667,
+    -17.22222,
+    38.21667,
+    -17.22222
+],
+  "geometry": {"coordinates":[38.21667,-17.22222],"type":"Point"}
+}

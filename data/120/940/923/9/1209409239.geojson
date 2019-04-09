@@ -1,0 +1,61 @@
+{
+  "id": 1209409239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.68861,-12.92361,37.68861,-12.92361",
+    "geom:latitude":-12.92361,
+    "geom:longitude":37.68861,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Issamatanga",
+    "gn:country_code":"MZ",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044857,
+    "gn:latitude":-12.92361,
+    "gn:longitude":37.68861,
+    "gn:modification_date":"1995-06-23",
+    "gn:name":"Issamatanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044857
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"580796d0b1cd24888f0021be910c177e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209409239
+        }
+    ],
+    "wof:id":1209409239,
+    "wof:lastmodified":1536287894,
+    "wof:name":"Issamatanga",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.68861,
+    -12.92361,
+    37.68861,
+    -12.92361
+],
+  "geometry": {"coordinates":[37.68861,-12.92361],"type":"Point"}
+}

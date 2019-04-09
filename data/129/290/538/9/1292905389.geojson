@@ -1,0 +1,67 @@
+{
+  "id": 1292905389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.78,-22.40278,33.78,-22.40278",
+    "geom:latitude":-22.40278,
+    "geom:longitude":33.78,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Joquice",
+    "gn:country_code":"MZ",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044326,
+    "gn:latitude":-22.40278,
+    "gn:longitude":33.78,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Joquice",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044326
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"da2241ebb5cf14478040d8f7c8d1e9e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698405,
+            "locality_id":1292905389,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1292905389,
+    "wof:lastmodified":1536630516,
+    "wof:name":"Joquice",
+    "wof:parent_id":1091698405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.78,
+    -22.40278,
+    33.78,
+    -22.40278
+],
+  "geometry": {"coordinates":[33.78,-22.40278],"type":"Point"}
+}

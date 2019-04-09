@@ -1,0 +1,61 @@
+{
+  "id": 1209207329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.55167,-14.74306,40.55167,-14.74306",
+    "geom:latitude":-14.74306,
+    "geom:longitude":40.55167,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Machamo",
+    "gn:country_code":"MZ",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042715,
+    "gn:latitude":-14.74306,
+    "gn:longitude":40.55167,
+    "gn:modification_date":"1994-04-21",
+    "gn:name":"Machamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042715
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cd5def3f9fc808c0321b922959f6b65c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209207329
+        }
+    ],
+    "wof:id":1209207329,
+    "wof:lastmodified":1536294410,
+    "wof:name":"Machamo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.55167,
+    -14.74306,
+    40.55167,
+    -14.74306
+],
+  "geometry": {"coordinates":[40.55167,-14.74306],"type":"Point"}
+}

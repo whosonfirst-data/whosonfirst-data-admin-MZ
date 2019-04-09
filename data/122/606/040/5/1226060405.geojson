@@ -1,0 +1,72 @@
+{
+  "id": 1226060405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.82917,-13.77806,38.82917,-13.77806",
+    "geom:latitude":-13.77806,
+    "geom:longitude":38.82917,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chefe Saide",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027674,
+    "gn:latitude":-13.77806,
+    "gn:longitude":38.82917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Sa\u00edde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saide",
+        "Chefe Sa\u00edde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027674
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5e863e01e90dadde10cc6b5d801df9ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700995,
+            "locality_id":1226060405,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1226060405,
+    "wof:lastmodified":1537674487,
+    "wof:name":"Chefe Saide",
+    "wof:parent_id":1091700995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.82917,
+    -13.77806,
+    38.82917,
+    -13.77806
+],
+  "geometry": {"coordinates":[38.82917,-13.77806],"type":"Point"}
+}

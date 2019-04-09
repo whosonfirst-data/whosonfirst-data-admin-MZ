@@ -1,0 +1,67 @@
+{
+  "id": 1327118765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.91083,-15.20833,36.91083,-15.20833",
+    "geom:latitude":-15.20833,
+    "geom:longitude":36.91083,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Nachecua",
+    "gn:country_code":"MZ",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034910,
+    "gn:latitude":-15.20833,
+    "gn:longitude":36.91083,
+    "gn:modification_date":"1998-05-14",
+    "gn:name":"Nach\u00e9cua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034910
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9e1ad4510011112ef1d02132801ac2cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697801,
+            "locality_id":1327118765,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1327118765,
+    "wof:lastmodified":1536634544,
+    "wof:name":"Nachecua",
+    "wof:parent_id":1091697801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.91083,
+    -15.20833,
+    36.91083,
+    -15.20833
+],
+  "geometry": {"coordinates":[36.91083,-15.20833],"type":"Point"}
+}

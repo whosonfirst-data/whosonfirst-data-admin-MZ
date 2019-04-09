@@ -1,0 +1,67 @@
+{
+  "id": 1277096505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.905,-17.0625,34.905,-17.0625",
+    "geom:latitude":-17.0625,
+    "geom:longitude":34.905,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Macruso",
+    "gn:country_code":"MZ",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042388,
+    "gn:latitude":-17.0625,
+    "gn:longitude":34.905,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Macruso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091700637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042388
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ac0fe800bfa0837c3d51d7ac35df82e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700637,
+            "locality_id":1277096505,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1277096505,
+    "wof:lastmodified":1536747631,
+    "wof:name":"Macruso",
+    "wof:parent_id":1091700637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.905,
+    -17.0625,
+    34.905,
+    -17.0625
+],
+  "geometry": {"coordinates":[34.905,-17.0625],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293206569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8,-25.15,32.8,-25.15",
+    "geom:latitude":-25.15,
+    "geom:longitude":32.8,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Xebalo",
+    "gn:country_code":"MZ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024515,
+    "gn:latitude":-25.15,
+    "gn:longitude":32.8,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Xebalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024515
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9ba9e76bf0ffa61b5c8ae2148a174b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699015,
+            "locality_id":1293206569,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1293206569,
+    "wof:lastmodified":1536695220,
+    "wof:name":"Xebalo",
+    "wof:parent_id":1091699015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8,
+    -25.15,
+    32.8,
+    -25.15
+],
+  "geometry": {"coordinates":[32.8,-25.15],"type":"Point"}
+}

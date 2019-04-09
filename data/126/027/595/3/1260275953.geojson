@@ -1,0 +1,67 @@
+{
+  "id": 1260275953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.1175,-14.88583,40.1175,-14.88583",
+    "geom:latitude":-14.88583,
+    "geom:longitude":40.1175,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Jussene",
+    "gn:country_code":"MZ",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044204,
+    "gn:latitude":-14.88583,
+    "gn:longitude":40.1175,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Jussene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044204
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2b06ed8cfdc083cad139200edea80129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700177,
+            "locality_id":1260275953,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1260275953,
+    "wof:lastmodified":1536722407,
+    "wof:name":"Jussene",
+    "wof:parent_id":1091700177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.1175,
+    -14.88583,
+    40.1175,
+    -14.88583
+],
+  "geometry": {"coordinates":[40.1175,-14.88583],"type":"Point"}
+}

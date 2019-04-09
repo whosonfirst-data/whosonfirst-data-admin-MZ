@@ -1,0 +1,67 @@
+{
+  "id": 1210011087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.74361,-16.29861,36.74361,-16.29861",
+    "geom:latitude":-16.29861,
+    "geom:longitude":36.74361,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Mulimo",
+    "gn:country_code":"MZ",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035814,
+    "gn:latitude":-16.29861,
+    "gn:longitude":36.74361,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Mulimo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035814
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7f6b091520532104bc94897984085f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698327,
+            "locality_id":1210011087,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1210011087,
+    "wof:lastmodified":1536368202,
+    "wof:name":"Mulimo",
+    "wof:parent_id":1091698327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.74361,
+    -16.29861,
+    36.74361,
+    -16.29861
+],
+  "geometry": {"coordinates":[36.74361,-16.29861],"type":"Point"}
+}

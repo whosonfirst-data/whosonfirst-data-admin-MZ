@@ -1,0 +1,67 @@
+{
+  "id": 1276251155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.19583,-15.00944,39.19583,-15.00944",
+    "geom:latitude":-15.00944,
+    "geom:longitude":39.19583,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Tavanta",
+    "gn:country_code":"MZ",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092922,
+    "gn:latitude":-15.00944,
+    "gn:longitude":39.19583,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Tavant\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092922
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1a14b8d9fc880523aa8ce13101330b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700965,
+            "locality_id":1276251155,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1276251155,
+    "wof:lastmodified":1536888429,
+    "wof:name":"Tavanta",
+    "wof:parent_id":1091700965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.19583,
+    -15.00944,
+    39.19583,
+    -15.00944
+],
+  "geometry": {"coordinates":[39.19583,-15.00944],"type":"Point"}
+}

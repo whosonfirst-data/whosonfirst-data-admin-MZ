@@ -1,0 +1,67 @@
+{
+  "id": 1259872041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.52861,-13.62444,40.52861,-13.62444",
+    "geom:latitude":-13.62444,
+    "geom:longitude":40.52861,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Senhite",
+    "gn:country_code":"MZ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087192,
+    "gn:latitude":-13.62444,
+    "gn:longitude":40.52861,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Senhite",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087192
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ff09e04cc41b013a238d0cca6030734a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699799,
+            "locality_id":1259872041,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1259872041,
+    "wof:lastmodified":1536795945,
+    "wof:name":"Senhite",
+    "wof:parent_id":1091699799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.52861,
+    -13.62444,
+    40.52861,
+    -13.62444
+],
+  "geometry": {"coordinates":[40.52861,-13.62444],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310423741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.68333,-14.36667,40.68333,-14.36667",
+    "geom:latitude":-14.36667,
+    "geom:longitude":40.68333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Namapala",
+    "gn:country_code":"MZ",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034151,
+    "gn:latitude":-14.36667,
+    "gn:longitude":40.68333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Namapala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034151
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"504f6bf3ce281184d152a0068b1d6141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699799,
+            "locality_id":1310423741,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1310423741,
+    "wof:lastmodified":1537033489,
+    "wof:name":"Namapala",
+    "wof:parent_id":1091699799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.68333,
+    -14.36667,
+    40.68333,
+    -14.36667
+],
+  "geometry": {"coordinates":[40.68333,-14.36667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310018759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.72361,-24.74972,33.72361,-24.74972",
+    "geom:latitude":-24.74972,
+    "geom:longitude":33.72361,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Regedor Mazucanhane",
+    "gn:country_code":"MZ",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1098560,
+    "gn:latitude":-24.74972,
+    "gn:longitude":33.72361,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Regedor Mazucanhane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1098560
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"51abd33bc7d18091f0e754d0be02e62d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696583,
+            "locality_id":1310018759,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1310018759,
+    "wof:lastmodified":1536622091,
+    "wof:name":"Regedor Mazucanhane",
+    "wof:parent_id":1091696583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.72361,
+    -24.74972,
+    33.72361,
+    -24.74972
+],
+  "geometry": {"coordinates":[33.72361,-24.74972],"type":"Point"}
+}

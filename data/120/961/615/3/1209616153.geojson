@@ -1,0 +1,61 @@
+{
+  "id": 1209616153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.34278,-25.84028,32.34278,-25.84028",
+    "geom:latitude":-25.84028,
+    "geom:longitude":32.34278,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"S. Pedro",
+    "gn:country_code":"MZ",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089937,
+    "gn:latitude":-25.84028,
+    "gn:longitude":32.34278,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"S. Pedro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089937
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4ec333a3ff688719fdf958f203425840",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209616153
+        }
+    ],
+    "wof:id":1209616153,
+    "wof:lastmodified":1536281682,
+    "wof:name":"S. Pedro",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.34278,
+    -25.84028,
+    32.34278,
+    -25.84028
+],
+  "geometry": {"coordinates":[32.34278,-25.84028],"type":"Point"}
+}

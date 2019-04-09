@@ -1,0 +1,67 @@
+{
+  "id": 1310494209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.46333,-15.09111,37.46333,-15.09111",
+    "geom:latitude":-15.09111,
+    "geom:longitude":37.46333,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Macaza",
+    "gn:country_code":"MZ",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092290,
+    "gn:latitude":-15.09111,
+    "gn:longitude":37.46333,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"Macaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091698863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092290
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b91953e8b47554ca11c0605515a7ed4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698863,
+            "locality_id":1310494209,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1310494209,
+    "wof:lastmodified":1536933982,
+    "wof:name":"Macaza",
+    "wof:parent_id":1091698863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.46333,
+    -15.09111,
+    37.46333,
+    -15.09111
+],
+  "geometry": {"coordinates":[37.46333,-15.09111],"type":"Point"}
+}

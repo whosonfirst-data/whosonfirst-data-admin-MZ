@@ -1,0 +1,67 @@
+{
+  "id": 1343665099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.24333,-21.51167,33.24333,-21.51167",
+    "geom:latitude":-21.51167,
+    "geom:longitude":33.24333,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Caipendo",
+    "gn:country_code":"MZ",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051645,
+    "gn:latitude":-21.51167,
+    "gn:longitude":33.24333,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Caipendo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091699281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051645
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8c8afb4d71296aabb303c58cb7bf975f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699281,
+            "locality_id":1343665099,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1343665099,
+    "wof:lastmodified":1536948660,
+    "wof:name":"Caipendo",
+    "wof:parent_id":1091699281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.24333,
+    -21.51167,
+    33.24333,
+    -21.51167
+],
+  "geometry": {"coordinates":[33.24333,-21.51167],"type":"Point"}
+}

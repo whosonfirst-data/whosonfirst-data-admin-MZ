@@ -1,0 +1,67 @@
+{
+  "id": 1310610885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68333,-18.8,35.68333,-18.8",
+    "geom:latitude":-18.8,
+    "geom:longitude":35.68333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Nhabuandatema",
+    "gn:country_code":"MZ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1031950,
+    "gn:latitude":-18.8,
+    "gn:longitude":35.68333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Nhabuandatema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1031950
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f477529939befbed0625ac6209b98d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696559,
+            "locality_id":1310610885,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1310610885,
+    "wof:lastmodified":1536765214,
+    "wof:name":"Nhabuandatema",
+    "wof:parent_id":1091696559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68333,
+    -18.8,
+    35.68333,
+    -18.8
+],
+  "geometry": {"coordinates":[35.68333,-18.8],"type":"Point"}
+}

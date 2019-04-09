@@ -1,0 +1,72 @@
+{
+  "id": 1242672191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.67278,-17.48722,35.67278,-17.48722",
+    "geom:latitude":-17.48722,
+    "geom:longitude":35.67278,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Cardoa",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047787,
+    "gn:latitude":-17.48722,
+    "gn:longitude":35.67278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cardoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cordore",
+        "Cardoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047787
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"68eeb042b12e89d8f1c652ce41bdfc81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700255,
+            "locality_id":1242672191,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1242672191,
+    "wof:lastmodified":1537674581,
+    "wof:name":"Cardoa",
+    "wof:parent_id":1091700255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.67278,
+    -17.48722,
+    35.67278,
+    -17.48722
+],
+  "geometry": {"coordinates":[35.67278,-17.48722],"type":"Point"}
+}

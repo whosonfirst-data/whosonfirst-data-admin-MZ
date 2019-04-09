@@ -1,0 +1,67 @@
+{
+  "id": 1327044253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.37417,-12.23194,39.37417,-12.23194",
+    "geom:latitude":-12.23194,
+    "geom:longitude":39.37417,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chicaute",
+    "gn:country_code":"MZ",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049795,
+    "gn:latitude":-12.23194,
+    "gn:longitude":39.37417,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Chicaute",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091699771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049795
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a93aaae1ef26272cf7585d796c897e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699771,
+            "locality_id":1327044253,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1327044253,
+    "wof:lastmodified":1536743022,
+    "wof:name":"Chicaute",
+    "wof:parent_id":1091699771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.37417,
+    -12.23194,
+    39.37417,
+    -12.23194
+],
+  "geometry": {"coordinates":[39.37417,-12.23194],"type":"Point"}
+}

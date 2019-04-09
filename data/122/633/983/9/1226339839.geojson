@@ -1,0 +1,67 @@
+{
+  "id": 1226339839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.80694,-14.49861,37.80694,-14.49861",
+    "geom:latitude":-14.49861,
+    "geom:longitude":37.80694,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Maage",
+    "gn:country_code":"MZ",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088708,
+    "gn:latitude":-14.49861,
+    "gn:longitude":37.80694,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Maage",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091698233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088708
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2208cacad5787a40163fc01d16721121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698233,
+            "locality_id":1226339839,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1226339839,
+    "wof:lastmodified":1536798125,
+    "wof:name":"Maage",
+    "wof:parent_id":1091698233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.80694,
+    -14.49861,
+    37.80694,
+    -14.49861
+],
+  "geometry": {"coordinates":[37.80694,-14.49861],"type":"Point"}
+}

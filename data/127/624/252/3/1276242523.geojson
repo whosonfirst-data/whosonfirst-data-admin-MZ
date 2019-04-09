@@ -1,0 +1,72 @@
+{
+  "id": 1276242523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.88333,-13.42667,38.88333,-13.42667",
+    "geom:latitude":-13.42667,
+    "geom:longitude":38.88333,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Regulo Merruo",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038481,
+    "gn:latitude":-13.42667,
+    "gn:longitude":38.88333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00e9gulo Merruo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Merruo",
+        "R\u00e9gulo Merruo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038481
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"132399d254756894e425b9d3da31593f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700995,
+            "locality_id":1276242523,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276242523,
+    "wof:lastmodified":1537674529,
+    "wof:name":"Regulo Merruo",
+    "wof:parent_id":1091700995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.88333,
+    -13.42667,
+    38.88333,
+    -13.42667
+],
+  "geometry": {"coordinates":[38.88333,-13.42667],"type":"Point"}
+}

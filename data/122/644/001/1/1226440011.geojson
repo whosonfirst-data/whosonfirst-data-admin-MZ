@@ -1,0 +1,67 @@
+{
+  "id": 1226440011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.45361,-14.60333,40.45361,-14.60333",
+    "geom:latitude":-14.60333,
+    "geom:longitude":40.45361,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Lopes",
+    "gn:country_code":"MZ",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089214,
+    "gn:latitude":-14.60333,
+    "gn:longitude":40.45361,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Lopes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089214
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"55c87a68aae197c36395ef73c4bee1c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700727,
+            "locality_id":1226440011,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1226440011,
+    "wof:lastmodified":1536653723,
+    "wof:name":"Lopes",
+    "wof:parent_id":1091700727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.45361,
+    -14.60333,
+    40.45361,
+    -14.60333
+],
+  "geometry": {"coordinates":[40.45361,-14.60333],"type":"Point"}
+}

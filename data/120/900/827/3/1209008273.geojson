@@ -1,0 +1,61 @@
+{
+  "id": 1209008273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.46194,-11.25056,39.46194,-11.25056",
+    "geom:latitude":-11.25056,
+    "geom:longitude":39.46194,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Bango",
+    "gn:country_code":"MZ",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052522,
+    "gn:latitude":-11.25056,
+    "gn:longitude":39.46194,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Bango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052522
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a3bf433c13c1774d6d48b2976076d5ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209008273
+        }
+    ],
+    "wof:id":1209008273,
+    "wof:lastmodified":1536300531,
+    "wof:name":"Bango",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.46194000000001,
+    -11.25056,
+    39.46194000000001,
+    -11.25056
+],
+  "geometry": {"coordinates":[39.46194000000001,-11.25056],"type":"Point"}
+}

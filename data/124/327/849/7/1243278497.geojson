@@ -1,0 +1,72 @@
+{
+  "id": 1243278497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.97889,-13.53778,38.97889,-13.53778",
+    "geom:latitude":-13.53778,
+    "geom:longitude":38.97889,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Chefe Nampepa",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1033387,
+    "gn:latitude":-13.53778,
+    "gn:longitude":38.97889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Nampepa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nampepa",
+        "Chefe Nampepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1033387
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"84647e19bc465b3a1ed1b7ed6270d033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700995,
+            "locality_id":1243278497,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1243278497,
+    "wof:lastmodified":1537674506,
+    "wof:name":"Chefe Nampepa",
+    "wof:parent_id":1091700995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.97889,
+    -13.53778,
+    38.97889,
+    -13.53778
+],
+  "geometry": {"coordinates":[38.97889,-13.53778],"type":"Point"}
+}

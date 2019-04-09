@@ -1,0 +1,72 @@
+{
+  "id": 1293583789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.17611,-16.03611,37.17611,-16.03611",
+    "geom:latitude":-16.03611,
+    "geom:longitude":37.17611,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Errego",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046612,
+    "gn:latitude":-16.03611,
+    "gn:longitude":37.17611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Errego",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erego",
+        "Errego"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046612
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1dce6a8270235d97c34c8e11282b86c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697943,
+            "locality_id":1293583789,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1293583789,
+    "wof:lastmodified":1537674576,
+    "wof:name":"Errego",
+    "wof:parent_id":1091697943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.17611,
+    -16.03611,
+    37.17611,
+    -16.03611
+],
+  "geometry": {"coordinates":[37.17611,-16.03611],"type":"Point"}
+}

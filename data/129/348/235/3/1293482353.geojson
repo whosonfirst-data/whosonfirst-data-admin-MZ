@@ -1,0 +1,67 @@
+{
+  "id": 1293482353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.24556,-16.01444,39.24556,-16.01444",
+    "geom:latitude":-16.01444,
+    "geom:longitude":39.24556,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Rodrigues",
+    "gn:country_code":"MZ",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1094468,
+    "gn:latitude":-16.01444,
+    "gn:longitude":39.24556,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Rodrigues",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1094468
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"93e304268aeaf1f77c084e4ffa6898bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1293482353,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1293482353,
+    "wof:lastmodified":1536794738,
+    "wof:name":"Rodrigues",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.24556,
+    -16.01444,
+    39.24556,
+    -16.01444
+],
+  "geometry": {"coordinates":[39.24556,-16.01444],"type":"Point"}
+}

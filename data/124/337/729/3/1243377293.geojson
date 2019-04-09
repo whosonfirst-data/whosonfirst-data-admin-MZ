@@ -1,0 +1,67 @@
+{
+  "id": 1243377293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.45,-11.22917,39.45,-11.22917",
+    "geom:latitude":-11.22917,
+    "geom:longitude":39.45,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Nantibe",
+    "gn:country_code":"MZ",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1032991,
+    "gn:latitude":-11.22917,
+    "gn:longitude":39.45,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Nantib\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1032991
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fba3f422798aa7a23516810a1aed3289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1243377293,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1243377293,
+    "wof:lastmodified":1536905436,
+    "wof:name":"Nantibe",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.45,
+    -11.22917,
+    39.45,
+    -11.22917
+],
+  "geometry": {"coordinates":[39.45,-11.22917],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327023735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.55056,-20.92778,33.55056,-20.92778",
+    "geom:latitude":-20.92778,
+    "geom:longitude":33.55056,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Combene",
+    "gn:country_code":"MZ",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047951,
+    "gn:latitude":-20.92778,
+    "gn:longitude":33.55056,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Combene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047951
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3a8f03dee05254dc3ca4a6e5baad49d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1327023735,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1327023735,
+    "wof:lastmodified":1536773627,
+    "wof:name":"Combene",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.55056,
+    -20.92778,
+    33.55056,
+    -20.92778
+],
+  "geometry": {"coordinates":[33.55056,-20.92778],"type":"Point"}
+}

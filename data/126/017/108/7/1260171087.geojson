@@ -1,0 +1,67 @@
+{
+  "id": 1260171087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.7425,-15.69139,37.7425,-15.69139",
+    "geom:latitude":-15.69139,
+    "geom:longitude":37.7425,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Nipaia",
+    "gn:country_code":"MZ",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091260,
+    "gn:latitude":-15.69139,
+    "gn:longitude":37.7425,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"Nipaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091260
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"43ebc0e96526a00b9464d32fde9dd066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696213,
+            "locality_id":1260171087,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1260171087,
+    "wof:lastmodified":1536863626,
+    "wof:name":"Nipaia",
+    "wof:parent_id":1091696213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.7425,
+    -15.69139,
+    37.7425,
+    -15.69139
+],
+  "geometry": {"coordinates":[37.7425,-15.69139],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259593165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.96667,-13.55,34.96667,-13.55",
+    "geom:latitude":-13.55,
+    "geom:longitude":34.96667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Caiunga",
+    "gn:country_code":"MZ",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051635,
+    "gn:latitude":-13.55,
+    "gn:longitude":34.96667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Caiunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051635
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cd1c7b1311949d50b6d07bfeb57ca7b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698283,
+            "locality_id":1259593165,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1259593165,
+    "wof:lastmodified":1536701035,
+    "wof:name":"Caiunga",
+    "wof:parent_id":1091698283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.96667,
+    -13.55,
+    34.96667,
+    -13.55
+],
+  "geometry": {"coordinates":[34.96667,-13.55],"type":"Point"}
+}

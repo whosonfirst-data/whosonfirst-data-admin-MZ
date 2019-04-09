@@ -1,0 +1,67 @@
+{
+  "id": 1243173881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.36944,-24.76389,34.36944,-24.76389",
+    "geom:latitude":-24.76389,
+    "geom:longitude":34.36944,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chefe Buce",
+    "gn:country_code":"MZ",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1100437,
+    "gn:latitude":-24.76389,
+    "gn:longitude":34.36944,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chefe Buce",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1100437
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f3f777843497fcd6821cc7de73ccc7a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701681,
+            "locality_id":1243173881,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1243173881,
+    "wof:lastmodified":1536701804,
+    "wof:name":"Chefe Buce",
+    "wof:parent_id":1091701681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.36944,
+    -24.76389,
+    34.36944,
+    -24.76389
+],
+  "geometry": {"coordinates":[34.36944,-24.76389],"type":"Point"}
+}

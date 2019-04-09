@@ -1,0 +1,67 @@
+{
+  "id": 1243247871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.865,-15.87083,35.865,-15.87083",
+    "geom:latitude":-15.87083,
+    "geom:longitude":35.865,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chefe Jeroma",
+    "gn:country_code":"MZ",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090729,
+    "gn:latitude":-15.87083,
+    "gn:longitude":35.865,
+    "gn:modification_date":"1998-05-15",
+    "gn:name":"Chefe Jeroma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091699895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090729
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7d73a38fca4f0b402caf5f27663ce013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699895,
+            "locality_id":1243247871,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1243247871,
+    "wof:lastmodified":1537088581,
+    "wof:name":"Chefe Jeroma",
+    "wof:parent_id":1091699895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.865,
+    -15.87083,
+    35.865,
+    -15.87083
+],
+  "geometry": {"coordinates":[35.865,-15.87083],"type":"Point"}
+}

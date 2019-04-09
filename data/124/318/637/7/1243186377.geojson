@@ -1,0 +1,68 @@
+{
+  "id": 1243186377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.2775,-12.55056,40.2775,-12.55056",
+    "geom:latitude":-12.55056,
+    "geom:longitude":40.2775,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Montepuez",
+    "gn:country_code":"MZ",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085741,
+    "gn:latitude":-12.55056,
+    "gn:longitude":40.2775,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Montepuez",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085741,
+        "wk:page":"Montepuez"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"edc6f77e6096ae53e28d4f750812a17a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701371,
+            "locality_id":1243186377,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1243186377,
+    "wof:lastmodified":1537569940,
+    "wof:name":"Montepuez",
+    "wof:parent_id":1091701371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.2775,
+    -12.55056,
+    40.2775,
+    -12.55056
+],
+  "geometry": {"coordinates":[40.2775,-12.55056],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209429335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.05806,-13.36778,40.05806,-13.36778",
+    "geom:latitude":-13.36778,
+    "geom:longitude":40.05806,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chefe Muaneira",
+    "gn:country_code":"MZ",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086301,
+    "gn:latitude":-13.36778,
+    "gn:longitude":40.05806,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Chefe Muaneira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086301
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b22ada136ff42b678221240536a783dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209429335
+        }
+    ],
+    "wof:id":1209429335,
+    "wof:lastmodified":1536287282,
+    "wof:name":"Chefe Muaneira",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.05806,
+    -13.367779999999998,
+    40.05806,
+    -13.367779999999998
+],
+  "geometry": {"coordinates":[40.05806,-13.36778],"type":"Point"}
+}

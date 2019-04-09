@@ -1,0 +1,67 @@
+{
+  "id": 1310108799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.42556,-22.45472,31.42556,-22.45472",
+    "geom:latitude":-22.45472,
+    "geom:longitude":31.42556,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Salomao",
+    "gn:country_code":"MZ",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097870,
+    "gn:latitude":-22.45472,
+    "gn:longitude":31.42556,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Salom\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097870
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9452f78af7b1d54628d8d3c44c124de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696621,
+            "locality_id":1310108799,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1310108799,
+    "wof:lastmodified":1536990878,
+    "wof:name":"Salomao",
+    "wof:parent_id":1091696621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.42556,
+    -22.45472,
+    31.42556,
+    -22.45472
+],
+  "geometry": {"coordinates":[31.42556,-22.45472],"type":"Point"}
+}

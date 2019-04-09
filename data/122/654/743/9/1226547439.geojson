@@ -1,0 +1,67 @@
+{
+  "id": 1226547439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.41722,-21.59694,34.41722,-21.59694",
+    "geom:latitude":-21.59694,
+    "geom:longitude":34.41722,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Silva",
+    "gn:country_code":"MZ",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101595,
+    "gn:latitude":-21.59694,
+    "gn:longitude":34.41722,
+    "gn:modification_date":"1998-04-29",
+    "gn:name":"Silva",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101595
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"243536076cb70aff7d1aced9e4eff3ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697673,
+            "locality_id":1226547439,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1226547439,
+    "wof:lastmodified":1536994734,
+    "wof:name":"Silva",
+    "wof:parent_id":1091697673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.41722,
+    -21.59694,
+    34.41722,
+    -21.59694
+],
+  "geometry": {"coordinates":[34.41722,-21.59694],"type":"Point"}
+}

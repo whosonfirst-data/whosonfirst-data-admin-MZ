@@ -1,0 +1,67 @@
+{
+  "id": 1226239321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.22889,-15.42306,34.22889,-15.42306",
+    "geom:latitude":-15.42306,
+    "geom:longitude":34.22889,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Fereto",
+    "gn:country_code":"MZ",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046374,
+    "gn:latitude":-15.42306,
+    "gn:longitude":34.22889,
+    "gn:modification_date":"1998-05-15",
+    "gn:name":"Fereto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046374
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4e2c7c204649281d4f29998c8b1c9645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699971,
+            "locality_id":1226239321,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1226239321,
+    "wof:lastmodified":1536943446,
+    "wof:name":"Fereto",
+    "wof:parent_id":1091699971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.22889,
+    -15.42306,
+    34.22889,
+    -15.42306
+],
+  "geometry": {"coordinates":[34.22889,-15.42306],"type":"Point"}
+}

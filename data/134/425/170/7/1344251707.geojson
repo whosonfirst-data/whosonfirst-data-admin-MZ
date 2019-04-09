@@ -1,0 +1,72 @@
+{
+  "id": 1344251707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.26833,-16.65222,37.26833,-16.65222",
+    "geom:latitude":-16.65222,
+    "geom:longitude":37.26833,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Mucucuelo",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036360,
+    "gn:latitude":-16.65222,
+    "gn:longitude":37.26833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mucucuelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mucucuela",
+        "Mucucuelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036360
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"28c1be1ce69a23ab25f396be244b2d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700047,
+            "locality_id":1344251707,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1344251707,
+    "wof:lastmodified":1537674519,
+    "wof:name":"Mucucuelo",
+    "wof:parent_id":1091700047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.26833,
+    -16.65222,
+    37.26833,
+    -16.65222
+],
+  "geometry": {"coordinates":[37.26833,-16.65222],"type":"Point"}
+}

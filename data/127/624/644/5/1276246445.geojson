@@ -1,0 +1,67 @@
+{
+  "id": 1276246445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.80056,-12.56667,39.80056,-12.56667",
+    "geom:latitude":-12.56667,
+    "geom:longitude":39.80056,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Uipo",
+    "gn:country_code":"MZ",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025124,
+    "gn:latitude":-12.56667,
+    "gn:longitude":39.80056,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Uipo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091699771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025124
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c71ba1d0394b27a6fc74faa1c77cf53b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699771,
+            "locality_id":1276246445,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276246445,
+    "wof:lastmodified":1536894830,
+    "wof:name":"Uipo",
+    "wof:parent_id":1091699771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.80056,
+    -12.56667,
+    39.80056,
+    -12.56667
+],
+  "geometry": {"coordinates":[39.80056,-12.56667],"type":"Point"}
+}

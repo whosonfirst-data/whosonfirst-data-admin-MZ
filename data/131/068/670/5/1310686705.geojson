@@ -1,0 +1,72 @@
+{
+  "id": 1310686705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.39694,-15.66167,32.39694,-15.66167",
+    "geom:latitude":-15.66167,
+    "geom:longitude":32.39694,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nvabandu",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026215,
+    "gn:latitude":-15.66167,
+    "gn:longitude":32.39694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nvabandu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchipala-pala",
+        "Nvabandu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026215
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7f9eba5085bb247ee50a2752a0cbef63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696467,
+            "locality_id":1310686705,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1310686705,
+    "wof:lastmodified":1537674480,
+    "wof:name":"Nvabandu",
+    "wof:parent_id":1091696467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.39694,
+    -15.66167,
+    32.39694,
+    -15.66167
+],
+  "geometry": {"coordinates":[32.39694,-15.66167],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310308121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.70667,-22.17389,32.70667,-22.17389",
+    "geom:latitude":-22.17389,
+    "geom:longitude":32.70667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chefe Mandlalele",
+    "gn:country_code":"MZ",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1098937,
+    "gn:latitude":-22.17389,
+    "gn:longitude":32.70667,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chefe Mandlalele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1098937
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"923ddb64c17449df303fd495d896a0e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696709,
+            "locality_id":1310308121,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1310308121,
+    "wof:lastmodified":1536704383,
+    "wof:name":"Chefe Mandlalele",
+    "wof:parent_id":1091696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.70667,
+    -22.17389,
+    32.70667,
+    -22.17389
+],
+  "geometry": {"coordinates":[32.70667,-22.17389],"type":"Point"}
+}

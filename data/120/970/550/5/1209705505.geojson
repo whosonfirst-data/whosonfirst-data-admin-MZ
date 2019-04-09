@@ -1,0 +1,67 @@
+{
+  "id": 1209705505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.21667,-17.12306,38.21667,-17.12306",
+    "geom:latitude":-17.12306,
+    "geom:longitude":38.21667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Abudo",
+    "gn:country_code":"MZ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096676,
+    "gn:latitude":-17.12306,
+    "gn:longitude":38.21667,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Abudo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096676
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"eb38689bc0f8d00e546addbfeaa9202a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701291,
+            "locality_id":1209705505,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1209705505,
+    "wof:lastmodified":1536393042,
+    "wof:name":"Abudo",
+    "wof:parent_id":1091701291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.21667,
+    -17.12306,
+    38.21667,
+    -17.12306
+],
+  "geometry": {"coordinates":[38.21667,-17.12306],"type":"Point"}
+}

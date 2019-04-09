@@ -1,0 +1,72 @@
+{
+  "id": 1193148687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.34944,-23.74111,35.34944,-23.74111",
+    "geom:latitude":-23.74111,
+    "geom:longitude":35.34944,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Cabo Guja",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045587,
+    "gn:latitude":-23.74111,
+    "gn:longitude":35.34944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cabo Guja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guja",
+        "Cabo Guja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091699509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045587
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f739837618058accd1b9a917b2afa277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699509,
+            "locality_id":1193148687,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1193148687,
+    "wof:lastmodified":1537674570,
+    "wof:name":"Cabo Guja",
+    "wof:parent_id":1091699509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.34944,
+    -23.74111,
+    35.34944,
+    -23.74111
+],
+  "geometry": {"coordinates":[35.34944,-23.74111],"type":"Point"}
+}

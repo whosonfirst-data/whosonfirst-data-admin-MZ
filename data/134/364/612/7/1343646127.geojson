@@ -1,0 +1,67 @@
+{
+  "id": 1343646127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.51278,-17.25,37.51278,-17.25",
+    "geom:latitude":-17.25,
+    "geom:longitude":37.51278,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Molage",
+    "gn:country_code":"MZ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037258,
+    "gn:latitude":-17.25,
+    "gn:longitude":37.51278,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Molage",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037258
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"19db56f8cc90c4c92690e34e6d9e0d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698671,
+            "locality_id":1343646127,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1343646127,
+    "wof:lastmodified":1536975234,
+    "wof:name":"Molage",
+    "wof:parent_id":1091698671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.51278,
+    -17.25,
+    37.51278,
+    -17.25
+],
+  "geometry": {"coordinates":[37.51278,-17.25],"type":"Point"}
+}

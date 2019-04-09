@@ -1,0 +1,67 @@
+{
+  "id": 1243259697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.08806,-14.90917,33.08806,-14.90917",
+    "geom:latitude":-14.90917,
+    "geom:longitude":33.08806,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Chipone",
+    "gn:country_code":"MZ",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048912,
+    "gn:latitude":-14.90917,
+    "gn:longitude":33.08806,
+    "gn:modification_date":"1997-04-24",
+    "gn:name":"Chipone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048912
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"402d84113a5f0f9913ca06e035a630d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696659,
+            "locality_id":1243259697,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1243259697,
+    "wof:lastmodified":1537071681,
+    "wof:name":"Chipone",
+    "wof:parent_id":1091696659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.08806,
+    -14.90917,
+    33.08806,
+    -14.90917
+],
+  "geometry": {"coordinates":[33.08806,-14.90917],"type":"Point"}
+}

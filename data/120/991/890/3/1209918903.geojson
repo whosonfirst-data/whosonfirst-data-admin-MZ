@@ -1,0 +1,72 @@
+{
+  "id": 1209918903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.08056,-18.97528,35.08056,-18.97528",
+    "geom:latitude":-18.97528,
+    "geom:longitude":35.08056,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Corone",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1030319,
+    "gn:latitude":-18.97528,
+    "gn:longitude":35.08056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Corone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nhasuru\u00e9",
+        "Corone"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091700377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1030319
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5867f847ec4a67e97f24257d42eb35d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700377,
+            "locality_id":1209918903,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1209918903,
+    "wof:lastmodified":1537674498,
+    "wof:name":"Corone",
+    "wof:parent_id":1091700377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.08056,
+    -18.97528,
+    35.08056,
+    -18.97528
+],
+  "geometry": {"coordinates":[35.08056,-18.97528],"type":"Point"}
+}

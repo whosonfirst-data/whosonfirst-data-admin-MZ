@@ -1,0 +1,72 @@
+{
+  "id": 1209814633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.39028,-17.83278,35.39028,-17.83278",
+    "geom:latitude":-17.83278,
+    "geom:longitude":35.39028,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Chipuaza",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048896,
+    "gn:latitude":-17.83278,
+    "gn:longitude":35.39028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chipuaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chipuazo",
+        "Chipuaza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048896
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ae3045f87adb3299748b273df3af158f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696493,
+            "locality_id":1209814633,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1209814633,
+    "wof:lastmodified":1537674588,
+    "wof:name":"Chipuaza",
+    "wof:parent_id":1091696493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.39028,
+    -17.83278,
+    35.39028,
+    -17.83278
+],
+  "geometry": {"coordinates":[35.39028,-17.83278],"type":"Point"}
+}

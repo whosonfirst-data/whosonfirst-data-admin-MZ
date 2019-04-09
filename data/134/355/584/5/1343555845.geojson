@@ -1,0 +1,72 @@
+{
+  "id": 1343555845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.95361,-13.20111,34.95361,-13.20111",
+    "geom:latitude":-13.20111,
+    "geom:longitude":34.95361,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Moganga",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041972,
+    "gn:latitude":-13.20111,
+    "gn:longitude":34.95361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Moganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maganga",
+        "Moganga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041972
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2f13406e3e36e8567049bbcc09c5ebd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698283,
+            "locality_id":1343555845,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1343555845,
+    "wof:lastmodified":1537674551,
+    "wof:name":"Moganga",
+    "wof:parent_id":1091698283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.95361,
+    -13.20111,
+    34.95361,
+    -13.20111
+],
+  "geometry": {"coordinates":[34.95361,-13.20111],"type":"Point"}
+}

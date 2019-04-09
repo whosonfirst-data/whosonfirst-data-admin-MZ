@@ -1,0 +1,67 @@
+{
+  "id": 1343585175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.73806,-24.90111,32.73806,-24.90111",
+    "geom:latitude":-24.90111,
+    "geom:longitude":32.73806,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Vaz Guedes",
+    "gn:country_code":"MZ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1102797,
+    "gn:latitude":-24.90111,
+    "gn:longitude":32.73806,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Vaz Guedes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1102797
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f35cd5c3876a0a49077a5fb8da8c701b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1343585175,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1343585175,
+    "wof:lastmodified":1537061094,
+    "wof:name":"Vaz Guedes",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.73806,
+    -24.90111,
+    32.73806,
+    -24.90111
+],
+  "geometry": {"coordinates":[32.73806,-24.90111],"type":"Point"}
+}

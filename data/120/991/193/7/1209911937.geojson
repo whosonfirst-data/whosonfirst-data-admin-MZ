@@ -1,0 +1,67 @@
+{
+  "id": 1209911937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.30444,-14.08444,40.30444,-14.08444",
+    "geom:latitude":-14.08444,
+    "geom:longitude":40.30444,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Muchavira",
+    "gn:country_code":"MZ",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088717,
+    "gn:latitude":-14.08444,
+    "gn:longitude":40.30444,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Muchavira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088717
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"63e523169b917cba6ceae60344ea47ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699799,
+            "locality_id":1209911937,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1209911937,
+    "wof:lastmodified":1536377831,
+    "wof:name":"Muchavira",
+    "wof:parent_id":1091699799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.30444,
+    -14.08444,
+    40.30444,
+    -14.08444
+],
+  "geometry": {"coordinates":[40.30444,-14.08444],"type":"Point"}
+}

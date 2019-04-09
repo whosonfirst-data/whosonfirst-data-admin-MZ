@@ -1,0 +1,67 @@
+{
+  "id": 1226360785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.31667,-25.13333,33.31667,-25.13333",
+    "geom:latitude":-25.13333,
+    "geom:longitude":33.31667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Cobu",
+    "gn:country_code":"MZ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048101,
+    "gn:latitude":-25.13333,
+    "gn:longitude":33.31667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Cobu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048101
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d301b3e23dc9fedfa92acaa57b17c48c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696361,
+            "locality_id":1226360785,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1226360785,
+    "wof:lastmodified":1536768318,
+    "wof:name":"Cobu",
+    "wof:parent_id":1091696361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.31667,
+    -25.13333,
+    33.31667,
+    -25.13333
+],
+  "geometry": {"coordinates":[33.31667,-25.13333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293276677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.09722,-16.55139,37.09722,-16.55139",
+    "geom:latitude":-16.55139,
+    "geom:longitude":37.09722,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Voguiua",
+    "gn:country_code":"MZ",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024636,
+    "gn:latitude":-16.55139,
+    "gn:longitude":37.09722,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Voguiua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024636
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6ad1c4615299377dc337da5ec59c1fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698327,
+            "locality_id":1293276677,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1293276677,
+    "wof:lastmodified":1537087784,
+    "wof:name":"Voguiua",
+    "wof:parent_id":1091698327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.09722,
+    -16.55139,
+    37.09722,
+    -16.55139
+],
+  "geometry": {"coordinates":[37.09722,-16.55139],"type":"Point"}
+}

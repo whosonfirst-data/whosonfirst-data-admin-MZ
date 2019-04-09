@@ -1,0 +1,67 @@
+{
+  "id": 1193008965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.81889,-15.53861,33.81889,-15.53861",
+    "geom:latitude":-15.53861,
+    "geom:longitude":33.81889,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Mitone",
+    "gn:country_code":"MZ",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037473,
+    "gn:latitude":-15.53861,
+    "gn:longitude":33.81889,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Mitone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037473
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"24e0b490ea76cf001c4e27192c7e7868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696825,
+            "locality_id":1193008965,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1193008965,
+    "wof:lastmodified":1536363956,
+    "wof:name":"Mitone",
+    "wof:parent_id":1091696825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.81889,
+    -15.53861,
+    33.81889,
+    -15.53861
+],
+  "geometry": {"coordinates":[33.81889,-15.53861],"type":"Point"}
+}

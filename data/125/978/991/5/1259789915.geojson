@@ -1,0 +1,67 @@
+{
+  "id": 1259789915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.95,-25.06667,32.95,-25.06667",
+    "geom:latitude":-25.06667,
+    "geom:longitude":32.95,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Xicavane",
+    "gn:country_code":"MZ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024487,
+    "gn:latitude":-25.06667,
+    "gn:longitude":32.95,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Xicavane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024487
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8eb0c4833b1a0d27450a374355f02132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696361,
+            "locality_id":1259789915,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1259789915,
+    "wof:lastmodified":1536914304,
+    "wof:name":"Xicavane",
+    "wof:parent_id":1091696361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.95,
+    -25.06667,
+    32.95,
+    -25.06667
+],
+  "geometry": {"coordinates":[32.95,-25.06667],"type":"Point"}
+}

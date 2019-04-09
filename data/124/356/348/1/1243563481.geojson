@@ -1,0 +1,72 @@
+{
+  "id": 1243563481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.46722,-24.05139,32.46722,-24.05139",
+    "geom:latitude":-24.05139,
+    "geom:longitude":32.46722,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Aldeia Comunais Manhica",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042639,
+    "gn:latitude":-24.05139,
+    "gn:longitude":32.46722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aldeia Comunais Manhi\u00e7a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Machegane",
+        "Aldeia Comunais Manhi\u00e7a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091699347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042639
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"280d4d122d9e7c96307068ac99dd6fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699347,
+            "locality_id":1243563481,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1243563481,
+    "wof:lastmodified":1537674555,
+    "wof:name":"Aldeia Comunais Manhica",
+    "wof:parent_id":1091699347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.46722,
+    -24.05139,
+    32.46722,
+    -24.05139
+],
+  "geometry": {"coordinates":[32.46722,-24.05139],"type":"Point"}
+}

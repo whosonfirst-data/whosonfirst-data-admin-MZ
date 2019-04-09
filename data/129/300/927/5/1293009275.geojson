@@ -1,0 +1,67 @@
+{
+  "id": 1293009275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.73306,-24.76167,33.73306,-24.76167",
+    "geom:latitude":-24.76167,
+    "geom:longitude":33.73306,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ualangane",
+    "gn:country_code":"MZ",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025382,
+    "gn:latitude":-24.76167,
+    "gn:longitude":33.73306,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Ualangane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025382
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fdf7b98122c9af3b5baf3cabcddebabc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696583,
+            "locality_id":1293009275,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1293009275,
+    "wof:lastmodified":1536978715,
+    "wof:name":"Ualangane",
+    "wof:parent_id":1091696583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.73305999999999,
+    -24.76167,
+    33.73305999999999,
+    -24.76167
+],
+  "geometry": {"coordinates":[33.73305999999999,-24.76167],"type":"Point"}
+}

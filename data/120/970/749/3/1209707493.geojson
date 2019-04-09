@@ -1,0 +1,67 @@
+{
+  "id": 1209707493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.89528,-13.34667,35.89528,-13.34667",
+    "geom:latitude":-13.34667,
+    "geom:longitude":35.89528,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Ajabo",
+    "gn:country_code":"MZ",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053257,
+    "gn:latitude":-13.34667,
+    "gn:longitude":35.89528,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Ajabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053257
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"93f8daf4360ab5195b75a32295581548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698823,
+            "locality_id":1209707493,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1209707493,
+    "wof:lastmodified":1536392200,
+    "wof:name":"Ajabo",
+    "wof:parent_id":1091698823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.89528,
+    -13.34667,
+    35.89528,
+    -13.34667
+],
+  "geometry": {"coordinates":[35.89528,-13.34667],"type":"Point"}
+}

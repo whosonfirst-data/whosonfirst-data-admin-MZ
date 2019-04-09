@@ -1,0 +1,67 @@
+{
+  "id": 1293103607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.41167,-21.22667,34.41167,-21.22667",
+    "geom:latitude":-21.22667,
+    "geom:longitude":34.41167,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Checongane",
+    "gn:country_code":"MZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050153,
+    "gn:latitude":-21.22667,
+    "gn:longitude":34.41167,
+    "gn:modification_date":"1998-04-29",
+    "gn:name":"Checongane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091698487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050153
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0fae6f3bf1dd2cacfb199ec3ff405f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698487,
+            "locality_id":1293103607,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1293103607,
+    "wof:lastmodified":1536842423,
+    "wof:name":"Checongane",
+    "wof:parent_id":1091698487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.41167,
+    -21.22667,
+    34.41167,
+    -21.22667
+],
+  "geometry": {"coordinates":[34.41167,-21.22667],"type":"Point"}
+}

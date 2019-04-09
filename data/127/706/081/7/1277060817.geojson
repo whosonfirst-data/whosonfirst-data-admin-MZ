@@ -1,0 +1,67 @@
+{
+  "id": 1277060817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.51889,-17.73917,35.51889,-17.73917",
+    "geom:latitude":-17.73917,
+    "geom:longitude":35.51889,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Xafinar",
+    "gn:country_code":"MZ",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024556,
+    "gn:latitude":-17.73917,
+    "gn:longitude":35.51889,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Xafinar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024556
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1e85324c2457c47fd3a16c7041fee429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700251,
+            "locality_id":1277060817,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1277060817,
+    "wof:lastmodified":1536798529,
+    "wof:name":"Xafinar",
+    "wof:parent_id":1091700251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.51889,
+    -17.73917,
+    35.51889,
+    -17.73917
+],
+  "geometry": {"coordinates":[35.51889,-17.73917],"type":"Point"}
+}

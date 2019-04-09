@@ -1,0 +1,67 @@
+{
+  "id": 1310716049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.17667,-10.77833,40.17667,-10.77833",
+    "geom:latitude":-10.77833,
+    "geom:longitude":40.17667,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Licangote",
+    "gn:country_code":"MZ",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043904,
+    "gn:latitude":-10.77833,
+    "gn:longitude":40.17667,
+    "gn:modification_date":"1995-02-03",
+    "gn:name":"Licangote",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043904
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e46ecbacd732b34dbb6ff5691cfc7164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701223,
+            "locality_id":1310716049,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1310716049,
+    "wof:lastmodified":1536610521,
+    "wof:name":"Licangote",
+    "wof:parent_id":1091701223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.17667,
+    -10.77833,
+    40.17667,
+    -10.77833
+],
+  "geometry": {"coordinates":[40.17667,-10.77833],"type":"Point"}
+}

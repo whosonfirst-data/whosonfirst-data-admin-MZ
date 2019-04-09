@@ -1,0 +1,67 @@
+{
+  "id": 1293699665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.11056,-24.85333,33.11056,-24.85333",
+    "geom:latitude":-24.85333,
+    "geom:longitude":33.11056,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chefe Nhamusse",
+    "gn:country_code":"MZ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1098694,
+    "gn:latitude":-24.85333,
+    "gn:longitude":33.11056,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chefe Nhamusse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1098694
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bbc076cce097c256f6ba18e7f13a8b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696849,
+            "locality_id":1293699665,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1293699665,
+    "wof:lastmodified":1536977845,
+    "wof:name":"Chefe Nhamusse",
+    "wof:parent_id":1091696849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.11056,
+    -24.85333,
+    33.11056,
+    -24.85333
+],
+  "geometry": {"coordinates":[33.11056,-24.85333],"type":"Point"}
+}

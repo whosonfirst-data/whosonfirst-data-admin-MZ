@@ -1,0 +1,72 @@
+{
+  "id": 1343851413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.15861,-15.08472,32.15861,-15.08472",
+    "geom:latitude":-15.08472,
+    "geom:longitude":32.15861,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Lumbe",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043251,
+    "gn:latitude":-15.08472,
+    "gn:longitude":32.15861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lumbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chincusi",
+        "Lumbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043251
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fbd565aef3b45cb0c91c8421d50982df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699093,
+            "locality_id":1343851413,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1343851413,
+    "wof:lastmodified":1537674559,
+    "wof:name":"Lumbe",
+    "wof:parent_id":1091699093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.15861,
+    -15.08472,
+    32.15861,
+    -15.08472
+],
+  "geometry": {"coordinates":[32.15861,-15.08472],"type":"Point"}
+}

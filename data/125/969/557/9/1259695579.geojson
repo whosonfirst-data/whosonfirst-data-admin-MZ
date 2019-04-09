@@ -1,0 +1,67 @@
+{
+  "id": 1259695579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.92528,-24.14278,34.92528,-24.14278",
+    "geom:latitude":-24.14278,
+    "geom:longitude":34.92528,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Joel Nhatene",
+    "gn:country_code":"MZ",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097249,
+    "gn:latitude":-24.14278,
+    "gn:longitude":34.92528,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Joel Nhatene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097249
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d876950f0ff2c80ed636ffb7ec8c893e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701265,
+            "locality_id":1259695579,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1259695579,
+    "wof:lastmodified":1537047545,
+    "wof:name":"Joel Nhatene",
+    "wof:parent_id":1091701265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.92528,
+    -24.14278,
+    34.92528,
+    -24.14278
+],
+  "geometry": {"coordinates":[34.92528,-24.14278],"type":"Point"}
+}

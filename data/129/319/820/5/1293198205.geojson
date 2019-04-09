@@ -1,0 +1,67 @@
+{
+  "id": 1293198205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.88083,-15.01361,39.88083,-15.01361",
+    "geom:latitude":-15.01361,
+    "geom:longitude":39.88083,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Jogoio",
+    "gn:country_code":"MZ",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044420,
+    "gn:latitude":-15.01361,
+    "gn:longitude":39.88083,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Jogoio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044420
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"88ab6f5a1e1fa974e34498a6496af725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699601,
+            "locality_id":1293198205,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1293198205,
+    "wof:lastmodified":1536707422,
+    "wof:name":"Jogoio",
+    "wof:parent_id":1091699601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.88083,
+    -15.01361,
+    39.88083,
+    -15.01361
+],
+  "geometry": {"coordinates":[39.88083,-15.01361],"type":"Point"}
+}

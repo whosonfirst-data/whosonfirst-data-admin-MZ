@@ -1,0 +1,67 @@
+{
+  "id": 1343254481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.41833,-14.06361,40.41833,-14.06361",
+    "geom:latitude":-14.06361,
+    "geom:longitude":40.41833,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tiquia",
+    "gn:country_code":"MZ",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025885,
+    "gn:latitude":-14.06361,
+    "gn:longitude":40.41833,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Tiquia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025885
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"268c91d22d77c656ac83978ada2b2bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699799,
+            "locality_id":1343254481,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1343254481,
+    "wof:lastmodified":1537041800,
+    "wof:name":"Tiquia",
+    "wof:parent_id":1091699799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.41833,
+    -14.06361,
+    40.41833,
+    -14.06361
+],
+  "geometry": {"coordinates":[40.41833,-14.06361],"type":"Point"}
+}

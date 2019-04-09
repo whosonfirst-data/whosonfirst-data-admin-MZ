@@ -1,0 +1,67 @@
+{
+  "id": 1310698495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.55,-13.15417,37.55,-13.15417",
+    "geom:latitude":-13.15417,
+    "geom:longitude":37.55,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Nambaica",
+    "gn:country_code":"MZ",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1033983,
+    "gn:latitude":-13.15417,
+    "gn:longitude":37.55,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Nambaica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1033983
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"032fa14829ac1f99911e2ee979f0bb2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699257,
+            "locality_id":1310698495,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1310698495,
+    "wof:lastmodified":1536637375,
+    "wof:name":"Nambaica",
+    "wof:parent_id":1091699257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.55,
+    -13.15417,
+    37.55,
+    -13.15417
+],
+  "geometry": {"coordinates":[37.55,-13.15417],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209610473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.22111,-19.05889,33.22111,-19.05889",
+    "geom:latitude":-19.05889,
+    "geom:longitude":33.22111,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rupango",
+    "gn:country_code":"MZ",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027843,
+    "gn:latitude":-19.05889,
+    "gn:longitude":33.22111,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Rupango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027843
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2c194d9a022998952f17e127a87e37b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209610473
+        }
+    ],
+    "wof:id":1209610473,
+    "wof:lastmodified":1536281864,
+    "wof:name":"Rupango",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.22111,
+    -19.05889,
+    33.22111,
+    -19.05889
+],
+  "geometry": {"coordinates":[33.22111,-19.05889],"type":"Point"}
+}

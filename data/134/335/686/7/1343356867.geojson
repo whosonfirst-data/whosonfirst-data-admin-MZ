@@ -1,0 +1,67 @@
+{
+  "id": 1343356867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.09639,-15.15611,39.09639,-15.15611",
+    "geom:latitude":-15.15611,
+    "geom:longitude":39.09639,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Adriano",
+    "gn:country_code":"MZ",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092736,
+    "gn:latitude":-15.15611,
+    "gn:longitude":39.09639,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Adriano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092736
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a6ed2223a12b439234e9e0bcbaaebad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700965,
+            "locality_id":1343356867,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1343356867,
+    "wof:lastmodified":1536895545,
+    "wof:name":"Adriano",
+    "wof:parent_id":1091700965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.09639,
+    -15.15611,
+    39.09639,
+    -15.15611
+],
+  "geometry": {"coordinates":[39.09639,-15.15611],"type":"Point"}
+}

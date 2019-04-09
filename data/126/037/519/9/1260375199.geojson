@@ -1,0 +1,67 @@
+{
+  "id": 1260375199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.535,-17.57444,35.535,-17.57444",
+    "geom:latitude":-17.57444,
+    "geom:longitude":35.535,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Jafar",
+    "gn:country_code":"MZ",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044790,
+    "gn:latitude":-17.57444,
+    "gn:longitude":35.535,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Jafar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044790
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d888042abddba202b6af264e5232a466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700255,
+            "locality_id":1260375199,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1260375199,
+    "wof:lastmodified":1537082873,
+    "wof:name":"Jafar",
+    "wof:parent_id":1091700255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.535,
+    -17.57444,
+    35.535,
+    -17.57444
+],
+  "geometry": {"coordinates":[35.535,-17.57444],"type":"Point"}
+}

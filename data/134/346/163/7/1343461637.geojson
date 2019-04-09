@@ -1,0 +1,67 @@
+{
+  "id": 1343461637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.40722,-24.02278,32.40722,-24.02278",
+    "geom:latitude":-24.02278,
+    "geom:longitude":32.40722,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Nhone",
+    "gn:country_code":"MZ",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1030059,
+    "gn:latitude":-24.02278,
+    "gn:longitude":32.40722,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Nhone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091699347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1030059
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b24838b1f374d57c432549ed5839086f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699347,
+            "locality_id":1343461637,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1343461637,
+    "wof:lastmodified":1536744143,
+    "wof:name":"Nhone",
+    "wof:parent_id":1091699347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.40722,
+    -24.02278,
+    32.40722,
+    -24.02278
+],
+  "geometry": {"coordinates":[32.40722,-24.02278],"type":"Point"}
+}

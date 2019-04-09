@@ -1,0 +1,61 @@
+{
+  "id": 1209530357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9,-19.13333,32.9,-19.13333",
+    "geom:latitude":-19.13333,
+    "geom:longitude":32.9,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Muchemba",
+    "gn:country_code":"MZ",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036461,
+    "gn:latitude":-19.13333,
+    "gn:longitude":32.9,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Muchemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036461
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0f1d826c1d93fbc080b7fdb8972f75c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209530357
+        }
+    ],
+    "wof:id":1209530357,
+    "wof:lastmodified":1536284300,
+    "wof:name":"Muchemba",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9,
+    -19.13333,
+    32.9,
+    -19.13333
+],
+  "geometry": {"coordinates":[32.9,-19.13333],"type":"Point"}
+}

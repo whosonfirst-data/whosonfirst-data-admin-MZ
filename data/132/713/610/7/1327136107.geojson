@@ -1,0 +1,67 @@
+{
+  "id": 1327136107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.19667,-21.94361,35.19667,-21.94361",
+    "geom:latitude":-21.94361,
+    "geom:longitude":35.19667,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Manuel",
+    "gn:country_code":"MZ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040860,
+    "gn:latitude":-21.94361,
+    "gn:longitude":35.19667,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Manuel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040860
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"625c3115b9e9d985c562237956f69425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701605,
+            "locality_id":1327136107,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1327136107,
+    "wof:lastmodified":1536607977,
+    "wof:name":"Manuel",
+    "wof:parent_id":1091701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.19667000000001,
+    -21.94361,
+    35.19667000000001,
+    -21.94361
+],
+  "geometry": {"coordinates":[35.19667000000001,-21.94361],"type":"Point"}
+}

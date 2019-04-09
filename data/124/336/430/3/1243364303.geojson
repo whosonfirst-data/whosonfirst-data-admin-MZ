@@ -1,0 +1,67 @@
+{
+  "id": 1243364303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.40639,-25.91083,32.40639,-25.91083",
+    "geom:latitude":-25.91083,
+    "geom:longitude":32.40639,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Beluluane",
+    "gn:country_code":"MZ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052356,
+    "gn:latitude":-25.91083,
+    "gn:longitude":32.40639,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Beluluane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091696363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052356
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"403be350139bda783422a6ba9592429a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696363,
+            "locality_id":1243364303,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1243364303,
+    "wof:lastmodified":1536924734,
+    "wof:name":"Beluluane",
+    "wof:parent_id":1091696363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.40639,
+    -25.91083,
+    32.40639,
+    -25.91083
+],
+  "geometry": {"coordinates":[32.40639,-25.91083],"type":"Point"}
+}

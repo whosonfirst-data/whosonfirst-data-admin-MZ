@@ -1,0 +1,72 @@
+{
+  "id": 1226463763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02639,-15.40278,36.02639,-15.40278",
+    "geom:latitude":-15.40278,
+    "geom:longitude":36.02639,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Mucarro",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037796,
+    "gn:latitude":-15.40278,
+    "gn:longitude":36.02639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Mucarro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Micire",
+        "Chefe Mucarro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037796
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7dca643bf1cfaed7a41ff2f39cf6c3f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699553,
+            "locality_id":1226463763,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1226463763,
+    "wof:lastmodified":1537674527,
+    "wof:name":"Chefe Mucarro",
+    "wof:parent_id":1091699553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02639,
+    -15.40278,
+    36.02639,
+    -15.40278
+],
+  "geometry": {"coordinates":[36.02639,-15.40278],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226465287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.75806,-20.32139,33.75806,-20.32139",
+    "geom:latitude":-20.32139,
+    "geom:longitude":33.75806,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Nhaganjo",
+    "gn:country_code":"MZ",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1031703,
+    "gn:latitude":-20.32139,
+    "gn:longitude":33.75806,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Nhaganjo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1031703
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0155bc31a381b4b95e9fd57ac8aeac0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696561,
+            "locality_id":1226465287,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1226465287,
+    "wof:lastmodified":1536614991,
+    "wof:name":"Nhaganjo",
+    "wof:parent_id":1091696561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.75806,
+    -20.32139,
+    33.75806,
+    -20.32139
+],
+  "geometry": {"coordinates":[33.75806,-20.32139],"type":"Point"}
+}

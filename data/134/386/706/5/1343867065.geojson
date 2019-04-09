@@ -1,0 +1,67 @@
+{
+  "id": 1343867065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.53972,-24.69222,33.53972,-24.69222",
+    "geom:latitude":-24.69222,
+    "geom:longitude":33.53972,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Carreira de Tiro",
+    "gn:country_code":"MZ",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1098439,
+    "gn:latitude":-24.69222,
+    "gn:longitude":33.53972,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Carreira de Tiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1098439
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"786f384902b0aa6141173703a67bb841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696583,
+            "locality_id":1343867065,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1343867065,
+    "wof:lastmodified":1536657110,
+    "wof:name":"Carreira de Tiro",
+    "wof:parent_id":1091696583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.53972,
+    -24.69222,
+    33.53972,
+    -24.69222
+],
+  "geometry": {"coordinates":[33.53972,-24.69222],"type":"Point"}
+}

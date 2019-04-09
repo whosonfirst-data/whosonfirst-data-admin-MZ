@@ -1,0 +1,67 @@
+{
+  "id": 1242590371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.56361,-23.86361,33.56361,-23.86361",
+    "geom:latitude":-23.86361,
+    "geom:longitude":33.56361,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Muguere",
+    "gn:country_code":"MZ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036069,
+    "gn:latitude":-23.86361,
+    "gn:longitude":33.56361,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mugu\u00e9re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036069
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"980c4fce833617b9b276c0ec710576ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696709,
+            "locality_id":1242590371,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1242590371,
+    "wof:lastmodified":1537043376,
+    "wof:name":"Muguere",
+    "wof:parent_id":1091696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.56361,
+    -23.86361,
+    33.56361,
+    -23.86361
+],
+  "geometry": {"coordinates":[33.56361,-23.86361],"type":"Point"}
+}

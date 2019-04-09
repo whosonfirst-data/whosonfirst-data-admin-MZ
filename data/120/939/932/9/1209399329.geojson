@@ -1,0 +1,61 @@
+{
+  "id": 1209399329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.41194,-16.465,37.41194,-16.465",
+    "geom:latitude":-16.465,
+    "geom:longitude":37.41194,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Namaquita",
+    "gn:country_code":"MZ",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034134,
+    "gn:latitude":-16.465,
+    "gn:longitude":37.41194,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Namaquita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034134
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6a7cdbd189d544be2b910d137788caf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209399329
+        }
+    ],
+    "wof:id":1209399329,
+    "wof:lastmodified":1536288198,
+    "wof:name":"Namaquita",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.41194,
+    -16.465,
+    37.41194,
+    -16.465
+],
+  "geometry": {"coordinates":[37.41194,-16.465],"type":"Point"}
+}

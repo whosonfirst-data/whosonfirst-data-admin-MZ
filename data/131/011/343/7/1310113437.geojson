@@ -1,0 +1,67 @@
+{
+  "id": 1310113437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.31111,-23.19778,35.31111,-23.19778",
+    "geom:latitude":-23.19778,
+    "geom:longitude":35.31111,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chefe Cuelane",
+    "gn:country_code":"MZ",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101495,
+    "gn:latitude":-23.19778,
+    "gn:longitude":35.31111,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Chefe Cuelane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091699313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101495
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3cf05eeac4f57f35eb8a6a0877b18514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699313,
+            "locality_id":1310113437,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1310113437,
+    "wof:lastmodified":1536984178,
+    "wof:name":"Chefe Cuelane",
+    "wof:parent_id":1091699313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.31111,
+    -23.19778,
+    35.31111,
+    -23.19778
+],
+  "geometry": {"coordinates":[35.31111,-23.19778],"type":"Point"}
+}

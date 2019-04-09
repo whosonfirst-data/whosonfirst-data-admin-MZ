@@ -1,0 +1,67 @@
+{
+  "id": 1209733305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.11111,-13.33444,40.11111,-13.33444",
+    "geom:latitude":-13.33444,
+    "geom:longitude":40.11111,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chefe Nanquela",
+    "gn:country_code":"MZ",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086321,
+    "gn:latitude":-13.33444,
+    "gn:longitude":40.11111,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Chefe Nanquela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086321
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0158e7f126d478d23d407aa3057ff300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696771,
+            "locality_id":1209733305,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1209733305,
+    "wof:lastmodified":1536376379,
+    "wof:name":"Chefe Nanquela",
+    "wof:parent_id":1091696771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.11111,
+    -13.33444,
+    40.11111,
+    -13.33444
+],
+  "geometry": {"coordinates":[40.11111,-13.33444],"type":"Point"}
+}

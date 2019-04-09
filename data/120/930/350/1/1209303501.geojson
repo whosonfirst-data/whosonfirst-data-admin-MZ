@@ -1,0 +1,61 @@
+{
+  "id": 1209303501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.79028,-21.07639,33.79028,-21.07639",
+    "geom:latitude":-21.07639,
+    "geom:longitude":33.79028,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Samussene",
+    "gn:country_code":"MZ",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027453,
+    "gn:latitude":-21.07639,
+    "gn:longitude":33.79028,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Samussene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027453
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0851f183b05b729b8d6c0a611c3e74da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209303501
+        }
+    ],
+    "wof:id":1209303501,
+    "wof:lastmodified":1536291274,
+    "wof:name":"Samussene",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.79028,
+    -21.07639,
+    33.79028,
+    -21.07639
+],
+  "geometry": {"coordinates":[33.79028,-21.07639],"type":"Point"}
+}

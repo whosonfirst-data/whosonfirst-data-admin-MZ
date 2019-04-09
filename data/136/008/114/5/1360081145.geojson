@@ -1,0 +1,67 @@
+{
+  "id": 1360081145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.90056,-21.17472,33.90056,-21.17472",
+    "geom:latitude":-21.17472,
+    "geom:longitude":33.90056,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Chimualaja",
+    "gn:country_code":"MZ",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049239,
+    "gn:latitude":-21.17472,
+    "gn:longitude":33.90056,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chimualaja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049239
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7e2e30666c874eef73c73c51465f3857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1360081145,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1360081145,
+    "wof:lastmodified":1536951554,
+    "wof:name":"Chimualaja",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.90056,
+    -21.17472,
+    33.90056,
+    -21.17472
+],
+  "geometry": {"coordinates":[33.90056,-21.17472],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193036907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86306,-15.48556,36.86306,-15.48556",
+    "geom:latitude":-15.48556,
+    "geom:longitude":36.86306,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Regulo Namacala",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034407,
+    "gn:latitude":-15.48556,
+    "gn:longitude":36.86306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00e9gulo Namacala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namacala",
+        "R\u00e9gulo Namacala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034407
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1b391ab92a589711ffaa9899c9ab30ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697801,
+            "locality_id":1193036907,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1193036907,
+    "wof:lastmodified":1537674509,
+    "wof:name":"Regulo Namacala",
+    "wof:parent_id":1091697801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86306,
+    -15.48556,
+    36.86306,
+    -15.48556
+],
+  "geometry": {"coordinates":[36.86306,-15.48556],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293484227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.69,-13.37861,36.69,-13.37861",
+    "geom:latitude":-13.37861,
+    "geom:longitude":36.69,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Cantua",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047811,
+    "gn:latitude":-13.37861,
+    "gn:longitude":36.69,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cantua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Contua",
+        "Cantua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047811
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f103ab9c1a3f3b0320f6edacb04ed517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698823,
+            "locality_id":1293484227,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1293484227,
+    "wof:lastmodified":1537674581,
+    "wof:name":"Cantua",
+    "wof:parent_id":1091698823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.69,
+    -13.37861,
+    36.69,
+    -13.37861
+],
+  "geometry": {"coordinates":[36.69,-13.37861],"type":"Point"}
+}

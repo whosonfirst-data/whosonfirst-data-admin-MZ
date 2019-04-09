@@ -1,0 +1,67 @@
+{
+  "id": 1343558851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.07528,-16.41028,39.07528,-16.41028",
+    "geom:latitude":-16.41028,
+    "geom:longitude":39.07528,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chefe Natocua",
+    "gn:country_code":"MZ",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095459,
+    "gn:latitude":-16.41028,
+    "gn:longitude":39.07528,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Chefe Natocua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095459
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"315c6b4df76f3051f7dda47f7c1527bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1343558851,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1343558851,
+    "wof:lastmodified":1536601099,
+    "wof:name":"Chefe Natocua",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.07528,
+    -16.41028,
+    39.07528,
+    -16.41028
+],
+  "geometry": {"coordinates":[39.07528,-16.41028],"type":"Point"}
+}

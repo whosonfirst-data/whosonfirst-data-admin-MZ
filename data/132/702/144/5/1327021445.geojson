@@ -1,0 +1,67 @@
+{
+  "id": 1327021445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.36861,-14.01194,37.36861,-14.01194",
+    "geom:latitude":-14.01194,
+    "geom:longitude":37.36861,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Metarapa",
+    "gn:country_code":"MZ",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088993,
+    "gn:latitude":-14.01194,
+    "gn:longitude":37.36861,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Metarapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088993
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"460de1167c29fbb86c7b8dad4b2fd0a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699411,
+            "locality_id":1327021445,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1327021445,
+    "wof:lastmodified":1536776902,
+    "wof:name":"Metarapa",
+    "wof:parent_id":1091699411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.36861,
+    -14.01194,
+    37.36861,
+    -14.01194
+],
+  "geometry": {"coordinates":[37.36861,-14.01194],"type":"Point"}
+}

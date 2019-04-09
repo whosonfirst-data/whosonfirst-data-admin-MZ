@@ -1,0 +1,72 @@
+{
+  "id": 1343452621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.00972,-12.36056,35.00972,-12.36056",
+    "geom:latitude":-12.36056,
+    "geom:longitude":35.00972,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Andalara",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052971,
+    "gn:latitude":-12.36056,
+    "gn:longitude":35.00972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Andalara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andoleio",
+        "Andalara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052971
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2b98e09685d91f8c90e9a9f498b1653e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698193,
+            "locality_id":1343452621,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1343452621,
+    "wof:lastmodified":1537674612,
+    "wof:name":"Andalara",
+    "wof:parent_id":1091698193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.00972,
+    -12.36056,
+    35.00972,
+    -12.36056
+],
+  "geometry": {"coordinates":[35.00972,-12.36056],"type":"Point"}
+}

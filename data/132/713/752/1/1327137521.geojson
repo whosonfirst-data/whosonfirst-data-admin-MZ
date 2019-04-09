@@ -1,0 +1,67 @@
+{
+  "id": 1327137521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.61444,-24.49694,33.61444,-24.49694",
+    "geom:latitude":-24.49694,
+    "geom:longitude":33.61444,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Faustino",
+    "gn:country_code":"MZ",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097463,
+    "gn:latitude":-24.49694,
+    "gn:longitude":33.61444,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Faustino",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097463
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3e98b803313ef9fbff2ba61e6dc2b8d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696583,
+            "locality_id":1327137521,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1327137521,
+    "wof:lastmodified":1536605733,
+    "wof:name":"Faustino",
+    "wof:parent_id":1091696583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.61444,
+    -24.49694,
+    33.61444,
+    -24.49694
+],
+  "geometry": {"coordinates":[33.61444,-24.49694],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209207369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.47889,-13.87972,40.47889,-13.87972",
+    "geom:latitude":-13.87972,
+    "geom:longitude":40.47889,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Muatula",
+    "gn:country_code":"MZ",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036611,
+    "gn:latitude":-13.87972,
+    "gn:longitude":40.47889,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Muatula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036611
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"03120d1c4a49a0e7e3c834064bdba478",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209207369
+        }
+    ],
+    "wof:id":1209207369,
+    "wof:lastmodified":1536294409,
+    "wof:name":"Muatula",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.47889,
+    -13.87972,
+    40.47889,
+    -13.87972
+],
+  "geometry": {"coordinates":[40.47889,-13.87972],"type":"Point"}
+}

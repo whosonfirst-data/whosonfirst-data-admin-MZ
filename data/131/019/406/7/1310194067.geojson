@@ -1,0 +1,67 @@
+{
+  "id": 1310194067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.43,-21.31306,33.43,-21.31306",
+    "geom:latitude":-21.31306,
+    "geom:longitude":33.43,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mangamo",
+    "gn:country_code":"MZ",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041132,
+    "gn:latitude":-21.31306,
+    "gn:longitude":33.43,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mangamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041132
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4302ff627d6c81b3f5c59ee0eae72e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1310194067,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1310194067,
+    "wof:lastmodified":1536867553,
+    "wof:name":"Mangamo",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.43,
+    -21.31306,
+    33.43,
+    -21.31306
+],
+  "geometry": {"coordinates":[33.43,-21.31306],"type":"Point"}
+}

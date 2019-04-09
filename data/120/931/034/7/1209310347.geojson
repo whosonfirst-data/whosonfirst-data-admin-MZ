@@ -1,0 +1,66 @@
+{
+  "id": 1209310347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.10111,-15.09833,37.10111,-15.09833",
+    "geom:latitude":-15.09833,
+    "geom:longitude":37.10111,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Fazenda",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042460,
+    "gn:latitude":-15.09833,
+    "gn:longitude":37.10111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fazenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Macombo",
+        "Fazenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042460
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9d63b82099539dedbd87e004d30d0f39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209310347
+        }
+    ],
+    "wof:id":1209310347,
+    "wof:lastmodified":1537674554,
+    "wof:name":"Fazenda",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.10111,
+    -15.09833,
+    37.10111,
+    -15.09833
+],
+  "geometry": {"coordinates":[37.10111,-15.09833],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209619349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.40083,-13.40111,39.40083,-13.40111",
+    "geom:latitude":-13.40111,
+    "geom:longitude":39.40083,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Matemo",
+    "gn:country_code":"MZ",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039998,
+    "gn:latitude":-13.40111,
+    "gn:longitude":39.40083,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Matemo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039998
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6c50c01d9f21ff922ac451fbf4e3ca69",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209619349
+        }
+    ],
+    "wof:id":1209619349,
+    "wof:lastmodified":1536281574,
+    "wof:name":"Matemo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.40083,
+    -13.40111,
+    39.40083,
+    -13.40111
+],
+  "geometry": {"coordinates":[39.40083,-13.40111],"type":"Point"}
+}

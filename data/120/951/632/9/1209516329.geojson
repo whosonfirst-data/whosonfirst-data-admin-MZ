@@ -1,0 +1,61 @@
+{
+  "id": 1209516329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.30611,-24.86833,32.30611,-24.86833",
+    "geom:latitude":-24.86833,
+    "geom:longitude":32.30611,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Aldeia Comunais Chicuembo",
+    "gn:country_code":"MZ",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1102638,
+    "gn:latitude":-24.86833,
+    "gn:longitude":32.30611,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Aldeia Comunais Chicuembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1102638
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8b7c418802617086d4103a62a6764cb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209516329
+        }
+    ],
+    "wof:id":1209516329,
+    "wof:lastmodified":1536284721,
+    "wof:name":"Aldeia Comunais Chicuembo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.30611,
+    -24.86833,
+    32.30611,
+    -24.86833
+],
+  "geometry": {"coordinates":[32.30611,-24.86833],"type":"Point"}
+}

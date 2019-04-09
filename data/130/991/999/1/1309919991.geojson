@@ -1,0 +1,67 @@
+{
+  "id": 1309919991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.62,-13.06389,39.62,-13.06389",
+    "geom:latitude":-13.06389,
+    "geom:longitude":39.62,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Comala",
+    "gn:country_code":"MZ",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087725,
+    "gn:latitude":-13.06389,
+    "gn:longitude":39.62,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Comala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087725
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6afcc83d246c3d42444bc7419b04e36d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696241,
+            "locality_id":1309919991,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1309919991,
+    "wof:lastmodified":1536766813,
+    "wof:name":"Comala",
+    "wof:parent_id":1091696241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.62,
+    -13.06389,
+    39.62,
+    -13.06389
+],
+  "geometry": {"coordinates":[39.62,-13.06389],"type":"Point"}
+}

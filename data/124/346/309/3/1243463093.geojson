@@ -1,0 +1,67 @@
+{
+  "id": 1243463093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.51944,-24.91472,33.51944,-24.91472",
+    "geom:latitude":-24.91472,
+    "geom:longitude":33.51944,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Companhia das Lezirias",
+    "gn:country_code":"MZ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1099742,
+    "gn:latitude":-24.91472,
+    "gn:longitude":33.51944,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Companhia das Lezirias",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091701651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1099742
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f802170736afff784af8f08a3773ed72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701651,
+            "locality_id":1243463093,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1243463093,
+    "wof:lastmodified":1536781935,
+    "wof:name":"Companhia das Lezirias",
+    "wof:parent_id":1091701651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.51944,
+    -24.91472000000001,
+    33.51944,
+    -24.91472000000001
+],
+  "geometry": {"coordinates":[33.51944,-24.91472000000001],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209025203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.26806,-15.67972,36.26806,-15.67972",
+    "geom:latitude":-15.67972,
+    "geom:longitude":36.26806,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Comia",
+    "gn:country_code":"MZ",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091334,
+    "gn:latitude":-15.67972,
+    "gn:longitude":36.26806,
+    "gn:modification_date":"1998-05-14",
+    "gn:name":"Comia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091334
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fc4b543a0fb83f6031916d9ff85a2d77",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209025203
+        }
+    ],
+    "wof:id":1209025203,
+    "wof:lastmodified":1536300022,
+    "wof:name":"Comia",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.26806,
+    -15.67972,
+    36.26806,
+    -15.67972
+],
+  "geometry": {"coordinates":[36.26806,-15.67972],"type":"Point"}
+}

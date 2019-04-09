@@ -1,0 +1,61 @@
+{
+  "id": 1209019025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.33333,-21.9,34.33333,-21.9",
+    "geom:latitude":-21.9,
+    "geom:longitude":34.33333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Namburrete",
+    "gn:country_code":"MZ",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1033954,
+    "gn:latitude":-21.9,
+    "gn:longitude":34.33333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Namburrete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1033954
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fcc2398be63107a99f95ba2b688cc174",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209019025
+        }
+    ],
+    "wof:id":1209019025,
+    "wof:lastmodified":1536300204,
+    "wof:name":"Namburrete",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.33333,
+    -21.9,
+    34.33333,
+    -21.9
+],
+  "geometry": {"coordinates":[34.33333,-21.9],"type":"Point"}
+}

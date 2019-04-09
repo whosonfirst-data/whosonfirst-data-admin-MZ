@@ -1,0 +1,67 @@
+{
+  "id": 1209315127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.66806,-25.65139,32.66806,-25.65139",
+    "geom:latitude":-25.65139,
+    "geom:longitude":32.66806,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Moveja",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036979,
+    "gn:latitude":-25.65139,
+    "gn:longitude":32.66806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Moveja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moveaja",
+        "Mevedja",
+        "Moveja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036979
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9970ddbe64b932bf764cc8234933b450",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209315127
+        }
+    ],
+    "wof:id":1209315127,
+    "wof:lastmodified":1537674522,
+    "wof:name":"Moveja",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.66806,
+    -25.65139,
+    32.66806,
+    -25.65139
+],
+  "geometry": {"coordinates":[32.66806,-25.65139],"type":"Point"}
+}

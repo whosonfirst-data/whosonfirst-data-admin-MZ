@@ -1,0 +1,67 @@
+{
+  "id": 1226769653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.75083,-16.8825,34.75083,-16.8825",
+    "geom:latitude":-16.8825,
+    "geom:longitude":34.75083,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Camunho",
+    "gn:country_code":"MZ",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051348,
+    "gn:latitude":-16.8825,
+    "gn:longitude":34.75083,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Camunho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091700637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051348
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"84ed40801662360a688511be686e5d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700637,
+            "locality_id":1226769653,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1226769653,
+    "wof:lastmodified":1536681138,
+    "wof:name":"Camunho",
+    "wof:parent_id":1091700637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.75083,
+    -16.8825,
+    34.75083,
+    -16.8825
+],
+  "geometry": {"coordinates":[34.75083,-16.8825],"type":"Point"}
+}

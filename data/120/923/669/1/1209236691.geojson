@@ -1,0 +1,61 @@
+{
+  "id": 1209236691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.88556,-14.64556,37.88556,-14.64556",
+    "geom:latitude":-14.64556,
+    "geom:longitude":37.88556,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Muetetere",
+    "gn:country_code":"MZ",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036139,
+    "gn:latitude":-14.64556,
+    "gn:longitude":37.88556,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Muetetere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036139
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0985d056c6d617f55b22509e75808670",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209236691
+        }
+    ],
+    "wof:id":1209236691,
+    "wof:lastmodified":1536293455,
+    "wof:name":"Muetetere",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.88556,
+    -14.64556,
+    37.88556,
+    -14.64556
+],
+  "geometry": {"coordinates":[37.88556,-14.64556],"type":"Point"}
+}

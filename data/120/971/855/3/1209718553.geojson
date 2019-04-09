@@ -1,0 +1,67 @@
+{
+  "id": 1209718553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.68278,-23.05417,33.68278,-23.05417",
+    "geom:latitude":-23.05417,
+    "geom:longitude":33.68278,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Chiacha",
+    "gn:country_code":"MZ",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049972,
+    "gn:latitude":-23.05417,
+    "gn:longitude":33.68278,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chi\u00e1cha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049972
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"56d242b9407c742d3d204e06a78cc9a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696709,
+            "locality_id":1209718553,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1209718553,
+    "wof:lastmodified":1536387437,
+    "wof:name":"Chiacha",
+    "wof:parent_id":1091696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.68278,
+    -23.05417000000001,
+    33.68278,
+    -23.05417000000001
+],
+  "geometry": {"coordinates":[33.68278,-23.05417000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226631603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.34889,-14.58472,34.34889,-14.58472",
+    "geom:latitude":-14.58472,
+    "geom:longitude":34.34889,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Cagoma",
+    "gn:country_code":"MZ",
+    "gn:dem":1359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051677,
+    "gn:latitude":-14.58472,
+    "gn:longitude":34.34889,
+    "gn:modification_date":"1997-04-24",
+    "gn:name":"Cagoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051677
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"58193c4a272106d2c957b99b703a4d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696323,
+            "locality_id":1226631603,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1226631603,
+    "wof:lastmodified":1536879094,
+    "wof:name":"Cagoma",
+    "wof:parent_id":1091696323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.34889,
+    -14.58472,
+    34.34889,
+    -14.58472
+],
+  "geometry": {"coordinates":[34.34889,-14.58472],"type":"Point"}
+}

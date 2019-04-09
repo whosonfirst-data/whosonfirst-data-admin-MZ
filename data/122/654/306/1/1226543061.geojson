@@ -1,0 +1,67 @@
+{
+  "id": 1226543061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.43361,-24.22333,32.43361,-24.22333",
+    "geom:latitude":-24.22333,
+    "geom:longitude":32.43361,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tique",
+    "gn:country_code":"MZ",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104745,
+    "gn:latitude":-24.22333,
+    "gn:longitude":32.43361,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Tique",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091699347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104745
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"22e9f47702ef9b86e28a021b545469b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699347,
+            "locality_id":1226543061,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1226543061,
+    "wof:lastmodified":1537001127,
+    "wof:name":"Tique",
+    "wof:parent_id":1091699347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.43360999999999,
+    -24.22333,
+    32.43360999999999,
+    -24.22333
+],
+  "geometry": {"coordinates":[32.43360999999999,-24.22333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293195793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.6825,-20.69972,33.6825,-20.69972",
+    "geom:latitude":-20.69972,
+    "geom:longitude":33.6825,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Lazao",
+    "gn:country_code":"MZ",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043997,
+    "gn:latitude":-20.69972,
+    "gn:longitude":33.6825,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Laz\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043997
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7db39beeef5e1f8db4af611c31009596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1293195793,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1293195793,
+    "wof:lastmodified":1536710942,
+    "wof:name":"Lazao",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.6825,
+    -20.69972000000001,
+    33.6825,
+    -20.69972000000001
+],
+  "geometry": {"coordinates":[33.6825,-20.69972000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293778477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.12972,-17.52889,37.12972,-17.52889",
+    "geom:latitude":-17.52889,
+    "geom:longitude":37.12972,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Muibo",
+    "gn:country_code":"MZ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036023,
+    "gn:latitude":-17.52889,
+    "gn:longitude":37.12972,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Muibo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036023
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0f2fb830f7ffce8231ef6d2951c73ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700865,
+            "locality_id":1293778477,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1293778477,
+    "wof:lastmodified":1536863294,
+    "wof:name":"Muibo",
+    "wof:parent_id":1091700865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.12972,
+    -17.52889,
+    37.12972,
+    -17.52889
+],
+  "geometry": {"coordinates":[37.12972,-17.52889],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293785039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.37361,-24.50583,32.37361,-24.50583",
+    "geom:latitude":-24.50583,
+    "geom:longitude":32.37361,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Buco",
+    "gn:country_code":"MZ",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051971,
+    "gn:latitude":-24.50583,
+    "gn:longitude":32.37361,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Buco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051971
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0558e9ea92f9533ebb93a5dd0bff972c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1293785039,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1293785039,
+    "wof:lastmodified":1536854027,
+    "wof:name":"Buco",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.37361,
+    -24.50583,
+    32.37361,
+    -24.50583
+],
+  "geometry": {"coordinates":[32.37361,-24.50583],"type":"Point"}
+}

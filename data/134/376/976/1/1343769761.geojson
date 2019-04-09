@@ -1,0 +1,67 @@
+{
+  "id": 1343769761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.04306,-24.40333,34.04306,-24.40333",
+    "geom:latitude":-24.40333,
+    "geom:longitude":34.04306,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"G. Macamo",
+    "gn:country_code":"MZ",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097839,
+    "gn:latitude":-24.40333,
+    "gn:longitude":34.04306,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"G. Macamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097839
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c8be227daa45be2eba510e28999c682b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701265,
+            "locality_id":1343769761,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1343769761,
+    "wof:lastmodified":1536797610,
+    "wof:name":"G. Macamo",
+    "wof:parent_id":1091701265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.04306,
+    -24.40333,
+    34.04306,
+    -24.40333
+],
+  "geometry": {"coordinates":[34.04306,-24.40333],"type":"Point"}
+}

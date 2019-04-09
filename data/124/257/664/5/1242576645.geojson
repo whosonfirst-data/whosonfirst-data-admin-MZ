@@ -1,0 +1,67 @@
+{
+  "id": 1242576645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.37194,-18.47972,34.37194,-18.47972",
+    "geom:latitude":-18.47972,
+    "geom:longitude":34.37194,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Janasse",
+    "gn:country_code":"MZ",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044741,
+    "gn:latitude":-18.47972,
+    "gn:longitude":34.37194,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Janasse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091697631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044741
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"14019cfdb25bf33f7b03a5837f752bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697631,
+            "locality_id":1242576645,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1242576645,
+    "wof:lastmodified":1537062255,
+    "wof:name":"Janasse",
+    "wof:parent_id":1091697631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.37194,
+    -18.47972,
+    34.37194,
+    -18.47972
+],
+  "geometry": {"coordinates":[34.37194,-18.47972],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293207931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.06278,-22.84167,35.06278,-22.84167",
+    "geom:latitude":-22.84167,
+    "geom:longitude":35.06278,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Fabiao",
+    "gn:country_code":"MZ",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1100596,
+    "gn:latitude":-22.84167,
+    "gn:longitude":35.06278,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Fabi\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091699313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1100596
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ab9723d41b8289a391cc0d2d96e1b610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699313,
+            "locality_id":1293207931,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1293207931,
+    "wof:lastmodified":1536693235,
+    "wof:name":"Fabiao",
+    "wof:parent_id":1091699313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.06278,
+    -22.84167,
+    35.06278,
+    -22.84167
+],
+  "geometry": {"coordinates":[35.06278,-22.84167],"type":"Point"}
+}

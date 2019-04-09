@@ -1,0 +1,67 @@
+{
+  "id": 1243437969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3925,-19.775,33.3925,-19.775",
+    "geom:latitude":-19.775,
+    "geom:longitude":33.3925,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Penete",
+    "gn:country_code":"MZ",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028886,
+    "gn:latitude":-19.775,
+    "gn:longitude":33.3925,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Penete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091701483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028886
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"eac8a8b5face415532f84f25a80ebb3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701483,
+            "locality_id":1243437969,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1243437969,
+    "wof:lastmodified":1536816927,
+    "wof:name":"Penete",
+    "wof:parent_id":1091701483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3925,
+    -19.775,
+    33.3925,
+    -19.775
+],
+  "geometry": {"coordinates":[33.3925,-19.775],"type":"Point"}
+}

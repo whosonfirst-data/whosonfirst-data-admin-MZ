@@ -1,0 +1,67 @@
+{
+  "id": 1293015253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5,-15.65,30.5,-15.65",
+    "geom:latitude":-15.65,
+    "geom:longitude":30.5,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Gato",
+    "gn:country_code":"MZ",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046075,
+    "gn:latitude":-15.65,
+    "gn:longitude":30.5,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Gato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091698723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046075
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c19e3d005b560bc6a19b9b61cc9a0ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698723,
+            "locality_id":1293015253,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1293015253,
+    "wof:lastmodified":1536970414,
+    "wof:name":"Gato",
+    "wof:parent_id":1091698723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5,
+    -15.65,
+    30.5,
+    -15.65
+],
+  "geometry": {"coordinates":[30.5,-15.65],"type":"Point"}
+}

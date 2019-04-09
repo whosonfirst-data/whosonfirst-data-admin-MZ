@@ -1,0 +1,67 @@
+{
+  "id": 1293684523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.29167,-14.6625,39.29167,-14.6625",
+    "geom:latitude":-14.6625,
+    "geom:longitude":39.29167,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Lima",
+    "gn:country_code":"MZ",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088387,
+    "gn:latitude":-14.6625,
+    "gn:longitude":39.29167,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Lima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088387
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"20c0e7fb350d6db4ebc972e5b6ae50d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700409,
+            "locality_id":1293684523,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1293684523,
+    "wof:lastmodified":1536999593,
+    "wof:name":"Lima",
+    "wof:parent_id":1091700409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.29167,
+    -14.6625,
+    39.29167,
+    -14.6625
+],
+  "geometry": {"coordinates":[39.29167,-14.6625],"type":"Point"}
+}

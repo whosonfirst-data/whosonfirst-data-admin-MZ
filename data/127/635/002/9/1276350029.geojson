@@ -1,0 +1,72 @@
+{
+  "id": 1276350029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.98556,-11.28833,39.98556,-11.28833",
+    "geom:latitude":-11.28833,
+    "geom:longitude":39.98556,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Lambachitala",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044107,
+    "gn:latitude":-11.28833,
+    "gn:longitude":39.98556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lambachitala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lombachitala",
+        "Lambachitala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044107
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2b96b5ce4c8c2ec312ee401526f5cf11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701043,
+            "locality_id":1276350029,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276350029,
+    "wof:lastmodified":1537674562,
+    "wof:name":"Lambachitala",
+    "wof:parent_id":1091701043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.98556,
+    -11.28833,
+    39.98556,
+    -11.28833
+],
+  "geometry": {"coordinates":[39.98556,-11.28833],"type":"Point"}
+}

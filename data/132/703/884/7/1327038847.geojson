@@ -1,0 +1,67 @@
+{
+  "id": 1327038847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.02861,-24.79861,33.02861,-24.79861",
+    "geom:latitude":-24.79861,
+    "geom:longitude":33.02861,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Cufene",
+    "gn:country_code":"MZ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1098668,
+    "gn:latitude":-24.79861,
+    "gn:longitude":33.02861,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Cufene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1098668
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8db13706b5a33401d9367f9a970cab77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696849,
+            "locality_id":1327038847,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1327038847,
+    "wof:lastmodified":1536750932,
+    "wof:name":"Cufene",
+    "wof:parent_id":1091696849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.02861,
+    -24.79861,
+    33.02861,
+    -24.79861
+],
+  "geometry": {"coordinates":[33.02861,-24.79861],"type":"Point"}
+}

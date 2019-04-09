@@ -1,0 +1,73 @@
+{
+  "id": 1226526943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.05944,-16.98639,38.05944,-16.98639",
+    "geom:latitude":-16.98639,
+    "geom:longitude":38.05944,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Regulo Ratata",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028163,
+    "gn:latitude":-16.98639,
+    "gn:longitude":38.05944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00e9gulo Ratata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ratata",
+        "Rataja",
+        "R\u00e9gulo Ratata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028163
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f1078dcec4ea097fbd4cf5091631c076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701291,
+            "locality_id":1226526943,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1226526943,
+    "wof:lastmodified":1537674489,
+    "wof:name":"Regulo Ratata",
+    "wof:parent_id":1091701291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.05944,
+    -16.98639,
+    38.05944,
+    -16.98639
+],
+  "geometry": {"coordinates":[38.05944,-16.98639],"type":"Point"}
+}

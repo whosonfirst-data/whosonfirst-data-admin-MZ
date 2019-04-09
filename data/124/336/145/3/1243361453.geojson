@@ -1,0 +1,67 @@
+{
+  "id": 1243361453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.445,-14.21111,38.445,-14.21111",
+    "geom:latitude":-14.21111,
+    "geom:longitude":38.445,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Verua",
+    "gn:country_code":"MZ",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088846,
+    "gn:latitude":-14.21111,
+    "gn:longitude":38.445,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Verua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091698233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088846
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ec0b9424b6f17db079644afe1314ea83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698233,
+            "locality_id":1243361453,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1243361453,
+    "wof:lastmodified":1536928864,
+    "wof:name":"Verua",
+    "wof:parent_id":1091698233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.445,
+    -14.21111,
+    38.445,
+    -14.21111
+],
+  "geometry": {"coordinates":[38.445,-14.21111],"type":"Point"}
+}

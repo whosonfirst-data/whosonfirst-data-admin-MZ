@@ -1,0 +1,67 @@
+{
+  "id": 1360303495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.10111,-13.30722,40.10111,-13.30722",
+    "geom:latitude":-13.30722,
+    "geom:longitude":40.10111,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Regulo Magege",
+    "gn:country_code":"MZ",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086669,
+    "gn:latitude":-13.30722,
+    "gn:longitude":40.10111,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"R\u00e9gulo Magege",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086669
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6262a251d6f943e53f0f86a739ee7479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696771,
+            "locality_id":1360303495,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1360303495,
+    "wof:lastmodified":1536628833,
+    "wof:name":"Regulo Magege",
+    "wof:parent_id":1091696771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.10111,
+    -13.30722,
+    40.10111,
+    -13.30722
+],
+  "geometry": {"coordinates":[40.10111,-13.30722],"type":"Point"}
+}

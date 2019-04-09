@@ -1,0 +1,67 @@
+{
+  "id": 1293191425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.035,-14.98972,33.035,-14.98972",
+    "geom:latitude":-14.98972,
+    "geom:longitude":33.035,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Maueze",
+    "gn:country_code":"MZ",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039694,
+    "gn:latitude":-14.98972,
+    "gn:longitude":33.035,
+    "gn:modification_date":"1997-04-24",
+    "gn:name":"Maueze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039694
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5a42616e4259000803e0d249bbb73545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696659,
+            "locality_id":1293191425,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1293191425,
+    "wof:lastmodified":1536717242,
+    "wof:name":"Maueze",
+    "wof:parent_id":1091696659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.035,
+    -14.98972,
+    33.035,
+    -14.98972
+],
+  "geometry": {"coordinates":[33.035,-14.98972],"type":"Point"}
+}

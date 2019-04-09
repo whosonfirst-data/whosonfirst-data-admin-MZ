@@ -1,0 +1,67 @@
+{
+  "id": 1276861063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.57111,-18.3625,36.57111,-18.3625",
+    "geom:latitude":-18.3625,
+    "geom:longitude":36.57111,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Micaune",
+    "gn:country_code":"MZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037808,
+    "gn:latitude":-18.3625,
+    "gn:longitude":36.57111,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Micaune",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037808
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"faa8b9e4aefb06d67f1ebbf51584ee08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696729,
+            "locality_id":1276861063,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1276861063,
+    "wof:lastmodified":1537063528,
+    "wof:name":"Micaune",
+    "wof:parent_id":1091696729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.57111,
+    -18.3625,
+    36.57111,
+    -18.3625
+],
+  "geometry": {"coordinates":[36.57111,-18.3625],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193007235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4675,-20.83139,33.4675,-20.83139",
+    "geom:latitude":-20.83139,
+    "geom:longitude":33.4675,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Goncalves",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045843,
+    "gn:latitude":-20.83139,
+    "gn:longitude":33.4675,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gon\u00e7alves",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gon\u00e7aives",
+        "Gon\u00e7alves"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045843
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2ab3583b645b404d5ab95d177df3efb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1193007235,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1193007235,
+    "wof:lastmodified":1537674572,
+    "wof:name":"Goncalves",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4675,
+    -20.83139,
+    33.4675,
+    -20.83139
+],
+  "geometry": {"coordinates":[33.4675,-20.83139],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226631751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.16028,-15.52056,33.16028,-15.52056",
+    "geom:latitude":-15.52056,
+    "geom:longitude":33.16028,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Aldeia Gimica",
+    "gn:country_code":"MZ",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089355,
+    "gn:latitude":-15.52056,
+    "gn:longitude":33.16028,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Aldeia Gimica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089355
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9db5e66b30ebc4572ff17b50596fc494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696825,
+            "locality_id":1226631751,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1226631751,
+    "wof:lastmodified":1536878875,
+    "wof:name":"Aldeia Gimica",
+    "wof:parent_id":1091696825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.16028,
+    -15.52056,
+    33.16028,
+    -15.52056
+],
+  "geometry": {"coordinates":[33.16028,-15.52056],"type":"Point"}
+}

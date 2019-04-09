@@ -1,0 +1,61 @@
+{
+  "id": 1209327605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.62861,-23.97222,32.62861,-23.97222",
+    "geom:latitude":-23.97222,
+    "geom:longitude":32.62861,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Maventane",
+    "gn:country_code":"MZ",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1098077,
+    "gn:latitude":-23.97222,
+    "gn:longitude":32.62861,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Maventane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1098077
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c0aa492e44f2cbab523086c4810d4f37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209327605
+        }
+    ],
+    "wof:id":1209327605,
+    "wof:lastmodified":1536290481,
+    "wof:name":"Maventane",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.628609999999995,
+    -23.97222,
+    32.628609999999995,
+    -23.97222
+],
+  "geometry": {"coordinates":[32.62860999999999,-23.97222],"type":"Point"}
+}

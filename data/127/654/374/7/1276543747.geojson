@@ -1,0 +1,72 @@
+{
+  "id": 1276543747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.57917,-13.14556,36.57917,-13.14556",
+    "geom:latitude":-13.14556,
+    "geom:longitude":36.57917,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mulama",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035599,
+    "gn:latitude":-13.14556,
+    "gn:longitude":36.57917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mulama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Murama",
+        "Mulama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035599
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ae142a2c1819a34ec4a2c9275605f732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698823,
+            "locality_id":1276543747,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1276543747,
+    "wof:lastmodified":1537674514,
+    "wof:name":"Mulama",
+    "wof:parent_id":1091698823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.57917,
+    -13.14556,
+    36.57917,
+    -13.14556
+],
+  "geometry": {"coordinates":[36.57917,-13.14556],"type":"Point"}
+}

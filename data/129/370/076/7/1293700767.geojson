@@ -1,0 +1,67 @@
+{
+  "id": 1293700767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.94861,-13.21056,38.94861,-13.21056",
+    "geom:latitude":-13.21056,
+    "geom:longitude":38.94861,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Gulue",
+    "gn:country_code":"MZ",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045575,
+    "gn:latitude":-13.21056,
+    "gn:longitude":38.94861,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Gulu\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045575
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0eba97187f8589982195683e79e053b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1293700767,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1293700767,
+    "wof:lastmodified":1536976266,
+    "wof:name":"Gulue",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.94861,
+    -13.21056,
+    38.94861,
+    -13.21056
+],
+  "geometry": {"coordinates":[38.94861,-13.21056],"type":"Point"}
+}

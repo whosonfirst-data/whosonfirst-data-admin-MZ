@@ -1,0 +1,72 @@
+{
+  "id": 1193143337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.62417,-25.31361,32.62417,-25.31361",
+    "geom:latitude":-25.31361,
+    "geom:longitude":32.62417,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Malengana",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041535,
+    "gn:latitude":-25.31361,
+    "gn:longitude":32.62417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Malengana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malangane",
+        "Malengana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041535
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a0598f71181854320830c83839020dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699925,
+            "locality_id":1193143337,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1193143337,
+    "wof:lastmodified":1537674547,
+    "wof:name":"Malengana",
+    "wof:parent_id":1091699925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.62417,
+    -25.31361,
+    32.62417,
+    -25.31361
+],
+  "geometry": {"coordinates":[32.62417,-25.31361],"type":"Point"}
+}

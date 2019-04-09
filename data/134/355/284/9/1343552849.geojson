@@ -1,0 +1,72 @@
+{
+  "id": 1343552849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.03417,-11.7925,38.03417,-11.7925",
+    "geom:latitude":-11.7925,
+    "geom:longitude":38.03417,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Nantuego",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1032969,
+    "gn:latitude":-11.7925,
+    "gn:longitude":38.03417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nantuego",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nantuege",
+        "Nantuego"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1032969
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cc9490a19d285b5fedc28a204e717821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699731,
+            "locality_id":1343552849,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1343552849,
+    "wof:lastmodified":1537674504,
+    "wof:name":"Nantuego",
+    "wof:parent_id":1091699731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.03417,
+    -11.7925,
+    38.03417,
+    -11.7925
+],
+  "geometry": {"coordinates":[38.03417,-11.7925],"type":"Point"}
+}

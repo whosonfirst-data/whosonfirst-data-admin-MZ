@@ -1,0 +1,72 @@
+{
+  "id": 1293119843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.51917,-16.27,37.51917,-16.27",
+    "geom:latitude":-16.27,
+    "geom:longitude":37.51917,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Regulo Jajo",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044778,
+    "gn:latitude":-16.27,
+    "gn:longitude":37.51917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u00e9gulo Jajo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jajo",
+        "R\u00e9gulo Jajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044778
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c778119d9c605b8d15ef5b44e9a1d7dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697943,
+            "locality_id":1293119843,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1293119843,
+    "wof:lastmodified":1537674565,
+    "wof:name":"Regulo Jajo",
+    "wof:parent_id":1091697943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.51917,
+    -16.27,
+    37.51917,
+    -16.27
+],
+  "geometry": {"coordinates":[37.51917,-16.27],"type":"Point"}
+}

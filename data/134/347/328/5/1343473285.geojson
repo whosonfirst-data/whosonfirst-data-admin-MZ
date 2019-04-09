@@ -1,0 +1,67 @@
+{
+  "id": 1343473285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.08333,-13.15,39.08333,-13.15",
+    "geom:latitude":-13.15,
+    "geom:longitude":39.08333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Nancobue",
+    "gn:country_code":"MZ",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1033199,
+    "gn:latitude":-13.15,
+    "gn:longitude":39.08333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Nancobu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1033199
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"35604a6a1873b848985eb3af092ee7d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1343473285,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1343473285,
+    "wof:lastmodified":1536727923,
+    "wof:name":"Nancobue",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.08333,
+    -13.15,
+    39.08333,
+    -13.15
+],
+  "geometry": {"coordinates":[39.08333,-13.15],"type":"Point"}
+}

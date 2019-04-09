@@ -1,0 +1,67 @@
+{
+  "id": 1343450653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.70694,-15.71167,37.70694,-15.71167",
+    "geom:latitude":-15.71167,
+    "geom:longitude":37.70694,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Econe",
+    "gn:country_code":"MZ",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091259,
+    "gn:latitude":-15.71167,
+    "gn:longitude":37.70694,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"Econe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091259
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a58ba73ab2dfdf9d470bbbbe1733e85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696213,
+            "locality_id":1343450653,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1343450653,
+    "wof:lastmodified":1536760588,
+    "wof:name":"Econe",
+    "wof:parent_id":1091696213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.70694,
+    -15.71167,
+    37.70694,
+    -15.71167
+],
+  "geometry": {"coordinates":[37.70694,-15.71167],"type":"Point"}
+}

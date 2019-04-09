@@ -1,0 +1,61 @@
+{
+  "id": 1209097811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.59917,-14.31694,35.59917,-14.31694",
+    "geom:latitude":-14.31694,
+    "geom:longitude":35.59917,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Necongolo",
+    "gn:country_code":"MZ",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087839,
+    "gn:latitude":-14.31694,
+    "gn:longitude":35.59917,
+    "gn:modification_date":"1997-04-24",
+    "gn:name":"Necongolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087839
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"41e92a25b80d2e9417a35746c9d18927",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209097811
+        }
+    ],
+    "wof:id":1209097811,
+    "wof:lastmodified":1536297831,
+    "wof:name":"Necongolo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.59917,
+    -14.31694,
+    35.59917,
+    -14.31694
+],
+  "geometry": {"coordinates":[35.59917,-14.31694],"type":"Point"}
+}

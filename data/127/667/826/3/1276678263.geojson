@@ -1,0 +1,73 @@
+{
+  "id": 1276678263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.1875,-14.54444,34.1875,-14.54444",
+    "geom:latitude":-14.54444,
+    "geom:longitude":34.1875,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Metengomodzi",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038130,
+    "gn:latitude":-14.54444,
+    "gn:longitude":34.1875,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Metengomodzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u2019Tengo-Ua-Modsi",
+        "Metengo-u\u00e1-M\u00f3dzi",
+        "Metengomodzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038130
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"eb85f4814deadff3fd92201d4d54f1ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696323,
+            "locality_id":1276678263,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1276678263,
+    "wof:lastmodified":1537674528,
+    "wof:name":"Metengomodzi",
+    "wof:parent_id":1091696323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.1875,
+    -14.54444,
+    34.1875,
+    -14.54444
+],
+  "geometry": {"coordinates":[34.1875,-14.54444],"type":"Point"}
+}

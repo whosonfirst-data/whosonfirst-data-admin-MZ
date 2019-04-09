@@ -1,0 +1,67 @@
+{
+  "id": 1310325073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.69722,-15.55639,32.69722,-15.55639",
+    "geom:latitude":-15.55639,
+    "geom:longitude":32.69722,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Aldeia Mulumbue",
+    "gn:country_code":"MZ",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085543,
+    "gn:latitude":-15.55639,
+    "gn:longitude":32.69722,
+    "gn:modification_date":"1997-06-03",
+    "gn:name":"Aldeia Mulumbue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085543
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"dfe1502fe90f0177022878ba07ec58b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699093,
+            "locality_id":1310325073,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1310325073,
+    "wof:lastmodified":1536679735,
+    "wof:name":"Aldeia Mulumbue",
+    "wof:parent_id":1091699093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.69722,
+    -15.55639,
+    32.69722,
+    -15.55639
+],
+  "geometry": {"coordinates":[32.69722,-15.55639],"type":"Point"}
+}

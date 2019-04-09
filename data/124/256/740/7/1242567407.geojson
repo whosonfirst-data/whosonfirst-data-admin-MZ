@@ -1,0 +1,67 @@
+{
+  "id": 1242567407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.25639,-16.205,38.25639,-16.205",
+    "geom:latitude":-16.205,
+    "geom:longitude":38.25639,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Cabo Mario",
+    "gn:country_code":"MZ",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1093789,
+    "gn:latitude":-16.205,
+    "gn:longitude":38.25639,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Cabo M\u00e1rio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1093789
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"84d34bde5cb8538909c66ac19676edb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697545,
+            "locality_id":1242567407,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1242567407,
+    "wof:lastmodified":1537075253,
+    "wof:name":"Cabo Mario",
+    "wof:parent_id":1091697545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.25639,
+    -16.205,
+    38.25639,
+    -16.205
+],
+  "geometry": {"coordinates":[38.25639,-16.205],"type":"Point"}
+}

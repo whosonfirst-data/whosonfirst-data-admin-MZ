@@ -1,0 +1,61 @@
+{
+  "id": 1209228539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.35361,-12.38917,38.35361,-12.38917",
+    "geom:latitude":-12.38917,
+    "geom:longitude":38.35361,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Coconevo",
+    "gn:country_code":"MZ",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085447,
+    "gn:latitude":-12.38917,
+    "gn:longitude":38.35361,
+    "gn:modification_date":"1995-06-22",
+    "gn:name":"Coconevo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085447
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9471d66a2d51c60a4fa5330ccac9547d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209228539
+        }
+    ],
+    "wof:id":1209228539,
+    "wof:lastmodified":1536293714,
+    "wof:name":"Coconevo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.35361,
+    -12.38917,
+    38.35361,
+    -12.38917
+],
+  "geometry": {"coordinates":[38.35361,-12.38917],"type":"Point"}
+}

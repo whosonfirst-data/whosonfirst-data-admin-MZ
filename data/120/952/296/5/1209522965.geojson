@@ -1,0 +1,61 @@
+{
+  "id": 1209522965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.01583,-24.61833,35.01583,-24.61833",
+    "geom:latitude":-24.61833,
+    "geom:longitude":35.01583,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Chipuala",
+    "gn:country_code":"MZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048898,
+    "gn:latitude":-24.61833,
+    "gn:longitude":35.01583,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chipuala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048898
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b53efa0c9724c2d05b33e442d4c240e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209522965
+        }
+    ],
+    "wof:id":1209522965,
+    "wof:lastmodified":1536284521,
+    "wof:name":"Chipuala",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01583,
+    -24.61833,
+    35.01583,
+    -24.61833
+],
+  "geometry": {"coordinates":[35.01583,-24.61833],"type":"Point"}
+}

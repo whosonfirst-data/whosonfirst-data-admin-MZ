@@ -1,0 +1,67 @@
+{
+  "id": 1276869687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.95806,-14.95389,37.95806,-14.95389",
+    "geom:latitude":-14.95389,
+    "geom:longitude":37.95806,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Cristovao",
+    "gn:country_code":"MZ",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088277,
+    "gn:latitude":-14.95389,
+    "gn:longitude":37.95806,
+    "gn:modification_date":"2005-06-15",
+    "gn:name":"Crist\u00f3v\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091701415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088277
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c7dd450c7aa3a108eefc8ade367546a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701415,
+            "locality_id":1276869687,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1276869687,
+    "wof:lastmodified":1537052599,
+    "wof:name":"Cristovao",
+    "wof:parent_id":1091701415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.95806,
+    -14.95389,
+    37.95806,
+    -14.95389
+],
+  "geometry": {"coordinates":[37.95806,-14.95389],"type":"Point"}
+}

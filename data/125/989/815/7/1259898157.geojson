@@ -1,0 +1,67 @@
+{
+  "id": 1259898157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.48333,-11.08333,40.48333,-11.08333",
+    "geom:latitude":-11.08333,
+    "geom:longitude":40.48333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Nturene",
+    "gn:country_code":"MZ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029513,
+    "gn:latitude":-11.08333,
+    "gn:longitude":40.48333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Nturene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029513
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9eda09710fe2d2d23d510f4479259ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701223,
+            "locality_id":1259898157,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1259898157,
+    "wof:lastmodified":1536758112,
+    "wof:name":"Nturene",
+    "wof:parent_id":1091701223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.48333,
+    -11.08333,
+    40.48333,
+    -11.08333
+],
+  "geometry": {"coordinates":[40.48333,-11.08333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343651285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.90611,-15.30167,36.90611,-15.30167",
+    "geom:latitude":-15.30167,
+    "geom:longitude":36.90611,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Covela",
+    "gn:country_code":"MZ",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047698,
+    "gn:latitude":-15.30167,
+    "gn:longitude":36.90611,
+    "gn:modification_date":"1998-05-14",
+    "gn:name":"Covela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047698
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"67dba23cbc0bc7bbd26b7363416bfc99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697801,
+            "locality_id":1343651285,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1343651285,
+    "wof:lastmodified":1536968002,
+    "wof:name":"Covela",
+    "wof:parent_id":1091697801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.90611,
+    -15.30167,
+    36.90611,
+    -15.30167
+],
+  "geometry": {"coordinates":[36.90611,-15.30167],"type":"Point"}
+}

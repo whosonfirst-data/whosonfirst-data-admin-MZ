@@ -1,0 +1,61 @@
+{
+  "id": 1209008279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.33444,-11.21556,39.33444,-11.21556",
+    "geom:latitude":-11.21556,
+    "geom:longitude":39.33444,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tangale",
+    "gn:country_code":"MZ",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026408,
+    "gn:latitude":-11.21556,
+    "gn:longitude":39.33444,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Tangal\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026408
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"37f6f19403acd74420628bf37758a3e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209008279
+        }
+    ],
+    "wof:id":1209008279,
+    "wof:lastmodified":1536300531,
+    "wof:name":"Tangale",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.33444,
+    -11.21556,
+    39.33444,
+    -11.21556
+],
+  "geometry": {"coordinates":[39.33444,-11.21556],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209304295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.57139,-15.37722,37.57139,-15.37722",
+    "geom:latitude":-15.37722,
+    "geom:longitude":37.57139,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Nicolau",
+    "gn:country_code":"MZ",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090880,
+    "gn:latitude":-15.37722,
+    "gn:longitude":37.57139,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"Nicolau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090880
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"05c4959d8d0d6de1e2380a15e30ff460",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209304295
+        }
+    ],
+    "wof:id":1209304295,
+    "wof:lastmodified":1536291248,
+    "wof:name":"Nicolau",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.57139,
+    -15.37722,
+    37.57139,
+    -15.37722
+],
+  "geometry": {"coordinates":[37.57139,-15.37722],"type":"Point"}
+}

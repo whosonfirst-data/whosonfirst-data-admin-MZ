@@ -1,0 +1,67 @@
+{
+  "id": 1243369867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.63667,-26.6525,32.63667,-26.6525",
+    "geom:latitude":-26.6525,
+    "geom:longitude":32.63667,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"G. Manzine",
+    "gn:country_code":"MZ",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089550,
+    "gn:latitude":-26.6525,
+    "gn:longitude":32.63667,
+    "gn:modification_date":"1997-09-02",
+    "gn:name":"G. Manzine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089550
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"59f0c50f1a1c029a0bd8d7b2345ef724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699383,
+            "locality_id":1243369867,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1243369867,
+    "wof:lastmodified":1536916478,
+    "wof:name":"G. Manzine",
+    "wof:parent_id":1091699383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.63667,
+    -26.6525,
+    32.63667,
+    -26.6525
+],
+  "geometry": {"coordinates":[32.63667,-26.6525],"type":"Point"}
+}

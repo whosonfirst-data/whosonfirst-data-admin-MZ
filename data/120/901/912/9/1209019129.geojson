@@ -1,0 +1,61 @@
+{
+  "id": 1209019129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.56667,-12.96667,40.56667,-12.96667",
+    "geom:latitude":-12.96667,
+    "geom:longitude":40.56667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Metenguesa",
+    "gn:country_code":"MZ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038129,
+    "gn:latitude":-12.96667,
+    "gn:longitude":40.56667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Metenguesa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038129
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ad7eec3f3ec475b644d9d871ce23ef15",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209019129
+        }
+    ],
+    "wof:id":1209019129,
+    "wof:lastmodified":1536300201,
+    "wof:name":"Metenguesa",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.56667,
+    -12.96667,
+    40.56667,
+    -12.96667
+],
+  "geometry": {"coordinates":[40.56667,-12.96667],"type":"Point"}
+}

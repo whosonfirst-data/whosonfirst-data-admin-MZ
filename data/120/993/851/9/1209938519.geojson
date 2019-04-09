@@ -1,0 +1,72 @@
+{
+  "id": 1209938519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.0125,-14.82306,40.0125,-14.82306",
+    "geom:latitude":-14.82306,
+    "geom:longitude":40.0125,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Muacarro",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036265,
+    "gn:latitude":-14.82306,
+    "gn:longitude":40.0125,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Muacarro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mu\u00e8cua",
+        "Muacarro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036265
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e188d970a46190d50ce42ee20cb684c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700177,
+            "locality_id":1209938519,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1209938519,
+    "wof:lastmodified":1537674518,
+    "wof:name":"Muacarro",
+    "wof:parent_id":1091700177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.0125,
+    -14.82306,
+    40.0125,
+    -14.82306
+],
+  "geometry": {"coordinates":[40.0125,-14.82306],"type":"Point"}
+}

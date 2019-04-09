@@ -1,0 +1,67 @@
+{
+  "id": 1260292205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.31,-23.29417,35.31,-23.29417",
+    "geom:latitude":-23.29417,
+    "geom:longitude":35.31,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chefe Vinhane",
+    "gn:country_code":"MZ",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101726,
+    "gn:latitude":-23.29417,
+    "gn:longitude":35.31,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Chefe Vinhane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091699313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101726
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"673d1827b192526efccea5ff99590ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699313,
+            "locality_id":1260292205,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1260292205,
+    "wof:lastmodified":1536700455,
+    "wof:name":"Chefe Vinhane",
+    "wof:parent_id":1091699313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.31,
+    -23.29417,
+    35.31,
+    -23.29417
+],
+  "geometry": {"coordinates":[35.31,-23.29417],"type":"Point"}
+}

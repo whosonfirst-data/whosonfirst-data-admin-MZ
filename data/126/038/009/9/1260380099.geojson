@@ -1,0 +1,67 @@
+{
+  "id": 1260380099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.31778,-20.475,33.31778,-20.475",
+    "geom:latitude":-20.475,
+    "geom:longitude":33.31778,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mastela",
+    "gn:country_code":"MZ",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040140,
+    "gn:latitude":-20.475,
+    "gn:longitude":33.31778,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mastela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040140
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6b2ea2b7fd24b8d033b516e4e69cb8c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1260380099,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1260380099,
+    "wof:lastmodified":1537076440,
+    "wof:name":"Mastela",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.31778,
+    -20.475,
+    33.31778,
+    -20.475
+],
+  "geometry": {"coordinates":[33.31778,-20.475],"type":"Point"}
+}

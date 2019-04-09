@@ -1,0 +1,67 @@
+{
+  "id": 1226248985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.35028,-25.69222,32.35028,-25.69222",
+    "geom:latitude":-25.69222,
+    "geom:longitude":32.35028,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Pessene",
+    "gn:country_code":"MZ",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028819,
+    "gn:latitude":-25.69222,
+    "gn:longitude":32.35028,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Pessene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028819
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1877c3739596a7c29397b25a9be8b30d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699925,
+            "locality_id":1226248985,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1226248985,
+    "wof:lastmodified":1536929625,
+    "wof:name":"Pessene",
+    "wof:parent_id":1091699925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.35028,
+    -25.69222,
+    32.35028,
+    -25.69222
+],
+  "geometry": {"coordinates":[32.35028,-25.69222],"type":"Point"}
+}

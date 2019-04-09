@@ -1,0 +1,70 @@
+{
+  "id": 1343853301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.85735,-20.76298,32.85735,-20.76298",
+    "geom:latitude":-20.76298,
+    "geom:longitude":32.85735,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Messumbi",
+    "gn:country_code":"MZ",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038298,
+    "gn:latitude":-20.76298,
+    "gn:longitude":32.85735,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Messumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Messumbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091700331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038298
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1c2e25d8b956b1b4077b227da57707f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700331,
+            "locality_id":1343853301,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1343853301,
+    "wof:lastmodified":1537674529,
+    "wof:name":"Messumbi",
+    "wof:parent_id":1091700331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.85735,
+    -20.76298,
+    32.85735,
+    -20.76298
+],
+  "geometry": {"coordinates":[32.85735,-20.76298],"type":"Point"}
+}

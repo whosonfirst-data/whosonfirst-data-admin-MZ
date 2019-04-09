@@ -1,0 +1,72 @@
+{
+  "id": 1327146061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3225,-24.7575,34.3225,-24.7575",
+    "geom:latitude":-24.7575,
+    "geom:longitude":34.3225,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cat. Suica",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1100435,
+    "gn:latitude":-24.7575,
+    "gn:longitude":34.3225,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cat. Sui\u00e7a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sicoro",
+        "Cat. Sui\u00e7a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1100435
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e0af184f8c2fbc303f4dd9db7b78bf90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701681,
+            "locality_id":1327146061,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1327146061,
+    "wof:lastmodified":1537674617,
+    "wof:name":"Cat. Suica",
+    "wof:parent_id":1091701681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3225,
+    -24.7575,
+    34.3225,
+    -24.7575
+],
+  "geometry": {"coordinates":[34.3225,-24.7575],"type":"Point"}
+}

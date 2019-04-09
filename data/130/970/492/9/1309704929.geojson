@@ -1,0 +1,67 @@
+{
+  "id": 1309704929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.79333,-15.71167,38.79333,-15.71167",
+    "geom:latitude":-15.71167,
+    "geom:longitude":38.79333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tatiua",
+    "gn:country_code":"MZ",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026327,
+    "gn:latitude":-15.71167,
+    "gn:longitude":38.79333,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Tatiua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026327
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c29ec69ae7c3a058a6ad137f3f210018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700589,
+            "locality_id":1309704929,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1309704929,
+    "wof:lastmodified":1537073516,
+    "wof:name":"Tatiua",
+    "wof:parent_id":1091700589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.79333,
+    -15.71167,
+    38.79333,
+    -15.71167
+],
+  "geometry": {"coordinates":[38.79333,-15.71167],"type":"Point"}
+}

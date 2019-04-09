@@ -1,0 +1,67 @@
+{
+  "id": 1243356145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.52111,-14.78444,37.52111,-14.78444",
+    "geom:latitude":-14.78444,
+    "geom:longitude":37.52111,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mogama",
+    "gn:country_code":"MZ",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088395,
+    "gn:latitude":-14.78444,
+    "gn:longitude":37.52111,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Mogama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091698863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088395
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6b91878e180413ede779aa30a9d129ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698863,
+            "locality_id":1243356145,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1243356145,
+    "wof:lastmodified":1536936532,
+    "wof:name":"Mogama",
+    "wof:parent_id":1091698863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.52111,
+    -14.78444,
+    37.52111,
+    -14.78444
+],
+  "geometry": {"coordinates":[37.52111,-14.78444],"type":"Point"}
+}

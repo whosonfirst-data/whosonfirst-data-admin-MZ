@@ -1,0 +1,67 @@
+{
+  "id": 1276136837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.12889,-11.63389,40.12889,-11.63389",
+    "geom:latitude":-11.63389,
+    "geom:longitude":40.12889,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Cuamacua",
+    "gn:country_code":"MZ",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047662,
+    "gn:latitude":-11.63389,
+    "gn:longitude":40.12889,
+    "gn:modification_date":"1995-02-06",
+    "gn:name":"Cuamacua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047662
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"899653f4a596b6f353dc0fb91d8ff9a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700013,
+            "locality_id":1276136837,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276136837,
+    "wof:lastmodified":1537040233,
+    "wof:name":"Cuamacua",
+    "wof:parent_id":1091700013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.12889000000001,
+    -11.63389,
+    40.12889000000001,
+    -11.63389
+],
+  "geometry": {"coordinates":[40.12889000000001,-11.63389],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327441607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83333,-18.1,35.83333,-18.1",
+    "geom:latitude":-18.1,
+    "geom:longitude":35.83333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Joao Pataeo",
+    "gn:country_code":"MZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044477,
+    "gn:latitude":-18.1,
+    "gn:longitude":35.83333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Jo\u00e3o Pataeo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044477
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"931c0fda2247d58f6a3f48c472243e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696729,
+            "locality_id":1327441607,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1327441607,
+    "wof:lastmodified":1536667456,
+    "wof:name":"Joao Pataeo",
+    "wof:parent_id":1091696729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83333,
+    -18.1,
+    35.83333,
+    -18.1
+],
+  "geometry": {"coordinates":[35.83333,-18.1],"type":"Point"}
+}

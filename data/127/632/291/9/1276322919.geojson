@@ -1,0 +1,67 @@
+{
+  "id": 1276322919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.57889,-20.57139,33.57889,-20.57139",
+    "geom:latitude":-20.57139,
+    "geom:longitude":33.57889,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mataba",
+    "gn:country_code":"MZ",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040129,
+    "gn:latitude":-20.57139,
+    "gn:longitude":33.57889,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mataba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040129
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"32d6a3c5ed87b59d91963608156f5c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1276322919,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1276322919,
+    "wof:lastmodified":1536793016,
+    "wof:name":"Mataba",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.57889,
+    -20.57139,
+    33.57889,
+    -20.57139
+],
+  "geometry": {"coordinates":[33.57889,-20.57139],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310703521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.56361,-21.57639,34.56361,-21.57639",
+    "geom:latitude":-21.57639,
+    "geom:longitude":34.56361,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Uaene",
+    "gn:country_code":"MZ",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025414,
+    "gn:latitude":-21.57639,
+    "gn:longitude":34.56361,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Uaene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025414
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"eb3911dd56bd11940258de02013d7b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697673,
+            "locality_id":1310703521,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1310703521,
+    "wof:lastmodified":1536629508,
+    "wof:name":"Uaene",
+    "wof:parent_id":1091697673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.56361,
+    -21.57639,
+    34.56361,
+    -21.57639
+],
+  "geometry": {"coordinates":[34.56361,-21.57639],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209517313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.66194,-24.48806,34.66194,-24.48806",
+    "geom:latitude":-24.48806,
+    "geom:longitude":34.66194,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Maambo",
+    "gn:country_code":"MZ",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043108,
+    "gn:latitude":-24.48806,
+    "gn:longitude":34.66194,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Maambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043108
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2d22f96874d71448c57e87c7f7e9e1de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209517313
+        }
+    ],
+    "wof:id":1209517313,
+    "wof:lastmodified":1536284691,
+    "wof:name":"Maambo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.66194,
+    -24.48806,
+    34.66194,
+    -24.48806
+],
+  "geometry": {"coordinates":[34.66194,-24.48806],"type":"Point"}
+}

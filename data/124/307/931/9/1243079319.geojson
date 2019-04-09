@@ -1,0 +1,67 @@
+{
+  "id": 1243079319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.48472,-21.48556,34.48472,-21.48556",
+    "geom:latitude":-21.48556,
+    "geom:longitude":34.48472,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mucovelane",
+    "gn:country_code":"MZ",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101430,
+    "gn:latitude":-21.48556,
+    "gn:longitude":34.48472,
+    "gn:modification_date":"1998-04-29",
+    "gn:name":"Mucovelane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101430
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9d516b3d0bbb81e334113f57215ad6b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697673,
+            "locality_id":1243079319,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1243079319,
+    "wof:lastmodified":1536836631,
+    "wof:name":"Mucovelane",
+    "wof:parent_id":1091697673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.48472,
+    -21.48556,
+    34.48472,
+    -21.48556
+],
+  "geometry": {"coordinates":[34.48472,-21.48556],"type":"Point"}
+}

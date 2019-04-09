@@ -1,0 +1,67 @@
+{
+  "id": 1226250271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.29778,-21.87306,35.29778,-21.87306",
+    "geom:latitude":-21.87306,
+    "geom:longitude":35.29778,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Chumbo",
+    "gn:country_code":"MZ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048217,
+    "gn:latitude":-21.87306,
+    "gn:longitude":35.29778,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Chumbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048217
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5cc938c8d337cedb180ce80edab2fcfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701605,
+            "locality_id":1226250271,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1226250271,
+    "wof:lastmodified":1536927754,
+    "wof:name":"Chumbo",
+    "wof:parent_id":1091701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29778,
+    -21.87306,
+    35.29778,
+    -21.87306
+],
+  "geometry": {"coordinates":[35.29778,-21.87306],"type":"Point"}
+}

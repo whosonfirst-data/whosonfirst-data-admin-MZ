@@ -1,0 +1,72 @@
+{
+  "id": 1293110097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.38972,-22.55028,35.38972,-22.55028",
+    "geom:latitude":-22.55028,
+    "geom:longitude":35.38972,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Passopa",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052437,
+    "gn:latitude":-22.55028,
+    "gn:longitude":35.38972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Passopa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bassopa",
+        "Passopa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052437
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ce6dfbaf41acc2c7b13c79a18282a8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701605,
+            "locality_id":1293110097,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1293110097,
+    "wof:lastmodified":1537674609,
+    "wof:name":"Passopa",
+    "wof:parent_id":1091701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38972000000001,
+    -22.55028,
+    35.38972000000001,
+    -22.55028
+],
+  "geometry": {"coordinates":[35.38972000000001,-22.55028],"type":"Point"}
+}

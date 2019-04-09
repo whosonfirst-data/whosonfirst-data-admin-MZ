@@ -1,0 +1,67 @@
+{
+  "id": 1243165983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.45583,-18.30028,33.45583,-18.30028",
+    "geom:latitude":-18.30028,
+    "geom:longitude":33.45583,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Trabuca",
+    "gn:country_code":"MZ",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025660,
+    "gn:latitude":-18.30028,
+    "gn:longitude":33.45583,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Trabuca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091696359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025660
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"46e26a830a749c9d1bff5f982ad7edf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696359,
+            "locality_id":1243165983,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1243165983,
+    "wof:lastmodified":1536713256,
+    "wof:name":"Trabuca",
+    "wof:parent_id":1091696359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.45583,
+    -18.30028,
+    33.45583,
+    -18.30028
+],
+  "geometry": {"coordinates":[33.45583,-18.30028],"type":"Point"}
+}

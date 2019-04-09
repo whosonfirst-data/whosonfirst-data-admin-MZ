@@ -1,0 +1,72 @@
+{
+  "id": 1309718217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.52417,-24.8425,32.52417,-24.8425",
+    "geom:latitude":-24.8425,
+    "geom:longitude":32.52417,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Uamahula",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025340,
+    "gn:latitude":-24.8425,
+    "gn:longitude":32.52417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Uamahula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uamuhamele",
+        "Uamahula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025340
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d333e6b4b447b2d8d5e04c921133d463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1309718217,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1309718217,
+    "wof:lastmodified":1537674476,
+    "wof:name":"Uamahula",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.52417,
+    -24.8425,
+    32.52417,
+    -24.8425
+],
+  "geometry": {"coordinates":[32.52417,-24.8425],"type":"Point"}
+}

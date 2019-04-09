@@ -1,0 +1,67 @@
+{
+  "id": 1259691339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.65389,-22.41389,33.65389,-22.41389",
+    "geom:latitude":-22.41389,
+    "geom:longitude":33.65389,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Ofisso",
+    "gn:country_code":"MZ",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029441,
+    "gn:latitude":-22.41389,
+    "gn:longitude":33.65389,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Ofisso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029441
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fecbfa38eb3102ad284b9aea337f7938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698405,
+            "locality_id":1259691339,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1259691339,
+    "wof:lastmodified":1537053338,
+    "wof:name":"Ofisso",
+    "wof:parent_id":1091698405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.65389,
+    -22.41389,
+    33.65389,
+    -22.41389
+],
+  "geometry": {"coordinates":[33.65389,-22.41389],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260281539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.77889,-15.68139,39.77889,-15.68139",
+    "geom:latitude":-15.68139,
+    "geom:longitude":39.77889,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Murripa",
+    "gn:country_code":"MZ",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035522,
+    "gn:latitude":-15.68139,
+    "gn:longitude":39.77889,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Murripa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035522
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b4717627ec5cd891d08e5fe75153c94c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700091,
+            "locality_id":1260281539,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1260281539,
+    "wof:lastmodified":1536714879,
+    "wof:name":"Murripa",
+    "wof:parent_id":1091700091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.77889,
+    -15.68139,
+    39.77889,
+    -15.68139
+],
+  "geometry": {"coordinates":[39.77889,-15.68139],"type":"Point"}
+}

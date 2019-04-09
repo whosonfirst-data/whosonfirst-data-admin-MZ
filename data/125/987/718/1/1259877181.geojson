@@ -1,0 +1,67 @@
+{
+  "id": 1259877181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.2075,-15.59556,40.2075,-15.59556",
+    "geom:latitude":-15.59556,
+    "geom:longitude":40.2075,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Atibo",
+    "gn:country_code":"MZ",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052724,
+    "gn:latitude":-15.59556,
+    "gn:longitude":40.2075,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Atibo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052724
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c47efd830cb1e345f26e833919ce4742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700091,
+            "locality_id":1259877181,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1259877181,
+    "wof:lastmodified":1536788756,
+    "wof:name":"Atibo",
+    "wof:parent_id":1091700091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.2075,
+    -15.59556,
+    40.2075,
+    -15.59556
+],
+  "geometry": {"coordinates":[40.2075,-15.59556],"type":"Point"}
+}

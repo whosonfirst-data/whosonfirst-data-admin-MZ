@@ -1,0 +1,67 @@
+{
+  "id": 1243252607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.70667,-19.11361,33.70667,-19.11361",
+    "geom:latitude":-19.11361,
+    "geom:longitude":33.70667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Espanera",
+    "gn:country_code":"MZ",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046576,
+    "gn:latitude":-19.11361,
+    "gn:longitude":33.70667,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Espan\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046576
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8376dc87a44caedbfc57bfe8f08a4e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697585,
+            "locality_id":1243252607,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1243252607,
+    "wof:lastmodified":1537081788,
+    "wof:name":"Espanera",
+    "wof:parent_id":1091697585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.70667,
+    -19.11361,
+    33.70667,
+    -19.11361
+],
+  "geometry": {"coordinates":[33.70667,-19.11361],"type":"Point"}
+}

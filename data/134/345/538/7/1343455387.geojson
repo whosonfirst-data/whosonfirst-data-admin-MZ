@@ -1,0 +1,72 @@
+{
+  "id": 1343455387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.05694,-12.9075,35.05694,-12.9075",
+    "geom:latitude":-12.9075,
+    "geom:longitude":35.05694,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Name",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1033144,
+    "gn:latitude":-12.9075,
+    "gn:longitude":35.05694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Name",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nane",
+        "Name"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1033144
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d9d5eaad31833e7c49d06aefb8181834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698193,
+            "locality_id":1343455387,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1343455387,
+    "wof:lastmodified":1537674505,
+    "wof:name":"Name",
+    "wof:parent_id":1091698193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05694,
+    -12.9075,
+    35.05694,
+    -12.9075
+],
+  "geometry": {"coordinates":[35.05694,-12.9075],"type":"Point"}
+}

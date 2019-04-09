@@ -1,0 +1,67 @@
+{
+  "id": 1292993329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.26528,-14.3875,38.26528,-14.3875",
+    "geom:latitude":-14.3875,
+    "geom:longitude":38.26528,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Lalaua",
+    "gn:country_code":"MZ",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088736,
+    "gn:latitude":-14.3875,
+    "gn:longitude":38.26528,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Lalaua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091698233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088736
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fc6fec2ddb5aa7ccf36834af717caad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698233,
+            "locality_id":1292993329,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1292993329,
+    "wof:lastmodified":1537001703,
+    "wof:name":"Lalaua",
+    "wof:parent_id":1091698233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.26528,
+    -14.3875,
+    38.26528,
+    -14.3875
+],
+  "geometry": {"coordinates":[38.26528,-14.3875],"type":"Point"}
+}

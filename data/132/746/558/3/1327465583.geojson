@@ -1,0 +1,67 @@
+{
+  "id": 1327465583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.43528,-19.15028,34.43528,-19.15028",
+    "geom:latitude":-19.15028,
+    "geom:longitude":34.43528,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Quissimisse",
+    "gn:country_code":"MZ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028299,
+    "gn:latitude":-19.15028,
+    "gn:longitude":34.43528,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Quissimisse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091701119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028299
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2f252d2a3a9c596c3535e72c943a358a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701119,
+            "locality_id":1327465583,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1327465583,
+    "wof:lastmodified":1536631412,
+    "wof:name":"Quissimisse",
+    "wof:parent_id":1091701119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.43528,
+    -19.15028,
+    34.43528,
+    -19.15028
+],
+  "geometry": {"coordinates":[34.43528,-19.15028],"type":"Point"}
+}

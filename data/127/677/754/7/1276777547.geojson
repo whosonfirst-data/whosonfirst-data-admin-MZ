@@ -1,0 +1,67 @@
+{
+  "id": 1276777547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.87722,-14.01639,38.87722,-14.01639",
+    "geom:latitude":-14.01639,
+    "geom:longitude":38.87722,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Asse",
+    "gn:country_code":"MZ",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088913,
+    "gn:latitude":-14.01639,
+    "gn:longitude":38.87722,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Asse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088913
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9c3b9199c9ad73d650c6e36926f6d60d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700995,
+            "locality_id":1276777547,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276777547,
+    "wof:lastmodified":1536680570,
+    "wof:name":"Asse",
+    "wof:parent_id":1091700995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.87722,
+    -14.01639,
+    38.87722,
+    -14.01639
+],
+  "geometry": {"coordinates":[38.87722,-14.01639],"type":"Point"}
+}

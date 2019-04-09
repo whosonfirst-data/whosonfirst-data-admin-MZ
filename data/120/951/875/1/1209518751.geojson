@@ -1,0 +1,61 @@
+{
+  "id": 1209518751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.72056,-23.69889,32.72056,-23.69889",
+    "geom:latitude":-23.69889,
+    "geom:longitude":32.72056,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Xirico",
+    "gn:country_code":"MZ",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024419,
+    "gn:latitude":-23.69889,
+    "gn:longitude":32.72056,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Xirico",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024419
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bab07a7f12a13db4e879cd9b4b3d794e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209518751
+        }
+    ],
+    "wof:id":1209518751,
+    "wof:lastmodified":1536284647,
+    "wof:name":"Xirico",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.72056,
+    -23.69889,
+    32.72056,
+    -23.69889
+],
+  "geometry": {"coordinates":[32.72056,-23.69889],"type":"Point"}
+}

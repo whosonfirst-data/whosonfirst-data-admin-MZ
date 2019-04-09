@@ -1,0 +1,67 @@
+{
+  "id": 1310124331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65,-14.33333,35.65,-14.33333",
+    "geom:latitude":-14.33333,
+    "geom:longitude":35.65,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Uncuavira",
+    "gn:country_code":"MZ",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025046,
+    "gn:latitude":-14.33333,
+    "gn:longitude":35.65,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Uncuavira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025046
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"107e857c23578bd597d5674d88406ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698923,
+            "locality_id":1310124331,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1310124331,
+    "wof:lastmodified":1536969031,
+    "wof:name":"Uncuavira",
+    "wof:parent_id":1091698923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65,
+    -14.33333,
+    35.65,
+    -14.33333
+],
+  "geometry": {"coordinates":[35.65,-14.33333],"type":"Point"}
+}

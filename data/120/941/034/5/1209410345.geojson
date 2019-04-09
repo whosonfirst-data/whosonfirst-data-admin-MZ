@@ -1,0 +1,61 @@
+{
+  "id": 1209410345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.78806,-17.17611,33.78806,-17.17611",
+    "geom:latitude":-17.17611,
+    "geom:longitude":33.78806,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Uncuzaduto",
+    "gn:country_code":"MZ",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025019,
+    "gn:latitude":-17.17611,
+    "gn:longitude":33.78806,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Uncuzaduto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025019
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"feede810551c7f3a83ad9873b82b9cb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209410345
+        }
+    ],
+    "wof:id":1209410345,
+    "wof:lastmodified":1536287858,
+    "wof:name":"Uncuzaduto",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.788059999999994,
+    -17.17611,
+    33.788059999999994,
+    -17.17611
+],
+  "geometry": {"coordinates":[33.78805999999999,-17.17611],"type":"Point"}
+}

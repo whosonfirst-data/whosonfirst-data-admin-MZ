@@ -1,0 +1,67 @@
+{
+  "id": 1292918225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.6,-14.05,35.6,-14.05",
+    "geom:latitude":-14.05,
+    "geom:longitude":35.6,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Muambico",
+    "gn:country_code":"MZ",
+    "gn:dem":882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036765,
+    "gn:latitude":-14.05,
+    "gn:longitude":35.6,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Muambico",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091701091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036765
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2f64b283186c2177e98e29242f5e7578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701091,
+            "locality_id":1292918225,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1292918225,
+    "wof:lastmodified":1536610967,
+    "wof:name":"Muambico",
+    "wof:parent_id":1091701091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.6,
+    -14.05,
+    35.6,
+    -14.05
+],
+  "geometry": {"coordinates":[35.6,-14.05],"type":"Point"}
+}

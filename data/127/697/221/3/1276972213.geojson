@@ -1,0 +1,67 @@
+{
+  "id": 1276972213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.58056,-16.12861,39.58056,-16.12861",
+    "geom:latitude":-16.12861,
+    "geom:longitude":39.58056,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Chefe Muahua",
+    "gn:country_code":"MZ",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1094134,
+    "gn:latitude":-16.12861,
+    "gn:longitude":39.58056,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Chefe Muahua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091696277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1094134
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"703667557c8db9693b3d448556065ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696277,
+            "locality_id":1276972213,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1276972213,
+    "wof:lastmodified":1536918087,
+    "wof:name":"Chefe Muahua",
+    "wof:parent_id":1091696277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.58056,
+    -16.12861,
+    39.58056,
+    -16.12861
+],
+  "geometry": {"coordinates":[39.58056,-16.12861],"type":"Point"}
+}

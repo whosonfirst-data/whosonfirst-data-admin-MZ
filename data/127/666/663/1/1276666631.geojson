@@ -1,0 +1,67 @@
+{
+  "id": 1276666631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.19722,-24.75667,33.19722,-24.75667",
+    "geom:latitude":-24.75667,
+    "geom:longitude":33.19722,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Boromo",
+    "gn:country_code":"MZ",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052047,
+    "gn:latitude":-24.75667,
+    "gn:longitude":33.19722,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Bor\u00f4mo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052047
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"737b73beb4e1e7c9225c1348e436e495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696849,
+            "locality_id":1276666631,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1276666631,
+    "wof:lastmodified":1536828123,
+    "wof:name":"Boromo",
+    "wof:parent_id":1091696849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.19722,
+    -24.75667,
+    33.19722,
+    -24.75667
+],
+  "geometry": {"coordinates":[33.19722,-24.75667],"type":"Point"}
+}

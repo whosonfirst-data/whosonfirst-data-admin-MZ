@@ -1,0 +1,67 @@
+{
+  "id": 1243079119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.07917,-24.48028,35.07917,-24.48028",
+    "geom:latitude":-24.48028,
+    "geom:longitude":35.07917,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ungulela",
+    "gn:country_code":"MZ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024986,
+    "gn:latitude":-24.48028,
+    "gn:longitude":35.07917,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Ungulela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024986
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"edbd1621b44b92dad97c3fc30e34e8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698019,
+            "locality_id":1243079119,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1243079119,
+    "wof:lastmodified":1536836939,
+    "wof:name":"Ungulela",
+    "wof:parent_id":1091698019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.07917,
+    -24.48028,
+    35.07917,
+    -24.48028
+],
+  "geometry": {"coordinates":[35.07917,-24.48028],"type":"Point"}
+}

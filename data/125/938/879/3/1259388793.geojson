@@ -1,0 +1,72 @@
+{
+  "id": 1259388793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.26361,-25.33417,32.26361,-25.33417",
+    "geom:latitude":-25.33417,
+    "geom:longitude":32.26361,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ichique",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026213,
+    "gn:latitude":-25.33417,
+    "gn:longitude":32.26361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ichique",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchique",
+        "Ichique"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026213
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5a133a2eb442c49d962e79707ed2f18f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699925,
+            "locality_id":1259388793,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1259388793,
+    "wof:lastmodified":1537674479,
+    "wof:name":"Ichique",
+    "wof:parent_id":1091699925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.26361,
+    -25.33417,
+    32.26361,
+    -25.33417
+],
+  "geometry": {"coordinates":[32.26361,-25.33417],"type":"Point"}
+}

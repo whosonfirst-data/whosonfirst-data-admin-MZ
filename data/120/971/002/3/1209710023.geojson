@@ -1,0 +1,67 @@
+{
+  "id": 1209710023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.46556,-15.28528,36.46556,-15.28528",
+    "geom:latitude":-15.28528,
+    "geom:longitude":36.46556,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Regulo Capitao Mor",
+    "gn:country_code":"MZ",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092146,
+    "gn:latitude":-15.28528,
+    "gn:longitude":36.46556,
+    "gn:modification_date":"1998-05-14",
+    "gn:name":"R\u00e9gulo Capit\u00e3o Mor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091699895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092146
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d4e5e8aed5daaad1d0f21a6e71516e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699895,
+            "locality_id":1209710023,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1209710023,
+    "wof:lastmodified":1536391112,
+    "wof:name":"Regulo Capitao Mor",
+    "wof:parent_id":1091699895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.46556,
+    -15.28528,
+    36.46556,
+    -15.28528
+],
+  "geometry": {"coordinates":[36.46556,-15.28528],"type":"Point"}
+}

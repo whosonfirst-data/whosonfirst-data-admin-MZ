@@ -1,0 +1,70 @@
+{
+  "id": 1310695705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9825,-20.09472,32.9825,-20.09472",
+    "geom:latitude":-20.09472,
+    "geom:longitude":32.9825,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Machangosana",
+    "gn:country_code":"MZ",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042703,
+    "gn:latitude":-20.09472,
+    "gn:longitude":32.9825,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Machangosana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Machangosana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091700331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042703
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"68d5059148b716d1f05e8347d55fadbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700331,
+            "locality_id":1310695705,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1310695705,
+    "wof:lastmodified":1537674556,
+    "wof:name":"Machangosana",
+    "wof:parent_id":1091700331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9825,
+    -20.09472,
+    32.9825,
+    -20.09472
+],
+  "geometry": {"coordinates":[32.9825,-20.09472],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209309583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.71917,-20.64056,32.71917,-20.64056",
+    "geom:latitude":-20.64056,
+    "geom:longitude":32.71917,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Guzenzua",
+    "gn:country_code":"MZ",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045487,
+    "gn:latitude":-20.64056,
+    "gn:longitude":32.71917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Guzenzua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Guzenzua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045487
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cf843feb55dcdc05c7de44288c3976e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209309583
+        }
+    ],
+    "wof:id":1209309583,
+    "wof:lastmodified":1537674569,
+    "wof:name":"Guzenzua",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.71917,
+    -20.64056,
+    32.71917,
+    -20.64056
+],
+  "geometry": {"coordinates":[32.71917,-20.64056],"type":"Point"}
+}

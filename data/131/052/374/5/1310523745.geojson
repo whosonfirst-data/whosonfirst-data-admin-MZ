@@ -1,0 +1,67 @@
+{
+  "id": 1310523745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.70333,-16.42139,33.70333,-16.42139",
+    "geom:latitude":-16.42139,
+    "geom:longitude":33.70333,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Galo",
+    "gn:country_code":"MZ",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046144,
+    "gn:latitude":-16.42139,
+    "gn:longitude":33.70333,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Galo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046144
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"87bbd98d3a336d1931d5e9cfde960fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696537,
+            "locality_id":1310523745,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1310523745,
+    "wof:lastmodified":1536890238,
+    "wof:name":"Galo",
+    "wof:parent_id":1091696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.70333,
+    -16.42139,
+    33.70333,
+    -16.42139
+],
+  "geometry": {"coordinates":[33.70333,-16.42139],"type":"Point"}
+}

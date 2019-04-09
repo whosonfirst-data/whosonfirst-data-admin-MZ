@@ -1,0 +1,61 @@
+{
+  "id": 1209126099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3375,-16.28583,34.3375,-16.28583",
+    "geom:latitude":-16.28583,
+    "geom:longitude":34.3375,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Mecito",
+    "gn:country_code":"MZ",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1093214,
+    "gn:latitude":-16.28583,
+    "gn:longitude":34.3375,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Mecito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1093214
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a66611c2d771862023ef9a55dedc0b5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209126099
+        }
+    ],
+    "wof:id":1209126099,
+    "wof:lastmodified":1536296953,
+    "wof:name":"Mecito",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3375,
+    -16.285829999999994,
+    34.3375,
+    -16.285829999999994
+],
+  "geometry": {"coordinates":[34.3375,-16.28582999999999],"type":"Point"}
+}

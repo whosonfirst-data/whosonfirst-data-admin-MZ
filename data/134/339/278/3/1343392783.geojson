@@ -1,0 +1,67 @@
+{
+  "id": 1343392783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.90444,-18.61167,34.90444,-18.61167",
+    "geom:latitude":-18.61167,
+    "geom:longitude":34.90444,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Baira",
+    "gn:country_code":"MZ",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096452,
+    "gn:latitude":-18.61167,
+    "gn:longitude":34.90444,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Baira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096452
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"eb296bd71304483f2e01eece38adde4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696559,
+            "locality_id":1343392783,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1343392783,
+    "wof:lastmodified":1536842907,
+    "wof:name":"Baira",
+    "wof:parent_id":1091696559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.90444,
+    -18.61167,
+    34.90444,
+    -18.61167
+],
+  "geometry": {"coordinates":[34.90444,-18.61167],"type":"Point"}
+}

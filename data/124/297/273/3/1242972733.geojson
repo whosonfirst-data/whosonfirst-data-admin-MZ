@@ -1,0 +1,72 @@
+{
+  "id": 1242972733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.88389,-23.74194,34.88389,-23.74194",
+    "geom:latitude":-23.74194,
+    "geom:longitude":34.88389,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Cabo Catine",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050819,
+    "gn:latitude":-23.74194,
+    "gn:longitude":34.88389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cabo Catine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Catine",
+        "Cabo Catine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050819
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4f494df5879cdd2f51e5b0d1f6bf9535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697853,
+            "locality_id":1242972733,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1242972733,
+    "wof:lastmodified":1537674599,
+    "wof:name":"Cabo Catine",
+    "wof:parent_id":1091697853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.88389,
+    -23.74194,
+    34.88389,
+    -23.74194
+],
+  "geometry": {"coordinates":[34.88389,-23.74194],"type":"Point"}
+}

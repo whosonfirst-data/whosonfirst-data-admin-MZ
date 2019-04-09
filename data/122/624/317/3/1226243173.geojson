@@ -1,0 +1,67 @@
+{
+  "id": 1226243173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.85556,-24.83389,32.85556,-24.83389",
+    "geom:latitude":-24.83389,
+    "geom:longitude":32.85556,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Beti",
+    "gn:country_code":"MZ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052289,
+    "gn:latitude":-24.83389,
+    "gn:longitude":32.85556,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Beti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052289
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7100552d0f4c9279fc9fda5626f8125d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698763,
+            "locality_id":1226243173,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1226243173,
+    "wof:lastmodified":1536938088,
+    "wof:name":"Beti",
+    "wof:parent_id":1091698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.85556,
+    -24.83389,
+    32.85556,
+    -24.83389
+],
+  "geometry": {"coordinates":[32.85556,-24.83389],"type":"Point"}
+}

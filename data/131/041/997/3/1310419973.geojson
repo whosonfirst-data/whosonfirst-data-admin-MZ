@@ -1,0 +1,67 @@
+{
+  "id": 1310419973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.25222,-10.79222,40.25222,-10.79222",
+    "geom:latitude":-10.79222,
+    "geom:longitude":40.25222,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Bilale",
+    "gn:country_code":"MZ",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052266,
+    "gn:latitude":-10.79222,
+    "gn:longitude":40.25222,
+    "gn:modification_date":"1995-02-03",
+    "gn:name":"Bilale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052266
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b5240b9595bbb78a7673749f567cb0d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701223,
+            "locality_id":1310419973,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1310419973,
+    "wof:lastmodified":1537038651,
+    "wof:name":"Bilale",
+    "wof:parent_id":1091701223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.25222,
+    -10.79222,
+    40.25222,
+    -10.79222
+],
+  "geometry": {"coordinates":[40.25222,-10.79222],"type":"Point"}
+}

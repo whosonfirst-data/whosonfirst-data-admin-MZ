@@ -1,0 +1,77 @@
+{
+  "id": 1260200947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.35158,-11.35172,40.35158,-11.35172",
+    "geom:latitude":-11.35172,
+    "geom:longitude":40.35158,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mocimboa da Praia",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024699,
+    "gn:latitude":-11.35172,
+    "gn:longitude":40.35158,
+    "gn:modification_date":"2013-10-26",
+    "gn:name":"Moc\u00edmboa da Praia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Moc\u00edmboa da Praia"
+    ],
+    "name:und_x_variant":[
+        "Vila de Moc\u00edmboa da Praia",
+        "Moc\u00edmboa",
+        "Moc\u00edmboa da Praia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024699,
+        "wk:page":"Moc%C3%ADmboa_da_Praia_District"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"43f2b126b0eeb946682308cc69d12c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700013,
+            "locality_id":1260200947,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1260200947,
+    "wof:lastmodified":1537674472,
+    "wof:name":"Mocimboa da Praia",
+    "wof:parent_id":1091700013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.35158,
+    -11.35172,
+    40.35158,
+    -11.35172
+],
+  "geometry": {"coordinates":[40.35158,-11.35172],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226668277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.09389,-15.02944,40.09389,-15.02944",
+    "geom:latitude":-15.02944,
+    "geom:longitude":40.09389,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nacopo",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034786,
+    "gn:latitude":-15.02944,
+    "gn:longitude":40.09389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nacopo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nacopa",
+        "Nacopo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034786
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e08bdcc91c5739111917da061f28e7d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700177,
+            "locality_id":1226668277,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1226668277,
+    "wof:lastmodified":1537674510,
+    "wof:name":"Nacopo",
+    "wof:parent_id":1091700177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.09389,
+    -15.02944,
+    40.09389,
+    -15.02944
+],
+  "geometry": {"coordinates":[40.09389,-15.02944],"type":"Point"}
+}

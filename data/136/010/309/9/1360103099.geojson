@@ -1,0 +1,61 @@
+{
+  "id": 1360103099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.58333,-21.98333,35.58333,-21.98333",
+    "geom:latitude":-21.98333,
+    "geom:longitude":35.58333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Taime",
+    "gn:country_code":"MZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026506,
+    "gn:latitude":-21.98333,
+    "gn:longitude":35.58333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Taime",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026506
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1e9f37bf35e83e58db9f20f58463e80b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360103099,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360103099,
+    "wof:lastmodified":1536920270,
+    "wof:name":"Taime",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.58333,
+    -21.98333,
+    35.58333,
+    -21.98333
+],
+  "geometry": {"coordinates":[35.58333,-21.98333],"type":"Point"}
+}

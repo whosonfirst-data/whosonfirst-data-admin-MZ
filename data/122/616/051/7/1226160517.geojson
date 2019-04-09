@@ -1,0 +1,67 @@
+{
+  "id": 1226160517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.33083,-11.34417,39.33083,-11.34417",
+    "geom:latitude":-11.34417,
+    "geom:longitude":39.33083,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ualilembo",
+    "gn:country_code":"MZ",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025374,
+    "gn:latitude":-11.34417,
+    "gn:longitude":39.33083,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Ualilembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025374
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"776cc23f58513cfde0b0147ead97bda6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1226160517,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1226160517,
+    "wof:lastmodified":1537054079,
+    "wof:name":"Ualilembo",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.33083,
+    -11.34417,
+    39.33083,
+    -11.34417
+],
+  "geometry": {"coordinates":[39.33083,-11.34417],"type":"Point"}
+}

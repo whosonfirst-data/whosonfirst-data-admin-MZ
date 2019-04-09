@@ -1,0 +1,67 @@
+{
+  "id": 1260374987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15361,-15.48056,36.15361,-15.48056",
+    "geom:latitude":-15.48056,
+    "geom:longitude":36.15361,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Lapa",
+    "gn:country_code":"MZ",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044046,
+    "gn:latitude":-15.48056,
+    "gn:longitude":36.15361,
+    "gn:modification_date":"1998-05-14",
+    "gn:name":"Lapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091699895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044046
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"468f2ead60244daf8a5458dfbe25bdee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699895,
+            "locality_id":1260374987,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1260374987,
+    "wof:lastmodified":1537083152,
+    "wof:name":"Lapa",
+    "wof:parent_id":1091699895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15361,
+    -15.48056,
+    36.15361,
+    -15.48056
+],
+  "geometry": {"coordinates":[36.15361,-15.48056],"type":"Point"}
+}

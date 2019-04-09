@@ -1,0 +1,67 @@
+{
+  "id": 1276466315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.47806,-14.83778,37.47806,-14.83778",
+    "geom:latitude":-14.83778,
+    "geom:longitude":37.47806,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Quinta do Rio",
+    "gn:country_code":"MZ",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088223,
+    "gn:latitude":-14.83778,
+    "gn:longitude":37.47806,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Quinta do Rio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091698863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088223
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bcc0da634314e96d9a89aebfa2ee2dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698863,
+            "locality_id":1276466315,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1276466315,
+    "wof:lastmodified":1537094496,
+    "wof:name":"Quinta do Rio",
+    "wof:parent_id":1091698863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.47806,
+    -14.83778,
+    37.47806,
+    -14.83778
+],
+  "geometry": {"coordinates":[37.47806,-14.83778],"type":"Point"}
+}

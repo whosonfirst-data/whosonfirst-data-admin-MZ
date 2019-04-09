@@ -1,0 +1,67 @@
+{
+  "id": 1343745863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1475,-18.85028,33.1475,-18.85028",
+    "geom:latitude":-18.85028,
+    "geom:longitude":33.1475,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sangano",
+    "gn:country_code":"MZ",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027383,
+    "gn:latitude":-18.85028,
+    "gn:longitude":33.1475,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Sangano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091699043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027383
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e5f7105b66d433c84f4881341d4d622e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699043,
+            "locality_id":1343745863,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1343745863,
+    "wof:lastmodified":1536830985,
+    "wof:name":"Sangano",
+    "wof:parent_id":1091699043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1475,
+    -18.85028,
+    33.1475,
+    -18.85028
+],
+  "geometry": {"coordinates":[33.1475,-18.85028],"type":"Point"}
+}

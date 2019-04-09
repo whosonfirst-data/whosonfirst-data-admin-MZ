@@ -1,0 +1,61 @@
+{
+  "id": 1209418987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.86389,-13.345,38.86389,-13.345",
+    "geom:latitude":-13.345,
+    "geom:longitude":38.86389,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Apalia",
+    "gn:country_code":"MZ",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052848,
+    "gn:latitude":-13.345,
+    "gn:longitude":38.86389,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Ap\u00e0lia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052848
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c846d23fe7721a512600daf463fe2935",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209418987
+        }
+    ],
+    "wof:id":1209418987,
+    "wof:lastmodified":1536287593,
+    "wof:name":"Apalia",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.86389000000001,
+    -13.345,
+    38.86389000000001,
+    -13.345
+],
+  "geometry": {"coordinates":[38.86389000000001,-13.345],"type":"Point"}
+}

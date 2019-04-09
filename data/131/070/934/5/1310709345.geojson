@@ -1,0 +1,67 @@
+{
+  "id": 1310709345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.95528,-23.6475,34.95528,-23.6475",
+    "geom:latitude":-23.6475,
+    "geom:longitude":34.95528,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Joaquim",
+    "gn:country_code":"MZ",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101699,
+    "gn:latitude":-23.6475,
+    "gn:longitude":34.95528,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Joaquim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101699
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"aa540547788474af30cc33d5af5e0df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697853,
+            "locality_id":1310709345,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1310709345,
+    "wof:lastmodified":1536620678,
+    "wof:name":"Joaquim",
+    "wof:parent_id":1091697853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.95528,
+    -23.6475,
+    34.95528,
+    -23.6475
+],
+  "geometry": {"coordinates":[34.95528,-23.6475],"type":"Point"}
+}

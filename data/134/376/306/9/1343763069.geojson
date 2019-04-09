@@ -1,0 +1,67 @@
+{
+  "id": 1343763069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.13083,-25.36611,32.13083,-25.36611",
+    "geom:latitude":-25.36611,
+    "geom:longitude":32.13083,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Cepula",
+    "gn:country_code":"MZ",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050644,
+    "gn:latitude":-25.36611,
+    "gn:longitude":32.13083,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Cepula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050644
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3c7110838401a0f51f128a2bd512a6af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699925,
+            "locality_id":1343763069,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1343763069,
+    "wof:lastmodified":1536806916,
+    "wof:name":"Cepula",
+    "wof:parent_id":1091699925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.13083,
+    -25.36611,
+    32.13083,
+    -25.36611
+],
+  "geometry": {"coordinates":[32.13083,-25.36611],"type":"Point"}
+}

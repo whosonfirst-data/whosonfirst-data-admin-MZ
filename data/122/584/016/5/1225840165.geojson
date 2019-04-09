@@ -1,0 +1,67 @@
+{
+  "id": 1225840165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.21972,-20.11722,33.21972,-20.11722",
+    "geom:latitude":-20.11722,
+    "geom:longitude":33.21972,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mutanda",
+    "gn:country_code":"MZ",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035323,
+    "gn:latitude":-20.11722,
+    "gn:longitude":33.21972,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Mutanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091701483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035323
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"86bcd60b7ca30f2ce93aa0c5cc1633a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701483,
+            "locality_id":1225840165,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1225840165,
+    "wof:lastmodified":1537020827,
+    "wof:name":"Mutanda",
+    "wof:parent_id":1091701483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.21972,
+    -20.11722,
+    33.21972,
+    -20.11722
+],
+  "geometry": {"coordinates":[33.21972,-20.11722],"type":"Point"}
+}

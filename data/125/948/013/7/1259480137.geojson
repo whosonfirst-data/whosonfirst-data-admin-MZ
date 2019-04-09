@@ -1,0 +1,67 @@
+{
+  "id": 1259480137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.16611,-13.07944,35.16611,-13.07944",
+    "geom:latitude":-13.07944,
+    "geom:longitude":35.16611,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Aldeia Chilapitangongo",
+    "gn:country_code":"MZ",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085646,
+    "gn:latitude":-13.07944,
+    "gn:longitude":35.16611,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Aldeia Chilapitangongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091701443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085646
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ff197597792ca73b25b2f0e9d6012d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701443,
+            "locality_id":1259480137,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1259480137,
+    "wof:lastmodified":1536862235,
+    "wof:name":"Aldeia Chilapitangongo",
+    "wof:parent_id":1091701443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16611,
+    -13.07944,
+    35.16611,
+    -13.07944
+],
+  "geometry": {"coordinates":[35.16611,-13.07944],"type":"Point"}
+}

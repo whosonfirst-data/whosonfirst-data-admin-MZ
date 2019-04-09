@@ -1,0 +1,67 @@
+{
+  "id": 1226428021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.89028,-17.01556,34.89028,-17.01556",
+    "geom:latitude":-17.01556,
+    "geom:longitude":34.89028,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Merica",
+    "gn:country_code":"MZ",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038563,
+    "gn:latitude":-17.01556,
+    "gn:longitude":34.89028,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"M\u00e9rica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091700637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038563
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"be9ca43c8422121ef8d61e41bbf04f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700637,
+            "locality_id":1226428021,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1226428021,
+    "wof:lastmodified":1536671012,
+    "wof:name":"Merica",
+    "wof:parent_id":1091700637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.89028,
+    -17.01556,
+    34.89028,
+    -17.01556
+],
+  "geometry": {"coordinates":[34.89028,-17.01556],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243052491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.37,-17.70778,35.37,-17.70778",
+    "geom:latitude":-17.70778,
+    "geom:longitude":35.37,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chamo",
+    "gn:country_code":"MZ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050403,
+    "gn:latitude":-17.70778,
+    "gn:longitude":35.37,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Chamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050403
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2af11d8256ef9e62a8ac83e1d95de95f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700251,
+            "locality_id":1243052491,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1243052491,
+    "wof:lastmodified":1536875568,
+    "wof:name":"Chamo",
+    "wof:parent_id":1091700251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.37,
+    -17.70778,
+    35.37,
+    -17.70778
+],
+  "geometry": {"coordinates":[35.37,-17.70778],"type":"Point"}
+}

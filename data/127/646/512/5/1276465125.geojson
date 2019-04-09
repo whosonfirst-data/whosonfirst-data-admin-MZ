@@ -1,0 +1,67 @@
+{
+  "id": 1276465125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.33528,-12.2525,35.33528,-12.2525",
+    "geom:latitude":-12.2525,
+    "geom:longitude":35.33528,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Majolela",
+    "gn:country_code":"MZ",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041612,
+    "gn:latitude":-12.2525,
+    "gn:longitude":35.33528,
+    "gn:modification_date":"1995-06-21",
+    "gn:name":"Majolela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091701443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041612
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a8d776236b57558c232f64236fb71b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701443,
+            "locality_id":1276465125,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1276465125,
+    "wof:lastmodified":1537096067,
+    "wof:name":"Majolela",
+    "wof:parent_id":1091701443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33528,
+    -12.2525,
+    35.33528,
+    -12.2525
+],
+  "geometry": {"coordinates":[35.33528,-12.2525],"type":"Point"}
+}

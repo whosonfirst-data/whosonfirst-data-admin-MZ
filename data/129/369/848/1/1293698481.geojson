@@ -1,0 +1,67 @@
+{
+  "id": 1293698481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.88667,-22.19167,34.88667,-22.19167",
+    "geom:latitude":-22.19167,
+    "geom:longitude":34.88667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vetela",
+    "gn:country_code":"MZ",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1105118,
+    "gn:latitude":-22.19167,
+    "gn:longitude":34.88667,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Vetela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105118
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5e20fdacc7f78aec604cb2e93190e830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701605,
+            "locality_id":1293698481,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1293698481,
+    "wof:lastmodified":1536979501,
+    "wof:name":"Vetela",
+    "wof:parent_id":1091701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.88667,
+    -22.19167,
+    34.88667,
+    -22.19167
+],
+  "geometry": {"coordinates":[34.88667,-22.19167],"type":"Point"}
+}

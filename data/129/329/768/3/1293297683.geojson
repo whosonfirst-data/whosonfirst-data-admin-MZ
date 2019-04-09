@@ -1,0 +1,67 @@
+{
+  "id": 1293297683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.64306,-18.66222,33.64306,-18.66222",
+    "geom:latitude":-18.66222,
+    "geom:longitude":33.64306,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Aldeia Fombe",
+    "gn:country_code":"MZ",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096406,
+    "gn:latitude":-18.66222,
+    "gn:longitude":33.64306,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Aldeia Fombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096406
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"673a519657235dfc60c451a059720379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698625,
+            "locality_id":1293297683,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1293297683,
+    "wof:lastmodified":1537058038,
+    "wof:name":"Aldeia Fombe",
+    "wof:parent_id":1091698625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.64306,
+    -18.66222,
+    33.64306,
+    -18.66222
+],
+  "geometry": {"coordinates":[33.64306,-18.66222],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310714539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.27667,-24.17278,33.27667,-24.17278",
+    "geom:latitude":-24.17278,
+    "geom:longitude":33.27667,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Majovotane",
+    "gn:country_code":"MZ",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041602,
+    "gn:latitude":-24.17278,
+    "gn:longitude":33.27667,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Majovotane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091697721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041602
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"249bd853d7832cbe76392a6a38b6bca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697721,
+            "locality_id":1310714539,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1310714539,
+    "wof:lastmodified":1536612839,
+    "wof:name":"Majovotane",
+    "wof:parent_id":1091697721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.27667,
+    -24.17278,
+    33.27667,
+    -24.17278
+],
+  "geometry": {"coordinates":[33.27667,-24.17278],"type":"Point"}
+}

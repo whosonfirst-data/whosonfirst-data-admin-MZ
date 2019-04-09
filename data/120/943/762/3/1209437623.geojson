@@ -1,0 +1,61 @@
+{
+  "id": 1209437623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.60833,-20.49333,33.60833,-20.49333",
+    "geom:latitude":-20.49333,
+    "geom:longitude":33.60833,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Massorra",
+    "gn:country_code":"MZ",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040157,
+    "gn:latitude":-20.49333,
+    "gn:longitude":33.60833,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Massorra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040157
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bf84766dc8fe8fc2f96aba7bcead03d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209437623
+        }
+    ],
+    "wof:id":1209437623,
+    "wof:lastmodified":1536287055,
+    "wof:name":"Massorra",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.60833,
+    -20.49333,
+    33.60833,
+    -20.49333
+],
+  "geometry": {"coordinates":[33.60833,-20.49333],"type":"Point"}
+}

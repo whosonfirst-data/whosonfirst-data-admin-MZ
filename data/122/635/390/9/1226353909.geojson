@@ -1,0 +1,67 @@
+{
+  "id": 1226353909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.83167,-24.35361,34.83167,-24.35361",
+    "geom:latitude":-24.35361,
+    "geom:longitude":34.83167,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mata Fene",
+    "gn:country_code":"MZ",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097670,
+    "gn:latitude":-24.35361,
+    "gn:longitude":34.83167,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Mata Fene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097670
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c3102fdce15ef00100e9bf59eaf07555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698019,
+            "locality_id":1226353909,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1226353909,
+    "wof:lastmodified":1536778187,
+    "wof:name":"Mata Fene",
+    "wof:parent_id":1091698019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.83167,
+    -24.35361,
+    34.83167,
+    -24.35361
+],
+  "geometry": {"coordinates":[34.83167,-24.35361],"type":"Point"}
+}

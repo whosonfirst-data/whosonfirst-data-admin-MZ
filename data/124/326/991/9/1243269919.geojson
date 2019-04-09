@@ -1,0 +1,72 @@
+{
+  "id": 1243269919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.48861,-26.10833,32.48861,-26.10833",
+    "geom:latitude":-26.10833,
+    "geom:longitude":32.48861,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mugazine",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036106,
+    "gn:latitude":-26.10833,
+    "gn:longitude":32.48861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mugazine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magasine",
+        "Mugazine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036106
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cb20ae646184179cceb3431c589f7241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699383,
+            "locality_id":1243269919,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1243269919,
+    "wof:lastmodified":1537674517,
+    "wof:name":"Mugazine",
+    "wof:parent_id":1091699383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.48860999999999,
+    -26.10833,
+    32.48860999999999,
+    -26.10833
+],
+  "geometry": {"coordinates":[32.48860999999999,-26.10833],"type":"Point"}
+}

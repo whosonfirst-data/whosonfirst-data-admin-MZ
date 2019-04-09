@@ -1,0 +1,61 @@
+{
+  "id": 1209119141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.26639,-24.90111,34.26639,-24.90111",
+    "geom:latitude":-24.90111,
+    "geom:longitude":34.26639,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chefe Mahomo",
+    "gn:country_code":"MZ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1100980,
+    "gn:latitude":-24.90111,
+    "gn:longitude":34.26639,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chefe Mahomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1100980
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"753e05c6fe4e80d2578ed4ca42fd5cfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209119141
+        }
+    ],
+    "wof:id":1209119141,
+    "wof:lastmodified":1536297159,
+    "wof:name":"Chefe Mahomo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.26639,
+    -24.90111,
+    34.26639,
+    -24.90111
+],
+  "geometry": {"coordinates":[34.26639,-24.90111],"type":"Point"}
+}

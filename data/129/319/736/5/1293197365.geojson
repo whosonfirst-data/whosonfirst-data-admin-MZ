@@ -1,0 +1,67 @@
+{
+  "id": 1293197365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.30056,-16.13833,33.30056,-16.13833",
+    "geom:latitude":-16.13833,
+    "geom:longitude":33.30056,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Malefo",
+    "gn:country_code":"MZ",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041492,
+    "gn:latitude":-16.13833,
+    "gn:longitude":33.30056,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Malefo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041492
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d10a06f7d85983f3598c761b31dca9c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696537,
+            "locality_id":1293197365,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1293197365,
+    "wof:lastmodified":1536708679,
+    "wof:name":"Malefo",
+    "wof:parent_id":1091696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.30056,
+    -16.13833,
+    33.30056,
+    -16.13833
+],
+  "geometry": {"coordinates":[33.30056,-16.13833],"type":"Point"}
+}

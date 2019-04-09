@@ -1,0 +1,61 @@
+{
+  "id": 1209009169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.63444,-20.26667,33.63444,-20.26667",
+    "geom:latitude":-20.26667,
+    "geom:longitude":33.63444,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Massaite",
+    "gn:country_code":"MZ",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040316,
+    "gn:latitude":-20.26667,
+    "gn:longitude":33.63444,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Massaite",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040316
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6b5baf6b4a3fee7d251dbab26415314b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209009169
+        }
+    ],
+    "wof:id":1209009169,
+    "wof:lastmodified":1536300504,
+    "wof:name":"Massaite",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.634440000000005,
+    -20.26667,
+    33.634440000000005,
+    -20.26667
+],
+  "geometry": {"coordinates":[33.63444,-20.26667],"type":"Point"}
+}

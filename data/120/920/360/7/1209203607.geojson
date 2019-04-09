@@ -1,0 +1,61 @@
+{
+  "id": 1209203607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2925,-19.21444,33.2925,-19.21444",
+    "geom:latitude":-19.21444,
+    "geom:longitude":33.2925,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Raposo",
+    "gn:country_code":"MZ",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028180,
+    "gn:latitude":-19.21444,
+    "gn:longitude":33.2925,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Raposo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028180
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"79d6a38939235e148d02135c009983df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209203607
+        }
+    ],
+    "wof:id":1209203607,
+    "wof:lastmodified":1536294527,
+    "wof:name":"Raposo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2925,
+    -19.21444,
+    33.2925,
+    -19.21444
+],
+  "geometry": {"coordinates":[33.2925,-19.21444],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226451337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.22917,-23.08806,32.22917,-23.08806",
+    "geom:latitude":-23.08806,
+    "geom:longitude":32.22917,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Maguaza",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038616,
+    "gn:latitude":-23.08806,
+    "gn:longitude":32.22917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maguaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mepuze",
+        "M\u2019Puze",
+        "M\u2019Puzi",
+        "Maguaza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038616
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6c9cb2b97816239152513afdc6762ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696621,
+            "locality_id":1226451337,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1226451337,
+    "wof:lastmodified":1537674530,
+    "wof:name":"Maguaza",
+    "wof:parent_id":1091696621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.22917,
+    -23.08806,
+    32.22917,
+    -23.08806
+],
+  "geometry": {"coordinates":[32.22917,-23.08806],"type":"Point"}
+}

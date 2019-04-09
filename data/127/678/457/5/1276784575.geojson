@@ -1,0 +1,67 @@
+{
+  "id": 1276784575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.41806,-20.60333,33.41806,-20.60333",
+    "geom:latitude":-20.60333,
+    "geom:longitude":33.41806,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Malassa",
+    "gn:country_code":"MZ",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097342,
+    "gn:latitude":-20.60333,
+    "gn:longitude":33.41806,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Malassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097342
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"26d0ef153a34c65c8b80359bac17e889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698535,
+            "locality_id":1276784575,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1276784575,
+    "wof:lastmodified":1536671325,
+    "wof:name":"Malassa",
+    "wof:parent_id":1091698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.41806,
+    -20.60333,
+    33.41806,
+    -20.60333
+],
+  "geometry": {"coordinates":[33.41806,-20.60333],"type":"Point"}
+}

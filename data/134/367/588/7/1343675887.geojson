@@ -1,0 +1,72 @@
+{
+  "id": 1343675887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.40861,-11.15639,39.40861,-11.15639",
+    "geom:latitude":-11.15639,
+    "geom:longitude":39.40861,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Aublela",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052710,
+    "gn:latitude":-11.15639,
+    "gn:longitude":39.40861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aublela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Auolela",
+        "Aublela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052710
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ad823f47cf3b3c3eb9eedf0f934b0535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1343675887,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1343675887,
+    "wof:lastmodified":1537674610,
+    "wof:name":"Aublela",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.40861,
+    -11.15639,
+    39.40861,
+    -11.15639
+],
+  "geometry": {"coordinates":[39.40861,-11.15639],"type":"Point"}
+}

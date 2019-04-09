@@ -1,0 +1,67 @@
+{
+  "id": 1193273349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.2525,-15.25472,38.2525,-15.25472",
+    "geom:latitude":-15.25472,
+    "geom:longitude":38.2525,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Rio Mucuba",
+    "gn:country_code":"MZ",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095087,
+    "gn:latitude":-15.25472,
+    "gn:longitude":38.2525,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Rio Mucuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091701415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095087
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2b2e4bb83a983a4f9172293ff5dd21d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701415,
+            "locality_id":1193273349,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1193273349,
+    "wof:lastmodified":1536368073,
+    "wof:name":"Rio Mucuba",
+    "wof:parent_id":1091701415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.2525,
+    -15.25472,
+    38.2525,
+    -15.25472
+],
+  "geometry": {"coordinates":[38.2525,-15.25472],"type":"Point"}
+}

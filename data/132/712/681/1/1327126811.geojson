@@ -1,0 +1,72 @@
+{
+  "id": 1327126811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.2775,-14.26944,39.2775,-14.26944",
+    "geom:latitude":-14.26944,
+    "geom:longitude":39.2775,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Aiupa",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053133,
+    "gn:latitude":-14.26944,
+    "gn:longitude":39.2775,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aiupa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alupa",
+        "Aiupa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053133
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3cc2f6703b5f8e27d4326c32745b0ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699653,
+            "locality_id":1327126811,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1327126811,
+    "wof:lastmodified":1537674613,
+    "wof:name":"Aiupa",
+    "wof:parent_id":1091699653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.2775,
+    -14.26944,
+    39.2775,
+    -14.26944
+],
+  "geometry": {"coordinates":[39.2775,-14.26944],"type":"Point"}
+}

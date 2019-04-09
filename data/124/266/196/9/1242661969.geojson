@@ -1,0 +1,67 @@
+{
+  "id": 1242661969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.28722,-15.61306,36.28722,-15.61306",
+    "geom:latitude":-15.61306,
+    "geom:longitude":36.28722,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Muassua",
+    "gn:country_code":"MZ",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091336,
+    "gn:latitude":-15.61306,
+    "gn:longitude":36.28722,
+    "gn:modification_date":"1998-05-14",
+    "gn:name":"Muassua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091699895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091336
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b3f75643fdeace3f508778858ec737a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699895,
+            "locality_id":1242661969,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1242661969,
+    "wof:lastmodified":1536942867,
+    "wof:name":"Muassua",
+    "wof:parent_id":1091699895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.28722,
+    -15.61306,
+    36.28722,
+    -15.61306
+],
+  "geometry": {"coordinates":[36.28722,-15.61306],"type":"Point"}
+}

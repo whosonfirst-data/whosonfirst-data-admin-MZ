@@ -1,0 +1,67 @@
+{
+  "id": 1327419421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.45389,-16.47639,33.45389,-16.47639",
+    "geom:latitude":-16.47639,
+    "geom:longitude":33.45389,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Chataza",
+    "gn:country_code":"MZ",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050233,
+    "gn:latitude":-16.47639,
+    "gn:longitude":33.45389,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Chataza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050233
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3b39d0561289afe77dca55db083c052a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696537,
+            "locality_id":1327419421,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1327419421,
+    "wof:lastmodified":1536699824,
+    "wof:name":"Chataza",
+    "wof:parent_id":1091696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.45389,
+    -16.47639,
+    33.45389,
+    -16.47639
+],
+  "geometry": {"coordinates":[33.45389,-16.47639],"type":"Point"}
+}

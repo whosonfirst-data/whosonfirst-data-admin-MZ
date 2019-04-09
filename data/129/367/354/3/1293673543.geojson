@@ -1,0 +1,72 @@
+{
+  "id": 1293673543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.95083,-16.49333,38.95083,-16.49333",
+    "geom:latitude":-16.49333,
+    "geom:longitude":38.95083,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Muligudje",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035820,
+    "gn:latitude":-16.49333,
+    "gn:longitude":38.95083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Muligudje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muligudge",
+        "Muligudje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035820
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"84d1d56d4bd87c056ffddb0dae759dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701291,
+            "locality_id":1293673543,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1293673543,
+    "wof:lastmodified":1537674515,
+    "wof:name":"Muligudje",
+    "wof:parent_id":1091701291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.95083,
+    -16.49333,
+    38.95083,
+    -16.49333
+],
+  "geometry": {"coordinates":[38.95083,-16.49333],"type":"Point"}
+}

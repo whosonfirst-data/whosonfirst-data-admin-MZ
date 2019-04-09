@@ -1,0 +1,67 @@
+{
+  "id": 1226451461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.46083,-22.03194,32.46083,-22.03194",
+    "geom:latitude":-22.03194,
+    "geom:longitude":32.46083,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pandelana",
+    "gn:country_code":"MZ",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1098850,
+    "gn:latitude":-22.03194,
+    "gn:longitude":32.46083,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Pandelana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091699281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1098850
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ffafac227ed16f0d6b57c62317960395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699281,
+            "locality_id":1226451461,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1226451461,
+    "wof:lastmodified":1536635914,
+    "wof:name":"Pandelana",
+    "wof:parent_id":1091699281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.46083,
+    -22.03194,
+    32.46083,
+    -22.03194
+],
+  "geometry": {"coordinates":[32.46083,-22.03194],"type":"Point"}
+}

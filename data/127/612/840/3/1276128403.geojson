@@ -1,0 +1,67 @@
+{
+  "id": 1276128403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.8175,-12.97333,38.8175,-12.97333",
+    "geom:latitude":-12.97333,
+    "geom:longitude":38.8175,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Quequene",
+    "gn:country_code":"MZ",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028410,
+    "gn:latitude":-12.97333,
+    "gn:longitude":38.8175,
+    "gn:modification_date":"1995-06-22",
+    "gn:name":"Qu\u00eaquene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028410
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"845a95c8cafcdca2a2a7a4bf04de8881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1276128403,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276128403,
+    "wof:lastmodified":1537050980,
+    "wof:name":"Quequene",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.8175,
+    -12.97333,
+    38.8175,
+    -12.97333
+],
+  "geometry": {"coordinates":[38.8175,-12.97333],"type":"Point"}
+}

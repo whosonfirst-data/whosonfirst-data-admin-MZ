@@ -1,0 +1,67 @@
+{
+  "id": 1259494847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.67278,-23.86722,34.67278,-23.86722",
+    "geom:latitude":-23.86722,
+    "geom:longitude":34.67278,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Alberto",
+    "gn:country_code":"MZ",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101554,
+    "gn:latitude":-23.86722,
+    "gn:longitude":34.67278,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Alberto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101554
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2fe49d16c555a8ad6a6bde1cf1fd04d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701265,
+            "locality_id":1259494847,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1259494847,
+    "wof:lastmodified":1536841407,
+    "wof:name":"Alberto",
+    "wof:parent_id":1091701265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.67278,
+    -23.86722,
+    34.67278,
+    -23.86722
+],
+  "geometry": {"coordinates":[34.67278,-23.86722],"type":"Point"}
+}

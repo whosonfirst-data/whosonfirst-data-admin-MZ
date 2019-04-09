@@ -1,0 +1,61 @@
+{
+  "id": 1209429103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.93861,-11.43611,39.93861,-11.43611",
+    "geom:latitude":-11.43611,
+    "geom:longitude":39.93861,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ticula",
+    "gn:country_code":"MZ",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025969,
+    "gn:latitude":-11.43611,
+    "gn:longitude":39.93861,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Ticula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025969
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"56e89365a2bd6bf19a45afac146fd71c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209429103
+        }
+    ],
+    "wof:id":1209429103,
+    "wof:lastmodified":1536287288,
+    "wof:name":"Ticula",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.93861,
+    -11.43611,
+    39.93861,
+    -11.43611
+],
+  "geometry": {"coordinates":[39.93861,-11.43611],"type":"Point"}
+}

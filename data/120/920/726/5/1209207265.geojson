@@ -1,0 +1,61 @@
+{
+  "id": 1209207265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.96083,-15.37889,39.96083,-15.37889",
+    "geom:latitude":-15.37889,
+    "geom:longitude":39.96083,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Muacinco",
+    "gn:country_code":"MZ",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036873,
+    "gn:latitude":-15.37889,
+    "gn:longitude":39.96083,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Muacinco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036873
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"46ed21839a05f5c39c8f0eaecb10beb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209207265
+        }
+    ],
+    "wof:id":1209207265,
+    "wof:lastmodified":1536294412,
+    "wof:name":"Muacinco",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.96083,
+    -15.37889,
+    39.96083,
+    -15.37889
+],
+  "geometry": {"coordinates":[39.96083,-15.37889],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209215717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.80806,-25.0425,32.80806,-25.0425",
+    "geom:latitude":-25.0425,
+    "geom:longitude":32.80806,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Soc. Ag. de Inconiate",
+    "gn:country_code":"MZ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1105548,
+    "gn:latitude":-25.0425,
+    "gn:longitude":32.80806,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Soc. Ag. de Inconiate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105548
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"65405e7c018a67a45de8428ef0039d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209215717
+        }
+    ],
+    "wof:id":1209215717,
+    "wof:lastmodified":1536294139,
+    "wof:name":"Soc. Ag. de Inconiate",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.80806,
+    -25.0425,
+    32.80806,
+    -25.0425
+],
+  "geometry": {"coordinates":[32.80806,-25.0425],"type":"Point"}
+}

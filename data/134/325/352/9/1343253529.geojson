@@ -1,0 +1,67 @@
+{
+  "id": 1343253529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.50833,-14.10306,37.50833,-14.10306",
+    "geom:latitude":-14.10306,
+    "geom:longitude":37.50833,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Paia",
+    "gn:country_code":"MZ",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029298,
+    "gn:latitude":-14.10306,
+    "gn:longitude":37.50833,
+    "gn:modification_date":"1997-05-13",
+    "gn:name":"Paia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091701189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029298
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e498466ced1dba8e34302ed83830b72c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701189,
+            "locality_id":1343253529,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1343253529,
+    "wof:lastmodified":1537043175,
+    "wof:name":"Paia",
+    "wof:parent_id":1091701189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.50833,
+    -14.10306,
+    37.50833,
+    -14.10306
+],
+  "geometry": {"coordinates":[37.50833,-14.10306],"type":"Point"}
+}

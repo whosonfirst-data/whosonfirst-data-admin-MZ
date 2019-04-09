@@ -1,0 +1,67 @@
+{
+  "id": 1360003659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.90972,-12.9325,39.90972,-12.9325",
+    "geom:latitude":-12.9325,
+    "geom:longitude":39.90972,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Namauela",
+    "gn:country_code":"MZ",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1034013,
+    "gn:latitude":-12.9325,
+    "gn:longitude":39.90972,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Namauela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1034013
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0842d7317a7f52f98edebf5a333ec470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696241,
+            "locality_id":1360003659,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1360003659,
+    "wof:lastmodified":1537060440,
+    "wof:name":"Namauela",
+    "wof:parent_id":1091696241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.90972,
+    -12.9325,
+    39.90972,
+    -12.9325
+],
+  "geometry": {"coordinates":[39.90972,-12.9325],"type":"Point"}
+}

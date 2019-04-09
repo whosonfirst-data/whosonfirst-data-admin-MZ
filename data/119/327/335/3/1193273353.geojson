@@ -1,0 +1,67 @@
+{
+  "id": 1193273353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.82917,-13.7075,39.82917,-13.7075",
+    "geom:latitude":-13.7075,
+    "geom:longitude":39.82917,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Regulo Taibo",
+    "gn:country_code":"MZ",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086921,
+    "gn:latitude":-13.7075,
+    "gn:longitude":39.82917,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"R\u00e9gulo T\u00e2ibo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091697455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086921
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"523f2b9b5168f37ea250cbe263ba1e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697455,
+            "locality_id":1193273353,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1193273353,
+    "wof:lastmodified":1536368068,
+    "wof:name":"Regulo Taibo",
+    "wof:parent_id":1091697455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.82917,
+    -13.7075,
+    39.82917,
+    -13.7075
+],
+  "geometry": {"coordinates":[39.82917,-13.7075],"type":"Point"}
+}

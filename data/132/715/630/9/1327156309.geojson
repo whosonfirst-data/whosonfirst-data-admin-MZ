@@ -1,0 +1,67 @@
+{
+  "id": 1327156309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.43,-13.89139,39.43,-13.89139",
+    "geom:latitude":-13.89139,
+    "geom:longitude":39.43,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tapuala",
+    "gn:country_code":"MZ",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026364,
+    "gn:latitude":-13.89139,
+    "gn:longitude":39.43,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Tapuala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091697455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026364
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"39de0b28153d38e55c9aaebd4c08691c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697455,
+            "locality_id":1327156309,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1327156309,
+    "wof:lastmodified":1537076385,
+    "wof:name":"Tapuala",
+    "wof:parent_id":1091697455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.43,
+    -13.89139,
+    39.43,
+    -13.89139
+],
+  "geometry": {"coordinates":[39.43,-13.89139],"type":"Point"}
+}

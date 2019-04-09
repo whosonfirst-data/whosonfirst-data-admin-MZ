@@ -1,0 +1,67 @@
+{
+  "id": 1292912259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.05028,-24.60833,34.05028,-24.60833",
+    "geom:latitude":-24.60833,
+    "geom:longitude":34.05028,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tavane",
+    "gn:country_code":"MZ",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1099428,
+    "gn:latitude":-24.60833,
+    "gn:longitude":34.05028,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Tavane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091698967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1099428
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5d1cbf17cdede375442f4b203fb42212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698967,
+            "locality_id":1292912259,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1292912259,
+    "wof:lastmodified":1536620054,
+    "wof:name":"Tavane",
+    "wof:parent_id":1091698967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.05028,
+    -24.60833,
+    34.05028,
+    -24.60833
+],
+  "geometry": {"coordinates":[34.05028,-24.60833],"type":"Point"}
+}

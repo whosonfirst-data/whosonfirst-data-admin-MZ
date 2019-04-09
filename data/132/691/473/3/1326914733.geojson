@@ -1,0 +1,67 @@
+{
+  "id": 1326914733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.56028,-16.5275,37.56028,-16.5275",
+    "geom:latitude":-16.5275,
+    "geom:longitude":37.56028,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sipoa",
+    "gn:country_code":"MZ",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026868,
+    "gn:latitude":-16.5275,
+    "gn:longitude":37.56028,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Sip\u00f4a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026868
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"73f507ef2153e36b1a434eac2dbb75ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697943,
+            "locality_id":1326914733,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1326914733,
+    "wof:lastmodified":1536930774,
+    "wof:name":"Sipoa",
+    "wof:parent_id":1091697943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.56028,
+    -16.5275,
+    37.56028,
+    -16.5275
+],
+  "geometry": {"coordinates":[37.56028,-16.5275],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310289613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.97861,-16.90889,38.97861,-16.90889",
+    "geom:latitude":-16.90889,
+    "geom:longitude":38.97861,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Raipo",
+    "gn:country_code":"MZ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1094937,
+    "gn:latitude":-16.90889,
+    "gn:longitude":38.97861,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Raipo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091701291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1094937
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a63c484c2c715147ad30e8f2801feb03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701291,
+            "locality_id":1310289613,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1310289613,
+    "wof:lastmodified":1536731194,
+    "wof:name":"Raipo",
+    "wof:parent_id":1091701291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.97861,
+    -16.90889,
+    38.97861,
+    -16.90889
+],
+  "geometry": {"coordinates":[38.97861,-16.90889],"type":"Point"}
+}

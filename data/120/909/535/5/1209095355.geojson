@@ -1,0 +1,61 @@
+{
+  "id": 1209095355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.225,-19.38389,33.225,-19.38389",
+    "geom:latitude":-19.38389,
+    "geom:longitude":33.225,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dias",
+    "gn:country_code":"MZ",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096271,
+    "gn:latitude":-19.38389,
+    "gn:longitude":33.225,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Dias",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096271
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cd0a33a2294e7d9e4ea4e3c6276e9bb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209095355
+        }
+    ],
+    "wof:id":1209095355,
+    "wof:lastmodified":1536297904,
+    "wof:name":"Dias",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.225,
+    -19.38389,
+    33.225,
+    -19.38389
+],
+  "geometry": {"coordinates":[33.225,-19.38389],"type":"Point"}
+}

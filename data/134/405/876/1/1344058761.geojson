@@ -1,0 +1,72 @@
+{
+  "id": 1344058761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.87194,-24.38278,34.87194,-24.38278",
+    "geom:latitude":-24.38278,
+    "geom:longitude":34.87194,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cabo Chirreu",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1024415,
+    "gn:latitude":-24.38278,
+    "gn:longitude":34.87194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cabo Chirreu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xirreo",
+        "Cabo Chirreu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1024415
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5018e7736e11aa68ae68e9507c62a5b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698019,
+            "locality_id":1344058761,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1344058761,
+    "wof:lastmodified":1537674469,
+    "wof:name":"Cabo Chirreu",
+    "wof:parent_id":1091698019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.87194,
+    -24.38278,
+    34.87194,
+    -24.38278
+],
+  "geometry": {"coordinates":[34.87194,-24.38278],"type":"Point"}
+}

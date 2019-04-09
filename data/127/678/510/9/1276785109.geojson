@@ -1,0 +1,67 @@
+{
+  "id": 1276785109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.31361,-16.23778,37.31361,-16.23778",
+    "geom:latitude":-16.23778,
+    "geom:longitude":37.31361,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Lago",
+    "gn:country_code":"MZ",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044150,
+    "gn:latitude":-16.23778,
+    "gn:longitude":37.31361,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Lago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044150
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b59b8b538531a59925a1054b82e93375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697943,
+            "locality_id":1276785109,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1276785109,
+    "wof:lastmodified":1536670630,
+    "wof:name":"Lago",
+    "wof:parent_id":1091697943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.31361,
+    -16.23777999999999,
+    37.31361,
+    -16.23777999999999
+],
+  "geometry": {"coordinates":[37.31361,-16.23777999999999],"type":"Point"}
+}

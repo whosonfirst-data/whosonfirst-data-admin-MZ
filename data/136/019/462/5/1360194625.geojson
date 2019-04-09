@@ -1,0 +1,67 @@
+{
+  "id": 1360194625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.56667,-15.16667,36.56667,-15.16667",
+    "geom:latitude":-15.16667,
+    "geom:longitude":36.56667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Mpirro",
+    "gn:country_code":"MZ",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036945,
+    "gn:latitude":-15.16667,
+    "gn:longitude":36.56667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Mpirro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091697375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036945
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"84abd384f4556c9750cd8a0b7e08b78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697375,
+            "locality_id":1360194625,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1360194625,
+    "wof:lastmodified":1536788007,
+    "wof:name":"Mpirro",
+    "wof:parent_id":1091697375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.56667,
+    -15.16667,
+    36.56667,
+    -15.16667
+],
+  "geometry": {"coordinates":[36.56667,-15.16667],"type":"Point"}
+}

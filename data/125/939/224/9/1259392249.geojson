@@ -1,0 +1,68 @@
+{
+  "id": 1259392249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.8375,-12.98694,39.8375,-12.98694",
+    "geom:latitude":-12.98694,
+    "geom:longitude":39.8375,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Ntete",
+    "gn:country_code":"MZ",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085712,
+    "gn:latitude":-12.98694,
+    "gn:longitude":39.8375,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ntete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085712,
+        "wk:page":"Ntete"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2a0bdc010faaf1b561728862332cfd0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696241,
+            "locality_id":1259392249,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1259392249,
+    "wof:lastmodified":1537569940,
+    "wof:name":"Ntete",
+    "wof:parent_id":1091696241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.8375,
+    -12.98694,
+    39.8375,
+    -12.98694
+],
+  "geometry": {"coordinates":[39.8375,-12.98694],"type":"Point"}
+}

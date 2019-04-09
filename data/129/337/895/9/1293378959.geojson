@@ -1,0 +1,71 @@
+{
+  "id": 1293378959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.01949,-17.81862,33.01949,-17.81862",
+    "geom:latitude":-17.81862,
+    "geom:longitude":33.01949,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nhauroa",
+    "gn:country_code":"MZ",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1029047,
+    "gn:latitude":-17.81862,
+    "gn:longitude":33.01949,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nhaur\u00f5a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Passaziua",
+        "Nhaur\u00f5a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091696359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1029047
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7fd2578fd58b0f06efb681bad3437803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696359,
+            "locality_id":1293378959,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1293378959,
+    "wof:lastmodified":1537674493,
+    "wof:name":"Nhauroa",
+    "wof:parent_id":1091696359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.01949,
+    -17.81862000000001,
+    33.01949,
+    -17.81862000000001
+],
+  "geometry": {"coordinates":[33.01949,-17.81862000000001],"type":"Point"}
+}

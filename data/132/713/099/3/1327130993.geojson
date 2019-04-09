@@ -1,0 +1,67 @@
+{
+  "id": 1327130993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.70278,-14.78444,36.70278,-14.78444",
+    "geom:latitude":-14.78444,
+    "geom:longitude":36.70278,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Beira-Rio",
+    "gn:country_code":"MZ",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087997,
+    "gn:latitude":-14.78444,
+    "gn:longitude":36.70278,
+    "gn:modification_date":"1997-04-30",
+    "gn:name":"Beira-Rio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091697375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087997
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6e9ab79832aa2e57d4555e5932ee8d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697375,
+            "locality_id":1327130993,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1327130993,
+    "wof:lastmodified":1536615864,
+    "wof:name":"Beira-Rio",
+    "wof:parent_id":1091697375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.70278,
+    -14.78444,
+    36.70278,
+    -14.78444
+],
+  "geometry": {"coordinates":[36.70278,-14.78444],"type":"Point"}
+}

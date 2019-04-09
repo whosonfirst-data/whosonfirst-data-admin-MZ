@@ -1,0 +1,67 @@
+{
+  "id": 1310308167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.05056,-24.43528,34.05056,-24.43528",
+    "geom:latitude":-24.43528,
+    "geom:longitude":34.05056,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Cat. Nazerena",
+    "gn:country_code":"MZ",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1098014,
+    "gn:latitude":-24.43528,
+    "gn:longitude":34.05056,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Cat. Nazerena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091698967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1098014
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"80adf83b1fe8409cdaf22be3385cad3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698967,
+            "locality_id":1310308167,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1310308167,
+    "wof:lastmodified":1536704315,
+    "wof:name":"Cat. Nazerena",
+    "wof:parent_id":1091698967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.05056,
+    -24.43528,
+    34.05056,
+    -24.43528
+],
+  "geometry": {"coordinates":[34.05056,-24.43528],"type":"Point"}
+}

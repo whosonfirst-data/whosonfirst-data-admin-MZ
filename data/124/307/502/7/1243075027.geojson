@@ -1,0 +1,72 @@
+{
+  "id": 1243075027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.35778,-21.29833,34.35778,-21.29833",
+    "geom:latitude":-21.29833,
+    "geom:longitude":34.35778,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Chefe Nhuane",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1030096,
+    "gn:latitude":-21.29833,
+    "gn:longitude":34.35778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Nhuane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nheuane",
+        "Chefe Nhuane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1030096
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"df2cd715f399ce809028d4ec6bacf638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697673,
+            "locality_id":1243075027,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1243075027,
+    "wof:lastmodified":1537674497,
+    "wof:name":"Chefe Nhuane",
+    "wof:parent_id":1091697673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.35778,
+    -21.29833,
+    34.35778,
+    -21.29833
+],
+  "geometry": {"coordinates":[34.35778,-21.29833],"type":"Point"}
+}

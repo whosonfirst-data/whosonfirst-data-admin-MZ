@@ -1,0 +1,67 @@
+{
+  "id": 1276436461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.08167,-16.45389,37.08167,-16.45389",
+    "geom:latitude":-16.45389,
+    "geom:longitude":37.08167,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Mabua",
+    "gn:country_code":"MZ",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043013,
+    "gn:latitude":-16.45389,
+    "gn:longitude":37.08167,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Mabua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043013
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cb3c6bd2ecb4e879f04a39cd23bfe167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698327,
+            "locality_id":1276436461,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1276436461,
+    "wof:lastmodified":1536639464,
+    "wof:name":"Mabua",
+    "wof:parent_id":1091698327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.08167,
+    -16.45389,
+    37.08167,
+    -16.45389
+],
+  "geometry": {"coordinates":[37.08167,-16.45389],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259900031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.26583,-16.66194,34.26583,-16.66194",
+    "geom:latitude":-16.66194,
+    "geom:longitude":34.26583,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Aldeia Luombuo",
+    "gn:country_code":"MZ",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1093127,
+    "gn:latitude":-16.66194,
+    "gn:longitude":34.26583,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Aldeia Luombuo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091700637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1093127
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"051c820a99201a49156f4618f28e3af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700637,
+            "locality_id":1259900031,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1259900031,
+    "wof:lastmodified":1536755387,
+    "wof:name":"Aldeia Luombuo",
+    "wof:parent_id":1091700637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.26583,
+    -16.66194,
+    34.26583,
+    -16.66194
+],
+  "geometry": {"coordinates":[34.26583,-16.66194],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242891601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.36444,-13.41139,38.36444,-13.41139",
+    "geom:latitude":-13.41139,
+    "geom:longitude":38.36444,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Boanahage",
+    "gn:country_code":"MZ",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086577,
+    "gn:latitude":-13.41139,
+    "gn:longitude":38.36444,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Boanahage",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086577
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"81d3a45076d95d23592b07fb6856af4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696349,
+            "locality_id":1242891601,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1242891601,
+    "wof:lastmodified":1536608640,
+    "wof:name":"Boanahage",
+    "wof:parent_id":1091696349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.36444,
+    -13.41139,
+    38.36444,
+    -13.41139
+],
+  "geometry": {"coordinates":[38.36444,-13.41139],"type":"Point"}
+}

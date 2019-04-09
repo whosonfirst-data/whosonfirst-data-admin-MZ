@@ -1,0 +1,67 @@
+{
+  "id": 1243551491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.74528,-14.67611,36.74528,-14.67611",
+    "geom:latitude":-14.67611,
+    "geom:longitude":36.74528,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Mussala",
+    "gn:country_code":"MZ",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088020,
+    "gn:latitude":-14.67611,
+    "gn:longitude":36.74528,
+    "gn:modification_date":"1997-04-30",
+    "gn:name":"Chefe Mussala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091697375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088020
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"44c2518f6d0420199f831df8dde51284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697375,
+            "locality_id":1243551491,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1243551491,
+    "wof:lastmodified":1536654150,
+    "wof:name":"Chefe Mussala",
+    "wof:parent_id":1091697375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.74528,
+    -14.67611,
+    36.74528,
+    -14.67611
+],
+  "geometry": {"coordinates":[36.74528,-14.67611],"type":"Point"}
+}

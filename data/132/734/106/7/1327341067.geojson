@@ -1,0 +1,67 @@
+{
+  "id": 1327341067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.4325,-22.32167,35.4325,-22.32167",
+    "geom:latitude":-22.32167,
+    "geom:longitude":35.4325,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sequene",
+    "gn:country_code":"MZ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101032,
+    "gn:latitude":-22.32167,
+    "gn:longitude":35.4325,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Sequene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101032
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"448acb47f91b248ad7b7a933041159d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701605,
+            "locality_id":1327341067,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1327341067,
+    "wof:lastmodified":1536812067,
+    "wof:name":"Sequene",
+    "wof:parent_id":1091701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4325,
+    -22.32167,
+    35.4325,
+    -22.32167
+],
+  "geometry": {"coordinates":[35.4325,-22.32167],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293284887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.87917,-16.00889,39.87917,-16.00889",
+    "geom:latitude":-16.00889,
+    "geom:longitude":39.87917,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Conala",
+    "gn:country_code":"MZ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047890,
+    "gn:latitude":-16.00889,
+    "gn:longitude":39.87917,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Conala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091696277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047890
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f92a3d6b14cf535f244500e89eef993e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696277,
+            "locality_id":1293284887,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1293284887,
+    "wof:lastmodified":1537075991,
+    "wof:name":"Conala",
+    "wof:parent_id":1091696277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.87917,
+    -16.00889,
+    39.87917,
+    -16.00889
+],
+  "geometry": {"coordinates":[39.87917,-16.00889],"type":"Point"}
+}

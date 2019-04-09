@@ -1,0 +1,67 @@
+{
+  "id": 1209512189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.77194,-15.73722,32.77194,-15.73722",
+    "geom:latitude":-15.73722,
+    "geom:longitude":32.77194,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Estima",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046546,
+    "gn:latitude":-15.73722,
+    "gn:longitude":32.77194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Estima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chissua",
+        "Chitima",
+        "Estima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046546
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9d8dd5f1987dc480d3288cec743940ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209512189
+        }
+    ],
+    "wof:id":1209512189,
+    "wof:lastmodified":1537674575,
+    "wof:name":"Estima",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.77194,
+    -15.73722,
+    32.77194,
+    -15.73722
+],
+  "geometry": {"coordinates":[32.77194,-15.73722],"type":"Point"}
+}

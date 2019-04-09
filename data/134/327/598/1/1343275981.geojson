@@ -1,0 +1,67 @@
+{
+  "id": 1343275981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.84806,-13.77,38.84806,-13.77",
+    "geom:latitude":-13.77,
+    "geom:longitude":38.84806,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chefe Puepue",
+    "gn:country_code":"MZ",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086201,
+    "gn:latitude":-13.77,
+    "gn:longitude":38.84806,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Chefe Pu\u00e9pu\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086201
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"000a9cf434b49e2124ae39a85b1ac3a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700995,
+            "locality_id":1343275981,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1343275981,
+    "wof:lastmodified":1537011703,
+    "wof:name":"Chefe Puepue",
+    "wof:parent_id":1091700995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.84806,
+    -13.77,
+    38.84806,
+    -13.77
+],
+  "geometry": {"coordinates":[38.84806,-13.77],"type":"Point"}
+}

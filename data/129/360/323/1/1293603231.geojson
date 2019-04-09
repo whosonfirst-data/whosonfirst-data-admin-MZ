@@ -1,0 +1,67 @@
+{
+  "id": 1293603231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.98639,-12.9775,38.98639,-12.9775",
+    "geom:latitude":-12.9775,
+    "geom:longitude":38.98639,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Nacuata",
+    "gn:country_code":"MZ",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085438,
+    "gn:latitude":-12.9775,
+    "gn:longitude":38.98639,
+    "gn:modification_date":"1995-06-22",
+    "gn:name":"Nacuata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085438
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"58f2a374dbbd1097d2df45c22caf0c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700221,
+            "locality_id":1293603231,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1293603231,
+    "wof:lastmodified":1536618025,
+    "wof:name":"Nacuata",
+    "wof:parent_id":1091700221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.98639,
+    -12.9775,
+    38.98639,
+    -12.9775
+],
+  "geometry": {"coordinates":[38.98639,-12.9775],"type":"Point"}
+}

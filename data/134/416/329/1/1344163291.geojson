@@ -1,0 +1,71 @@
+{
+  "id": 1344163291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.80722,-25.40222,32.80722,-25.40222",
+    "geom:latitude":-25.40222,
+    "geom:longitude":32.80722,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Manhica",
+    "gn:country_code":"MZ",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1040989,
+    "gn:latitude":-25.40222,
+    "gn:longitude":32.80722,
+    "gn:modification_date":"2014-04-01",
+    "gn:name":"Manhi\u00e7a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vila da Manhi\u00e7a",
+        "Manhi\u00e7a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040989
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5a289b869ab75e3be75651f0313d8434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699015,
+            "locality_id":1344163291,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1344163291,
+    "wof:lastmodified":1537674543,
+    "wof:name":"Manhica",
+    "wof:parent_id":1091699015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.80722,
+    -25.40222,
+    32.80722,
+    -25.40222
+],
+  "geometry": {"coordinates":[32.80722,-25.40222],"type":"Point"}
+}

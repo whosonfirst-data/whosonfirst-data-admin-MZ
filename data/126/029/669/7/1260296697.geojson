@@ -1,0 +1,67 @@
+{
+  "id": 1260296697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.88056,-23.61722,34.88056,-23.61722",
+    "geom:latitude":-23.61722,
+    "geom:longitude":34.88056,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Dique",
+    "gn:country_code":"MZ",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047031,
+    "gn:latitude":-23.61722,
+    "gn:longitude":34.88056,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Dique",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047031
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a28efa9be07bddcb22847fd087365003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697853,
+            "locality_id":1260296697,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1260296697,
+    "wof:lastmodified":1536694371,
+    "wof:name":"Dique",
+    "wof:parent_id":1091697853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.88056,
+    -23.61722,
+    34.88056,
+    -23.61722
+],
+  "geometry": {"coordinates":[34.88056,-23.61722],"type":"Point"}
+}

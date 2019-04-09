@@ -1,0 +1,72 @@
+{
+  "id": 1226149103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.65028,-26.37028,32.65028,-26.37028",
+    "geom:latitude":-26.37028,
+    "geom:longitude":32.65028,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Gumbane",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045555,
+    "gn:latitude":-26.37028,
+    "gn:longitude":32.65028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gumbane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guane",
+        "Gumbane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045555
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"729ff5bc2a35619818d02e55f20e6aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699383,
+            "locality_id":1226149103,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1226149103,
+    "wof:lastmodified":1537674569,
+    "wof:name":"Gumbane",
+    "wof:parent_id":1091699383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.65028,
+    -26.37028,
+    32.65028,
+    -26.37028
+],
+  "geometry": {"coordinates":[32.65028,-26.37028],"type":"Point"}
+}

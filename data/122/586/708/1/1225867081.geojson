@@ -1,0 +1,67 @@
+{
+  "id": 1225867081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.27278,-14.805,40.27278,-14.805",
+    "geom:latitude":-14.805,
+    "geom:longitude":40.27278,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Plantacao Ramiane",
+    "gn:country_code":"MZ",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089109,
+    "gn:latitude":-14.805,
+    "gn:longitude":40.27278,
+    "gn:modification_date":"1997-05-15",
+    "gn:name":"Planta\u00e7\u00e3o Ramiane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089109
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4ab598c76e874b392f849668a3bc594d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700177,
+            "locality_id":1225867081,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1225867081,
+    "wof:lastmodified":1536982263,
+    "wof:name":"Plantacao Ramiane",
+    "wof:parent_id":1091700177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.27278,
+    -14.805,
+    40.27278,
+    -14.805
+],
+  "geometry": {"coordinates":[40.27278,-14.805],"type":"Point"}
+}

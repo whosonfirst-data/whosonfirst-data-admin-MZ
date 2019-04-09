@@ -1,0 +1,67 @@
+{
+  "id": 1343783353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.7225,-13.4125,37.7225,-13.4125",
+    "geom:latitude":-13.4125,
+    "geom:longitude":37.7225,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Pijore",
+    "gn:country_code":"MZ",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028773,
+    "gn:latitude":-13.4125,
+    "gn:longitude":37.7225,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Pijore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028773
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"032e76b26b1d43cda4f0ba6f892c99a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699257,
+            "locality_id":1343783353,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1343783353,
+    "wof:lastmodified":1536778514,
+    "wof:name":"Pijore",
+    "wof:parent_id":1091699257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.7225,
+    -13.4125,
+    37.7225,
+    -13.4125
+],
+  "geometry": {"coordinates":[37.7225,-13.4125],"type":"Point"}
+}

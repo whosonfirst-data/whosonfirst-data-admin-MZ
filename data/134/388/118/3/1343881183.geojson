@@ -1,0 +1,67 @@
+{
+  "id": 1343881183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.38944,-20.34417,34.38944,-20.34417",
+    "geom:latitude":-20.34417,
+    "geom:longitude":34.38944,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Machenguela",
+    "gn:country_code":"MZ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042620,
+    "gn:latitude":-20.34417,
+    "gn:longitude":34.38944,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Machenguela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042620
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"267b8f1883a98d4393f30774854e0406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696395,
+            "locality_id":1343881183,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1343881183,
+    "wof:lastmodified":1536635480,
+    "wof:name":"Machenguela",
+    "wof:parent_id":1091696395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.38944,
+    -20.34417,
+    34.38944,
+    -20.34417
+],
+  "geometry": {"coordinates":[34.38944,-20.34417],"type":"Point"}
+}

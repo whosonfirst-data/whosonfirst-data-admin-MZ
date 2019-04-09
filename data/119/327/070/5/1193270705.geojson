@@ -1,0 +1,67 @@
+{
+  "id": 1193270705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.83333,-15.29917,39.83333,-15.29917",
+    "geom:latitude":-15.29917,
+    "geom:longitude":39.83333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Uarrula",
+    "gn:country_code":"MZ",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025247,
+    "gn:latitude":-15.29917,
+    "gn:longitude":39.83333,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Uarrula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025247
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bfc97741e28be6a401b217deca698000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700091,
+            "locality_id":1193270705,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1193270705,
+    "wof:lastmodified":1536371000,
+    "wof:name":"Uarrula",
+    "wof:parent_id":1091700091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.83333,
+    -15.29917,
+    39.83333,
+    -15.29917
+],
+  "geometry": {"coordinates":[39.83333,-15.29917],"type":"Point"}
+}

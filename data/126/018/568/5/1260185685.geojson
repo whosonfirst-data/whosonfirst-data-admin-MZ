@@ -1,0 +1,72 @@
+{
+  "id": 1260185685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9625,-24.425,32.9625,-24.425",
+    "geom:latitude":-24.425,
+    "geom:longitude":32.9625,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Samuel",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027499,
+    "gn:latitude":-24.425,
+    "gn:longitude":32.9625,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Samuel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samiel",
+        "Samuel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091697721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027499
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"04eec004d147467a012efaf0719158e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697721,
+            "locality_id":1260185685,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1260185685,
+    "wof:lastmodified":1537674486,
+    "wof:name":"Samuel",
+    "wof:parent_id":1091697721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9625,
+    -24.425,
+    32.9625,
+    -24.425
+],
+  "geometry": {"coordinates":[32.9625,-24.425],"type":"Point"}
+}

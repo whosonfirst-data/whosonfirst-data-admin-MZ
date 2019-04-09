@@ -1,0 +1,67 @@
+{
+  "id": 1276226453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.6925,-20.46722,33.6925,-20.46722",
+    "geom:latitude":-20.46722,
+    "geom:longitude":33.6925,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Irico",
+    "gn:country_code":"MZ",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044895,
+    "gn:latitude":-20.46722,
+    "gn:longitude":33.6925,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Irico",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044895
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4449c8f051c3ba81114e4a67b9715351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696561,
+            "locality_id":1276226453,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1276226453,
+    "wof:lastmodified":1536922718,
+    "wof:name":"Irico",
+    "wof:parent_id":1091696561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.6925,
+    -20.46722,
+    33.6925,
+    -20.46722
+],
+  "geometry": {"coordinates":[33.6925,-20.46722],"type":"Point"}
+}

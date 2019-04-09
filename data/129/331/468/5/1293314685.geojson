@@ -1,0 +1,67 @@
+{
+  "id": 1293314685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.90028,-14.51639,39.90028,-14.51639",
+    "geom:latitude":-14.51639,
+    "geom:longitude":39.90028,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Muarompa",
+    "gn:country_code":"MZ",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088568,
+    "gn:latitude":-14.51639,
+    "gn:longitude":39.90028,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Muarompa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088568
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"297265fb616425c84b4bb4f60069b4df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700773,
+            "locality_id":1293314685,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1293314685,
+    "wof:lastmodified":1537034709,
+    "wof:name":"Muarompa",
+    "wof:parent_id":1091700773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.90028,
+    -14.51639,
+    39.90028,
+    -14.51639
+],
+  "geometry": {"coordinates":[39.90028,-14.51639],"type":"Point"}
+}

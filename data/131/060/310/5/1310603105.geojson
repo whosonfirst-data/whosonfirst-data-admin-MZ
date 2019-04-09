@@ -1,0 +1,67 @@
+{
+  "id": 1310603105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.09722,-21.46111,34.09722,-21.46111",
+    "geom:latitude":-21.46111,
+    "geom:longitude":34.09722,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Maceda",
+    "gn:country_code":"MZ",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042773,
+    "gn:latitude":-21.46111,
+    "gn:longitude":34.09722,
+    "gn:modification_date":"1998-04-29",
+    "gn:name":"Maceda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042773
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b7f848a034762a568016852f9ff85192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698405,
+            "locality_id":1310603105,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1310603105,
+    "wof:lastmodified":1536776714,
+    "wof:name":"Maceda",
+    "wof:parent_id":1091698405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.09722,
+    -21.46111,
+    34.09722,
+    -21.46111
+],
+  "geometry": {"coordinates":[34.09722,-21.46111],"type":"Point"}
+}

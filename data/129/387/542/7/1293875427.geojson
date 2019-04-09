@@ -1,0 +1,67 @@
+{
+  "id": 1293875427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.73556,-12.8975,37.73556,-12.8975",
+    "geom:latitude":-12.8975,
+    "geom:longitude":37.73556,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Contende",
+    "gn:country_code":"MZ",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047814,
+    "gn:latitude":-12.8975,
+    "gn:longitude":37.73556,
+    "gn:modification_date":"1995-06-23",
+    "gn:name":"Contend\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047814
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f1f47e3e44d4bee2fdcec24eeabfa384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699257,
+            "locality_id":1293875427,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1293875427,
+    "wof:lastmodified":1536725365,
+    "wof:name":"Contende",
+    "wof:parent_id":1091699257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.73556,
+    -12.8975,
+    37.73556,
+    -12.8975
+],
+  "geometry": {"coordinates":[37.73556,-12.8975],"type":"Point"}
+}

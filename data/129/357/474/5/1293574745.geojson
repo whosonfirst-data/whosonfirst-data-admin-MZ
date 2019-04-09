@@ -1,0 +1,67 @@
+{
+  "id": 1293574745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.54972,-16.28028,33.54972,-16.28028",
+    "geom:latitude":-16.28028,
+    "geom:longitude":33.54972,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Soca",
+    "gn:country_code":"MZ",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026815,
+    "gn:latitude":-16.28028,
+    "gn:longitude":33.54972,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"S\u00f3ca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026815
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fc76bfb38fd6c4027587c5114f02e940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696537,
+            "locality_id":1293574745,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1293574745,
+    "wof:lastmodified":1536661384,
+    "wof:name":"Soca",
+    "wof:parent_id":1091696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.54972,
+    -16.28028,
+    33.54972,
+    -16.28028
+],
+  "geometry": {"coordinates":[33.54972,-16.28028],"type":"Point"}
+}

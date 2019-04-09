@@ -1,0 +1,75 @@
+{
+  "id": 1260380003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.17361,-18.0575,33.17361,-18.0575",
+    "geom:latitude":-18.0575,
+    "geom:longitude":33.17361,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Catandica",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050871,
+    "gn:latitude":-18.0575,
+    "gn:longitude":33.17361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Catandica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vila Goveia",
+        "Catambica",
+        "Vila Gouveia",
+        "Catandica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091696359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050871,
+        "wk:page":"Catandica"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d2dfec456fc6f2115c4ff2c20dad7ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696359,
+            "locality_id":1260380003,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1260380003,
+    "wof:lastmodified":1537674600,
+    "wof:name":"Catandica",
+    "wof:parent_id":1091696359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.17361,
+    -18.0575,
+    33.17361,
+    -18.0575
+],
+  "geometry": {"coordinates":[33.17361,-18.0575],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343556799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.30667,-17.68944,33.30667,-17.68944",
+    "geom:latitude":-17.68944,
+    "geom:longitude":33.30667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Chicuatuaza",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049621,
+    "gn:latitude":-17.68944,
+    "gn:longitude":33.30667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chicuatu\u00e1za",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chicualu\u00e1za",
+        "Chicuatu\u00e1za"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091696359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049621
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b4cffa95a42f3377d0e2a20860a2753d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696359,
+            "locality_id":1343556799,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1343556799,
+    "wof:lastmodified":1537674592,
+    "wof:name":"Chicuatuaza",
+    "wof:parent_id":1091696359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.30667,
+    -17.68944,
+    33.30667,
+    -17.68944
+],
+  "geometry": {"coordinates":[33.30667,-17.68944],"type":"Point"}
+}

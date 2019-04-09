@@ -1,0 +1,72 @@
+{
+  "id": 1226439627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.23861,-16.36,33.23861,-16.36",
+    "geom:latitude":-16.36,
+    "geom:longitude":33.23861,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Cofa",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1048039,
+    "gn:latitude":-16.36,
+    "gn:longitude":33.23861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cofa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cofi",
+        "Cofa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1048039
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"995e1e5895a2c9de2a5ba68b0542b6ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696537,
+            "locality_id":1226439627,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1226439627,
+    "wof:lastmodified":1537674584,
+    "wof:name":"Cofa",
+    "wof:parent_id":1091696537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.23860999999999,
+    -16.36,
+    33.23860999999999,
+    -16.36
+],
+  "geometry": {"coordinates":[33.23860999999999,-16.36],"type":"Point"}
+}

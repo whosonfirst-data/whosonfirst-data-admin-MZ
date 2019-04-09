@@ -1,0 +1,67 @@
+{
+  "id": 1243276825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.09778,-24.6675,33.09778,-24.6675",
+    "geom:latitude":-24.6675,
+    "geom:longitude":33.09778,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Aldeia de Folgares",
+    "gn:country_code":"MZ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097864,
+    "gn:latitude":-24.6675,
+    "gn:longitude":33.09778,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Aldeia de Folgares",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097864
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"155f071e243439c468dc08e1f098628e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696849,
+            "locality_id":1243276825,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1243276825,
+    "wof:lastmodified":1537047973,
+    "wof:name":"Aldeia de Folgares",
+    "wof:parent_id":1091696849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.09778,
+    -24.6675,
+    33.09778,
+    -24.6675
+],
+  "geometry": {"coordinates":[33.09778,-24.6675],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243446979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.94167,-15.42778,39.94167,-15.42778",
+    "geom:latitude":-15.42778,
+    "geom:longitude":39.94167,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Neurouro",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1032395,
+    "gn:latitude":-15.42778,
+    "gn:longitude":39.94167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Neurouro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naururo",
+        "Neurouro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1032395
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d98e4d4785eb6f41d3fefdc7e129ffa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700091,
+            "locality_id":1243446979,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1243446979,
+    "wof:lastmodified":1537674503,
+    "wof:name":"Neurouro",
+    "wof:parent_id":1091700091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.94167,
+    -15.42778,
+    39.94167,
+    -15.42778
+],
+  "geometry": {"coordinates":[39.94167,-15.42778],"type":"Point"}
+}

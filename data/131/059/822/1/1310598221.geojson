@@ -1,0 +1,67 @@
+{
+  "id": 1310598221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.50917,-13.83889,35.50917,-13.83889",
+    "geom:latitude":-13.83889,
+    "geom:longitude":35.50917,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mebanda",
+    "gn:country_code":"MZ",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039393,
+    "gn:latitude":-13.83889,
+    "gn:longitude":35.50917,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Mebanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091701091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039393
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"43fc62c0251a56ff70e48dbf58f853ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701091,
+            "locality_id":1310598221,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1310598221,
+    "wof:lastmodified":1536783717,
+    "wof:name":"Mebanda",
+    "wof:parent_id":1091701091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.50917000000001,
+    -13.83889,
+    35.50917000000001,
+    -13.83889
+],
+  "geometry": {"coordinates":[35.50917000000001,-13.83889],"type":"Point"}
+}

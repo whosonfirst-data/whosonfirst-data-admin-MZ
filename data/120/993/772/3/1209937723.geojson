@@ -1,0 +1,67 @@
+{
+  "id": 1209937723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.29972,-13.22111,35.29972,-13.22111",
+    "geom:latitude":-13.22111,
+    "geom:longitude":35.29972,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Lungudja",
+    "gn:country_code":"MZ",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1043219,
+    "gn:latitude":-13.22111,
+    "gn:longitude":35.29972,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Lungudja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1043219
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c6f55efc643c2a1e6c73439850f2f98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698283,
+            "locality_id":1209937723,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1209937723,
+    "wof:lastmodified":1536389886,
+    "wof:name":"Lungudja",
+    "wof:parent_id":1091698283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29972,
+    -13.22111,
+    35.29972,
+    -13.22111
+],
+  "geometry": {"coordinates":[35.29972,-13.22111],"type":"Point"}
+}

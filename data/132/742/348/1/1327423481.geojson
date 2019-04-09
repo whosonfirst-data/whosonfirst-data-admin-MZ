@@ -1,0 +1,67 @@
+{
+  "id": 1327423481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.72306,-18.0975,36.72306,-18.0975",
+    "geom:latitude":-18.0975,
+    "geom:longitude":36.72306,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Matulune",
+    "gn:country_code":"MZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039772,
+    "gn:latitude":-18.0975,
+    "gn:longitude":36.72306,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Matulune",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039772
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"30ae1a0abedc9efa4446e388a89236c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698097,
+            "locality_id":1327423481,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1327423481,
+    "wof:lastmodified":1536693906,
+    "wof:name":"Matulune",
+    "wof:parent_id":1091698097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.72306,
+    -18.0975,
+    36.72306,
+    -18.0975
+],
+  "geometry": {"coordinates":[36.72306,-18.0975],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209438889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.84028,-25.2,32.84028,-25.2",
+    "geom:latitude":-25.2,
+    "geom:longitude":32.84028,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mantxana",
+    "gn:country_code":"MZ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1040899,
+    "gn:latitude":-25.2,
+    "gn:longitude":32.84028,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Mantxana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1040899
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e7c70d06a8b74d0817152b0ac622f27f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209438889
+        }
+    ],
+    "wof:id":1209438889,
+    "wof:lastmodified":1536287017,
+    "wof:name":"Mantxana",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.84028,
+    -25.2,
+    32.84028,
+    -25.2
+],
+  "geometry": {"coordinates":[32.84028,-25.2],"type":"Point"}
+}

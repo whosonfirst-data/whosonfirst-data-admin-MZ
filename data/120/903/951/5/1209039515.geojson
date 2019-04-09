@@ -1,0 +1,61 @@
+{
+  "id": 1209039515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.16667,-25.26667,32.16667,-25.26667",
+    "geom:latitude":-25.26667,
+    "geom:longitude":32.16667,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Nhamessoro",
+    "gn:country_code":"MZ",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1031085,
+    "gn:latitude":-25.26667,
+    "gn:longitude":32.16667,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Nhamessoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1031085
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e8daf8808db42139e6771d3f4997cc49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209039515
+        }
+    ],
+    "wof:id":1209039515,
+    "wof:lastmodified":1536299590,
+    "wof:name":"Nhamessoro",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.16667,
+    -25.26667,
+    32.16667,
+    -25.26667
+],
+  "geometry": {"coordinates":[32.16667,-25.26667],"type":"Point"}
+}

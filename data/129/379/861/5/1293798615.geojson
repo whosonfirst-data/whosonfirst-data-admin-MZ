@@ -1,0 +1,67 @@
+{
+  "id": 1293798615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.31667,-11.36667,40.31667,-11.36667",
+    "geom:latitude":-11.36667,
+    "geom:longitude":40.31667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Dias dos Santos",
+    "gn:country_code":"MZ",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047107,
+    "gn:latitude":-11.36667,
+    "gn:longitude":40.31667,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Dias dos Santos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047107
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"aec5db91b50deae70d9327b808dbe097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700013,
+            "locality_id":1293798615,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1293798615,
+    "wof:lastmodified":1536834512,
+    "wof:name":"Dias dos Santos",
+    "wof:parent_id":1091700013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.31667,
+    -11.36667,
+    40.31667,
+    -11.36667
+],
+  "geometry": {"coordinates":[40.31667,-11.36667],"type":"Point"}
+}

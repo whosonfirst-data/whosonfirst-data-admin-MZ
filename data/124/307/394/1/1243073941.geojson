@@ -1,0 +1,67 @@
+{
+  "id": 1243073941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1,-25.73333,32.1,-25.73333",
+    "geom:latitude":-25.73333,
+    "geom:longitude":32.1,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Matezecamba",
+    "gn:country_code":"MZ",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039935,
+    "gn:latitude":-25.73333,
+    "gn:longitude":32.1,
+    "gn:modification_date":"1998-06-05",
+    "gn:name":"Matezecamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091700825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039935
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d1e2d65128fb10555de74b62f855fbf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700825,
+            "locality_id":1243073941,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1243073941,
+    "wof:lastmodified":1536844396,
+    "wof:name":"Matezecamba",
+    "wof:parent_id":1091700825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1,
+    -25.73333,
+    32.1,
+    -25.73333
+],
+  "geometry": {"coordinates":[32.1,-25.73333],"type":"Point"}
+}

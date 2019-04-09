@@ -1,0 +1,61 @@
+{
+  "id": 1209028615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.09944,-15.85833,39.09944,-15.85833",
+    "geom:latitude":-15.85833,
+    "geom:longitude":39.09944,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Maicarra",
+    "gn:country_code":"MZ",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041716,
+    "gn:latitude":-15.85833,
+    "gn:longitude":39.09944,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Maicarra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041716
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3fd105f8867c1b72ce084eb5c3348209",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209028615
+        }
+    ],
+    "wof:id":1209028615,
+    "wof:lastmodified":1536299916,
+    "wof:name":"Maicarra",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.09944,
+    -15.85833,
+    39.09944,
+    -15.85833
+],
+  "geometry": {"coordinates":[39.09944,-15.85833],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226054271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.30333,-21.89528,35.30333,-21.89528",
+    "geom:latitude":-21.89528,
+    "geom:longitude":35.30333,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Castigo",
+    "gn:country_code":"MZ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050894,
+    "gn:latitude":-21.89528,
+    "gn:longitude":35.30333,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Castigo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050894
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"09928916c97bfa0c68b47830e43eb346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701605,
+            "locality_id":1226054271,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1226054271,
+    "wof:lastmodified":1536713133,
+    "wof:name":"Castigo",
+    "wof:parent_id":1091701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.30332999999999,
+    -21.89528,
+    35.30332999999999,
+    -21.89528
+],
+  "geometry": {"coordinates":[35.30332999999999,-21.89528],"type":"Point"}
+}

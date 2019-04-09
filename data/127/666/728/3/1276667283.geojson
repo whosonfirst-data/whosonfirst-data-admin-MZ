@@ -1,0 +1,67 @@
+{
+  "id": 1276667283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.82722,-11.2625,39.82722,-11.2625",
+    "geom:latitude":-11.2625,
+    "geom:longitude":39.82722,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Totolo",
+    "gn:country_code":"MZ",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1025671,
+    "gn:latitude":-11.2625,
+    "gn:longitude":39.82722,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Totol\u00f2",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1025671
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"53afc275362d192fce7d53598d5acfef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701043,
+            "locality_id":1276667283,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276667283,
+    "wof:lastmodified":1536827263,
+    "wof:name":"Totolo",
+    "wof:parent_id":1091701043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.82722,
+    -11.2625,
+    39.82722,
+    -11.2625
+],
+  "geometry": {"coordinates":[39.82722,-11.2625],"type":"Point"}
+}

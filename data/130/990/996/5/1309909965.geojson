@@ -1,0 +1,67 @@
+{
+  "id": 1309909965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.47472,-11.79889,39.47472,-11.79889",
+    "geom:latitude":-11.79889,
+    "geom:longitude":39.47472,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chidonde",
+    "gn:country_code":"MZ",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049523,
+    "gn:latitude":-11.79889,
+    "gn:longitude":39.47472,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Chidond\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049523
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ef7928d501f624ea3f5ef395994c73a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1309909965,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1309909965,
+    "wof:lastmodified":1536781404,
+    "wof:name":"Chidonde",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.47472,
+    -11.79889,
+    39.47472,
+    -11.79889
+],
+  "geometry": {"coordinates":[39.47472,-11.79889],"type":"Point"}
+}

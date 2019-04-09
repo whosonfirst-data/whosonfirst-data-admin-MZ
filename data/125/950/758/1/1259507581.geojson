@@ -1,0 +1,67 @@
+{
+  "id": 1259507581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.13333,-26.56667,32.13333,-26.56667",
+    "geom:latitude":-26.56667,
+    "geom:longitude":32.13333,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mafechane",
+    "gn:country_code":"MZ",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042046,
+    "gn:latitude":-26.56667,
+    "gn:longitude":32.13333,
+    "gn:modification_date":"1997-09-02",
+    "gn:name":"Mafechane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632635,
+        85678215,
+        1108561247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042046
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"45caa462d599ef3ddeaa0828748c801a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561247,
+            "locality_id":1259507581,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":1259507581,
+    "wof:lastmodified":1536823292,
+    "wof:name":"Mafechane",
+    "wof:parent_id":1108561247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.13333,
+    -26.56667,
+    32.13333,
+    -26.56667
+],
+  "geometry": {"coordinates":[32.13333,-26.56667],"type":"Point"}
+}

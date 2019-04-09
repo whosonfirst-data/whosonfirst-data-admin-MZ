@@ -1,0 +1,61 @@
+{
+  "id": 1209422535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.01583,-21.1625,35.01583,-21.1625",
+    "geom:latitude":-21.1625,
+    "geom:longitude":35.01583,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Joao Caba",
+    "gn:country_code":"MZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104458,
+    "gn:latitude":-21.1625,
+    "gn:longitude":35.01583,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Jo\u00e3o Caba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104458
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"78dc6c8b7a3fe31ad42a023701c8ef12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209422535
+        }
+    ],
+    "wof:id":1209422535,
+    "wof:lastmodified":1536287484,
+    "wof:name":"Joao Caba",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01583,
+    -21.1625,
+    35.01583,
+    -21.1625
+],
+  "geometry": {"coordinates":[35.01583,-21.1625],"type":"Point"}
+}

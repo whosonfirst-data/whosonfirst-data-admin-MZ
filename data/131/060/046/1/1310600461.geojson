@@ -1,0 +1,67 @@
+{
+  "id": 1310600461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.96222,-19.83083,33.96222,-19.83083",
+    "geom:latitude":-19.83083,
+    "geom:longitude":33.96222,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Madara",
+    "gn:country_code":"MZ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042199,
+    "gn:latitude":-19.83083,
+    "gn:longitude":33.96222,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Madara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042199
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"57e49ebf0bd480f8e2a0c136d081289e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696561,
+            "locality_id":1310600461,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1310600461,
+    "wof:lastmodified":1536780471,
+    "wof:name":"Madara",
+    "wof:parent_id":1091696561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.96222,
+    -19.83083,
+    33.96222,
+    -19.83083
+],
+  "geometry": {"coordinates":[33.96222,-19.83083],"type":"Point"}
+}

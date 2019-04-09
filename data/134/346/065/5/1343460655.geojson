@@ -1,0 +1,67 @@
+{
+  "id": 1343460655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.51917,-22.73389,34.51917,-22.73389",
+    "geom:latitude":-22.73389,
+    "geom:longitude":34.51917,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Finiasse",
+    "gn:country_code":"MZ",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104363,
+    "gn:latitude":-22.73389,
+    "gn:longitude":34.51917,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Finiasse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091699313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104363
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"37e9d72fa3a6aa066b64a92fe6e25dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699313,
+            "locality_id":1343460655,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1343460655,
+    "wof:lastmodified":1536745555,
+    "wof:name":"Finiasse",
+    "wof:parent_id":1091699313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.51917,
+    -22.73389,
+    34.51917,
+    -22.73389
+],
+  "geometry": {"coordinates":[34.51917,-22.73389],"type":"Point"}
+}

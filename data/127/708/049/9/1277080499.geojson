@@ -1,0 +1,72 @@
+{
+  "id": 1277080499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.61444,-26.77361,32.61444,-26.77361",
+    "geom:latitude":-26.77361,
+    "geom:longitude":32.61444,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Monte Bongolo",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052071,
+    "gn:latitude":-26.77361,
+    "gn:longitude":32.61444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Monte Bongolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bongolo",
+        "Monte Bongolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052071
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a2f09bd5d79cd2dd504785104e344cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699383,
+            "locality_id":1277080499,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1277080499,
+    "wof:lastmodified":1537674606,
+    "wof:name":"Monte Bongolo",
+    "wof:parent_id":1091699383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.61444,
+    -26.77361,
+    32.61444,
+    -26.77361
+],
+  "geometry": {"coordinates":[32.61444,-26.77361],"type":"Point"}
+}

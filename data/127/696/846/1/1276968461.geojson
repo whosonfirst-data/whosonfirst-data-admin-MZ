@@ -1,0 +1,70 @@
+{
+  "id": 1276968461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.53751,-20.77504,32.53751,-20.77504",
+    "geom:latitude":-20.77504,
+    "geom:longitude":32.53751,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Pezenga",
+    "gn:country_code":"MZ",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028789,
+    "gn:latitude":-20.77504,
+    "gn:longitude":32.53751,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pezenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Pezenga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091700331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028789
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cc29fd20d2190b6984ec67cc024bc6ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700331,
+            "locality_id":1276968461,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1276968461,
+    "wof:lastmodified":1537674492,
+    "wof:name":"Pezenga",
+    "wof:parent_id":1091700331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.53751,
+    -20.77504,
+    32.53751,
+    -20.77504
+],
+  "geometry": {"coordinates":[32.53751,-20.77504],"type":"Point"}
+}

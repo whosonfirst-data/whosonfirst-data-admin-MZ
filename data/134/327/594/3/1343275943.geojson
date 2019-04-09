@@ -1,0 +1,67 @@
+{
+  "id": 1343275943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.27361,-13.87278,39.27361,-13.87278",
+    "geom:latitude":-13.87278,
+    "geom:longitude":39.27361,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chefe Caronga",
+    "gn:country_code":"MZ",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1086123,
+    "gn:latitude":-13.87278,
+    "gn:longitude":39.27361,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Chefe Caronga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1086123
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5184679ec35cc639fd7db8b2afbb23cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700995,
+            "locality_id":1343275943,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1343275943,
+    "wof:lastmodified":1537011752,
+    "wof:name":"Chefe Caronga",
+    "wof:parent_id":1091700995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.27361,
+    -13.87278,
+    39.27361,
+    -13.87278
+],
+  "geometry": {"coordinates":[39.27361,-13.87278],"type":"Point"}
+}

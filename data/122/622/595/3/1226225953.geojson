@@ -1,0 +1,67 @@
+{
+  "id": 1226225953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.14,-18.85806,33.14,-18.85806",
+    "geom:latitude":-18.85806,
+    "geom:longitude":33.14,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Cere",
+    "gn:country_code":"MZ",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050642,
+    "gn:latitude":-18.85806,
+    "gn:longitude":33.14,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Cere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091699043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050642
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"81eb018b258ba410d6bf12df1ba8b7e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699043,
+            "locality_id":1226225953,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1226225953,
+    "wof:lastmodified":1536962068,
+    "wof:name":"Cere",
+    "wof:parent_id":1091699043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.14,
+    -18.85806,
+    33.14,
+    -18.85806
+],
+  "geometry": {"coordinates":[33.14,-18.85806],"type":"Point"}
+}

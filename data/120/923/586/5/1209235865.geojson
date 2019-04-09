@@ -1,0 +1,61 @@
+{
+  "id": 1209235865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.72,-12.26278,34.72,-12.26278",
+    "geom:latitude":-12.26278,
+    "geom:longitude":34.72,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Aldeia Mbuna",
+    "gn:country_code":"MZ",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085308,
+    "gn:latitude":-12.26278,
+    "gn:longitude":34.72,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Aldeia Mbuna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085308
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"98ea4981f8d6bcd952b7c5e9eb10fd89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209235865
+        }
+    ],
+    "wof:id":1209235865,
+    "wof:lastmodified":1536293484,
+    "wof:name":"Aldeia Mbuna",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.72,
+    -12.26278,
+    34.72,
+    -12.26278
+],
+  "geometry": {"coordinates":[34.72,-12.26278],"type":"Point"}
+}

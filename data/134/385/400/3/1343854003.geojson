@@ -1,0 +1,67 @@
+{
+  "id": 1343854003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.07694,-16.38056,37.07694,-16.38056",
+    "geom:latitude":-16.38056,
+    "geom:longitude":37.07694,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Regulo Namagila",
+    "gn:country_code":"MZ",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1094917,
+    "gn:latitude":-16.38056,
+    "gn:longitude":37.07694,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"R\u00e9gulo Namagila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1094917
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2eb0e4fede0fdd7a6eb8ee55c87135ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698327,
+            "locality_id":1343854003,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1343854003,
+    "wof:lastmodified":1536675951,
+    "wof:name":"Regulo Namagila",
+    "wof:parent_id":1091698327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.07694,
+    -16.38056,
+    37.07694,
+    -16.38056
+],
+  "geometry": {"coordinates":[37.07694,-16.38056],"type":"Point"}
+}

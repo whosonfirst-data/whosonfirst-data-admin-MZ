@@ -1,0 +1,68 @@
+{
+  "id": 1260196781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.50583,-12.85167,39.50583,-12.85167",
+    "geom:latitude":-12.85167,
+    "geom:longitude":39.50583,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Ndala",
+    "gn:country_code":"MZ",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1032327,
+    "gn:latitude":-12.85167,
+    "gn:longitude":39.50583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ndala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1032327,
+        "wk:page":"Ndala"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fef2f3c2a05d855f12dcd2b28703ffed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696241,
+            "locality_id":1260196781,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1260196781,
+    "wof:lastmodified":1537569925,
+    "wof:name":"Ndala",
+    "wof:parent_id":1091696241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.50583,
+    -12.85167,
+    39.50583,
+    -12.85167
+],
+  "geometry": {"coordinates":[39.50583,-12.85167],"type":"Point"}
+}

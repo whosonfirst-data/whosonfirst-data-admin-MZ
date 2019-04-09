@@ -1,0 +1,61 @@
+{
+  "id": 1209526963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11722,-24.07222,35.11722,-24.07222",
+    "geom:latitude":-24.07222,
+    "geom:longitude":35.11722,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Nhaxoxo",
+    "gn:country_code":"MZ",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1030160,
+    "gn:latitude":-24.07222,
+    "gn:longitude":35.11722,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Nhaxoxo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1030160
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"db392ba801d2200414028818432e9dcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209526963
+        }
+    ],
+    "wof:id":1209526963,
+    "wof:lastmodified":1536284404,
+    "wof:name":"Nhaxoxo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11722,
+    -24.07222,
+    35.11722,
+    -24.07222
+],
+  "geometry": {"coordinates":[35.11722,-24.07222],"type":"Point"}
+}

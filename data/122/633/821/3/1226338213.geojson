@@ -1,0 +1,67 @@
+{
+  "id": 1226338213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.14028,-16.24944,37.14028,-16.24944",
+    "geom:latitude":-16.24944,
+    "geom:longitude":37.14028,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chefe Mulimia",
+    "gn:country_code":"MZ",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095190,
+    "gn:latitude":-16.24944,
+    "gn:longitude":37.14028,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Chefe Mulimia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095190
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"32f47366b79f892d5cb2e701dec7ed30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697943,
+            "locality_id":1226338213,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1226338213,
+    "wof:lastmodified":1536800395,
+    "wof:name":"Chefe Mulimia",
+    "wof:parent_id":1091697943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.14028,
+    -16.24944,
+    37.14028,
+    -16.24944
+],
+  "geometry": {"coordinates":[37.14028,-16.24944],"type":"Point"}
+}

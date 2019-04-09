@@ -1,0 +1,72 @@
+{
+  "id": 1243552273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.61333,-15.38056,38.61333,-15.38056",
+    "geom:latitude":-15.38056,
+    "geom:longitude":38.61333,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Morrrupa",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037039,
+    "gn:latitude":-15.38056,
+    "gn:longitude":38.61333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Morrrupa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morrupa",
+        "Morrrupa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037039
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"39572b4f2c7ab1aa3851f444d9ccf9b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700589,
+            "locality_id":1243552273,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1243552273,
+    "wof:lastmodified":1537674523,
+    "wof:name":"Morrrupa",
+    "wof:parent_id":1091700589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.61333,
+    -15.38056,
+    38.61333,
+    -15.38056
+],
+  "geometry": {"coordinates":[38.61333,-15.38056],"type":"Point"}
+}

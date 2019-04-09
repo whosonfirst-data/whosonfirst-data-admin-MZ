@@ -1,0 +1,67 @@
+{
+  "id": 1327042787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.095,-24.26917,33.095,-24.26917",
+    "geom:latitude":-24.26917,
+    "geom:longitude":33.095,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Cuxane",
+    "gn:country_code":"MZ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047355,
+    "gn:latitude":-24.26917,
+    "gn:longitude":33.095,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Cuxane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091697721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047355
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7af9ea815cceaabd0c5d067c72904b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697721,
+            "locality_id":1327042787,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1327042787,
+    "wof:lastmodified":1536745089,
+    "wof:name":"Cuxane",
+    "wof:parent_id":1091697721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.095,
+    -24.26917000000001,
+    33.095,
+    -24.26917000000001
+],
+  "geometry": {"coordinates":[33.095,-24.26917000000001],"type":"Point"}
+}

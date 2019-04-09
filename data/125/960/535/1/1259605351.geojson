@@ -1,0 +1,71 @@
+{
+  "id": 1259605351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.50139,-15.22833,39.50139,-15.22833",
+    "geom:latitude":-15.22833,
+    "geom:longitude":39.50139,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Gelo",
+    "gn:country_code":"MZ",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1046045,
+    "gn:latitude":-15.22833,
+    "gn:longitude":39.50139,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"G\u00ealo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00ealo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091699601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1046045,
+        "wk:page":"Gelo,_Mozambique"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"34779726019f3b1977676a454238d25d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699601,
+            "locality_id":1259605351,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1259605351,
+    "wof:lastmodified":1537674573,
+    "wof:name":"Gelo",
+    "wof:parent_id":1091699601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.50139,
+    -15.22833,
+    39.50139,
+    -15.22833
+],
+  "geometry": {"coordinates":[39.50139,-15.22833],"type":"Point"}
+}

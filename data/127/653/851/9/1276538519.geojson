@@ -1,0 +1,67 @@
+{
+  "id": 1276538519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.89472,-15.14806,36.89472,-15.14806",
+    "geom:latitude":-15.14806,
+    "geom:longitude":36.89472,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chefe Cuntale",
+    "gn:country_code":"MZ",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1092742,
+    "gn:latitude":-15.14806,
+    "gn:longitude":36.89472,
+    "gn:modification_date":"1998-05-14",
+    "gn:name":"Chefe Cuntale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1092742
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d52ed9635b2a636ec4b3b93d0bad7daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697801,
+            "locality_id":1276538519,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1276538519,
+    "wof:lastmodified":1537000265,
+    "wof:name":"Chefe Cuntale",
+    "wof:parent_id":1091697801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.89472,
+    -15.14806,
+    36.89472,
+    -15.14806
+],
+  "geometry": {"coordinates":[36.89472,-15.14806],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226155751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.04472,-24.43889,34.04472,-24.43889",
+    "geom:latitude":-24.43889,
+    "geom:longitude":34.04472,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Guezane",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028380,
+    "gn:latitude":-24.43889,
+    "gn:longitude":34.04472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Guezane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quietane",
+        "Guezane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091698967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028380
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"572ccae5d6361e71c11428619511f3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698967,
+            "locality_id":1226155751,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1226155751,
+    "wof:lastmodified":1537674490,
+    "wof:name":"Guezane",
+    "wof:parent_id":1091698967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.04472,
+    -24.43889,
+    34.04472,
+    -24.43889
+],
+  "geometry": {"coordinates":[34.04472,-24.43889],"type":"Point"}
+}

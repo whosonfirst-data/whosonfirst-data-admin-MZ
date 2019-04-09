@@ -1,0 +1,67 @@
+{
+  "id": 1243157857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.60472,-15.67306,31.60472,-15.67306",
+    "geom:latitude":-15.67306,
+    "geom:longitude":31.60472,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Mecussa",
+    "gn:country_code":"MZ",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089428,
+    "gn:latitude":-15.67306,
+    "gn:longitude":31.60472,
+    "gn:modification_date":"1997-05-30",
+    "gn:name":"Mecussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089428
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ebee08d963ac0ed7c1ef8eb47334b580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699093,
+            "locality_id":1243157857,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1243157857,
+    "wof:lastmodified":1536725010,
+    "wof:name":"Mecussa",
+    "wof:parent_id":1091699093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.60472,
+    -15.67306,
+    31.60472,
+    -15.67306
+],
+  "geometry": {"coordinates":[31.60472,-15.67306],"type":"Point"}
+}

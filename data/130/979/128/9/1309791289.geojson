@@ -1,0 +1,67 @@
+{
+  "id": 1309791289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.77861,-15.52472,32.77861,-15.52472",
+    "geom:latitude":-15.52472,
+    "geom:longitude":32.77861,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Meia",
+    "gn:country_code":"MZ",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039003,
+    "gn:latitude":-15.52472,
+    "gn:longitude":32.77861,
+    "gn:modification_date":"1997-06-03",
+    "gn:name":"Meia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039003
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"8441e58d08010c48d9611010b9ff0de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699093,
+            "locality_id":1309791289,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1309791289,
+    "wof:lastmodified":1536952173,
+    "wof:name":"Meia",
+    "wof:parent_id":1091699093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.77861,
+    -15.52472,
+    32.77861,
+    -15.52472
+],
+  "geometry": {"coordinates":[32.77861,-15.52472],"type":"Point"}
+}

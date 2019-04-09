@@ -1,0 +1,72 @@
+{
+  "id": 1259984551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.89778,-18.30389,34.89778,-18.30389",
+    "geom:latitude":-18.30389,
+    "geom:longitude":34.89778,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Petroleo",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028798,
+    "gn:latitude":-18.30389,
+    "gn:longitude":34.89778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Petr\u00f3leo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petroled",
+        "Petr\u00f3leo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028798
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3a903269498c52d9e2afddb9e8302dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696559,
+            "locality_id":1259984551,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1259984551,
+    "wof:lastmodified":1537674492,
+    "wof:name":"Petroleo",
+    "wof:parent_id":1091696559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.89778,
+    -18.30389,
+    34.89778,
+    -18.30389
+],
+  "geometry": {"coordinates":[34.89778,-18.30389],"type":"Point"}
+}

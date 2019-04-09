@@ -1,0 +1,67 @@
+{
+  "id": 1344165961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.17083,-24.55139,33.17083,-24.55139",
+    "geom:latitude":-24.55139,
+    "geom:longitude":33.17083,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Regulo Sipo",
+    "gn:country_code":"MZ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1097583,
+    "gn:latitude":-24.55139,
+    "gn:longitude":33.17083,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"R\u00e9gulo Sipo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091697721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097583
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b2635fefd115804834de28d15806ffb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697721,
+            "locality_id":1344165961,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1344165961,
+    "wof:lastmodified":1536723604,
+    "wof:name":"Regulo Sipo",
+    "wof:parent_id":1091697721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.17083,
+    -24.55139,
+    33.17083,
+    -24.55139
+],
+  "geometry": {"coordinates":[33.17083,-24.55139],"type":"Point"}
+}

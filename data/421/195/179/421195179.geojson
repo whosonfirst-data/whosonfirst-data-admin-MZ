@@ -1,0 +1,88 @@
+{
+  "id": 421195179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.20222,-21.53472,35.20222,-21.53472",
+    "geom:latitude":-21.53472,
+    "geom:longitude":35.20222,
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Inhassoro"
+    ],
+    "name:eng_x_preferred":[
+        "Inhassoro"
+    ],
+    "name:por_x_preferred":[
+        "Inhassoro"
+    ],
+    "qs:gn_country":"MZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1044995,
+    "qs:gn_pop":0,
+    "qs:name":"Inhassoro",
+    "qs:name_adm0":"Mo\u00e7ambique",
+    "qs:name_adm1":"Inhambane",
+    "qs:photos":78,
+    "qs:photos_1k":16,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":78,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":279543,
+    "qs:woe_adm0":23424902,
+    "qs:woe_id":1548355,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":182,
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091698063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044995,
+        "gp:id":1548355,
+        "qs:id":279543,
+        "wd:id":"Q6033695",
+        "wk:page":"Inhassoro"
+    },
+    "wof:country":"MZ",
+    "wof:created":1459009835,
+    "wof:geomhash":"3e4e824c8ad5213687693dedeb70c694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698063,
+            "locality_id":421195179,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":421195179,
+    "wof:lastmodified":1527716126,
+    "wof:name":"Inhassoro",
+    "wof:parent_id":1091698063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20222,
+    -21.53472,
+    35.20222,
+    -21.53472
+],
+  "geometry": {"coordinates":[35.20222,-21.53472],"type":"Point"}
+}

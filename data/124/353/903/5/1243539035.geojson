@@ -1,0 +1,67 @@
+{
+  "id": 1243539035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.36528,-15.22694,37.36528,-15.22694",
+    "geom:latitude":-15.22694,
+    "geom:longitude":37.36528,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tanhiua",
+    "gn:country_code":"MZ",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026386,
+    "gn:latitude":-15.22694,
+    "gn:longitude":37.36528,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"Tanhiua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026386
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5a56acb1b44aff8701c3007cf9a48fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696213,
+            "locality_id":1243539035,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1243539035,
+    "wof:lastmodified":1536672072,
+    "wof:name":"Tanhiua",
+    "wof:parent_id":1091696213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.36528,
+    -15.22694,
+    37.36528,
+    -15.22694
+],
+  "geometry": {"coordinates":[37.36528,-15.22694],"type":"Point"}
+}

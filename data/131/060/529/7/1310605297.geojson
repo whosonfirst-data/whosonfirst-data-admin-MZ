@@ -1,0 +1,68 @@
+{
+  "id": 1310605297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.99417,-12.19556,39.99417,-12.19556",
+    "geom:latitude":-12.19556,
+    "geom:longitude":39.99417,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tenga",
+    "gn:country_code":"MZ",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026082,
+    "gn:latitude":-12.19556,
+    "gn:longitude":39.99417,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Tenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091698583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026082,
+        "wk:page":"Tenga,_Mozambique"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"02178f17a78a72385eddc72f1198725f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698583,
+            "locality_id":1310605297,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1310605297,
+    "wof:lastmodified":1537569923,
+    "wof:name":"Tenga",
+    "wof:parent_id":1091698583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.99417,
+    -12.19556,
+    39.99417,
+    -12.19556
+],
+  "geometry": {"coordinates":[39.99417,-12.19556],"type":"Point"}
+}

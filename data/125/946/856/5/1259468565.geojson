@@ -1,0 +1,67 @@
+{
+  "id": 1259468565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.31806,-15.82528,32.31806,-15.82528",
+    "geom:latitude":-15.82528,
+    "geom:longitude":32.31806,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Janela",
+    "gn:country_code":"MZ",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1044727,
+    "gn:latitude":-15.82528,
+    "gn:longitude":32.31806,
+    "gn:modification_date":"1997-06-03",
+    "gn:name":"Janela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091696467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1044727
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7c6e0f78edbaca1939328b31a23bb330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696467,
+            "locality_id":1259468565,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1259468565,
+    "wof:lastmodified":1536879458,
+    "wof:name":"Janela",
+    "wof:parent_id":1091696467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.31806,
+    -15.82528,
+    32.31806,
+    -15.82528
+],
+  "geometry": {"coordinates":[32.31806,-15.82528],"type":"Point"}
+}

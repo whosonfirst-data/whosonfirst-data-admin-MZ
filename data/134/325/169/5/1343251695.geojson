@@ -1,0 +1,67 @@
+{
+  "id": 1343251695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.87222,-15.76083,37.87222,-15.76083",
+    "geom:latitude":-15.76083,
+    "geom:longitude":37.87222,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Naparia",
+    "gn:country_code":"MZ",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091318,
+    "gn:latitude":-15.76083,
+    "gn:longitude":37.87222,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"Naparia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091318
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e907db6d024ee8292fa8614169ab6d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696213,
+            "locality_id":1343251695,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1343251695,
+    "wof:lastmodified":1537045697,
+    "wof:name":"Naparia",
+    "wof:parent_id":1091696213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.87222,
+    -15.76083,
+    37.87222,
+    -15.76083
+],
+  "geometry": {"coordinates":[37.87222,-15.76083],"type":"Point"}
+}

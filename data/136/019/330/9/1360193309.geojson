@@ -1,0 +1,72 @@
+{
+  "id": 1360193309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.07056,-24.90667,33.07056,-24.90667",
+    "geom:latitude":-24.90667,
+    "geom:longitude":33.07056,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Regedor Machenganhana",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042707,
+    "gn:latitude":-24.90667,
+    "gn:longitude":33.07056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Regedor Machenganhana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Machanganhana",
+        "Regedor Machenganhana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042707
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5bb20cd8a90d9e709d558348e6bf45b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696361,
+            "locality_id":1360193309,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1360193309,
+    "wof:lastmodified":1537674556,
+    "wof:name":"Regedor Machenganhana",
+    "wof:parent_id":1091696361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.07056,
+    -24.90667,
+    33.07056,
+    -24.90667
+],
+  "geometry": {"coordinates":[33.07056,-24.90667],"type":"Point"}
+}

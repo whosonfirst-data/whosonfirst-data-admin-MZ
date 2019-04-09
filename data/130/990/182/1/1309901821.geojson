@@ -1,0 +1,67 @@
+{
+  "id": 1309901821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.87806,-16.00694,37.87806,-16.00694",
+    "geom:latitude":-16.00694,
+    "geom:longitude":37.87806,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chefe Mucolo",
+    "gn:country_code":"MZ",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1093518,
+    "gn:latitude":-16.00694,
+    "gn:longitude":37.87806,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Chefe Mucolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1093518
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"02e308dbefae426b6ea5b03a57415922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696213,
+            "locality_id":1309901821,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1309901821,
+    "wof:lastmodified":1536792981,
+    "wof:name":"Chefe Mucolo",
+    "wof:parent_id":1091696213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.87806,
+    -16.00694,
+    37.87806,
+    -16.00694
+],
+  "geometry": {"coordinates":[37.87806,-16.00694],"type":"Point"}
+}

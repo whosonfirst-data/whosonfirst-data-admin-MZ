@@ -1,0 +1,61 @@
+{
+  "id": 1209620041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.80194,-21.07194,34.80194,-21.07194",
+    "geom:latitude":-21.07194,
+    "geom:longitude":34.80194,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Mucananda",
+    "gn:country_code":"MZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036542,
+    "gn:latitude":-21.07194,
+    "gn:longitude":34.80194,
+    "gn:modification_date":"1998-04-29",
+    "gn:name":"Mucananda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036542
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"58311496480a524391a882232e38ea88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209620041
+        }
+    ],
+    "wof:id":1209620041,
+    "wof:lastmodified":1536281551,
+    "wof:name":"Mucananda",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.80194,
+    -21.07194,
+    34.80194,
+    -21.07194
+],
+  "geometry": {"coordinates":[34.80194,-21.07194],"type":"Point"}
+}

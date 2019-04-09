@@ -1,0 +1,61 @@
+{
+  "id": 1209217957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.73917,-24.1575,32.73917,-24.1575",
+    "geom:latitude":-24.1575,
+    "geom:longitude":32.73917,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chivite",
+    "gn:country_code":"MZ",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1104647,
+    "gn:latitude":-24.1575,
+    "gn:longitude":32.73917,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Chivite",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1104647
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"63a6419f35b3a037ae11621e77417d6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209217957
+        }
+    ],
+    "wof:id":1209217957,
+    "wof:lastmodified":1536294064,
+    "wof:name":"Chivite",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.73917,
+    -24.1575,
+    32.73917,
+    -24.1575
+],
+  "geometry": {"coordinates":[32.73917,-24.1575],"type":"Point"}
+}

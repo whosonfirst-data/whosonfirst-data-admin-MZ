@@ -1,0 +1,67 @@
+{
+  "id": 1343656129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87028,-14.2425,35.87028,-14.2425",
+    "geom:latitude":-14.2425,
+    "geom:longitude":35.87028,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chefe Mepuina",
+    "gn:country_code":"MZ",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1087821,
+    "gn:latitude":-14.2425,
+    "gn:longitude":35.87028,
+    "gn:modification_date":"1997-04-24",
+    "gn:name":"Chefe Mepu\u00edna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1087821
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f6626fd7cefd3563dfeb20a819d5cd4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698923,
+            "locality_id":1343656129,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1343656129,
+    "wof:lastmodified":1536961211,
+    "wof:name":"Chefe Mepuina",
+    "wof:parent_id":1091698923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87028,
+    -14.2425,
+    35.87028,
+    -14.2425
+],
+  "geometry": {"coordinates":[35.87028,-14.2425],"type":"Point"}
+}

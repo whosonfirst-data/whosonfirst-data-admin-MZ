@@ -1,0 +1,61 @@
+{
+  "id": 1209437131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.79806,-14.11,39.79806,-14.11",
+    "geom:latitude":-14.11,
+    "geom:longitude":39.79806,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Cuela",
+    "gn:country_code":"MZ",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047590,
+    "gn:latitude":-14.11,
+    "gn:longitude":39.79806,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Cuela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047590
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3a67ea73b5b7e6726a8faa8ce961acf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209437131
+        }
+    ],
+    "wof:id":1209437131,
+    "wof:lastmodified":1536287070,
+    "wof:name":"Cuela",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.79806,
+    -14.11,
+    39.79806,
+    -14.11
+],
+  "geometry": {"coordinates":[39.79806,-14.11],"type":"Point"}
+}

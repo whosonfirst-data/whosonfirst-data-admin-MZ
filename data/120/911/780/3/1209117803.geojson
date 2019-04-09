@@ -1,0 +1,67 @@
+{
+  "id": 1209117803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.595,-24.64583,34.595,-24.64583",
+    "geom:latitude":-24.64583,
+    "geom:longitude":34.595,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Chefe Mahita",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041659,
+    "gn:latitude":-24.64583,
+    "gn:longitude":34.595,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Mahita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahita",
+        "Ma\u00edta",
+        "Chefe Mahita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041659
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e079dccd3ee666bf16fd427934f74667",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209117803
+        }
+    ],
+    "wof:id":1209117803,
+    "wof:lastmodified":1537674549,
+    "wof:name":"Chefe Mahita",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.595,
+    -24.64583,
+    34.595,
+    -24.64583
+],
+  "geometry": {"coordinates":[34.595,-24.64583],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225966313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.57583,-16.315,39.57583,-16.315",
+    "geom:latitude":-16.315,
+    "geom:longitude":39.57583,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Rorvil",
+    "gn:country_code":"MZ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1095258,
+    "gn:latitude":-16.315,
+    "gn:longitude":39.57583,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Rorvil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095258
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2a8286a666b86c704bd44a4d213f42c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700155,
+            "locality_id":1225966313,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1225966313,
+    "wof:lastmodified":1536838652,
+    "wof:name":"Rorvil",
+    "wof:parent_id":1091700155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.57583,
+    -16.315,
+    39.57583,
+    -16.315
+],
+  "geometry": {"coordinates":[39.57583,-16.315],"type":"Point"}
+}

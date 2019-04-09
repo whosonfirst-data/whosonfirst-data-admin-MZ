@@ -1,0 +1,67 @@
+{
+  "id": 1243258585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.3625,-15.85778,36.3625,-15.85778",
+    "geom:latitude":-15.85778,
+    "geom:longitude":36.3625,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chefe Nitico",
+    "gn:country_code":"MZ",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090790,
+    "gn:latitude":-15.85778,
+    "gn:longitude":36.3625,
+    "gn:modification_date":"1998-05-14",
+    "gn:name":"Chefe Nitico",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091698327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090790
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0ff27e0885b30917075b167a036dc80a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698327,
+            "locality_id":1243258585,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1243258585,
+    "wof:lastmodified":1537073258,
+    "wof:name":"Chefe Nitico",
+    "wof:parent_id":1091698327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.3625,
+    -15.85778,
+    36.3625,
+    -15.85778
+],
+  "geometry": {"coordinates":[36.3625,-15.85778],"type":"Point"}
+}

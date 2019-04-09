@@ -1,0 +1,72 @@
+{
+  "id": 1209812975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.06028,-14.07139,40.06028,-14.07139",
+    "geom:latitude":-14.07139,
+    "geom:longitude":40.06028,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Metage",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038976,
+    "gn:latitude":-14.07139,
+    "gn:longitude":40.06028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Metage",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melage",
+        "Metage"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091697455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038976
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"48d6efc97395e74d49f2dfb13e4f154c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697455,
+            "locality_id":1209812975,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1209812975,
+    "wof:lastmodified":1537674532,
+    "wof:name":"Metage",
+    "wof:parent_id":1091697455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.06028,
+    -14.07139,
+    40.06028,
+    -14.07139
+],
+  "geometry": {"coordinates":[40.06028,-14.07139],"type":"Point"}
+}

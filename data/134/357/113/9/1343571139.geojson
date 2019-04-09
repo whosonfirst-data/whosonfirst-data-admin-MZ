@@ -1,0 +1,67 @@
+{
+  "id": 1343571139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.23333,-18.66667,36.23333,-18.66667",
+    "geom:latitude":-18.66667,
+    "geom:longitude":36.23333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Goncalo",
+    "gn:country_code":"MZ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045845,
+    "gn:latitude":-18.66667,
+    "gn:longitude":36.23333,
+    "gn:modification_date":"1993-11-18",
+    "gn:name":"Gon\u00e7alo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045845
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"85a97d17835072d47b5b222f9facc528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696729,
+            "locality_id":1343571139,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1343571139,
+    "wof:lastmodified":1537080838,
+    "wof:name":"Goncalo",
+    "wof:parent_id":1091696729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.23333,
+    -18.66667,
+    36.23333,
+    -18.66667
+],
+  "geometry": {"coordinates":[36.23333,-18.66667],"type":"Point"}
+}

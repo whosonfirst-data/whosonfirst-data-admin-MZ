@@ -1,0 +1,67 @@
+{
+  "id": 1310300005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.31806,-15.85833,37.31806,-15.85833",
+    "geom:latitude":-15.85833,
+    "geom:longitude":37.31806,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Mocapola",
+    "gn:country_code":"MZ",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1037382,
+    "gn:latitude":-15.85833,
+    "gn:longitude":37.31806,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"Mocap\u00f3la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1037382
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"149d784bab7eb6616b82a1bef7bb8aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697943,
+            "locality_id":1310300005,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1310300005,
+    "wof:lastmodified":1536716204,
+    "wof:name":"Mocapola",
+    "wof:parent_id":1091697943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.31806,
+    -15.85833,
+    37.31806,
+    -15.85833
+],
+  "geometry": {"coordinates":[37.31806,-15.85833],"type":"Point"}
+}

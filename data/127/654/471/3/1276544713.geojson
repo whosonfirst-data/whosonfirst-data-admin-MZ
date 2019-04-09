@@ -1,0 +1,72 @@
+{
+  "id": 1276544713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.49556,-15.89611,39.49556,-15.89611",
+    "geom:latitude":-15.89611,
+    "geom:longitude":39.49556,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Muitacale",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035918,
+    "gn:latitude":-15.89611,
+    "gn:longitude":39.49556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Muitacale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muitacala",
+        "Muitacale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035918
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"432ec7b5e61b483f08a941687fd514eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700133,
+            "locality_id":1276544713,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1276544713,
+    "wof:lastmodified":1537674516,
+    "wof:name":"Muitacale",
+    "wof:parent_id":1091700133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.49556,
+    -15.89611,
+    39.49556,
+    -15.89611
+],
+  "geometry": {"coordinates":[39.49556,-15.89611],"type":"Point"}
+}

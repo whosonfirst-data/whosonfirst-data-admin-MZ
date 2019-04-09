@@ -1,0 +1,72 @@
+{
+  "id": 1327024453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.59028,-16.39028,37.59028,-16.39028",
+    "geom:latitude":-16.39028,
+    "geom:longitude":37.59028,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chefe Mipito",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038690,
+    "gn:latitude":-16.39028,
+    "gn:longitude":37.59028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Mipito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mepito",
+        "Chefe Mipito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038690
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"15d9f3be5e9a48dd928efc3c3ede7324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697943,
+            "locality_id":1327024453,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1327024453,
+    "wof:lastmodified":1537674530,
+    "wof:name":"Chefe Mipito",
+    "wof:parent_id":1091697943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.59028,
+    -16.39027999999999,
+    37.59028,
+    -16.39027999999999
+],
+  "geometry": {"coordinates":[37.59028,-16.39027999999999],"type":"Point"}
+}

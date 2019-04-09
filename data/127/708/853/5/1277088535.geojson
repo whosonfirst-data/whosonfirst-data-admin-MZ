@@ -1,0 +1,67 @@
+{
+  "id": 1277088535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.34111,-13.66861,39.34111,-13.66861",
+    "geom:latitude":-13.66861,
+    "geom:longitude":39.34111,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Purrumula",
+    "gn:country_code":"MZ",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028472,
+    "gn:latitude":-13.66861,
+    "gn:longitude":39.34111,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Purrumula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028472
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"947e132aba4ac138609ba618c11d97c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700995,
+            "locality_id":1277088535,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1277088535,
+    "wof:lastmodified":1536759366,
+    "wof:name":"Purrumula",
+    "wof:parent_id":1091700995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.34111,
+    -13.66861,
+    39.34111,
+    -13.66861
+],
+  "geometry": {"coordinates":[39.34111,-13.66861],"type":"Point"}
+}

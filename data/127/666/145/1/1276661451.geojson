@@ -1,0 +1,67 @@
+{
+  "id": 1276661451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.79694,-13.40694,39.79694,-13.40694",
+    "geom:latitude":-13.40694,
+    "geom:longitude":39.79694,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Puexera",
+    "gn:country_code":"MZ",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028537,
+    "gn:latitude":-13.40694,
+    "gn:longitude":39.79694,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Puexera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028537
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a0dd774f3ad0703859a1a0f58490a320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696771,
+            "locality_id":1276661451,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276661451,
+    "wof:lastmodified":1536834992,
+    "wof:name":"Puexera",
+    "wof:parent_id":1091696771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.79694,
+    -13.40694,
+    39.79694,
+    -13.40694
+],
+  "geometry": {"coordinates":[39.79694,-13.40694],"type":"Point"}
+}

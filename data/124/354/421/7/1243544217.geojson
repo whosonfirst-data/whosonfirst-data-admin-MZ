@@ -1,0 +1,72 @@
+{
+  "id": 1243544217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.64944,-16.26694,37.64944,-16.26694",
+    "geom:latitude":-16.26694,
+    "geom:longitude":37.64944,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chefe Muamarrumela",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1038912,
+    "gn:latitude":-16.26694,
+    "gn:longitude":37.64944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Muamarrumela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mel\u00f4e",
+        "Chefe Muamarrumela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1038912
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1ebaafcdfe07e6daad63feec4fa1ee01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697943,
+            "locality_id":1243544217,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1243544217,
+    "wof:lastmodified":1537674531,
+    "wof:name":"Chefe Muamarrumela",
+    "wof:parent_id":1091697943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.64944000000001,
+    -16.26694,
+    37.64944000000001,
+    -16.26694
+],
+  "geometry": {"coordinates":[37.64944000000001,-16.26694],"type":"Point"}
+}

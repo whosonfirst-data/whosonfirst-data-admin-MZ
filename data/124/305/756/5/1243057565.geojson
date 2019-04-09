@@ -1,0 +1,67 @@
+{
+  "id": 1243057565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.03056,-16.73667,37.03056,-16.73667",
+    "geom:latitude":-16.73667,
+    "geom:longitude":37.03056,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chefe Tubarao",
+    "gn:country_code":"MZ",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1094314,
+    "gn:latitude":-16.73667,
+    "gn:longitude":37.03056,
+    "gn:modification_date":"1998-12-04",
+    "gn:name":"Chefe Tubar\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1094314
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1efbb23f5e0c9194043395ec8b949110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700047,
+            "locality_id":1243057565,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1243057565,
+    "wof:lastmodified":1536867959,
+    "wof:name":"Chefe Tubarao",
+    "wof:parent_id":1091700047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.03056,
+    -16.73667,
+    37.03056,
+    -16.73667
+],
+  "geometry": {"coordinates":[37.03056,-16.73667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243161941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.88889,-15.70333,37.88889,-15.70333",
+    "geom:latitude":-15.70333,
+    "geom:longitude":37.88889,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Muaua",
+    "gn:country_code":"MZ",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1091311,
+    "gn:latitude":-15.70333,
+    "gn:longitude":37.88889,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"Muaua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091696213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1091311
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"421c34035ac79fb522387042a8d5b00b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696213,
+            "locality_id":1243161941,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1243161941,
+    "wof:lastmodified":1536719125,
+    "wof:name":"Muaua",
+    "wof:parent_id":1091696213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.88889,
+    -15.70333,
+    37.88889,
+    -15.70333
+],
+  "geometry": {"coordinates":[37.88889,-15.70333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226757235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.95528,-13.18306,39.95528,-13.18306",
+    "geom:latitude":-13.18306,
+    "geom:longitude":39.95528,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Mecete",
+    "gn:country_code":"MZ",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1039317,
+    "gn:latitude":-13.18306,
+    "gn:longitude":39.95528,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Mecete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1039317
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ecc87dfdc99cf4f99735de14ead302f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696241,
+            "locality_id":1226757235,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1226757235,
+    "wof:lastmodified":1536699191,
+    "wof:name":"Mecete",
+    "wof:parent_id":1091696241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.95528,
+    -13.18306,
+    39.95528,
+    -13.18306
+],
+  "geometry": {"coordinates":[39.95528,-13.18306],"type":"Point"}
+}

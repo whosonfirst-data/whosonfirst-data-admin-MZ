@@ -1,0 +1,61 @@
+{
+  "id": 1209626841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.17333,-24.20778,35.17333,-24.20778",
+    "geom:latitude":-24.20778,
+    "geom:longitude":35.17333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chefe Nhabombo",
+    "gn:country_code":"MZ",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1101650,
+    "gn:latitude":-24.20778,
+    "gn:longitude":35.17333,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Chefe Nhabombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1101650
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"fa393913e2c86cfcf6f33550e6520781",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209626841
+        }
+    ],
+    "wof:id":1209626841,
+    "wof:lastmodified":1536281328,
+    "wof:name":"Chefe Nhabombo",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.17333,
+    -24.20778,
+    35.17333,
+    -24.20778
+],
+  "geometry": {"coordinates":[35.17333,-24.20778],"type":"Point"}
+}

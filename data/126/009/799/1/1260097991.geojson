@@ -1,0 +1,73 @@
+{
+  "id": 1260097991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.50874,-10.59536,40.50874,-10.59536",
+    "geom:latitude":-10.59536,
+    "geom:longitude":40.50874,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Quionga",
+    "gn:country_code":"MZ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028345,
+    "gn:latitude":-10.59536,
+    "gn:longitude":40.50874,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Quionga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_historical":[
+        "Keonga"
+    ],
+    "name:eng_x_preferred":[
+        "Keonga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028345
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f43b38116c055915c4a518ff715e8d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701223,
+            "locality_id":1260097991,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1260097991,
+    "wof:lastmodified":1537674489,
+    "wof:name":"Quionga",
+    "wof:parent_id":1091701223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.50874,
+    -10.59536,
+    40.50874,
+    -10.59536
+],
+  "geometry": {"coordinates":[40.50874,-10.59536],"type":"Point"}
+}

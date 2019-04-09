@@ -1,0 +1,67 @@
+{
+  "id": 1360088123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.2975,-24.66472,34.2975,-24.66472",
+    "geom:latitude":-24.66472,
+    "geom:longitude":34.2975,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"F. Sinequico",
+    "gn:country_code":"MZ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1099659,
+    "gn:latitude":-24.66472,
+    "gn:longitude":34.2975,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"F. Sinequi\u00e7o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091698967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1099659
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"07d0b164ce304b5bac6c46e5046b75fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698967,
+            "locality_id":1360088123,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1360088123,
+    "wof:lastmodified":1536941832,
+    "wof:name":"F. Sinequico",
+    "wof:parent_id":1091698967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.2975,
+    -24.66472000000001,
+    34.2975,
+    -24.66472000000001
+],
+  "geometry": {"coordinates":[34.2975,-24.66472000000001],"type":"Point"}
+}

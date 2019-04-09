@@ -1,0 +1,72 @@
+{
+  "id": 1292992635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.54278,-13.73889,35.54278,-13.73889",
+    "geom:latitude":-13.73889,
+    "geom:longitude":35.54278,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Aldeia Lucucho",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042279,
+    "gn:latitude":-13.73889,
+    "gn:longitude":35.54278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aldeia Lucucho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Macungane",
+        "Aldeia Lucucho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091701091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042279
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0559c58a297e30dff171ad9f03fd3aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701091,
+            "locality_id":1292992635,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1292992635,
+    "wof:lastmodified":1537674553,
+    "wof:name":"Aldeia Lucucho",
+    "wof:parent_id":1091701091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.54278,
+    -13.73889,
+    35.54278,
+    -13.73889
+],
+  "geometry": {"coordinates":[35.54278,-13.73889],"type":"Point"}
+}

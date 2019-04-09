@@ -1,0 +1,67 @@
+{
+  "id": 1276136953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.5275,-11.54389,39.5275,-11.54389",
+    "geom:latitude":-11.54389,
+    "geom:longitude":39.5275,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Netonia",
+    "gn:country_code":"MZ",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1032057,
+    "gn:latitude":-11.54389,
+    "gn:longitude":39.5275,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Netonia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1032057
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"003f28029f445c75f5945e85c5b16de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700457,
+            "locality_id":1276136953,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1276136953,
+    "wof:lastmodified":1537040078,
+    "wof:name":"Netonia",
+    "wof:parent_id":1091700457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.5275,
+    -11.54389,
+    39.5275,
+    -11.54389
+],
+  "geometry": {"coordinates":[39.5275,-11.54389],"type":"Point"}
+}

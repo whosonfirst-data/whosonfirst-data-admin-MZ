@@ -1,0 +1,67 @@
+{
+  "id": 1310586775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56306,-15.00361,31.56306,-15.00361",
+    "geom:latitude":-15.00361,
+    "geom:longitude":31.56306,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Campapa",
+    "gn:country_code":"MZ",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051391,
+    "gn:latitude":-15.00361,
+    "gn:longitude":31.56306,
+    "gn:modification_date":"1997-05-30",
+    "gn:name":"Campapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091699093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051391
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"47dab3a3e2075be4e1b5fca02db6a25b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699093,
+            "locality_id":1310586775,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1310586775,
+    "wof:lastmodified":1536799829,
+    "wof:name":"Campapa",
+    "wof:parent_id":1091699093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56306,
+    -15.00361,
+    31.56306,
+    -15.00361
+],
+  "geometry": {"coordinates":[31.56306,-15.00361],"type":"Point"}
+}

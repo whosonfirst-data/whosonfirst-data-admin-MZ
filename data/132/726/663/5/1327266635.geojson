@@ -1,0 +1,67 @@
+{
+  "id": 1327266635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.29167,-26.04333,32.29167,-26.04333",
+    "geom:latitude":-26.04333,
+    "geom:longitude":32.29167,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chefe Massaca",
+    "gn:country_code":"MZ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089755,
+    "gn:latitude":-26.04333,
+    "gn:longitude":32.29167,
+    "gn:modification_date":"1997-09-02",
+    "gn:name":"Chefe Massaca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091700825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089755
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b5f7d5fad814c70e3e4a559a0d02ece7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700825,
+            "locality_id":1327266635,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1327266635,
+    "wof:lastmodified":1536920893,
+    "wof:name":"Chefe Massaca",
+    "wof:parent_id":1091700825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.29167,
+    -26.04333,
+    32.29167,
+    -26.04333
+],
+  "geometry": {"coordinates":[32.29167,-26.04333],"type":"Point"}
+}

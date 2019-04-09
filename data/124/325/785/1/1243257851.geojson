@@ -1,0 +1,67 @@
+{
+  "id": 1243257851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.37944,-19.07389,33.37944,-19.07389",
+    "geom:latitude":-19.07389,
+    "geom:longitude":33.37944,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bonda",
+    "gn:country_code":"MZ",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052097,
+    "gn:latitude":-19.07389,
+    "gn:longitude":33.37944,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Bonda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091697585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052097
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9e0bf394bb3e288ca837429cd447db9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697585,
+            "locality_id":1243257851,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1243257851,
+    "wof:lastmodified":1537074331,
+    "wof:name":"Bonda",
+    "wof:parent_id":1091697585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.37944,
+    -19.07389,
+    33.37944,
+    -19.07389
+],
+  "geometry": {"coordinates":[33.37944,-19.07389],"type":"Point"}
+}

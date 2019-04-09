@@ -1,0 +1,67 @@
+{
+  "id": 1327328159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.27889,-17.5975,37.27889,-17.5975",
+    "geom:latitude":-17.5975,
+    "geom:longitude":37.27889,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Cotoa",
+    "gn:country_code":"MZ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047715,
+    "gn:latitude":-17.5975,
+    "gn:longitude":37.27889,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Cotoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047715
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"af56972d0b6473a5d433683d1d397f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700865,
+            "locality_id":1327328159,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1327328159,
+    "wof:lastmodified":1536830379,
+    "wof:name":"Cotoa",
+    "wof:parent_id":1091700865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.27889,
+    -17.5975,
+    37.27889,
+    -17.5975
+],
+  "geometry": {"coordinates":[37.27889,-17.5975],"type":"Point"}
+}

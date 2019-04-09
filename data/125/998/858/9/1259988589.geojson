@@ -1,0 +1,72 @@
+{
+  "id": 1259988589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.22278,-22.03833,32.22278,-22.03833",
+    "geom:latitude":-22.03833,
+    "geom:longitude":32.22278,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Chefe Malonguete",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041380,
+    "gn:latitude":-22.03833,
+    "gn:longitude":32.22278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chefe Malonguete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malonguete",
+        "Chefe Malonguete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041380
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"55be6c5117749ded6b56a34e8bae4126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696621,
+            "locality_id":1259988589,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1259988589,
+    "wof:lastmodified":1537674546,
+    "wof:name":"Chefe Malonguete",
+    "wof:parent_id":1091696621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.22278,
+    -22.03833,
+    32.22278,
+    -22.03833
+],
+  "geometry": {"coordinates":[32.22278,-22.03833],"type":"Point"}
+}

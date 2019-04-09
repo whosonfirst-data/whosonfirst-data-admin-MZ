@@ -1,0 +1,67 @@
+{
+  "id": 1260186477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.80194,-11.76833,39.80194,-11.76833",
+    "geom:latitude":-11.76833,
+    "geom:longitude":39.80194,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Capoca",
+    "gn:country_code":"MZ",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051083,
+    "gn:latitude":-11.76833,
+    "gn:longitude":39.80194,
+    "gn:modification_date":"1995-02-07",
+    "gn:name":"Capoca",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051083
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9aff564c92658e55183e93bf33af3f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700543,
+            "locality_id":1260186477,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1260186477,
+    "wof:lastmodified":1536842747,
+    "wof:name":"Capoca",
+    "wof:parent_id":1091700543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.80194,
+    -11.76833,
+    39.80194,
+    -11.76833
+],
+  "geometry": {"coordinates":[39.80194,-11.76833],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1292902733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.65611,-20.26639,34.65611,-20.26639",
+    "geom:latitude":-20.26639,
+    "geom:longitude":34.65611,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Ampara",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053023,
+    "gn:latitude":-20.26639,
+    "gn:longitude":34.65611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ampara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amparo",
+        "Ampara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053023
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"72bc4904c12dc6977ef9c0dbecc685e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696395,
+            "locality_id":1292902733,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1292902733,
+    "wof:lastmodified":1537674612,
+    "wof:name":"Ampara",
+    "wof:parent_id":1091696395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.65611,
+    -20.26639,
+    34.65611,
+    -20.26639
+],
+  "geometry": {"coordinates":[34.65611,-20.26639],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209311471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.78639,-14.96972,31.78639,-14.96972",
+    "geom:latitude":-14.96972,
+    "geom:longitude":31.78639,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Caiandza",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051654,
+    "gn:latitude":-14.96972,
+    "gn:longitude":31.78639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Caiandza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caiandxa",
+        "Caiandza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051654
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3a7c3ff41637eaf6baab68d8ab94c21e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209311471
+        }
+    ],
+    "wof:id":1209311471,
+    "wof:lastmodified":1537674604,
+    "wof:name":"Caiandza",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.78639,
+    -14.96972,
+    31.78639,
+    -14.96972
+],
+  "geometry": {"coordinates":[31.78639,-14.96972],"type":"Point"}
+}

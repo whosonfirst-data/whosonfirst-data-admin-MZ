@@ -1,0 +1,72 @@
+{
+  "id": 1243358607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.18972,-17.94,34.18972,-17.94",
+    "geom:latitude":-17.94,
+    "geom:longitude":34.18972,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Chibanto",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049924,
+    "gn:latitude":-17.94,
+    "gn:longitude":34.18972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chibanto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chibante",
+        "Chibanto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091698625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049924
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6228121519167ff3bddfc7dcdc94acbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698625,
+            "locality_id":1243358607,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1243358607,
+    "wof:lastmodified":1537674594,
+    "wof:name":"Chibanto",
+    "wof:parent_id":1091698625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.18972,
+    -17.94,
+    34.18972,
+    -17.94
+],
+  "geometry": {"coordinates":[34.18972,-17.94],"type":"Point"}
+}

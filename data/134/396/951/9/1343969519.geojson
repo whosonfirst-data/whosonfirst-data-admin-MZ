@@ -1,0 +1,67 @@
+{
+  "id": 1343969519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.82694,-21.36944,34.82694,-21.36944",
+    "geom:latitude":-21.36944,
+    "geom:longitude":34.82694,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Guanhissane",
+    "gn:country_code":"MZ",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1045727,
+    "gn:latitude":-21.36944,
+    "gn:longitude":34.82694,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Guanhissane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674845,
+        1091697673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1045727
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"309b719b355dc4c77bc9db48ad31cd6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697673,
+            "locality_id":1343969519,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":1343969519,
+    "wof:lastmodified":1537006154,
+    "wof:name":"Guanhissane",
+    "wof:parent_id":1091697673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.82694,
+    -21.36944,
+    34.82694,
+    -21.36944
+],
+  "geometry": {"coordinates":[34.82694,-21.36944],"type":"Point"}
+}

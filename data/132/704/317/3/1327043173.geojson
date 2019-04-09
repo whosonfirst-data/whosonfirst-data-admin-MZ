@@ -1,0 +1,67 @@
+{
+  "id": 1327043173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.07111,-23.89889,33.07111,-23.89889",
+    "geom:latitude":-23.89889,
+    "geom:longitude":33.07111,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tuto",
+    "gn:country_code":"MZ",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1103907,
+    "gn:latitude":-23.89889,
+    "gn:longitude":33.07111,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Tuto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091697721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1103907
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f3fd1aff7b61454b21165191061f1caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697721,
+            "locality_id":1327043173,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1327043173,
+    "wof:lastmodified":1536744545,
+    "wof:name":"Tuto",
+    "wof:parent_id":1091697721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.07111,
+    -23.89889,
+    33.07111,
+    -23.89889
+],
+  "geometry": {"coordinates":[33.07111,-23.89889],"type":"Point"}
+}

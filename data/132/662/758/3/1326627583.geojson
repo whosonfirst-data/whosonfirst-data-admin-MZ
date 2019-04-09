@@ -1,0 +1,67 @@
+{
+  "id": 1326627583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.26861,-15.42028,40.26861,-15.42028",
+    "geom:latitude":-15.42028,
+    "geom:longitude":40.26861,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Caira",
+    "gn:country_code":"MZ",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1051643,
+    "gn:latitude":-15.42028,
+    "gn:longitude":40.26861,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Ca\u00edra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1051643
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2742294423d10c0386e07751e16bf7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700091,
+            "locality_id":1326627583,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1326627583,
+    "wof:lastmodified":1536845468,
+    "wof:name":"Caira",
+    "wof:parent_id":1091700091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.26861,
+    -15.42028,
+    40.26861,
+    -15.42028
+],
+  "geometry": {"coordinates":[40.26861,-15.42028],"type":"Point"}
+}

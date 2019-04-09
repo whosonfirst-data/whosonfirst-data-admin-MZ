@@ -1,0 +1,67 @@
+{
+  "id": 1193269727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.4825,-13.235,37.4825,-13.235",
+    "geom:latitude":-13.235,
+    "geom:longitude":37.4825,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mucumba",
+    "gn:country_code":"MZ",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1085971,
+    "gn:latitude":-13.235,
+    "gn:longitude":37.4825,
+    "gn:modification_date":"1997-03-24",
+    "gn:name":"Mucumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1085971
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"c9951c555e8dce139aab1b46ebbbd066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699257,
+            "locality_id":1193269727,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1193269727,
+    "wof:lastmodified":1536372010,
+    "wof:name":"Mucumba",
+    "wof:parent_id":1091699257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.4825,
+    -13.235,
+    37.4825,
+    -13.235
+],
+  "geometry": {"coordinates":[37.4825,-13.235],"type":"Point"}
+}

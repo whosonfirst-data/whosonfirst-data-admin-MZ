@@ -1,0 +1,61 @@
+{
+  "id": 1209537721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.62444,-15.16556,38.62444,-15.16556",
+    "geom:latitude":-15.16556,
+    "geom:longitude":38.62444,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Namalele",
+    "gn:country_code":"MZ",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1093451,
+    "gn:latitude":-15.16556,
+    "gn:longitude":38.62444,
+    "gn:modification_date":"1998-12-03",
+    "gn:name":"Namalele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1093451
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4c9324febabe4c506837cf4dda65da05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209537721
+        }
+    ],
+    "wof:id":1209537721,
+    "wof:lastmodified":1536284085,
+    "wof:name":"Namalele",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.62444,
+    -15.16556,
+    38.62444,
+    -15.16556
+],
+  "geometry": {"coordinates":[38.62444,-15.16556],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310694073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.00889,-14.87611,39.00889,-14.87611",
+    "geom:latitude":-14.87611,
+    "geom:longitude":39.00889,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Cabo Bomba",
+    "gn:country_code":"MZ",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1088453,
+    "gn:latitude":-14.87611,
+    "gn:longitude":39.00889,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Cabo Bomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674827,
+        1091700965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1088453
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e822c034a4faa9c985ca8352dede530d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700965,
+            "locality_id":1310694073,
+            "region_id":85674827
+        }
+    ],
+    "wof:id":1310694073,
+    "wof:lastmodified":1536644271,
+    "wof:name":"Cabo Bomba",
+    "wof:parent_id":1091700965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.00889,
+    -14.87611,
+    39.00889,
+    -14.87611
+],
+  "geometry": {"coordinates":[39.00889,-14.87611],"type":"Point"}
+}

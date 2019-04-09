@@ -1,0 +1,67 @@
+{
+  "id": 1343450009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.14056,-18.41361,33.14056,-18.41361",
+    "geom:latitude":-18.41361,
+    "geom:longitude":33.14056,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Cumula",
+    "gn:country_code":"MZ",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1047488,
+    "gn:latitude":-18.41361,
+    "gn:longitude":33.14056,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Cumula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091696359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1047488
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"07fb9486dca0810a1ad90500366bfeb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696359,
+            "locality_id":1343450009,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1343450009,
+    "wof:lastmodified":1536761569,
+    "wof:name":"Cumula",
+    "wof:parent_id":1091696359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.14056,
+    -18.41361,
+    33.14056,
+    -18.41361
+],
+  "geometry": {"coordinates":[33.14056,-18.41361],"type":"Point"}
+}

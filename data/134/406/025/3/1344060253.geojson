@@ -1,0 +1,72 @@
+{
+  "id": 1344060253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.80833,-23.57778,33.80833,-23.57778",
+    "geom:latitude":-23.57778,
+    "geom:longitude":33.80833,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Massocho",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036411,
+    "gn:latitude":-23.57778,
+    "gn:longitude":33.80833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Massocho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muco\u00e9pa",
+        "Massocho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036411
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d009c4738c2327f4d8f943bbd9192482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696709,
+            "locality_id":1344060253,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1344060253,
+    "wof:lastmodified":1537674519,
+    "wof:name":"Massocho",
+    "wof:parent_id":1091696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.80833,
+    -23.57778,
+    33.80833,
+    -23.57778
+],
+  "geometry": {"coordinates":[33.80833,-23.57778],"type":"Point"}
+}

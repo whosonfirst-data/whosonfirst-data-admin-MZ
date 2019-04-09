@@ -1,0 +1,67 @@
+{
+  "id": 1226654615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.39389,-23.97111,32.39389,-23.97111",
+    "geom:latitude":-23.97111,
+    "geom:longitude":32.39389,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Puvanhane",
+    "gn:country_code":"MZ",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1028462,
+    "gn:latitude":-23.97111,
+    "gn:longitude":32.39389,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Puvanhane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091699347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1028462
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cac5269a87b697bcf81f4fc2d031d3c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699347,
+            "locality_id":1226654615,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1226654615,
+    "wof:lastmodified":1536845481,
+    "wof:name":"Puvanhane",
+    "wof:parent_id":1091699347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.39389,
+    -23.97111,
+    32.39389,
+    -23.97111
+],
+  "geometry": {"coordinates":[32.39389,-23.97111],"type":"Point"}
+}

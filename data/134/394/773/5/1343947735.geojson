@@ -1,0 +1,67 @@
+{
+  "id": 1343947735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.0125,-15.33639,37.0125,-15.33639",
+    "geom:latitude":-15.33639,
+    "geom:longitude":37.0125,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Nansua",
+    "gn:country_code":"MZ",
+    "gn:dem":1369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1033017,
+    "gn:latitude":-15.33639,
+    "gn:longitude":37.0125,
+    "gn:modification_date":"1998-06-01",
+    "gn:name":"Nansua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1033017
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f9c18e65b7307b0f76186fa9c41714b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697801,
+            "locality_id":1343947735,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1343947735,
+    "wof:lastmodified":1537036827,
+    "wof:name":"Nansua",
+    "wof:parent_id":1091697801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.0125,
+    -15.33639,
+    37.0125,
+    -15.33639
+],
+  "geometry": {"coordinates":[37.0125,-15.33639],"type":"Point"}
+}

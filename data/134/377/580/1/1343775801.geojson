@@ -1,0 +1,67 @@
+{
+  "id": 1343775801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.01833,-11.34056,40.01833,-11.34056",
+    "geom:latitude":-11.34056,
+    "geom:longitude":40.01833,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chengoge",
+    "gn:country_code":"MZ",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050058,
+    "gn:latitude":-11.34056,
+    "gn:longitude":40.01833,
+    "gn:modification_date":"1995-02-06",
+    "gn:name":"Cheng\u00f4ge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050058
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f4db8d081cd7a17411fb7f5d75cbfbff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700013,
+            "locality_id":1343775801,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1343775801,
+    "wof:lastmodified":1536789180,
+    "wof:name":"Chengoge",
+    "wof:parent_id":1091700013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.01833,
+    -11.34056,
+    40.01833,
+    -11.34056
+],
+  "geometry": {"coordinates":[40.01833,-11.34056],"type":"Point"}
+}

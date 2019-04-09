@@ -1,0 +1,72 @@
+{
+  "id": 1309745163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.37528,-25.04667,32.37528,-25.04667",
+    "geom:latitude":-25.04667,
+    "geom:longitude":32.37528,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Machanza",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036470,
+    "gn:latitude":-25.04667,
+    "gn:longitude":32.37528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Machanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muchaza",
+        "Machanza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674849,
+        1091699925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036470
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"4d873f918311c479dc75a6f6f62e77fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699925,
+            "locality_id":1309745163,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":1309745163,
+    "wof:lastmodified":1537674520,
+    "wof:name":"Machanza",
+    "wof:parent_id":1091699925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.37528,
+    -25.04667,
+    32.37528,
+    -25.04667
+],
+  "geometry": {"coordinates":[32.37528,-25.04667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226668801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.49917,-18.13639,34.49917,-18.13639",
+    "geom:latitude":-18.13639,
+    "geom:longitude":34.49917,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Chimoio",
+    "gn:country_code":"MZ",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1049262,
+    "gn:latitude":-18.13639,
+    "gn:longitude":34.49917,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Chimoio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091699141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1049262
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d12a0763ed3a3d3ed70bb8d3d7205757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699141,
+            "locality_id":1226668801,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":1226668801,
+    "wof:lastmodified":1536825377,
+    "wof:name":"Chimoio",
+    "wof:parent_id":1091699141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.49917,
+    -18.13639,
+    34.49917,
+    -18.13639
+],
+  "geometry": {"coordinates":[34.49917,-18.13639],"type":"Point"}
+}

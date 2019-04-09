@@ -1,0 +1,61 @@
+{
+  "id": 1209107801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.01306,-23.63583,35.01306,-23.63583",
+    "geom:latitude":-23.63583,
+    "geom:longitude":35.01306,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Saiete",
+    "gn:country_code":"MZ",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1027665,
+    "gn:latitude":-23.63583,
+    "gn:longitude":35.01306,
+    "gn:modification_date":"1998-12-09",
+    "gn:name":"Saiete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1027665
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"a69bab67c87d2d6109e67dd247dc540f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209107801
+        }
+    ],
+    "wof:id":1209107801,
+    "wof:lastmodified":1536297509,
+    "wof:name":"Saiete",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01306,
+    -23.63583,
+    35.01306,
+    -23.63583
+],
+  "geometry": {"coordinates":[35.01306,-23.63583],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293010211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.21083,-12.79667,40.21083,-12.79667",
+    "geom:latitude":-12.79667,
+    "geom:longitude":40.21083,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Napato",
+    "gn:country_code":"MZ",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1032802,
+    "gn:latitude":-12.79667,
+    "gn:longitude":40.21083,
+    "gn:modification_date":"1997-02-10",
+    "gn:name":"Napato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091701325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1032802
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"cf8f230399d41cf095fc6c12dd8208a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701325,
+            "locality_id":1293010211,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1293010211,
+    "wof:lastmodified":1536977399,
+    "wof:name":"Napato",
+    "wof:parent_id":1091701325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.21083,
+    -12.79667,
+    40.21083,
+    -12.79667
+],
+  "geometry": {"coordinates":[40.21083,-12.79667],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 421196415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.3825,-17.81917,35.3825,-17.81917",
+    "geom:latitude":-17.81917,
+    "geom:longitude":35.3825,
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"MZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1095517,
+    "qs:gn_pop":0,
+    "qs:name":"Vila Fontes",
+    "qs:name_adm0":"Mo\u00e7ambique",
+    "qs:name_adm1":"Sofala",
+    "qs:photos":24,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":24,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":58987,
+    "qs:woe_adm0":23424902,
+    "qs:woe_id":1556243,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674835,
+        1091696493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1095517,
+        "gp:id":1556243,
+        "qs:id":58987
+    },
+    "wof:country":"MZ",
+    "wof:created":1459009880,
+    "wof:geomhash":"94ae7f6fb648151b956718bae0dc76bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696493,
+            "locality_id":421196415,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":421196415,
+    "wof:lastmodified":1500016263,
+    "wof:name":"Vila Fontes",
+    "wof:parent_id":1091696493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3825,
+    -17.81917,
+    35.3825,
+    -17.81917
+],
+  "geometry": {"coordinates":[35.3825,-17.81917],"type":"Point"}
+}

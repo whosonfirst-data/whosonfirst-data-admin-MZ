@@ -1,0 +1,68 @@
+{
+  "id": 1259379557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.19639,-13.42222,36.19639,-13.42222",
+    "geom:latitude":-13.42222,
+    "geom:longitude":36.19639,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Cassembe",
+    "gn:country_code":"MZ",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1050932,
+    "gn:latitude":-13.42222,
+    "gn:longitude":36.19639,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Cassembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1050932,
+        "wk:page":"Cassembe,_Mozambique"
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9c6d8fed70acf9ee011ae7b003fb2e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698823,
+            "locality_id":1259379557,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1259379557,
+    "wof:lastmodified":1537569937,
+    "wof:name":"Cassembe",
+    "wof:parent_id":1091698823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.19639,
+    -13.42222,
+    36.19639,
+    -13.42222
+],
+  "geometry": {"coordinates":[36.19639,-13.42222],"type":"Point"}
+}

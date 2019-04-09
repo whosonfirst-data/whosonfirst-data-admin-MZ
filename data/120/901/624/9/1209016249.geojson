@@ -1,0 +1,61 @@
+{
+  "id": 1209016249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.7925,-24.50833,34.7925,-24.50833",
+    "geom:latitude":-24.50833,
+    "geom:longitude":34.7925,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mambene",
+    "gn:country_code":"MZ",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1098602,
+    "gn:latitude":-24.50833,
+    "gn:longitude":34.7925,
+    "gn:modification_date":"1998-12-10",
+    "gn:name":"Mambene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1098602
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"2315eb7f360dd1bf93f395542523404a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209016249
+        }
+    ],
+    "wof:id":1209016249,
+    "wof:lastmodified":1536300290,
+    "wof:name":"Mambene",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.7925,
+    -24.50833,
+    34.7925,
+    -24.50833
+],
+  "geometry": {"coordinates":[34.7925,-24.50833],"type":"Point"}
+}

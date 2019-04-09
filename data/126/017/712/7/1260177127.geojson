@@ -1,0 +1,67 @@
+{
+  "id": 1260177127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.22194,-19.35917,33.22194,-19.35917",
+    "geom:latitude":-19.35917,
+    "geom:longitude":33.22194,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Cadas",
+    "gn:country_code":"MZ",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1096275,
+    "gn:latitude":-19.35917,
+    "gn:longitude":33.22194,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Cadas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091701483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1096275
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"df6d30836b3fbdf84e60df8afe7903f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701483,
+            "locality_id":1260177127,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1260177127,
+    "wof:lastmodified":1536855584,
+    "wof:name":"Cadas",
+    "wof:parent_id":1091701483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.22194,
+    -19.35917,
+    33.22194,
+    -19.35917
+],
+  "geometry": {"coordinates":[33.22194,-19.35917],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343264887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.45806,-25.19556,33.45806,-25.19556",
+    "geom:latitude":-25.19556,
+    "geom:longitude":33.45806,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"M. Chiramino",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1035871,
+    "gn:latitude":-25.19556,
+    "gn:longitude":33.45806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"M. Chiramino",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chirrama",
+        "Mula",
+        "M. Chiramino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091701651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1035871
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"6b32b7c24ed05085a0b34868e71ccece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701651,
+            "locality_id":1343264887,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1343264887,
+    "wof:lastmodified":1537674515,
+    "wof:name":"M. Chiramino",
+    "wof:parent_id":1091701651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.45806,
+    -25.19556,
+    33.45806,
+    -25.19556
+],
+  "geometry": {"coordinates":[33.45806,-25.19556],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209310293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.85972,-15.82944,36.85972,-15.82944",
+    "geom:latitude":-15.82944,
+    "geom:longitude":36.85972,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Maquia",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036664,
+    "gn:latitude":-15.82944,
+    "gn:longitude":36.85972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maquia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muaquia",
+        "Maquia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036664
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"5a7de490ab63d2f90b9e245b5e6ba4e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209310293
+        }
+    ],
+    "wof:id":1209310293,
+    "wof:lastmodified":1537674521,
+    "wof:name":"Maquia",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.85972,
+    -15.82944,
+    36.85972,
+    -15.82944
+],
+  "geometry": {"coordinates":[36.85972,-15.82944],"type":"Point"}
+}

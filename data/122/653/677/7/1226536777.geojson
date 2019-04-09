@@ -1,0 +1,67 @@
+{
+  "id": 1226536777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.90889,-15.44111,35.90889,-15.44111",
+    "geom:latitude":-15.44111,
+    "geom:longitude":35.90889,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Bendela",
+    "gn:country_code":"MZ",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1052344,
+    "gn:latitude":-15.44111,
+    "gn:longitude":35.90889,
+    "gn:modification_date":"1998-05-15",
+    "gn:name":"Bendela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091699553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1052344
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7af6e921f7eed1b762363d0819ca4321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699553,
+            "locality_id":1226536777,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1226536777,
+    "wof:lastmodified":1537010346,
+    "wof:name":"Bendela",
+    "wof:parent_id":1091699553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.90889,
+    -15.44111,
+    35.90889,
+    -15.44111
+],
+  "geometry": {"coordinates":[35.90889,-15.44111],"type":"Point"}
+}

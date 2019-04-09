@@ -1,0 +1,67 @@
+{
+  "id": 1343565211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.14111,-13.35556,40.14111,-13.35556",
+    "geom:latitude":-13.35556,
+    "geom:longitude":40.14111,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Malina",
+    "gn:country_code":"MZ",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1041423,
+    "gn:latitude":-13.35556,
+    "gn:longitude":40.14111,
+    "gn:modification_date":"1997-04-17",
+    "gn:name":"Malina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091696771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1041423
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"f05f92faa8fa6d5ec5408b154f8daed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696771,
+            "locality_id":1343565211,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":1343565211,
+    "wof:lastmodified":1537089358,
+    "wof:name":"Malina",
+    "wof:parent_id":1091696771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.14111,
+    -13.35556,
+    40.14111,
+    -13.35556
+],
+  "geometry": {"coordinates":[40.14111,-13.35556],"type":"Point"}
+}

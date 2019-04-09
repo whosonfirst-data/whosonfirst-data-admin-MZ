@@ -1,0 +1,72 @@
+{
+  "id": 1326719609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.34472,-20.02222,33.34472,-20.02222",
+    "geom:latitude":-20.02222,
+    "geom:longitude":33.34472,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Muchoioio",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1036445,
+    "gn:latitude":-20.02222,
+    "gn:longitude":33.34472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Muchoioio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muchoioto",
+        "Muchoioio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674815,
+        1091701483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1036445
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"3cfd36f9168be3ad5c96b1b6f5fcef1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701483,
+            "locality_id":1326719609,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":1326719609,
+    "wof:lastmodified":1537674520,
+    "wof:name":"Muchoioio",
+    "wof:parent_id":1091701483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.34472,
+    -20.02222,
+    33.34472,
+    -20.02222
+],
+  "geometry": {"coordinates":[33.34472,-20.02222],"type":"Point"}
+}

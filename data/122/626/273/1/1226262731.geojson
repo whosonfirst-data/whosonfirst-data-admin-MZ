@@ -1,0 +1,67 @@
+{
+  "id": 1226262731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78,-15.10472,30.78,-15.10472",
+    "geom:latitude":-15.10472,
+    "geom:longitude":30.78,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Mafeito",
+    "gn:country_code":"MZ",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042045,
+    "gn:latitude":-15.10472,
+    "gn:longitude":30.78,
+    "gn:modification_date":"1997-05-19",
+    "gn:name":"Mafeito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091701729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042045
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ee9be92f6c9be506607c8d14a56e6808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701729,
+            "locality_id":1226262731,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":1226262731,
+    "wof:lastmodified":1536909525,
+    "wof:name":"Mafeito",
+    "wof:parent_id":1091701729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78,
+    -15.10472,
+    30.78,
+    -15.10472
+],
+  "geometry": {"coordinates":[30.78,-15.10472],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209009143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.17083,-18.575,34.17083,-18.575",
+    "geom:latitude":-18.575,
+    "geom:longitude":34.17083,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Machesse",
+    "gn:country_code":"MZ",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1042607,
+    "gn:latitude":-18.575,
+    "gn:longitude":34.17083,
+    "gn:modification_date":"1998-12-07",
+    "gn:name":"Machesse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1042607
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"ad1ffaa03bcd719e9e2132efd0ff305c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632729,
+            "locality_id":1209009143
+        }
+    ],
+    "wof:id":1209009143,
+    "wof:lastmodified":1536300504,
+    "wof:name":"Machesse",
+    "wof:parent_id":85632729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.17083,
+    -18.575,
+    34.17083,
+    -18.575
+],
+  "geometry": {"coordinates":[34.17083,-18.575],"type":"Point"}
+}

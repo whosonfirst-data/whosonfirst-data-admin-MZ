@@ -1,0 +1,67 @@
+{
+  "id": 1226543201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.81111,-23.22361,33.81111,-23.22361",
+    "geom:latitude":-23.22361,
+    "geom:longitude":33.81111,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tchaila",
+    "gn:country_code":"MZ",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1026265,
+    "gn:latitude":-23.22361,
+    "gn:longitude":33.81111,
+    "gn:modification_date":"1998-12-08",
+    "gn:name":"Tchaila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674831,
+        1091696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1026265
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e4af8b46ed6e4cb8f5ed3f88fe0201cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696709,
+            "locality_id":1226543201,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":1226543201,
+    "wof:lastmodified":1537000923,
+    "wof:name":"Tchaila",
+    "wof:parent_id":1091696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.81111,
+    -23.22361,
+    33.81111,
+    -23.22361
+],
+  "geometry": {"coordinates":[33.81111,-23.22361],"type":"Point"}
+}

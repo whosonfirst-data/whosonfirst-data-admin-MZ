@@ -1,0 +1,72 @@
+{
+  "id": 1309990395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.25917,-15.51167,38.25917,-15.51167",
+    "geom:latitude":-15.51167,
+    "geom:longitude":38.25917,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Alto Ligonha",
+    "gn:cc2":"MZ",
+    "gn:country_code":"MZ",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053144,
+    "gn:latitude":-15.51167,
+    "gn:longitude":38.25917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Alto Ligonha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maputo",
+    "iso:country":"MZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alto Lighona",
+        "Alto Ligonha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091697545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053144
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"840de360b1d89f30d5307e680ee80bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697545,
+            "locality_id":1309990395,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1309990395,
+    "wof:lastmodified":1537674613,
+    "wof:name":"Alto Ligonha",
+    "wof:parent_id":1091697545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.25917000000001,
+    -15.51167,
+    38.25917000000001,
+    -15.51167
+],
+  "geometry": {"coordinates":[38.25917000000001,-15.51167],"type":"Point"}
+}
