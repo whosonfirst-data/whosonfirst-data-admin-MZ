@@ -10,6 +10,12 @@
     "geom:latitude":-12.824453,
     "geom:longitude":35.812471,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Muembe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-12.81308,
     "lbl:longitude":35.777971,
     "meso:admin_1":"NIASSA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091700505,
-    "wof:lastmodified":1544032774,
+    "wof:lastmodified":1553717928,
     "wof:name":"Muembe",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

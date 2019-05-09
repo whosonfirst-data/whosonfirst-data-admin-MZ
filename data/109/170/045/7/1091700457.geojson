@@ -10,6 +10,12 @@
     "geom:latitude":-11.589132,
     "geom:longitude":39.130263,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Mueda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-11.565391,
     "lbl:longitude":39.191186,
     "meso:admin_1":"CABO_DELGADO",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1091700457,
-    "wof:lastmodified":1544032774,
+    "wof:lastmodified":1553717928,
     "wof:name":"Mueda",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

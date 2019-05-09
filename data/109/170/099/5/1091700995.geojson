@@ -10,6 +10,12 @@
     "geom:latitude":-13.743559,
     "geom:longitude":38.894539,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Namuno District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-13.723103,
     "lbl:longitude":38.903474,
     "meso:admin_1":"CABO_DELGADO",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1091700995,
-    "wof:lastmodified":1544032775,
+    "wof:lastmodified":1553717929,
     "wof:name":"Namuno",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

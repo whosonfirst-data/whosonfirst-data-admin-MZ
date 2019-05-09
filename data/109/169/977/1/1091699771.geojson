@@ -10,6 +10,12 @@
     "geom:latitude":-12.465315,
     "geom:longitude":39.623914,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Meluco District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-12.457896,
     "lbl:longitude":39.586021,
     "meso:admin_1":"CABO_DELGADO",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1091699771,
-    "wof:lastmodified":1544032769,
+    "wof:lastmodified":1553717923,
     "wof:name":"Meluco",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

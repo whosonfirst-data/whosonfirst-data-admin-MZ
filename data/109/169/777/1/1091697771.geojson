@@ -10,6 +10,12 @@
     "geom:latitude":-16.972208,
     "geom:longitude":33.538423,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Guro District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.987167,
     "lbl:longitude":33.53829,
     "meso:admin_1":"MANICA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091697771,
-    "wof:lastmodified":1544032760,
+    "wof:lastmodified":1553717913,
     "wof:name":"Guro",
     "wof:parent_id":85674815,
     "wof:placetype":"county",

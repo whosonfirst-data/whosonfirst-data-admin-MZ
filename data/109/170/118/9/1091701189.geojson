@@ -10,6 +10,12 @@
     "geom:latitude":-13.987139,
     "geom:longitude":37.903566,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Nipepe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-14.067613,
     "lbl:longitude":37.863334,
     "meso:admin_1":"NIASSA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091701189,
-    "wof:lastmodified":1544032776,
+    "wof:lastmodified":1553717930,
     "wof:name":"Nipepe",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

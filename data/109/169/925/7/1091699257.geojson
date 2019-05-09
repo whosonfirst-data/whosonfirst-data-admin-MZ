@@ -10,6 +10,12 @@
     "geom:latitude":-13.030274,
     "geom:longitude":37.519621,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Marrupa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-13.022027,
     "lbl:longitude":37.508073,
     "meso:admin_1":"NIASSA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091699257,
-    "wof:lastmodified":1544032767,
+    "wof:lastmodified":1553717921,
     "wof:name":"Marrupa",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

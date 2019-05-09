@@ -10,6 +10,12 @@
     "geom:latitude":-17.857706,
     "geom:longitude":34.484821,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Maringue District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.79776,
     "lbl:longitude":34.491762,
     "meso:admin_1":"SOFALA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091699141,
-    "wof:lastmodified":1544032766,
+    "wof:lastmodified":1553717920,
     "wof:name":"Maringue",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-21.042521,
     "geom:longitude":33.271271,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Machaze District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-21.148377,
     "lbl:longitude":33.270668,
     "meso:admin_1":"MANICA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091698535,
-    "wof:lastmodified":1544032763,
+    "wof:lastmodified":1553717913,
     "wof:name":"Machaze",
     "wof:parent_id":85674815,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-13.463893,
     "geom:longitude":38.407073,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Balama District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-13.459479,
     "lbl:longitude":38.36856,
     "meso:admin_1":"CABO_DELGADO",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1091696349,
-    "wof:lastmodified":1544032754,
+    "wof:lastmodified":1553717908,
     "wof:name":"Balama",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-15.539174,
     "geom:longitude":40.087354,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Mogincual District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.568555,
     "lbl:longitude":40.080819,
     "meso:admin_1":"NAMPULA",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1091700091,
-    "wof:lastmodified":1544032771,
+    "wof:lastmodified":1553717922,
     "wof:name":"Mogincual",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

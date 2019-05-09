@@ -10,6 +10,12 @@
     "geom:latitude":-22.836913,
     "geom:longitude":35.021388,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Massinga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-22.607418,
     "lbl:longitude":34.769839,
     "meso:admin_1":"INHAMBANE",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1091699313,
-    "wof:lastmodified":1544032767,
+    "wof:lastmodified":1553717920,
     "wof:name":"Massinga",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

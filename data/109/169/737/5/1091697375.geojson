@@ -10,6 +10,12 @@
     "geom:latitude":-14.747815,
     "geom:longitude":36.544848,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Cuamba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-14.728679,
     "lbl:longitude":36.616283,
     "meso:admin_1":"NIASSA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091697375,
-    "wof:lastmodified":1544032759,
+    "wof:lastmodified":1553717911,
     "wof:name":"Cuamba",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-13.96591,
     "geom:longitude":40.394368,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Memba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-13.964303,
     "lbl:longitude":40.364303,
     "meso:admin_1":"NAMPULA",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1091699799,
-    "wof:lastmodified":1544032769,
+    "wof:lastmodified":1553717926,
     "wof:name":"Memba",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

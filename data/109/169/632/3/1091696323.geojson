@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.273586,
-    "geom:area_square_m":3272595775.714133,
+    "geom:area_square_m":3272595775.714094,
     "geom:bbox":"33.7343711853,-15.1506557465,34.5506401062,-14.3842744827",
     "geom:latitude":-14.673889,
     "geom:longitude":34.163274,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Angonia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-14.679244,
     "lbl:longitude":34.157037,
     "meso:admin_1":"TETE",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1091696323,
-    "wof:lastmodified":1553816437,
+    "wof:lastmodified":1555037703,
     "wof:name":"Angonia",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

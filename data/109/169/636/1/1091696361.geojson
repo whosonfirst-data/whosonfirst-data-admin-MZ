@@ -10,6 +10,12 @@
     "geom:latitude":-25.025808,
     "geom:longitude":33.175327,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Bilene District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.032827,
     "lbl:longitude":33.17114,
     "meso:admin_1":"GAZA",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091696361,
-    "wof:lastmodified":1543954371,
+    "wof:lastmodified":1553717907,
     "wof:name":"Bilene",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

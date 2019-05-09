@@ -10,6 +10,12 @@
     "geom:latitude":-11.160008,
     "geom:longitude":39.775698,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Nangade District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-11.162227,
     "lbl:longitude":39.781254,
     "meso:admin_1":"CABO_DELGADO",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1091701043,
-    "wof:lastmodified":1544032776,
+    "wof:lastmodified":1553717930,
     "wof:name":"Nangade",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

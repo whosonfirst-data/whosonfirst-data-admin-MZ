@@ -10,6 +10,12 @@
     "geom:latitude":-17.782501,
     "geom:longitude":35.008312,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Caia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.771626,
     "lbl:longitude":35.008344,
     "meso:admin_1":"SOFALA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091696493,
-    "wof:lastmodified":1544032755,
+    "wof:lastmodified":1553717908,
     "wof:name":"Caia",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

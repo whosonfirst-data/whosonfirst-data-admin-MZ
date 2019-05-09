@@ -10,6 +10,12 @@
     "geom:latitude":-17.481231,
     "geom:longitude":37.072915,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Namacurra District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.475886,
     "lbl:longitude":37.068524,
     "meso:admin_1":"ZAMBEZIA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091700865,
-    "wof:lastmodified":1544032775,
+    "wof:lastmodified":1553717929,
     "wof:name":"Namacurra",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

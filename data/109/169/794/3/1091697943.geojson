@@ -10,6 +10,12 @@
     "geom:latitude":-16.180379,
     "geom:longitude":37.466093,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Ile District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.188292,
     "lbl:longitude":37.473305,
     "meso:admin_1":"ZAMBEZIA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091697943,
-    "wof:lastmodified":1544032760,
+    "wof:lastmodified":1553717913,
     "wof:name":"Ile",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

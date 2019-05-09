@@ -10,6 +10,12 @@
     "geom:latitude":-12.604018,
     "geom:longitude":38.728147,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Montepuez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-12.512487,
     "lbl:longitude":38.716911,
     "meso:admin_1":"CABO_DELGADO",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1091700221,
-    "wof:lastmodified":1544032772,
+    "wof:lastmodified":1553717926,
     "wof:name":"Montepuez",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

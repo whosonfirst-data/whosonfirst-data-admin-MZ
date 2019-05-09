@@ -10,6 +10,12 @@
     "geom:latitude":-14.801614,
     "geom:longitude":33.534856,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Macanga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-14.862889,
     "lbl:longitude":33.498964,
     "meso:admin_1":"TETE",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091698455,
-    "wof:lastmodified":1544032762,
+    "wof:lastmodified":1553717916,
     "wof:name":"Macanga",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

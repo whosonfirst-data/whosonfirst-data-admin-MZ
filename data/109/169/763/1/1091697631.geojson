@@ -10,6 +10,12 @@
     "geom:latitude":-18.613609,
     "geom:longitude":34.217183,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Gorongosa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.632802,
     "lbl:longitude":34.209346,
     "meso:admin_1":"SOFALA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091697631,
-    "wof:lastmodified":1544032759,
+    "wof:lastmodified":1553717917,
     "wof:name":"Gorongosa",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

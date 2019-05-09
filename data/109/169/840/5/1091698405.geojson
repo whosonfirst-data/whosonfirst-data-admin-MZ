@@ -10,6 +10,12 @@
     "geom:latitude":-22.002786,
     "geom:longitude":33.80151,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Mabote District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-21.908163,
     "lbl:longitude":33.790543,
     "meso:admin_1":"INHAMBANE",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1091698405,
-    "wof:lastmodified":1544032762,
+    "wof:lastmodified":1553717914,
     "wof:name":"Mabote",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

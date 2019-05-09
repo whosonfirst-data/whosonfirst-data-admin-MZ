@@ -10,6 +10,12 @@
     "geom:latitude":-13.320555,
     "geom:longitude":36.37365,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Majune District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-13.36531,
     "lbl:longitude":36.478045,
     "meso:admin_1":"NIASSA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091698823,
-    "wof:lastmodified":1544032765,
+    "wof:lastmodified":1553717917,
     "wof:name":"Majune",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

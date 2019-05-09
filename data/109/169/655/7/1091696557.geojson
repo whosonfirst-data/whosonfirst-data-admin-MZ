@@ -10,6 +10,12 @@
     "geom:latitude":-17.20599,
     "geom:longitude":34.630099,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Chemba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.205793,
     "lbl:longitude":34.658392,
     "meso:admin_1":"SOFALA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091696557,
-    "wof:lastmodified":1544032755,
+    "wof:lastmodified":1553717907,
     "wof:name":"Chemba",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

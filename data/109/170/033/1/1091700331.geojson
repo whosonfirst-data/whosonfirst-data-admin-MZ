@@ -10,6 +10,12 @@
     "geom:latitude":-20.513622,
     "geom:longitude":32.943321,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Mossurize District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-20.587612,
     "lbl:longitude":32.893,
     "meso:admin_1":"MANICA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091700331,
-    "wof:lastmodified":1544032773,
+    "wof:lastmodified":1553717927,
     "wof:name":"Mossurize",
     "wof:parent_id":85674815,
     "wof:placetype":"county",

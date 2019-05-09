@@ -10,6 +10,12 @@
     "geom:latitude":-15.972854,
     "geom:longitude":34.003451,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Moatize District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.118024,
     "lbl:longitude":33.995005,
     "meso:admin_1":"TETE",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1091699971,
-    "wof:lastmodified":1544032770,
+    "wof:lastmodified":1553717924,
     "wof:name":"Moatize",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

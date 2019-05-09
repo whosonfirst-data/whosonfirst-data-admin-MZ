@@ -10,6 +10,12 @@
     "geom:latitude":-22.911699,
     "geom:longitude":33.24966,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Chigubo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-22.345801,
     "lbl:longitude":32.966838,
     "meso:admin_1":"GAZA",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1091696709,
-    "wof:lastmodified":1544032757,
+    "wof:lastmodified":1553717910,
     "wof:name":"Chigubo",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

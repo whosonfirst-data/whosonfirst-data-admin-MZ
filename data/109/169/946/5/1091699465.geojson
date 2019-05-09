@@ -10,6 +10,12 @@
     "geom:latitude":-12.234798,
     "geom:longitude":36.406514,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Mavago District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-12.326696,
     "lbl:longitude":36.291161,
     "meso:admin_1":"NIASSA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091699465,
-    "wof:lastmodified":1544032768,
+    "wof:lastmodified":1553717920,
     "wof:name":"Mavago",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

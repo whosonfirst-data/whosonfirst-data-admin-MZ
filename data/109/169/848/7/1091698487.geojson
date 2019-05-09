@@ -10,6 +10,12 @@
     "geom:latitude":-20.91189,
     "geom:longitude":34.522237,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Machanga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-20.845085,
     "lbl:longitude":34.55443,
     "meso:admin_1":"SOFALA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091698487,
-    "wof:lastmodified":1544032763,
+    "wof:lastmodified":1553717915,
     "wof:name":"Machanga",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

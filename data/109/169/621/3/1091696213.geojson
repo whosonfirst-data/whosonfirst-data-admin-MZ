@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.534402,
-    "geom:area_square_m":6362963201.556148,
+    "geom:area_square_m":6362963201.556172,
     "geom:bbox":"37.206653595,-16.3007736206,38.0314979553,-15.1022815704",
     "geom:latitude":-15.649321,
     "geom:longitude":37.663844,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Alto Molocue District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.662416,
     "lbl:longitude":37.65761,
     "meso:admin_1":"ZAMBEZIA",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1091696213,
-    "wof:lastmodified":1553816437,
+    "wof:lastmodified":1555037704,
     "wof:name":"Alto Molocue",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

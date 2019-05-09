@@ -10,6 +10,12 @@
     "geom:latitude":-24.701493,
     "geom:longitude":32.438971,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Magude District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.631414,
     "lbl:longitude":32.446659,
     "meso:admin_1":"MAPUTO",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1091698763,
-    "wof:lastmodified":1544032764,
+    "wof:lastmodified":1553717926,
     "wof:name":"Magude",
     "wof:parent_id":85674849,
     "wof:placetype":"county",

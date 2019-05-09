@@ -10,6 +10,12 @@
     "geom:latitude":-26.526892,
     "geom:longitude":32.563104,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Matutuine District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-26.577394,
     "lbl:longitude":32.614003,
     "meso:admin_1":"MAPUTO",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091699383,
-    "wof:lastmodified":1544032768,
+    "wof:lastmodified":1553717920,
     "wof:name":"Matutuine",
     "wof:parent_id":85674849,
     "wof:placetype":"county",

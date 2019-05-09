@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.200278,
-    "geom:area_square_m":13655950377.365446,
+    "geom:area_square_m":13655950377.365837,
     "geom:bbox":"33.6460876465,-23.714006424,34.9623413086,-22.1548137665",
     "geom:latitude":-23.055279,
     "geom:longitude":34.306372,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Funhalouro District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.258823,
     "lbl:longitude":34.351129,
     "meso:admin_1":"INHAMBANE",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1091697505,
-    "wof:lastmodified":1553816438,
+    "wof:lastmodified":1555037702,
     "wof:name":"Funhalouro",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

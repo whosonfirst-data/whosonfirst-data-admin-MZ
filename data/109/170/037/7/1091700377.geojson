@@ -10,6 +10,12 @@
     "geom:latitude":-19.083992,
     "geom:longitude":35.058863,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Muanza District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.074815,
     "lbl:longitude":35.070457,
     "meso:admin_1":"SOFALA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091700377,
-    "wof:lastmodified":1544032773,
+    "wof:lastmodified":1553717928,
     "wof:name":"Muanza",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

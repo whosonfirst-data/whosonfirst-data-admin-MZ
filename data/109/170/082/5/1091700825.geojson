@@ -10,6 +10,12 @@
     "geom:latitude":-26.060371,
     "geom:longitude":32.161518,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Namaacha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.864287,
     "lbl:longitude":32.122285,
     "meso:admin_1":"MAPUTO",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1091700825,
-    "wof:lastmodified":1544032775,
+    "wof:lastmodified":1553717929,
     "wof:name":"Namaacha",
     "wof:parent_id":85674849,
     "wof:placetype":"county",

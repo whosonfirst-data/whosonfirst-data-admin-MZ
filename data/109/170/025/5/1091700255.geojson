@@ -10,6 +10,12 @@
     "geom:latitude":-17.057371,
     "geom:longitude":35.790253,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Morrumbala District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.057693,
     "lbl:longitude":35.790286,
     "meso:admin_1":"ZAMBEZIA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091700255,
-    "wof:lastmodified":1544032773,
+    "wof:lastmodified":1553717927,
     "wof:name":"Morrumbala",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

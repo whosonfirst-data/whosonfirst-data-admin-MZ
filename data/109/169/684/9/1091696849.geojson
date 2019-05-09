@@ -10,6 +10,12 @@
     "geom:latitude":-24.56186,
     "geom:longitude":32.955684,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Chokwe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.586541,
     "lbl:longitude":32.922976,
     "meso:admin_1":"GAZA",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1091696849,
-    "wof:lastmodified":1544032758,
+    "wof:lastmodified":1553717912,
     "wof:name":"Chokwe",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

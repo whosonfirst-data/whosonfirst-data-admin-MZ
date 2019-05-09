@@ -10,6 +10,12 @@
     "geom:latitude":-14.798173,
     "geom:longitude":37.390486,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Malema District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-14.829742,
     "lbl:longitude":37.451838,
     "meso:admin_1":"NAMPULA",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1091698863,
-    "wof:lastmodified":1544032765,
+    "wof:lastmodified":1553717924,
     "wof:name":"Malema",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

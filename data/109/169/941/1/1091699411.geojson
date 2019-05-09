@@ -10,6 +10,12 @@
     "geom:latitude":-13.901954,
     "geom:longitude":37.040516,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Maua District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-13.917604,
     "lbl:longitude":37.040527,
     "meso:admin_1":"NIASSA",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091699411,
-    "wof:lastmodified":1544032768,
+    "wof:lastmodified":1553717923,
     "wof:name":"Maua",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

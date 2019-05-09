@@ -10,6 +10,12 @@
     "geom:latitude":-11.433989,
     "geom:longitude":40.165167,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Mocimboa da Praia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-11.466754,
     "lbl:longitude":40.169891,
     "meso:admin_1":"CABO_DELGADO",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091700013,
-    "wof:lastmodified":1544032771,
+    "wof:lastmodified":1553717924,
     "wof:name":"Mocimboa da Praia",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-16.025539,
     "geom:longitude":32.5056,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Cahora Bassa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.09336,
     "lbl:longitude":32.446058,
     "meso:admin_1":"TETE",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1091696467,
-    "wof:lastmodified":1543954375,
+    "wof:lastmodified":1553717908,
     "wof:name":"Cahora Bassa",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

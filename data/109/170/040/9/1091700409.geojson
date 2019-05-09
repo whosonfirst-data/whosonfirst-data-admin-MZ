@@ -10,6 +10,12 @@
     "geom:latitude":-14.682592,
     "geom:longitude":39.533772,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Muecate District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-14.688444,
     "lbl:longitude":39.533675,
     "meso:admin_1":"NAMPULA",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1091700409,
-    "wof:lastmodified":1544032774,
+    "wof:lastmodified":1553717927,
     "wof:name":"Muecate",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

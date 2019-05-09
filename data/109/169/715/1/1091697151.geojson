@@ -10,6 +10,12 @@
     "geom:latitude":-15.10224,
     "geom:longitude":39.262889,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Cidade de Nampula District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.103692,
     "lbl:longitude":39.260803,
     "meso:admin_1":"NAMPULA",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091697151,
-    "wof:lastmodified":1544032758,
+    "wof:lastmodified":1553717909,
     "wof:name":"Cidade de Nampula",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

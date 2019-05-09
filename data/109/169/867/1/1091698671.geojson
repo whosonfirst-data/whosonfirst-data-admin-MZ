@@ -10,6 +10,12 @@
     "geom:latitude":-17.10781,
     "geom:longitude":37.62383,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Maganja da Costa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.120675,
     "lbl:longitude":37.703625,
     "meso:admin_1":"ZAMBEZIA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091698671,
-    "wof:lastmodified":1544032764,
+    "wof:lastmodified":1553717918,
     "wof:name":"Maganja da Costa",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

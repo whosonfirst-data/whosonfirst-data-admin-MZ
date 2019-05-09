@@ -10,6 +10,12 @@
     "geom:latitude":-15.231061,
     "geom:longitude":30.933202,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Zumbu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.215569,
     "lbl:longitude":30.946523,
     "meso:admin_1":"TETE",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1091701729,
-    "wof:lastmodified":1543954390,
+    "wof:lastmodified":1553717934,
     "wof:name":"Zumbu",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

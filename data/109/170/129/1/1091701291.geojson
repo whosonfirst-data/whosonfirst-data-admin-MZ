@@ -10,6 +10,12 @@
     "geom:latitude":-16.719077,
     "geom:longitude":38.540059,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Pebane District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.708376,
     "lbl:longitude":38.581963,
     "meso:admin_1":"ZAMBEZIA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091701291,
-    "wof:lastmodified":1544032777,
+    "wof:lastmodified":1553717932,
     "wof:name":"Pebane",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

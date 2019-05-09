@@ -10,6 +10,12 @@
     "geom:latitude":-12.388053,
     "geom:longitude":34.821634,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Lago District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-12.282936,
     "lbl:longitude":34.777291,
     "meso:admin_1":"NIASSA",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1091698193,
-    "wof:lastmodified":1544032761,
+    "wof:lastmodified":1553717915,
     "wof:name":"Lago",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

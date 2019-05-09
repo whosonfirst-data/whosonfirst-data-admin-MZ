@@ -10,6 +10,12 @@
     "geom:latitude":-15.470653,
     "geom:longitude":33.454608,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Chiuta District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.489683,
     "lbl:longitude":33.352772,
     "meso:admin_1":"TETE",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091696825,
-    "wof:lastmodified":1544032758,
+    "wof:lastmodified":1553717910,
     "wof:name":"Chiuta",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

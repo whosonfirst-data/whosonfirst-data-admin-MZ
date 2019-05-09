@@ -10,6 +10,12 @@
     "geom:latitude":-18.056246,
     "geom:longitude":36.803399,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Inhassunge District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.067308,
     "lbl:longitude":36.815096,
     "meso:admin_1":"ZAMBEZIA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091698097,
-    "wof:lastmodified":1544032761,
+    "wof:lastmodified":1553717914,
     "wof:name":"Inhassunge",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

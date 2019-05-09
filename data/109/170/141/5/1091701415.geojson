@@ -10,6 +10,12 @@
     "geom:latitude":-15.006763,
     "geom:longitude":38.195856,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Ribaue District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.00957,
     "lbl:longitude":38.205022,
     "meso:admin_1":"NAMPULA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091701415,
-    "wof:lastmodified":1544032778,
+    "wof:lastmodified":1553717934,
     "wof:name":"Ribaue",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

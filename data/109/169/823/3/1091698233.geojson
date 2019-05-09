@@ -10,6 +10,12 @@
     "geom:latitude":-14.43637,
     "geom:longitude":38.126726,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Lalaua District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-14.452807,
     "lbl:longitude":38.076208,
     "meso:admin_1":"NAMPULA",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1091698233,
-    "wof:lastmodified":1544032761,
+    "wof:lastmodified":1553717914,
     "wof:name":"Lalaua",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

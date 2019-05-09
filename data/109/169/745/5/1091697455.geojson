@@ -10,6 +10,12 @@
     "geom:latitude":-13.918615,
     "geom:longitude":39.773063,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Erati District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-13.924022,
     "lbl:longitude":39.78127,
     "meso:admin_1":"NAMPULA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091697455,
-    "wof:lastmodified":1543954391,
+    "wof:lastmodified":1553717911,
     "wof:name":"Erati",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

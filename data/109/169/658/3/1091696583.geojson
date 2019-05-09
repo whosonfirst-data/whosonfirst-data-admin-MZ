@@ -10,6 +10,12 @@
     "geom:latitude":-24.300603,
     "geom:longitude":33.609953,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Chibuto District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.269162,
     "lbl:longitude":33.581976,
     "meso:admin_1":"GAZA",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1091696583,
-    "wof:lastmodified":1544032756,
+    "wof:lastmodified":1553717911,
     "wof:name":"Chibuto",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

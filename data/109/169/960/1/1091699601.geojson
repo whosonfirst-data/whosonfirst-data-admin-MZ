@@ -10,6 +10,12 @@
     "geom:latitude":-15.281907,
     "geom:longitude":39.646605,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Meconta District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.300221,
     "lbl:longitude":39.639919,
     "meso:admin_1":"NAMPULA",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1091699601,
-    "wof:lastmodified":1544032769,
+    "wof:lastmodified":1553717920,
     "wof:name":"Meconta",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

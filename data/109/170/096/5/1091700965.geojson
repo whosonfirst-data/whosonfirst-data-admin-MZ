@@ -10,6 +10,12 @@
     "geom:latitude":-15.126051,
     "geom:longitude":39.138369,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Nampula District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.114587,
     "lbl:longitude":39.129293,
     "meso:admin_1":"NAMPULA",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091700965,
-    "wof:lastmodified":1543954394,
+    "wof:lastmodified":1553717929,
     "wof:name":"Nampula",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

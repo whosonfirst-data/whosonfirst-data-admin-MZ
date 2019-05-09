@@ -10,6 +10,12 @@
     "geom:latitude":-14.336129,
     "geom:longitude":39.906121,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Nacaroa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-14.369074,
     "lbl:longitude":39.949419,
     "meso:admin_1":"NAMPULA",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1091700773,
-    "wof:lastmodified":1544032775,
+    "wof:lastmodified":1553717928,
     "wof:name":"Nacaroa",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

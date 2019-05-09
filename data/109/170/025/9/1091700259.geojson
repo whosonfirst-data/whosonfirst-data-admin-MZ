@@ -10,6 +10,12 @@
     "geom:latitude":-23.474027,
     "geom:longitude":35.09889,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Morrumbene District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.582635,
     "lbl:longitude":35.227713,
     "meso:admin_1":"INHAMBANE",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1091700259,
-    "wof:lastmodified":1544032773,
+    "wof:lastmodified":1553717925,
     "wof:name":"Morrumbene",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-15.349169,
     "geom:longitude":36.947449,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Gurue District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.307254,
     "lbl:longitude":36.978937,
     "meso:admin_1":"ZAMBEZIA",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091697801,
-    "wof:lastmodified":1543954380,
+    "wof:lastmodified":1553717912,
     "wof:name":"Gurue",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

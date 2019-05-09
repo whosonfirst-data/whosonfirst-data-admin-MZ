@@ -10,6 +10,12 @@
     "geom:latitude":-15.927919,
     "geom:longitude":38.306652,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Gile District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.941009,
     "lbl:longitude":38.362026,
     "meso:admin_1":"ZAMBEZIA",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091697545,
-    "wof:lastmodified":1543954374,
+    "wof:lastmodified":1553717914,
     "wof:name":"Gile",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

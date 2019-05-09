@@ -10,6 +10,12 @@
     "geom:latitude":-16.853331,
     "geom:longitude":36.863398,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Mocuba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.978409,
     "lbl:longitude":36.73554,
     "meso:admin_1":"ZAMBEZIA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091700047,
-    "wof:lastmodified":1544032771,
+    "wof:lastmodified":1553717925,
     "wof:name":"Mocuba",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

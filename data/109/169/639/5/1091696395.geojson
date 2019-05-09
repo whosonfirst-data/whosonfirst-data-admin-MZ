@@ -10,6 +10,12 @@
     "geom:latitude":-20.039043,
     "geom:longitude":34.372117,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Buzi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-20.046385,
     "lbl:longitude":34.371455,
     "meso:admin_1":"SOFALA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091696395,
-    "wof:lastmodified":1544032754,
+    "wof:lastmodified":1553717918,
     "wof:name":"Buzi",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

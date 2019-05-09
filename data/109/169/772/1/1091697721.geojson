@@ -10,6 +10,12 @@
     "geom:latitude":-24.167199,
     "geom:longitude":33.121402,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Guija District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.193808,
     "lbl:longitude":33.040481,
     "meso:admin_1":"GAZA",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1091697721,
-    "wof:lastmodified":1544032760,
+    "wof:lastmodified":1553717912,
     "wof:name":"Guija",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

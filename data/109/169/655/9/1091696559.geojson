@@ -10,6 +10,12 @@
     "geom:latitude":-18.528422,
     "geom:longitude":35.222444,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Cheringoma District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.432252,
     "lbl:longitude":35.116172,
     "meso:admin_1":"SOFALA",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1091696559,
-    "wof:lastmodified":1544032756,
+    "wof:lastmodified":1553717908,
     "wof:name":"Cheringoma",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

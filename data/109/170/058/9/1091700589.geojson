@@ -10,6 +10,12 @@
     "geom:latitude":-15.400686,
     "geom:longitude":38.661173,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Murrupula District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.413678,
     "lbl:longitude":38.666736,
     "meso:admin_1":"NAMPULA",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1091700589,
-    "wof:lastmodified":1544032774,
+    "wof:lastmodified":1553717929,
     "wof:name":"Murrupula",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

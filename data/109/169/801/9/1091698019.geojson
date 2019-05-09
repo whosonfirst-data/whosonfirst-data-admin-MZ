@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.244543,
-    "geom:area_square_m":2753730788.703738,
+    "geom:area_square_m":2753730788.704075,
     "geom:bbox":"34.1313667297,-24.610370636,35.3875846863,-24.2037677765",
     "geom:latitude":-24.400397,
     "geom:longitude":34.771523,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Inharrime District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.395832,
     "lbl:longitude":34.771413,
     "meso:admin_1":"INHAMBANE",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1091698019,
-    "wof:lastmodified":1553816438,
+    "wof:lastmodified":1555037701,
     "wof:name":"Inharrime",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

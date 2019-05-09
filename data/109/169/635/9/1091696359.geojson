@@ -10,6 +10,12 @@
     "geom:latitude":-17.993775,
     "geom:longitude":33.225028,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Barue District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.056559,
     "lbl:longitude":33.194833,
     "meso:admin_1":"MANICA",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091696359,
-    "wof:lastmodified":1543954386,
+    "wof:lastmodified":1553717907,
     "wof:name":"Barue",
     "wof:parent_id":85674815,
     "wof:placetype":"county",

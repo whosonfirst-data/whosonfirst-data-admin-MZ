@@ -10,6 +10,12 @@
     "geom:latitude":-15.125688,
     "geom:longitude":34.344551,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Tsangano District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.197562,
     "lbl:longitude":34.350581,
     "meso:admin_1":"TETE",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091701561,
-    "wof:lastmodified":1544032779,
+    "wof:lastmodified":1553717931,
     "wof:name":"Tsangano",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

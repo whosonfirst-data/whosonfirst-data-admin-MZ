@@ -10,6 +10,12 @@
     "geom:latitude":-13.821497,
     "geom:longitude":35.573688,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Ngauma District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-13.845941,
     "lbl:longitude":35.535913,
     "meso:admin_1":"NIASSA",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091701091,
-    "wof:lastmodified":1544032776,
+    "wof:lastmodified":1553717930,
     "wof:name":"Ngauma",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-16.093356,
     "geom:longitude":39.804676,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Angoche District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.049223,
     "lbl:longitude":39.806712,
     "meso:admin_1":"NAMPULA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091696277,
-    "wof:lastmodified":1544032753,
+    "wof:lastmodified":1553717907,
     "wof:name":"Angoche",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

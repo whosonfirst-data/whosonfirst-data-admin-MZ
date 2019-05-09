@@ -10,6 +10,12 @@
     "geom:latitude":-15.737599,
     "geom:longitude":39.259709,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Mogovolas District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.81898,
     "lbl:longitude":39.438127,
     "meso:admin_1":"NAMPULA",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1091700133,
-    "wof:lastmodified":1544032772,
+    "wof:lastmodified":1553717923,
     "wof:name":"Mogovolas",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

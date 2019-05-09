@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.345339,
-    "geom:area_square_m":3977977172.960688,
+    "geom:area_square_m":3977977172.96087,
     "geom:bbox":"34.0239067078,-21.6781482697,35.1316223145,-20.9549694061",
     "geom:latitude":-21.31853,
     "geom:longitude":34.676044,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Govuro District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-21.308058,
     "lbl:longitude":34.713404,
     "meso:admin_1":"INHAMBANE",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1091697673,
-    "wof:lastmodified":1553816438,
+    "wof:lastmodified":1555037701,
     "wof:name":"Govuro",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-24.630596,
     "geom:longitude":34.06745,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Mandlakaze District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.7542,
     "lbl:longitude":34.067152,
     "meso:admin_1":"INHAMBANE",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1091698967,
-    "wof:lastmodified":1543954376,
+    "wof:lastmodified":1553717916,
     "wof:name":"Mandlakaze",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

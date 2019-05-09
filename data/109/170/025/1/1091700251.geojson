@@ -10,6 +10,12 @@
     "geom:latitude":-17.832918,
     "geom:longitude":36.062597,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Mopeia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.830503,
     "lbl:longitude":36.062342,
     "meso:admin_1":"ZAMBEZIA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091700251,
-    "wof:lastmodified":1544032773,
+    "wof:lastmodified":1553717927,
     "wof:name":"Mopeia",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

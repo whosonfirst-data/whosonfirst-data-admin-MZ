@@ -10,6 +10,12 @@
     "geom:latitude":-14.322469,
     "geom:longitude":36.862712,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Metarica District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-14.270421,
     "lbl:longitude":36.697408,
     "meso:admin_1":"NIASSA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091699845,
-    "wof:lastmodified":1544032770,
+    "wof:lastmodified":1553717922,
     "wof:name":"Metarica",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

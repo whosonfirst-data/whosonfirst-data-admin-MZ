@@ -10,6 +10,12 @@
     "geom:latitude":-20.36884,
     "geom:longitude":33.883556,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Chibabava District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-20.337853,
     "lbl:longitude":33.797665,
     "meso:admin_1":"SOFALA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091696561,
-    "wof:lastmodified":1544032756,
+    "wof:lastmodified":1553717909,
     "wof:name":"Chibabava",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

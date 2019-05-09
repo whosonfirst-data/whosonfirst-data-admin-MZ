@@ -10,6 +10,12 @@
     "geom:latitude":-15.094053,
     "geom:longitude":32.065961,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Maravia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.08773,
     "lbl:longitude":32.05033,
     "meso:admin_1":"TETE",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091699093,
-    "wof:lastmodified":1544032766,
+    "wof:lastmodified":1553717922,
     "wof:name":"Maravia",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

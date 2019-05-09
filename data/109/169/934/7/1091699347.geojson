@@ -10,6 +10,12 @@
     "geom:latitude":-23.867982,
     "geom:longitude":32.093796,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Massingir District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.89403,
     "lbl:longitude":32.139207,
     "meso:admin_1":"GAZA",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1091699347,
-    "wof:lastmodified":1544032767,
+    "wof:lastmodified":1553717921,
     "wof:name":"Massingir",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

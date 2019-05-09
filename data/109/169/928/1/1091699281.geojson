@@ -10,6 +10,12 @@
     "geom:latitude":-21.748023,
     "geom:longitude":32.593378,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Massangena District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-21.735443,
     "lbl:longitude":32.523813,
     "meso:admin_1":"GAZA",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1091699281,
-    "wof:lastmodified":1544032767,
+    "wof:lastmodified":1553717920,
     "wof:name":"Massangena",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

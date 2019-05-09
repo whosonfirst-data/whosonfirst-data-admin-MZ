@@ -10,6 +10,12 @@
     "geom:latitude":-16.963363,
     "geom:longitude":34.105076,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Tambara District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.923543,
     "lbl:longitude":34.075544,
     "meso:admin_1":"MANICA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091701529,
-    "wof:lastmodified":1544032779,
+    "wof:lastmodified":1553717931,
     "wof:name":"Tambara",
     "wof:parent_id":85674815,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-18.394915,
     "geom:longitude":36.322677,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Chinde District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.377257,
     "lbl:longitude":36.322283,
     "meso:admin_1":"ZAMBEZIA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091696729,
-    "wof:lastmodified":1544032758,
+    "wof:lastmodified":1553717910,
     "wof:name":"Chinde",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

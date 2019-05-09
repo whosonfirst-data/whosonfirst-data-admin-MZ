@@ -10,6 +10,12 @@
     "geom:latitude":-12.572696,
     "geom:longitude":40.322755,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Quissanga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-12.6185,
     "lbl:longitude":40.351326,
     "meso:admin_1":"CABO_DELGADO",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1091701371,
-    "wof:lastmodified":1544032778,
+    "wof:lastmodified":1553717931,
     "wof:name":"Quissanga",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

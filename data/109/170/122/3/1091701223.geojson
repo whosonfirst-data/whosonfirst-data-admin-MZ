@@ -10,6 +10,12 @@
     "geom:latitude":-10.865417,
     "geom:longitude":40.32058,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Palma District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-10.878465,
     "lbl:longitude":40.283348,
     "meso:admin_1":"CABO_DELGADO",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1091701223,
-    "wof:lastmodified":1544032777,
+    "wof:lastmodified":1553717931,
     "wof:name":"Palma",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

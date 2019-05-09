@@ -10,6 +10,12 @@
     "geom:latitude":-18.832294,
     "geom:longitude":33.108714,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Manica District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.867221,
     "lbl:longitude":33.165793,
     "meso:admin_1":"MANICA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091699043,
-    "wof:lastmodified":1544032766,
+    "wof:lastmodified":1553717919,
     "wof:name":"Manica",
     "wof:parent_id":85674815,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-12.176449,
     "geom:longitude":35.560348,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Sanga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-11.93935,
     "lbl:longitude":35.62535,
     "meso:admin_1":"NIASSA",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1091701443,
-    "wof:lastmodified":1544032778,
+    "wof:lastmodified":1553717936,
     "wof:name":"Sanga",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

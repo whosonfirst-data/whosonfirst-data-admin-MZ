@@ -10,6 +10,12 @@
     "geom:latitude":-11.958364,
     "geom:longitude":37.565232,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Mecula District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-12.033047,
     "lbl:longitude":37.500506,
     "meso:admin_1":"NIASSA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091699731,
-    "wof:lastmodified":1544032769,
+    "wof:lastmodified":1553717919,
     "wof:name":"Mecula",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

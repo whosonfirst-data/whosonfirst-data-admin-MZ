@@ -10,6 +10,12 @@
     "geom:latitude":-24.014515,
     "geom:longitude":34.401541,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Panda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.990219,
     "lbl:longitude":34.409963,
     "meso:admin_1":"INHAMBANE",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1091701265,
-    "wof:lastmodified":1544032777,
+    "wof:lastmodified":1553717930,
     "wof:name":"Panda",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

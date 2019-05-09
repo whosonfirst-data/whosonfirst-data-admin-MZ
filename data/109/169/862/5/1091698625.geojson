@@ -10,6 +10,12 @@
     "geom:latitude":-17.910235,
     "geom:longitude":33.789389,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Macossa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.772016,
     "lbl:longitude":33.780558,
     "meso:admin_1":"MANICA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091698625,
-    "wof:lastmodified":1544032763,
+    "wof:lastmodified":1553717915,
     "wof:name":"Macossa",
     "wof:parent_id":85674815,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-15.901696,
     "geom:longitude":31.36315,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Magoe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.9237,
     "lbl:longitude":31.566876,
     "meso:admin_1":"TETE",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091698723,
-    "wof:lastmodified":1544032764,
+    "wof:lastmodified":1553717916,
     "wof:name":"Magoe",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-16.017008,
     "geom:longitude":35.989203,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Milange District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.71057,
     "lbl:longitude":36.098994,
     "meso:admin_1":"ZAMBEZIA",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1091699895,
-    "wof:lastmodified":1544032770,
+    "wof:lastmodified":1553717925,
     "wof:name":"Milange",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

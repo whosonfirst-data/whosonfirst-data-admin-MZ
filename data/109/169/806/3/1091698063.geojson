@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.41426,
-    "geom:area_square_m":4757705044.587232,
+    "geom:area_square_m":4757705044.587308,
     "geom:bbox":"34.3755226135,-22.0910511017,35.4978790283,-21.3428325653",
     "geom:latitude":-21.750166,
     "geom:longitude":34.859112,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Inhassoro District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-21.798197,
     "lbl:longitude":34.838419,
     "meso:admin_1":"INHAMBANE",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1091698063,
-    "wof:lastmodified":1553816438,
+    "wof:lastmodified":1555037700,
     "wof:name":"Inhassoro",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

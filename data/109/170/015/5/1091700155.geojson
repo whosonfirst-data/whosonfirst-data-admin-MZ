@@ -10,6 +10,12 @@
     "geom:latitude":-16.357195,
     "geom:longitude":39.2703,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Moma District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.343859,
     "lbl:longitude":39.302505,
     "meso:admin_1":"NAMPULA",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1091700155,
-    "wof:lastmodified":1544032772,
+    "wof:lastmodified":1553717923,
     "wof:name":"Moma",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

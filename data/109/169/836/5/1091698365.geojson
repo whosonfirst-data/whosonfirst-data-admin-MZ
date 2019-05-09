@@ -10,6 +10,12 @@
     "geom:latitude":-23.478867,
     "geom:longitude":32.737941,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Mabalane District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.47069,
     "lbl:longitude":32.747479,
     "meso:admin_1":"GAZA",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1091698365,
-    "wof:lastmodified":1544032762,
+    "wof:lastmodified":1553717912,
     "wof:name":"Mabalane",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

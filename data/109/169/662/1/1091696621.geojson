@@ -10,6 +10,12 @@
     "geom:latitude":-22.716503,
     "geom:longitude":32.032354,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Chicualacuala District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-22.624734,
     "lbl:longitude":31.978199,
     "meso:admin_1":"GAZA",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1091696621,
-    "wof:lastmodified":1544032757,
+    "wof:lastmodified":1553717908,
     "wof:name":"Chicualacuala",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

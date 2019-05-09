@@ -10,6 +10,12 @@
     "geom:latitude":-16.305629,
     "geom:longitude":36.653583,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Lugela District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.290154,
     "lbl:longitude":36.60385,
     "meso:admin_1":"ZAMBEZIA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091698327,
-    "wof:lastmodified":1544032762,
+    "wof:lastmodified":1553717916,
     "wof:name":"Lugela",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

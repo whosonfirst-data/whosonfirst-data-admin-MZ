@@ -10,6 +10,12 @@
     "geom:latitude":-15.855276,
     "geom:longitude":36.807057,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Namarroi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.801588,
     "lbl:longitude":36.730979,
     "meso:admin_1":"ZAMBEZIA",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1091700915,
-    "wof:lastmodified":1543954371,
+    "wof:lastmodified":1553717929,
     "wof:name":"Namarroi",
     "wof:parent_id":85674839,
     "wof:placetype":"county",
