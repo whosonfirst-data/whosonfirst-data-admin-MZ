@@ -17,19 +17,10 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u063a\u0648\u062a\u0634\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Angoche"
-    ],
     "name:cat_x_preferred":[
         "Angoche"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u6208\u8b1d"
-    ],
     "name:deu_x_preferred":[
-        "Angoche"
-    ],
-    "name:dut_x_preferred":[
         "Angoche"
     ],
     "name:eng_x_preferred":[
@@ -44,16 +35,7 @@
     "name:fra_x_preferred":[
         "Angoche"
     ],
-    "name:fre_x_preferred":[
-        "Angoche"
-    ],
     "name:gag_x_preferred":[
-        "Angoche"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10d2\u10dd\u10e8\u10d4"
-    ],
-    "name:ger_x_preferred":[
         "Angoche"
     ],
     "name:hrv_x_preferred":[
@@ -68,6 +50,9 @@
     "name:kat_x_preferred":[
         "\u10d0\u10dc\u10d2\u10dd\u10e8\u10d4"
     ],
+    "name:nld_x_preferred":[
+        "Angoche"
+    ],
     "name:pol_x_preferred":[
         "Angoche"
     ],
@@ -75,9 +60,6 @@
         "Angoche"
     ],
     "name:ron_x_preferred":[
-        "Angoche"
-    ],
-    "name:rum_x_preferred":[
         "Angoche"
     ],
     "name:spa_x_preferred":[
@@ -240,7 +222,7 @@
         }
     ],
     "wof:id":421167179,
-    "wof:lastmodified":1534379385,
+    "wof:lastmodified":1561758260,
     "wof:name":"Angoche",
     "wof:parent_id":1091696277,
     "wof:placetype":"locality",

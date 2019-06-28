@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Districte de Malema"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Malema"
+    ],
     "name:eng_x_preferred":[
         "Malema"
     ],
@@ -41,17 +44,14 @@
         "Malema District",
         "MALEMA"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Malema"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10da\u10d4\u10db\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Malema"
     ],
     "name:ita_x_preferred":[
         "Distretto di Malema"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10da\u10d4\u10db\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:por_x_preferred":[
         "Malema"
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1091698863,
-    "wof:lastmodified":1553717924,
+    "wof:lastmodified":1561758239,
     "wof:name":"Malema",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

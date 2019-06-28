@@ -20,19 +20,13 @@
     "name:ara_x_preferred":[
         "\u0625\u0646\u0647\u0627\u0645\u0628\u0627\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Inhambane"
-    ],
     "name:ben_x_preferred":[
         "\u0987\u09a8\u09b9\u09be\u09ae\u09cd\u09ac\u09c7\u09a8"
     ],
     "name:cat_x_preferred":[
         "Inhambane"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u5c3c\u63da\u5df4\u5167"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Inhambane"
     ],
     "name:dan_x_preferred":[
@@ -41,13 +35,16 @@
     "name:deu_x_preferred":[
         "Inhambane"
     ],
-    "name:dut_x_preferred":[
-        "Inhambane"
+    "name:ell_x_preferred":[
+        "\u0399\u03bd\u03c7\u03b1\u03bc\u03c0\u03ac\u03bd\u03b5"
     ],
     "name:eng_x_preferred":[
         "Inhambane"
     ],
     "name:epo_x_preferred":[
+        "Inhambane"
+    ],
+    "name:eus_x_preferred":[
         "Inhambane"
     ],
     "name:fas_x_preferred":[
@@ -56,20 +53,11 @@
     "name:fin_x_preferred":[
         "Inhambane"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Inhambane"
     ],
     "name:frr_x_preferred":[
         "Inhambane"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10dc\u10d8\u10d0\u10db\u10d1\u10d0\u10dc\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Inhambane"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03bd\u03c7\u03b1\u03bc\u03c0\u03ac\u03bd\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0aa8\u0acd\u0ab9\u0abe\u0aae\u0aac\u0ac7\u0aa8"
@@ -107,7 +95,10 @@
     "name:mar_x_preferred":[
         "\u0907\u0928\u092e\u092c\u093e\u0928\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Inhambane"
+    ],
+    "name:nld_x_preferred":[
         "Inhambane"
     ],
     "name:nno_x_preferred":[
@@ -119,16 +110,13 @@
     "name:nor_x_preferred":[
         "Inhambane"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0646\u0647\u0627\u0645\u0628\u0627\u0646\u0647"
-    ],
     "name:pol_x_preferred":[
         "Inhambane"
     ],
     "name:por_x_preferred":[
         "Inhambane"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Inhambane"
     ],
     "name:rus_x_preferred":[
@@ -140,7 +128,7 @@
     "name:sin_x_preferred":[
         "\u0d89\u0db1\u0dca\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dda"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Inhambane"
     ],
     "name:spa_x_preferred":[
@@ -318,7 +306,7 @@
         }
     ],
     "wof:id":421195191,
-    "wof:lastmodified":1527716122,
+    "wof:lastmodified":1561758260,
     "wof:name":"Inhambane",
     "wof:parent_id":1091697029,
     "wof:placetype":"locality",

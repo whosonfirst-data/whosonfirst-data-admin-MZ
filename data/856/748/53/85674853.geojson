@@ -29,17 +29,11 @@
     "name:afr_x_preferred":[
         "Maputo"
     ],
-    "name:baq_x_preferred":[
-        "Maputo probintzia"
-    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043f\u0443\u0442\u043e"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Maputo"
-    ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u666e\u6258\u7701"
     ],
     "name:dan_x_preferred":[
         "Maputo"
@@ -47,8 +41,8 @@
     "name:deu_x_preferred":[
         "Provinz Maputo"
     ],
-    "name:dut_x_preferred":[
-        "Maputo"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c0\u03bf\u03cd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Maputo"
@@ -60,20 +54,14 @@
     "name:epo_x_preferred":[
         "Provinco Maputo"
     ],
+    "name:eus_x_preferred":[
+        "Maputo probintzia"
+    ],
     "name:fin_x_preferred":[
         "Maputo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Maputo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10de\u10e3\u10e2\u10e3\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Maputo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c0\u03bf\u03cd\u03c4\u03bf"
     ],
     "name:ind_x_preferred":[
         "Provinsi Maputo"
@@ -84,11 +72,17 @@
     "name:jpn_x_preferred":[
         "\u30de\u30d7\u30c8\u5dde"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10de\u10e3\u10e2\u10e3\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub9c8\ud478\ud22c \uc8fc"
     ],
     "name:lit_x_preferred":[
         "Maputu provincija"
+    ],
+    "name:nld_x_preferred":[
+        "Maputo"
     ],
     "name:nob_x_preferred":[
         "Maputo"
@@ -105,7 +99,7 @@
     "name:por_x_preferred":[
         "Maputo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Maputo"
     ],
     "name:rus_x_preferred":[
@@ -134,6 +128,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u067e\u0648\u062a\u0648 \u0635\u0648\u0628\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u666e\u6258\u7701"
     ],
     "qs:a0":"Mozambique",
     "qs:a0_lc":"MZ",
@@ -198,7 +195,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550459,
+    "wof:lastmodified":1561758174,
     "wof:name":"Maputo",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

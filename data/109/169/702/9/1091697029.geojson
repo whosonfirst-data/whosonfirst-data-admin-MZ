@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Districte de Jangamo"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Jangamo"
+    ],
     "name:eng_x_preferred":[
         "Cidade de Inhambane"
     ],
@@ -36,17 +39,14 @@
         "CIDADE DE INHAMBANE",
         "Jangamo District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Jangamo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10df\u10d0\u10dc\u10d2\u10d0\u10db\u10e3\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Jangamo"
     ],
     "name:ita_x_preferred":[
         "Distretto di Jangamo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10df\u10d0\u10dc\u10d2\u10d0\u10db\u10e3\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:por_x_preferred":[
         "Jangamo"
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1091697029,
-    "wof:lastmodified":1543954375,
+    "wof:lastmodified":1561758242,
     "wof:name":"Cidade de Inhambane",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

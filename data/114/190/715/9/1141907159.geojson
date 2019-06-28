@@ -26,16 +26,13 @@
     "name:ces_x_preferred":[
         "Mapaj"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5e15\u4f0a"
-    ],
     "name:dan_x_preferred":[
         "Mapai"
     ],
     "name:deu_x_preferred":[
         "Awoda#Mapai"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Mapai"
     ],
     "name:eng_x_preferred":[
@@ -47,10 +44,7 @@
     "name:fra_x_preferred":[
         "Mapa\u00ef"
     ],
-    "name:fre_x_preferred":[
-        "Mapai"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Mapai"
     ],
     "name:heb_x_preferred":[
@@ -69,6 +63,9 @@
         "\u30de\u30d1\u30a4"
     ],
     "name:msa_x_preferred":[
+        "Mapai"
+    ],
+    "name:nld_x_preferred":[
         "Mapai"
     ],
     "name:nor_x_preferred":[
@@ -100,6 +97,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4ee5\u8272\u5217\u5730\u5de5\u4eba\u515a"
+    ],
+    "name:zho_x_variant":[
+        "\u99ac\u5e15\u4f0a"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mozambique",
@@ -223,7 +223,7 @@
         }
     ],
     "wof:id":1141907159,
-    "wof:lastmodified":1534379385,
+    "wof:lastmodified":1561758299,
     "wof:name":"Mapai",
     "wof:parent_id":1091696621,
     "wof:placetype":"locality",

@@ -17,13 +17,7 @@
     "name:cat_x_preferred":[
         "Cuamba"
     ],
-    "name:chi_x_preferred":[
-        "\u8a87\u59c6\u5df4"
-    ],
     "name:deu_x_preferred":[
-        "Cuamba"
-    ],
-    "name:dut_x_preferred":[
         "Cuamba"
     ],
     "name:eng_x_preferred":[
@@ -35,16 +29,7 @@
     "name:fra_x_preferred":[
         "Cuamba"
     ],
-    "name:fre_x_preferred":[
-        "Cuamba"
-    ],
     "name:gag_x_preferred":[
-        "Cuamba"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e3\u10d0\u10db\u10d1\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Cuamba"
     ],
     "name:hrv_x_preferred":[
@@ -59,6 +44,9 @@
     "name:kat_x_preferred":[
         "\u10d9\u10e3\u10d0\u10db\u10d1\u10d0"
     ],
+    "name:nld_x_preferred":[
+        "Cuamba"
+    ],
     "name:pol_x_preferred":[
         "Cuamba"
     ],
@@ -66,9 +54,6 @@
         "Cuamba"
     ],
     "name:ron_x_preferred":[
-        "Cuamba"
-    ],
-    "name:rum_x_preferred":[
         "Cuamba"
     ],
     "name:spa_x_preferred":[
@@ -232,7 +217,7 @@
         }
     ],
     "wof:id":421168791,
-    "wof:lastmodified":1527716090,
+    "wof:lastmodified":1561758259,
     "wof:name":"Cuamba",
     "wof:parent_id":1091697375,
     "wof:placetype":"locality",

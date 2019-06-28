@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Districte de Manjacaze"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Manjacaze"
+    ],
     "name:eng_x_preferred":[
         "Mandlakaze"
     ],
@@ -43,17 +46,14 @@
         "MANDLAKAZE",
         "Manjacaze"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Manjacaze"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10dc\u10df\u10d0\u10d9\u10d0\u10d6\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Manjacaze"
     ],
     "name:ita_x_preferred":[
         "Distretto di Manjacaze"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10dc\u10df\u10d0\u10d9\u10d0\u10d6\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:por_x_preferred":[
         "Manjacaze"
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1091698967,
-    "wof:lastmodified":1553717916,
+    "wof:lastmodified":1561758247,
     "wof:name":"Mandlakaze",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

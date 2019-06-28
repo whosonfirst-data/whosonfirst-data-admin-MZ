@@ -32,9 +32,6 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u063a\u0632\u0629"
     ],
-    "name:baq_x_preferred":[
-        "Gaza probintzia"
-    ],
     "name:ben_x_preferred":[
         "\u0997\u09be\u099c\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -44,14 +41,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Gaza"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u624e\u7701"
-    ],
     "name:dan_x_preferred":[
         "Gaza"
     ],
-    "name:dut_x_preferred":[
-        "Gaza"
+    "name:deu_x_preferred":[
+        "Provinz Gaza"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ac\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Gaza"
@@ -59,20 +56,14 @@
     "name:est_x_preferred":[
         "Gaza provints"
     ],
+    "name:eus_x_preferred":[
+        "Gaza probintzia"
+    ],
     "name:fin_x_preferred":[
         "Gaza"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Gaza"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d0\u10d6\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Gaza"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ac\u03b6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0abe\u0a9d\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -95,6 +86,9 @@
     "name:kan_x_preferred":[
         "\u0c97\u0cbe\u0c9c\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10d6\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uac00\uc790 \uc8fc"
     ],
@@ -107,8 +101,11 @@
     "name:mar_x_preferred":[
         "\u0917\u093e\u091d\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wilayah Gaza"
+    ],
+    "name:nld_x_preferred":[
+        "Gaza"
     ],
     "name:nob_x_preferred":[
         "Gaza"
@@ -119,7 +116,7 @@
     "name:por_x_preferred":[
         "Gaza"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Gaza"
     ],
     "name:rus_x_preferred":[
@@ -163,6 +160,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Gaza"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u624e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MOZ",
@@ -287,7 +287,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550512,
+    "wof:lastmodified":1561758174,
     "wof:name":"Gaza",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

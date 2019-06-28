@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Districte de Govuro"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Govuro"
+    ],
     "name:eng_x_preferred":[
         "Govuro"
     ],
@@ -41,17 +44,14 @@
         "Govuro District",
         "GOVURO"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Govuro"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10dd\u10d5\u10e3\u10e0\u10e3\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Govuro"
     ],
     "name:ita_x_preferred":[
         "Distretto di Govuro"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10d5\u10e3\u10e0\u10e3\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:por_x_preferred":[
         "Govuro"
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1091697673,
-    "wof:lastmodified":1555037701,
+    "wof:lastmodified":1561758243,
     "wof:name":"Govuro",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

@@ -33,8 +33,8 @@
     "name:cat_x_preferred":[
         "Districte de Muidumbe"
     ],
-    "name:dut_x_preferred":[
-        "Muidumbe District"
+    "name:deu_x_preferred":[
+        "Distrikt Muidumbe"
     ],
     "name:eng_x_preferred":[
         "Muidumbe"
@@ -44,17 +44,17 @@
         "Muidumbe District",
         "MUIDUMBE"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Muidumbe"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10e3\u10d8\u10d3\u10e3\u10db\u10d1\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Muidumbe"
     ],
     "name:ita_x_preferred":[
         "Distretto di Muidumbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10d8\u10d3\u10e3\u10db\u10d1\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Muidumbe District"
     ],
     "name:por_x_preferred":[
         "Muidumbe"
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1091700543,
-    "wof:lastmodified":1553717928,
+    "wof:lastmodified":1561758251,
     "wof:name":"Muidumbe",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

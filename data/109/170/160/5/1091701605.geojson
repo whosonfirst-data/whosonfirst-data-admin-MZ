@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Districte de Vilankulo"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Vilanculos"
+    ],
     "name:eng_x_preferred":[
         "Vilankulo"
     ],
@@ -42,17 +45,14 @@
         "Vilanculos District",
         "VILANKULO"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Vilankulo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10da\u10d0\u10dc\u10d9\u10e3\u10da\u10dd\u10e1\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Vilanculos"
     ],
     "name:ita_x_preferred":[
         "Distretto di Vilanculos"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10da\u10d0\u10dc\u10d9\u10e3\u10da\u10dd\u10e1\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:por_x_preferred":[
         "Vilanculos"
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1091701605,
-    "wof:lastmodified":1553717932,
+    "wof:lastmodified":1561758249,
     "wof:name":"Vilankulo",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

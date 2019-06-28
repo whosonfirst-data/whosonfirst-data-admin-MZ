@@ -17,19 +17,10 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0627\u062a\u064a\u0632"
     ],
-    "name:baq_x_preferred":[
-        "Moatize"
-    ],
     "name:cat_x_preferred":[
         "Moatize"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u963f\u8482\u6fa4"
-    ],
     "name:deu_x_preferred":[
-        "Moatize"
-    ],
-    "name:dut_x_preferred":[
         "Moatize"
     ],
     "name:eng_x_preferred":[
@@ -38,13 +29,7 @@
     "name:eus_x_preferred":[
         "Moatize"
     ],
-    "name:fre_x_preferred":[
-        "Moatize"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10d0\u10e2\u10d8\u10d6\u10d4"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Moatize"
     ],
     "name:hrv_x_preferred":[
@@ -66,9 +51,6 @@
         "Moatize"
     ],
     "name:ron_x_preferred":[
-        "Moatize"
-    ],
-    "name:rum_x_preferred":[
         "Moatize"
     ],
     "name:spa_x_preferred":[
@@ -230,7 +212,7 @@
         }
     ],
     "wof:id":421178563,
-    "wof:lastmodified":1527717724,
+    "wof:lastmodified":1561758262,
     "wof:name":"Moatize",
     "wof:parent_id":1091699971,
     "wof:placetype":"locality",

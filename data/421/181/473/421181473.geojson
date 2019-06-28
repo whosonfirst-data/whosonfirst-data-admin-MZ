@@ -17,25 +17,16 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0645\u0628\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Pemba"
-    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09ae\u09cd\u09ac\u09be"
     ],
     "name:cat_x_preferred":[
         "Pemba"
     ],
-    "name:chi_x_preferred":[
-        "\u5f6d\u5df4"
-    ],
     "name:dan_x_preferred":[
         "Pemba"
     ],
     "name:deu_x_preferred":[
-        "Pemba"
-    ],
-    "name:dut_x_preferred":[
         "Pemba"
     ],
     "name:ell_x_preferred":[
@@ -56,20 +47,8 @@
     "name:fra_x_preferred":[
         "Pemba"
     ],
-    "name:fre_x_preferred":[
-        "Pemba"
-    ],
     "name:frr_x_preferred":[
         "Pemba"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d4\u10db\u10d1\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Pemba"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03ad\u03bc\u03c0\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0aae\u0acd\u0aac\u0abe"
@@ -107,9 +86,6 @@
     "name:mar_x_preferred":[
         "\u092a\u0947\u092e\u094d\u092c\u093e"
     ],
-    "name:may_x_preferred":[
-        "Pemba"
-    ],
     "name:msa_x_preferred":[
         "Pemba"
     ],
@@ -129,9 +105,6 @@
         "Pemba"
     ],
     "name:ron_x_preferred":[
-        "Pemba"
-    ],
-    "name:rum_x_preferred":[
         "Pemba"
     ],
     "name:rus_x_preferred":[
@@ -329,7 +302,7 @@
         }
     ],
     "wof:id":421181473,
-    "wof:lastmodified":1527716328,
+    "wof:lastmodified":1561758261,
     "wof:name":"Pemba",
     "wof:parent_id":1091697197,
     "wof:placetype":"locality",

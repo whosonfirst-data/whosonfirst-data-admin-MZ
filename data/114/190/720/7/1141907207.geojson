@@ -20,13 +20,7 @@
     "name:cat_x_preferred":[
         "Vilankulo"
     ],
-    "name:chi_x_preferred":[
-        "\u7dad\u862d\u5eab\u6d1b"
-    ],
     "name:deu_x_preferred":[
-        "Vilankulo"
-    ],
-    "name:dut_x_preferred":[
         "Vilankulo"
     ],
     "name:eng_x_preferred":[
@@ -35,16 +29,10 @@
     "name:eng_x_variant":[
         "Vilanculos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vilankulo"
     ],
     "name:gag_x_preferred":[
-        "Vilankulo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10da\u10d0\u10dc\u10d9\u10e3\u10da\u10e3\u10e8\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Vilankulo"
     ],
     "name:ind_x_preferred":[
@@ -59,6 +47,9 @@
     "name:kat_x_preferred":[
         "\u10d5\u10d8\u10da\u10d0\u10dc\u10d9\u10e3\u10da\u10e3\u10e8\u10d8"
     ],
+    "name:nld_x_preferred":[
+        "Vilankulo"
+    ],
     "name:nob_x_preferred":[
         "Vilankulo"
     ],
@@ -69,9 +60,6 @@
         "Vilanculos"
     ],
     "name:ron_x_preferred":[
-        "Vilankulo"
-    ],
-    "name:rum_x_preferred":[
         "Vilankulo"
     ],
     "name:swa_x_preferred":[
@@ -209,7 +197,7 @@
         }
     ],
     "wof:id":1141907207,
-    "wof:lastmodified":1534379385,
+    "wof:lastmodified":1561758299,
     "wof:name":"Vilanculos",
     "wof:parent_id":1091701605,
     "wof:placetype":"locality",

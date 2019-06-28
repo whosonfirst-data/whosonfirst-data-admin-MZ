@@ -20,17 +20,11 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0634\u0646\u062c\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Lichinga"
-    ],
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u099a\u09bf\u0999\u09cd\u0997\u09be"
     ],
     "name:cat_x_preferred":[
         "Lichinga"
-    ],
-    "name:chi_x_preferred":[
-        "\u5229\u6b23\u52a0"
     ],
     "name:dan_x_preferred":[
         "Lichinga"
@@ -38,8 +32,8 @@
     "name:deu_x_preferred":[
         "Lichinga"
     ],
-    "name:dut_x_preferred":[
-        "Lichinga"
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03c4\u03c3\u03af\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Lichinga"
@@ -56,23 +50,11 @@
     "name:fra_x_preferred":[
         "Lichinga"
     ],
-    "name:fre_x_preferred":[
-        "Lichinga"
-    ],
     "name:frr_x_preferred":[
         "Lichinga"
     ],
     "name:gag_x_preferred":[
         "Lichinga"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10e8\u10d8\u10dc\u10d2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Lichinga"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b9\u03c4\u03c3\u03af\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac0\u0a9a\u0abf\u0a82\u0a97\u0abe"
@@ -110,7 +92,7 @@
     "name:mar_x_preferred":[
         "\u0932\u093f\u091a\u093f\u0902\u0917\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lichinga"
     ],
     "name:nld_x_preferred":[
@@ -129,9 +111,6 @@
         "Lichinga"
     ],
     "name:ron_x_preferred":[
-        "Lichinga"
-    ],
-    "name:rum_x_preferred":[
         "Lichinga"
     ],
     "name:rus_x_preferred":[
@@ -333,7 +312,7 @@
         }
     ],
     "wof:id":421176927,
-    "wof:lastmodified":1527726479,
+    "wof:lastmodified":1561758262,
     "wof:name":"Lichinga",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

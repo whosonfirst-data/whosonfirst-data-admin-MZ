@@ -19,9 +19,6 @@
     "name:eng_x_preferred":[
         "Praia do Xai-Xai"
     ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03c1\u03b1\u03bb\u03af\u03b1 \u03a0\u03c1\u03ac\u03b9\u03b1 \u03bd\u03c4\u03bf \u03a3\u03ac\u03b9-\u03a3\u03ac\u03b9"
-    ],
     "name:pol_x_preferred":[
         "Praia do Xai-Xai"
     ],
@@ -73,7 +70,7 @@
         }
     ],
     "wof:id":421190157,
-    "wof:lastmodified":1527716389,
+    "wof:lastmodified":1561758261,
     "wof:name":"Praia do Xai-Xai",
     "wof:parent_id":1091697333,
     "wof:placetype":"locality",

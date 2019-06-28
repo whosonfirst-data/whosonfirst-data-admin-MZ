@@ -23,17 +23,14 @@
     "name:cat_x_preferred":[
         "Maxixe"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5e0c\u8b1d"
-    ],
     "name:dan_x_preferred":[
         "Maxixe"
     ],
     "name:deu_x_preferred":[
         "Maxixe"
     ],
-    "name:dut_x_preferred":[
-        "Maxixe"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03be\u03af\u03be\u03b5"
     ],
     "name:eng_x_preferred":[
         "Maxixe"
@@ -46,18 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Maxixe"
-    ],
-    "name:fre_x_preferred":[
-        "Maxixe"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e8\u10d8\u10e8\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Maxixe"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03be\u03af\u03be\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a95\u0acd\u0ab8\u0abf\u0a95\u0acd\u0ab8"
@@ -95,7 +80,10 @@
     "name:mar_x_preferred":[
         "\u092e\u0945\u0915\u094d\u0938\u093f\u090f\u0915\u094d\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Maxixe"
+    ],
+    "name:nld_x_preferred":[
         "Maxixe"
     ],
     "name:nob_x_preferred":[
@@ -108,9 +96,6 @@
         "Maxixe"
     ],
     "name:ron_x_preferred":[
-        "Maxixe"
-    ],
-    "name:rum_x_preferred":[
         "Maxixe"
     ],
     "name:rus_x_preferred":[
@@ -291,7 +276,7 @@
         }
     ],
     "wof:id":421166899,
-    "wof:lastmodified":1553816355,
+    "wof:lastmodified":1561758259,
     "wof:name":"Maxixe",
     "wof:parent_id":1091699509,
     "wof:placetype":"locality",

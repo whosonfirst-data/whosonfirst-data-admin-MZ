@@ -37,16 +37,13 @@
     "name:cat_x_preferred":[
         "Illa de Mo\u00e7ambic"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u6851\u6bd4\u514b\u5c9b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mosambik"
     ],
     "name:dan_x_preferred":[
         "Mozambique-\u00f8en"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ilha de Mo\u00e7ambique"
     ],
     "name:eng_x_preferred":[
@@ -55,14 +52,8 @@
     "name:fin_x_preferred":[
         "Mosambikin saari"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00eele de Mozambique"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10d6\u10d0\u10db\u10d1\u10d8\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ilha de Mo\u00e7ambique"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05d6\u05de\u05d1\u05d9\u05e7"
@@ -82,8 +73,14 @@
     "name:jpn_x_preferred":[
         "\u30e2\u30b6\u30f3\u30d3\u30fc\u30af\u5cf6"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10d6\u10d0\u10db\u10d1\u10d8\u10d9\u10d8"
+    ],
     "name:lit_x_preferred":[
         "Mozambikas"
+    ],
+    "name:nld_x_preferred":[
+        "Ilha de Mo\u00e7ambique"
     ],
     "name:nob_x_preferred":[
         "Mosambik\u00f8ya"
@@ -97,7 +94,7 @@
     "name:por_x_preferred":[
         "Ilha de Mo\u00e7ambique"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ilha de Mo\u00e7ambique"
     ],
     "name:rus_x_preferred":[
@@ -123,6 +120,9 @@
     ],
     "name:vec_x_preferred":[
         "Ixola de Mozanbico"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u6851\u6bd4\u514b\u5c9b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mozambique",
@@ -247,7 +247,7 @@
         }
     ],
     "wof:id":890436945,
-    "wof:lastmodified":1514490968,
+    "wof:lastmodified":1561758262,
     "wof:name":"Ilha de Mo\u00e7ambique",
     "wof:parent_id":1091697977,
     "wof:placetype":"locality",

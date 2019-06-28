@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Districte de Montepuez"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Montepuez"
+    ],
     "name:eng_x_preferred":[
         "Montepuez"
     ],
@@ -41,17 +44,14 @@
         "Montepuez District",
         "MONTEPUEZ"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Montepuez"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10dc\u10e2\u10d4\u10de\u10e3\u10d4\u10d6\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Montepuez"
     ],
     "name:ita_x_preferred":[
         "Distretto di Montepuez"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10dc\u10e2\u10d4\u10de\u10e3\u10d4\u10d6\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:por_x_preferred":[
         "Montepuez"
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1091700221,
-    "wof:lastmodified":1553717926,
+    "wof:lastmodified":1561758250,
     "wof:name":"Montepuez",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

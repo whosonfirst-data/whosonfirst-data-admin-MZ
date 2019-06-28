@@ -30,14 +30,11 @@
     "mps:longitude":33.581976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Chibuto"
-    ],
     "name:cat_x_preferred":[
         "Districte de Chibuto"
     ],
-    "name:dut_x_preferred":[
-        "Chibuto"
+    "name:deu_x_preferred":[
+        "Distrikt Chibuto"
     ],
     "name:eng_x_preferred":[
         "Chibuto"
@@ -47,17 +44,20 @@
         "Chibuto District",
         "CHIBUTO"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Chibuto"
+    ],
+    "name:fra_x_preferred":[
         "District de Chibuto"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d8\u10d1\u10e3\u10e2\u10e3\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Chibuto"
     ],
     "name:ita_x_preferred":[
         "Distretto di Chibuto"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d8\u10d1\u10e3\u10e2\u10e3\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Chibuto"
     ],
     "name:pol_x_preferred":[
         "Chibuto"
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1091696583,
-    "wof:lastmodified":1553717911,
+    "wof:lastmodified":1561758240,
     "wof:name":"Chibuto",
     "wof:parent_id":85674831,
     "wof:placetype":"county",
