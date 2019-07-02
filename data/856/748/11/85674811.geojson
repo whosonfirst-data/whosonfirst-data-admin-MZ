@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.483088,
-    "geom:area_square_m":101064031748.032608,
+    "geom:area_square_m":101064031748.031494,
     "geom:bbox":"30.2121543884,-17.7011394501,35.3460731506,-13.9988832474",
     "geom:latitude":-15.517025,
     "geom:longitude":32.768905,
@@ -32,9 +32,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u064a\u062a\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Tete probintzia"
-    ],
     "name:ben_x_preferred":[
         "\u09a4\u09c7\u09a4\u09c7 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -44,17 +41,11 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Tete"
     ],
-    "name:chi_x_preferred":[
-        "\u592a\u7279\u7701"
-    ],
     "name:dan_x_preferred":[
         "Tete"
     ],
     "name:deu_x_preferred":[
         "Provinz Tete"
-    ],
-    "name:dut_x_preferred":[
-        "Tete"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a4\u03ad\u03c4\u03b5"
@@ -81,17 +72,8 @@
     "name:fra_x_preferred":[
         "Province de Tete"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "province de Tete"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d4\u10e2\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Tete"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a4\u03ad\u03c4\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac7\u0a9f\u0ac7 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -129,14 +111,14 @@
     "name:mar_x_preferred":[
         "\u091f\u0947\u091f\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tete Province"
+    ],
+    "name:nld_x_preferred":[
+        "Tete"
     ],
     "name:nob_x_preferred":[
         "Tete"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u062a\u0647"
     ],
     "name:pol_x_preferred":[
         "Tete"
@@ -145,9 +127,6 @@
         "Tete"
     ],
     "name:ron_x_preferred":[
-        "Provincia Tete"
-    ],
-    "name:rum_x_preferred":[
         "Provincia Tete"
     ],
     "name:rus_x_preferred":[
@@ -315,7 +294,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553814808,
+    "wof:lastmodified":1561758171,
     "wof:name":"Tete",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

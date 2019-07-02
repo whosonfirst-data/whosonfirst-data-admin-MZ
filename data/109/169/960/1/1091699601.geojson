@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Districte de Meconta"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Meconta"
+    ],
     "name:eng_x_preferred":[
         "Meconta"
     ],
@@ -41,17 +44,14 @@
         "Meconta District",
         "MECONTA"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Meconta"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d4\u10d9\u10dd\u10dc\u10e2\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Meconta"
     ],
     "name:ita_x_preferred":[
         "Distretto di Meconta"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10d9\u10dd\u10dc\u10e2\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:por_x_preferred":[
         "Meconta"
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1091699601,
-    "wof:lastmodified":1553717920,
+    "wof:lastmodified":1561758243,
     "wof:name":"Meconta",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

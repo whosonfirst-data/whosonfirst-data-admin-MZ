@@ -32,9 +32,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0632\u0627\u0645\u0628\u064a\u0632\u064a\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Zambezia probintzia"
-    ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u09ae\u09cd\u09ac\u09c7\u099c\u09bf\u09af\u09bc\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -44,32 +41,26 @@
     "name:cat_x_preferred":[
         "Zamb\u00e9zia"
     ],
-    "name:chi_x_preferred":[
-        "\u8d5e\u6bd4\u897f\u4e9a\u7701"
-    ],
     "name:dan_x_preferred":[
         "Zambezia"
     ],
-    "name:dut_x_preferred":[
-        "Zambezia"
+    "name:deu_x_preferred":[
+        "Provinz Zamb\u00e9zia"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0396\u03b1\u03bc\u03b2\u03b5\u03b6\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Zamb\u00e9zia"
     ],
+    "name:eus_x_preferred":[
+        "Zambezia probintzia"
+    ],
     "name:fin_x_preferred":[
         "Zambezia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Zamb\u00e9zie"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10d0\u10db\u10d1\u10d4\u10d6\u10d8\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Zamb\u00e9zia"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0396\u03b1\u03bc\u03b2\u03b5\u03b6\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0aae\u0acd\u0aac\u0a9d\u0abf\u0aaf\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -89,6 +80,9 @@
     "name:kan_x_preferred":[
         "\u0c9c\u0c82\u0cac\u0cc7\u0c9c\u0cbf\u0caf\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d0\u10db\u10d1\u10d4\u10d6\u10d8\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc7a0\ubca0\uc9c0\uc544"
     ],
@@ -101,8 +95,11 @@
     "name:mar_x_preferred":[
         "\u091c\u093e\u0902\u092c\u0947\u091d\u093f\u092f\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Zambezia"
+    ],
+    "name:nld_x_preferred":[
+        "Zambezia"
     ],
     "name:nob_x_preferred":[
         "Zambezia"
@@ -113,7 +110,7 @@
     "name:por_x_preferred":[
         "Zambezia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Zambezia"
     ],
     "name:rus_x_preferred":[
@@ -157,6 +154,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8d5e\u6bd4\u897f\u4e9a"
+    ],
+    "name:zho_x_variant":[
+        "\u8d5e\u6bd4\u897f\u4e9a\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MOZ",
@@ -279,7 +279,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550641,
+    "wof:lastmodified":1561758175,
     "wof:name":"Zambezia",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

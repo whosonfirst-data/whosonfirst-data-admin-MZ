@@ -22,16 +22,10 @@
     "name:deu_x_preferred":[
         "Ponta do Ouro"
     ],
-    "name:dut_x_preferred":[
-        "Ponta do Ouro"
-    ],
     "name:eng_x_preferred":[
         "Ponta do Ouro"
     ],
-    "name:fre_x_preferred":[
-        "Ponta do Ouro"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ponta do Ouro"
     ],
     "name:jpn_x_preferred":[
@@ -44,9 +38,6 @@
         "Ponta do Ouro"
     ],
     "name:ron_x_preferred":[
-        "Ponta d'Ouro"
-    ],
-    "name:rum_x_preferred":[
         "Ponta d'Ouro"
     ],
     "qs:gn_country":"MZ",
@@ -96,7 +87,7 @@
         }
     ],
     "wof:id":421202461,
-    "wof:lastmodified":1527716212,
+    "wof:lastmodified":1561758260,
     "wof:name":"Ponta do Ouro",
     "wof:parent_id":1091699383,
     "wof:placetype":"locality",

@@ -33,8 +33,8 @@
     "name:cat_x_preferred":[
         "Districte de Chigubo"
     ],
-    "name:dut_x_preferred":[
-        "Chigubo"
+    "name:deu_x_preferred":[
+        "Distrikt Chigubo"
     ],
     "name:eng_x_preferred":[
         "Chigubo"
@@ -44,17 +44,17 @@
         "Chigubo District",
         "CHIGUBO"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Chigubo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d8\u10d2\u10e3\u10d1\u10e3\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Chigubo"
     ],
     "name:ita_x_preferred":[
         "Distretto di Chigubo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d8\u10d2\u10e3\u10d1\u10e3\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Chigubo"
     ],
     "name:por_x_preferred":[
         "Chigubo"
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1091696709,
-    "wof:lastmodified":1553717910,
+    "wof:lastmodified":1561758246,
     "wof:name":"Chigubo",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

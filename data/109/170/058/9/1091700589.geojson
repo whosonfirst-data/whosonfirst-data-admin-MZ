@@ -33,6 +33,12 @@
     "name:cat_x_preferred":[
         "Districte de Murrupula"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Murrupula"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039c\u03bf\u03c5\u03c1\u03bf\u03c5\u03c0\u03bf\u03cd\u03bb\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Murrupula"
     ],
@@ -41,23 +47,17 @@
         "Murrupula District",
         "MURRUPULA"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Murrupula"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10e3\u10e0\u10e3\u10de\u10e3\u10da\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Murrupula"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039c\u03bf\u03c5\u03c1\u03bf\u03c5\u03c0\u03bf\u03cd\u03bb\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05e8\u05d5\u05e4\u05d5\u05dc\u05d4"
     ],
     "name:ita_x_preferred":[
         "Distretto di Murrupula"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10e0\u10e3\u10de\u10e3\u10da\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:por_x_preferred":[
         "Murrupula"
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1091700589,
-    "wof:lastmodified":1553717929,
+    "wof:lastmodified":1561758255,
     "wof:name":"Murrupula",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

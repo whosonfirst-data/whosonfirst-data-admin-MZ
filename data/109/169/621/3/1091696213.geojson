@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Districte d'Alto Mol\u00f3cu\u00e8"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Alto Molocu\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Alto Molocue"
     ],
@@ -42,11 +45,8 @@
         "ALTO MOLOCUE",
         "Alto Molocu\u00e9"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District d'Alto Molocue"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Alto Molocu\u00e9"
     ],
     "name:ita_x_preferred":[
         "Distretto di Alto Molocue"
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1091696213,
-    "wof:lastmodified":1555037704,
+    "wof:lastmodified":1561758239,
     "wof:name":"Alto Molocue",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

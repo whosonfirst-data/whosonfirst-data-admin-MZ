@@ -16,19 +16,13 @@
     "name:cat_x_preferred":[
         "Marromeu"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u7f85\u6885\u70cf"
-    ],
     "name:deu_x_preferred":[
-        "Marromeu"
-    ],
-    "name:dut_x_preferred":[
         "Marromeu"
     ],
     "name:eng_x_preferred":[
         "Marromeu"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Marromeu"
     ],
     "name:por_x_preferred":[
@@ -90,7 +84,7 @@
         }
     ],
     "wof:id":421176083,
-    "wof:lastmodified":1527726469,
+    "wof:lastmodified":1561758262,
     "wof:name":"Marromeu",
     "wof:parent_id":1091699215,
     "wof:placetype":"locality",

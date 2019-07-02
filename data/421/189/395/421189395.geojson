@@ -16,26 +16,20 @@
     "name:cat_x_preferred":[
         "Lumbo"
     ],
-    "name:chi_x_preferred":[
-        "\u9686\u535a"
-    ],
     "name:deu_x_preferred":[
-        "Lumbo"
-    ],
-    "name:dut_x_preferred":[
         "Lumbo"
     ],
     "name:eng_x_preferred":[
         "Lumbo"
     ],
-    "name:fre_x_preferred":[
-        "Lumbo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lumbo"
     ],
     "name:jpn_x_preferred":[
         "\u30eb\u30f3\u30dc"
+    ],
+    "name:nld_x_preferred":[
+        "Lumbo"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0443\u043c\u0431\u0443"
@@ -95,7 +89,7 @@
         }
     ],
     "wof:id":421189395,
-    "wof:lastmodified":1527716268,
+    "wof:lastmodified":1561758260,
     "wof:name":"Lumbo",
     "wof:parent_id":1091697977,
     "wof:placetype":"locality",

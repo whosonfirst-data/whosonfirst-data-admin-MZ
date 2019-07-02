@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Districte de Mabote"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Mabote"
+    ],
     "name:eng_x_preferred":[
         "Mabote"
     ],
@@ -41,17 +44,14 @@
         "Mabote District",
         "MABOTE"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Mabote"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10d1\u10dd\u10e2\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Mabote"
     ],
     "name:ita_x_preferred":[
         "Distretto di Mabote"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d1\u10dd\u10e2\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:por_x_preferred":[
         "Mabote"
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1091698405,
-    "wof:lastmodified":1553717914,
+    "wof:lastmodified":1561758245,
     "wof:name":"Mabote",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

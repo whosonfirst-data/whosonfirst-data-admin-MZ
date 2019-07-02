@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Beira"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u0987\u09b0\u09be"
     ],
@@ -35,16 +32,10 @@
     "name:cat_x_preferred":[
         "Beira"
     ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Beira"
     ],
     "name:deu_x_preferred":[
-        "Beira"
-    ],
-    "name:dut_x_preferred":[
         "Beira"
     ],
     "name:ell_x_preferred":[
@@ -59,8 +50,14 @@
     "name:est_x_preferred":[
         "Beira"
     ],
+    "name:eus_x_preferred":[
+        "Beira"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u0631\u0627\u060c \u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0631\u06cc\u0627\u060c \u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u06a9"
     ],
     "name:fin_x_preferred":[
         "Beira"
@@ -68,20 +65,8 @@
     "name:fra_x_preferred":[
         "Beira"
     ],
-    "name:fre_x_preferred":[
-        "Beira"
-    ],
     "name:frr_x_preferred":[
         "Beira"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10d8\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Beira"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ad\u03b9\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac8\u0ab0\u0abe"
@@ -125,13 +110,13 @@
     "name:lit_x_preferred":[
         "Beira"
     ],
-    "name:mao_x_preferred":[
-        "Beira"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u0947\u0907\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mri_x_preferred":[
+        "Beira"
+    ],
+    "name:msa_x_preferred":[
         "Beira"
     ],
     "name:nld_x_preferred":[
@@ -143,16 +128,13 @@
     "name:nor_x_preferred":[
         "Beira"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u06cc\u0627\u060c \u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Beira"
     ],
     "name:por_x_preferred":[
         "Beira"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Beira"
     ],
     "name:rus_x_preferred":[
@@ -161,7 +143,7 @@
     "name:sin_x_preferred":[
         "\u0db6\u0dd9\u0dba\u0dd2\u0dbb\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Beira"
     ],
     "name:slv_x_preferred":[
@@ -345,7 +327,7 @@
         }
     ],
     "wof:id":421167895,
-    "wof:lastmodified":1514490873,
+    "wof:lastmodified":1561758260,
     "wof:name":"Beira",
     "wof:parent_id":1091696899,
     "wof:placetype":"locality",

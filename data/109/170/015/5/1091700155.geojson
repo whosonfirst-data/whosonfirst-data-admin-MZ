@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Districte de Moma"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Moma"
+    ],
     "name:eng_x_preferred":[
         "Moma"
     ],
@@ -41,17 +44,14 @@
         "Moma District",
         "MOMA"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Moma"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10db\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Moma"
     ],
     "name:ita_x_preferred":[
         "Distretto di Moma"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10db\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:por_x_preferred":[
         "Moma"
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1091700155,
-    "wof:lastmodified":1553717923,
+    "wof:lastmodified":1561758250,
     "wof:name":"Moma",
     "wof:parent_id":85674827,
     "wof:placetype":"county",
