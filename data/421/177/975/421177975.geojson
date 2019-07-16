@@ -16,6 +16,12 @@
     "name:cat_x_preferred":[
         "Manjacaze"
     ],
+    "name:ceb_x_preferred":[
+        "Manjacaze"
+    ],
+    "name:cym_x_preferred":[
+        "Manjacaze"
+    ],
     "name:deu_x_preferred":[
         "Manjacaze"
     ],
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421177975,
-    "wof:lastmodified":1561758261,
+    "wof:lastmodified":1563287827,
     "wof:name":"Manjacaze",
     "wof:parent_id":1091698967,
     "wof:placetype":"locality",

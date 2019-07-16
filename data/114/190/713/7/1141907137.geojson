@@ -23,6 +23,9 @@
     "name:por_x_preferred":[
         "Espungabera"
     ],
+    "name:zho_x_preferred":[
+        "\u57c3\u65af\u84ec\u52a0\u8c9d\u62c9"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mozambique",
     "ne:ADM0_A3":"MOZ",
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":1141907137,
-    "wof:lastmodified":1514490928,
+    "wof:lastmodified":1563288865,
     "wof:name":"Espungabera",
     "wof:parent_id":1091700331,
     "wof:placetype":"locality",

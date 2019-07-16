@@ -23,10 +23,16 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0435\u043b\u0456\u043c\u0430\u043d\u044d"
     ],
+    "name:bel_x_variant":[
+        "\u041a\u0435\u043b\u0456\u043c\u0430\u043d\u044d"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09af\u09bc\u09be\u09b2\u09bf\u09ae\u09be"
     ],
     "name:cat_x_preferred":[
+        "Quelimane"
+    ],
+    "name:ceb_x_preferred":[
         "Quelimane"
     ],
     "name:ces_x_preferred":[
@@ -300,7 +306,7 @@
         }
     ],
     "wof:id":421168433,
-    "wof:lastmodified":1561758259,
+    "wof:lastmodified":1563287809,
     "wof:name":"Quelimane",
     "wof:parent_id":1091697259,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:spa_x_preferred":[
         "Marrupa"
     ],
+    "name:zho_x_preferred":[
+        "\u99ac\u9b6f\u5e15"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mozambique",
     "ne:ADM0_A3":"MOZ",
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":1141907151,
-    "wof:lastmodified":1561758299,
+    "wof:lastmodified":1563288867,
     "wof:name":"Marrupa",
     "wof:parent_id":1091699257,
     "wof:placetype":"locality",

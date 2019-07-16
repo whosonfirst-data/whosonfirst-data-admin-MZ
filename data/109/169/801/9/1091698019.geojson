@@ -33,6 +33,12 @@
     "name:cat_x_preferred":[
         "Districte d'Inharrime"
     ],
+    "name:cat_x_variant":[
+        "districte d'Inharrime"
+    ],
+    "name:ceb_x_preferred":[
+        "Inharrime District"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Inharrime"
     ],
@@ -40,12 +46,14 @@
         "Inharrime"
     ],
     "name:eng_x_variant":[
-        "Inharrime",
         "Inharrime District",
         "INHARRIME"
     ],
     "name:fra_x_preferred":[
         "District de Inharrime"
+    ],
+    "name:frr_x_preferred":[
+        "Inharrime"
     ],
     "name:ita_x_preferred":[
         "Distretto di Inharrime"
@@ -58,6 +66,9 @@
     ],
     "name:spa_x_preferred":[
         "Inharrime"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5c3c\u96c5\u5229\u6885\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +106,7 @@
         }
     ],
     "wof:id":1091698019,
-    "wof:lastmodified":1561758248,
+    "wof:lastmodified":1563287672,
     "wof:name":"Inharrime",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

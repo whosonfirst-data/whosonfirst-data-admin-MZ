@@ -29,11 +29,17 @@
     "name:afr_x_preferred":[
         "Maputo"
     ],
+    "name:bar_x_preferred":[
+        "Provinz Maputo"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043f\u0443\u0442\u043e"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Maputo"
+    ],
+    "name:ceb_x_preferred":[
+        "Maputo Province"
     ],
     "name:dan_x_preferred":[
         "Maputo"
@@ -54,6 +60,9 @@
     "name:epo_x_preferred":[
         "Provinco Maputo"
     ],
+    "name:epo_x_variant":[
+        "Maputo"
+    ],
     "name:eus_x_preferred":[
         "Maputo probintzia"
     ],
@@ -62,6 +71,12 @@
     ],
     "name:fra_x_preferred":[
         "province de Maputo"
+    ],
+    "name:fra_x_variant":[
+        "Maputo"
+    ],
+    "name:frr_x_preferred":[
+        "Maputo"
     ],
     "name:ind_x_preferred":[
         "Provinsi Maputo"
@@ -110,6 +125,9 @@
     ],
     "name:spa_x_preferred":[
         "Provincia de Maputo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043f\u0443\u0442\u043e"
     ],
     "name:swa_x_preferred":[
         "Mkoa wa Maputo"
@@ -195,7 +213,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561758174,
+    "wof:lastmodified":1563285891,
     "wof:name":"Maputo",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

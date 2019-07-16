@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Districte de Moamba"
     ],
+    "name:ceb_x_preferred":[
+        "Moamba District"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Moamba"
     ],
@@ -40,12 +43,14 @@
         "Moamba"
     ],
     "name:eng_x_variant":[
-        "Moamba",
         "Moamba District",
         "MOAMBA"
     ],
     "name:fra_x_preferred":[
         "District de Moamba"
+    ],
+    "name:frr_x_preferred":[
+        "Moamba"
     ],
     "name:ita_x_preferred":[
         "Distretto di Moamba"
@@ -55,6 +60,12 @@
     ],
     "name:por_x_preferred":[
         "Moamba"
+    ],
+    "name:spa_x_preferred":[
+        "Moamba"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u5b89\u5df4\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -92,7 +103,7 @@
         }
     ],
     "wof:id":1091699925,
-    "wof:lastmodified":1561758242,
+    "wof:lastmodified":1563287657,
     "wof:name":"Moamba",
     "wof:parent_id":85674849,
     "wof:placetype":"county",

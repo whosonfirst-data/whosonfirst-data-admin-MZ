@@ -40,7 +40,6 @@
         "Mandlakaze"
     ],
     "name:eng_x_variant":[
-        "Mandlakaze",
         "Mandlakazi",
         "Manjacaze District",
         "MANDLAKAZE",
@@ -48,6 +47,9 @@
     ],
     "name:fra_x_preferred":[
         "District de Manjacaze"
+    ],
+    "name:frr_x_preferred":[
+        "Manjacaze"
     ],
     "name:ita_x_preferred":[
         "Distretto di Manjacaze"
@@ -57,6 +59,9 @@
     ],
     "name:por_x_preferred":[
         "Manjacaze"
+    ],
+    "name:zho_x_preferred":[
+        "\u66fc\u96c5\u5361\u6fa4\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -93,7 +98,7 @@
         }
     ],
     "wof:id":1091698967,
-    "wof:lastmodified":1561758247,
+    "wof:lastmodified":1563287669,
     "wof:name":"Mandlakaze",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

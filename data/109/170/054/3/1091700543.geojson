@@ -40,12 +40,14 @@
         "Muidumbe"
     ],
     "name:eng_x_variant":[
-        "Muidumbe",
         "Muidumbe District",
         "MUIDUMBE"
     ],
     "name:fra_x_preferred":[
         "District de Muidumbe"
+    ],
+    "name:frr_x_preferred":[
+        "Muidumbe"
     ],
     "name:ita_x_preferred":[
         "Distretto di Muidumbe"
@@ -67,6 +69,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10db\u10e3\u10d8\u10d3\u10e3\u10db\u10d1\u10d8\u10e8 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u4f0a\u9813\u8c9d\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":1091700543,
-    "wof:lastmodified":1561758251,
+    "wof:lastmodified":1563287683,
     "wof:name":"Muidumbe",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Districte de Nacar\u00f4a"
     ],
+    "name:ceb_x_preferred":[
+        "Nacaroa District"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Nacar\u00f4a"
     ],
@@ -40,13 +43,15 @@
         "Nacaroa"
     ],
     "name:eng_x_variant":[
-        "Nacaroa",
         "Erati",
         "Nacar\u00f4a District",
         "NACAROA"
     ],
     "name:fra_x_preferred":[
         "District de Nacar\u00f4a"
+    ],
+    "name:frr_x_preferred":[
+        "Nacar\u00f4a"
     ],
     "name:ita_x_preferred":[
         "Distretto di Nacar\u00f4a"
@@ -59,6 +64,9 @@
     ],
     "name:spa_x_preferred":[
         "Nacaroa"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u5361\u7f85\u963f\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +103,7 @@
         }
     ],
     "wof:id":1091700773,
-    "wof:lastmodified":1561758250,
+    "wof:lastmodified":1563287679,
     "wof:name":"Nacaroa",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

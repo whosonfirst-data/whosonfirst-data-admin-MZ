@@ -17,6 +17,9 @@
     "name:afr_x_preferred":[
         "Vilankulo"
     ],
+    "name:afr_x_variant":[
+        "Vilanculos"
+    ],
     "name:cat_x_preferred":[
         "Vilankulo"
     ],
@@ -54,6 +57,9 @@
         "Vilankulo"
     ],
     "name:nor_x_preferred":[
+        "Vilankulo"
+    ],
+    "name:pol_x_preferred":[
         "Vilankulo"
     ],
     "name:por_x_preferred":[
@@ -197,7 +203,7 @@
         }
     ],
     "wof:id":1141907207,
-    "wof:lastmodified":1561758299,
+    "wof:lastmodified":1563288868,
     "wof:name":"Vilanculos",
     "wof:parent_id":1091701605,
     "wof:placetype":"locality",

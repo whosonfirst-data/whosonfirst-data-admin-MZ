@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Vila de Sena"
     ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30e9\u30fb\u30c7\u30fb\u30bb\u30ca"
+    ],
     "name:nld_x_preferred":[
         "Vila de Sena"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421172827,
-    "wof:lastmodified":1561758261,
+    "wof:lastmodified":1563287820,
     "wof:name":"Vila de Sena",
     "wof:parent_id":1091696493,
     "wof:placetype":"locality",

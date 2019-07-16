@@ -40,7 +40,6 @@
         "Zumbu"
     ],
     "name:eng_x_variant":[
-        "Zumbu",
         "Zumbo District",
         "ZUMBU",
         "Zumbo"
@@ -51,11 +50,17 @@
     "name:fra_x_preferred":[
         "District de Zumbo"
     ],
+    "name:frr_x_preferred":[
+        "Zumbo"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Zumbo"
     ],
     "name:por_x_preferred":[
         "Zumbo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d0a\u535a\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -93,7 +98,7 @@
         }
     ],
     "wof:id":1091701729,
-    "wof:lastmodified":1561758253,
+    "wof:lastmodified":1563287687,
     "wof:name":"Zumbu",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

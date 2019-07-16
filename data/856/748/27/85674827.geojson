@@ -41,6 +41,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Nampula"
     ],
+    "name:ceb_x_preferred":[
+        "Nampula"
+    ],
     "name:dan_x_preferred":[
         "Nampula"
     ],
@@ -59,6 +62,9 @@
     "name:eus_x_preferred":[
         "Nampula probintzia"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0646\u0627\u0645\u067e\u0648\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Nampula"
     ],
@@ -66,7 +72,11 @@
         "Province de Nampula"
     ],
     "name:fra_x_variant":[
-        "province de Nampula"
+        "province de Nampula",
+        "Nampula"
+    ],
+    "name:frr_x_preferred":[
+        "Nampula"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0aae\u0acd\u0aaa\u0ac1\u0ab2\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -284,7 +294,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561758169,
+    "wof:lastmodified":1563285880,
     "wof:name":"Nampula",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

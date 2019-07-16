@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Districte de Balama"
     ],
+    "name:ceb_x_preferred":[
+        "Balama District"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Balama"
     ],
@@ -43,12 +46,14 @@
         "Balama"
     ],
     "name:eng_x_variant":[
-        "Balama",
         "Balama District",
         "BALAMA"
     ],
     "name:fra_x_preferred":[
         "District de Balama"
+    ],
+    "name:frr_x_preferred":[
+        "Balama"
     ],
     "name:ita_x_preferred":[
         "Distretto di Balama"
@@ -70,6 +75,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d1\u10d0\u10da\u10d0\u10db\u10d0\u10e8 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u62c9\u99ac\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -107,7 +115,7 @@
         }
     ],
     "wof:id":1091696349,
-    "wof:lastmodified":1561758240,
+    "wof:lastmodified":1563287649,
     "wof:name":"Balama",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

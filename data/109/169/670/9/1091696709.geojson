@@ -40,12 +40,14 @@
         "Chigubo"
     ],
     "name:eng_x_variant":[
-        "Chigubo",
         "Chigubo District",
         "CHIGUBO"
     ],
     "name:fra_x_preferred":[
         "District de Chigubo"
+    ],
+    "name:frr_x_preferred":[
+        "Chigubo"
     ],
     "name:ita_x_preferred":[
         "Distretto di Chigubo"
@@ -61,6 +63,9 @@
     ],
     "name:spa_x_preferred":[
         "Chigubo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u53e4\u535a\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1091696709,
-    "wof:lastmodified":1561758246,
+    "wof:lastmodified":1563287665,
     "wof:name":"Chigubo",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

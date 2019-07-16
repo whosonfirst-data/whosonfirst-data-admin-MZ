@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Inhambane"
     ],
+    "name:ceb_x_preferred":[
+        "Inhambane"
+    ],
     "name:ces_x_preferred":[
         "Inhambane"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0399\u03bd\u03c7\u03b1\u03bc\u03c0\u03ac\u03bd\u03b5"
+    ],
+    "name:ell_x_variant":[
+        "\u0399\u03bd\u03b9\u03b1\u03bc\u03c0\u03ac\u03bd\u03b5"
     ],
     "name:eng_x_preferred":[
         "Inhambane"
@@ -154,6 +160,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0406\u043d\u044c\u044f\u043c\u0431\u0430\u043d\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u0406\u043d\u044f\u043c\u0431\u0430\u043d\u0435"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0646\u06c1\u0627\u0645\u0628\u0627\u0646"
@@ -306,7 +315,7 @@
         }
     ],
     "wof:id":421195191,
-    "wof:lastmodified":1561758260,
+    "wof:lastmodified":1563287812,
     "wof:name":"Inhambane",
     "wof:parent_id":1091697029,
     "wof:placetype":"locality",

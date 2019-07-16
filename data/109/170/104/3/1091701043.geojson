@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Districte de Nangade"
     ],
+    "name:ceb_x_preferred":[
+        "Nangade"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Nangade"
     ],
@@ -40,12 +43,14 @@
         "Nangade"
     ],
     "name:eng_x_variant":[
-        "Nangade",
         "Nangade District",
         "NANGADE"
     ],
     "name:fra_x_preferred":[
         "District de Nangade"
+    ],
+    "name:frr_x_preferred":[
+        "Nangade"
     ],
     "name:ita_x_preferred":[
         "Distretto di Nangade"
@@ -67,6 +72,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10dc\u10d0\u10dc\u10d2\u10d0\u10d3\u10d8\u10e8 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u6960\u52a0\u5fb7\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +112,7 @@
         }
     ],
     "wof:id":1091701043,
-    "wof:lastmodified":1561758249,
+    "wof:lastmodified":1563287676,
     "wof:name":"Nangade",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

@@ -33,20 +33,29 @@
     "name:cat_x_preferred":[
         "Districte de Namarroi"
     ],
+    "name:ceb_x_preferred":[
+        "Namarroi District"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Namarroi"
+    ],
+    "name:deu_x_variant":[
+        "Distrikt Namarr\u00f3i"
     ],
     "name:eng_x_preferred":[
         "Namarroi"
     ],
     "name:eng_x_variant":[
-        "Namarroi",
         "Namarroi District",
         "NAMARROI",
-        "Namarr\u00f3i"
+        "Namarr\u00f3i",
+        "Namarr\u00f3i District"
     ],
     "name:fra_x_preferred":[
         "District de Namarroi"
+    ],
+    "name:frr_x_preferred":[
+        "Namarroi"
     ],
     "name:ita_x_preferred":[
         "Distretto di Namarroi"
@@ -54,8 +63,17 @@
     "name:por_x_preferred":[
         "Namarroi"
     ],
+    "name:por_x_variant":[
+        "Namarr\u00f3i"
+    ],
     "name:spa_x_preferred":[
         "Namarroi"
+    ],
+    "name:spa_x_variant":[
+        "Namarr\u00f3i"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u99ac\u7f85\u4f0a\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -93,7 +111,7 @@
         }
     ],
     "wof:id":1091700915,
-    "wof:lastmodified":1561758251,
+    "wof:lastmodified":1563287682,
     "wof:name":"Namarroi",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

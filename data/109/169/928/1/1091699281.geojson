@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Districte de Massangena"
     ],
+    "name:ceb_x_preferred":[
+        "Massangena"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Massangena"
     ],
@@ -40,12 +43,14 @@
         "Massangena"
     ],
     "name:eng_x_variant":[
-        "Massangena",
         "Massangena District",
         "MASSANGENA"
     ],
     "name:fra_x_preferred":[
         "District de Massagena"
+    ],
+    "name:frr_x_preferred":[
+        "Massagena"
     ],
     "name:ita_x_preferred":[
         "Distretto di Massangena"
@@ -55,6 +60,9 @@
     ],
     "name:por_x_preferred":[
         "Massangena"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u6851\u71b1\u5167\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -92,7 +100,7 @@
         }
     ],
     "wof:id":1091699281,
-    "wof:lastmodified":1561758249,
+    "wof:lastmodified":1563287675,
     "wof:name":"Massangena",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

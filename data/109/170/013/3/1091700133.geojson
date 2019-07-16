@@ -40,12 +40,14 @@
         "Mogovolas"
     ],
     "name:eng_x_variant":[
-        "Mogovolas",
         "Mogovolas District",
         "MOGOVOLAS"
     ],
     "name:fra_x_preferred":[
         "District de Mogovolas"
+    ],
+    "name:frr_x_preferred":[
+        "Mogovolas"
     ],
     "name:ita_x_preferred":[
         "Distretto di Mogovolas"
@@ -58,6 +60,9 @@
     ],
     "name:spa_x_preferred":[
         "Mogovolas"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u6208\u535a\u62c9\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1091700133,
-    "wof:lastmodified":1561758250,
+    "wof:lastmodified":1563287679,
     "wof:name":"Mogovolas",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

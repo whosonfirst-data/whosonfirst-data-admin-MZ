@@ -40,7 +40,6 @@
         "Chibuto"
     ],
     "name:eng_x_variant":[
-        "Chibuto",
         "Chibuto District",
         "CHIBUTO"
     ],
@@ -49,6 +48,9 @@
     ],
     "name:fra_x_preferred":[
         "District de Chibuto"
+    ],
+    "name:frr_x_preferred":[
+        "Chibuto"
     ],
     "name:ita_x_preferred":[
         "Distretto di Chibuto"
@@ -67,6 +69,9 @@
     ],
     "name:spa_x_preferred":[
         "Chibuto"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u5e03\u6258\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":1091696583,
-    "wof:lastmodified":1561758240,
+    "wof:lastmodified":1563287650,
     "wof:name":"Chibuto",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

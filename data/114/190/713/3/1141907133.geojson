@@ -47,6 +47,9 @@
     "name:nld_x_preferred":[
         "Moatize"
     ],
+    "name:pol_x_preferred":[
+        "Moatize"
+    ],
     "name:por_x_preferred":[
         "Moatize"
     ],
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":1141907133,
-    "wof:lastmodified":1561758299,
+    "wof:lastmodified":1563288866,
     "wof:name":"Moatize",
     "wof:parent_id":1091699971,
     "wof:placetype":"locality",

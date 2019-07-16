@@ -40,6 +40,9 @@
     "name:ces_x_preferred":[
         "Mosambik"
     ],
+    "name:cym_x_preferred":[
+        "Ynys Mozambique"
+    ],
     "name:dan_x_preferred":[
         "Mozambique-\u00f8en"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:eng_x_preferred":[
         "Mozambique"
+    ],
+    "name:eng_x_variant":[
+        "Island of Mozambique"
     ],
     "name:fin_x_preferred":[
         "Mosambikin saari"
@@ -63,6 +69,9 @@
     ],
     "name:hrv_x_preferred":[
         "Mozambi\u010dki otok"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0566\u0561\u0574\u0562\u056b\u056f \u056f\u0572\u0566\u056b"
     ],
     "name:ind_x_preferred":[
         "Pulau Mozambik"
@@ -102,6 +111,9 @@
     ],
     "name:spa_x_preferred":[
         "Isla de Mozambique"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a"
     ],
     "name:swa_x_preferred":[
         "Msumbiji"
@@ -247,7 +259,7 @@
         }
     ],
     "wof:id":890436945,
-    "wof:lastmodified":1561758262,
+    "wof:lastmodified":1563287831,
     "wof:name":"Ilha de Mo\u00e7ambique",
     "wof:parent_id":1091697977,
     "wof:placetype":"locality",

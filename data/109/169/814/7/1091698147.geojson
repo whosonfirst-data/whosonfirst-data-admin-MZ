@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Districte de Jangamo"
     ],
+    "name:ceb_x_preferred":[
+        "Jangamo District"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Jangamo"
     ],
@@ -34,7 +37,6 @@
         "Jangamo"
     ],
     "name:eng_x_variant":[
-        "Jangamo",
         "JANGAMO",
         "Jangamo District"
     ],
@@ -52,6 +54,9 @@
     ],
     "name:spa_x_preferred":[
         "Jangamo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8b93\u52a0\u83ab\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -77,7 +82,7 @@
         }
     ],
     "wof:id":1091698147,
-    "wof:lastmodified":1561758245,
+    "wof:lastmodified":1563287664,
     "wof:name":"Jangamo",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

@@ -40,13 +40,15 @@
         "Guija"
     ],
     "name:eng_x_variant":[
-        "Guija",
         "Guij\u00e1",
         "Guij\u00e1 District",
         "GUIJA"
     ],
     "name:fra_x_preferred":[
         "District de Guij\u00e1"
+    ],
+    "name:frr_x_preferred":[
+        "Guij\u00e1"
     ],
     "name:ita_x_preferred":[
         "Distretto di Guij\u00e1"
@@ -62,6 +64,9 @@
     ],
     "name:spa_x_preferred":[
         "Guij\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u96c5\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -99,7 +104,7 @@
         }
     ],
     "wof:id":1091697721,
-    "wof:lastmodified":1561758248,
+    "wof:lastmodified":1563287673,
     "wof:name":"Guija",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

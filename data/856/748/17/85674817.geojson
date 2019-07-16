@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0627\u0628\u0648 \u062f\u064a\u0644\u063a\u0627\u062f\u0648"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0431\u0443-\u0414\u044d\u043b\u0433\u0430\u0434\u0443"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09af\u09be\u09ac\u09cb \u09a1\u09c7\u09b2\u09cd\u0997\u09be\u09a6\u09cb \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:cat_x_preferred":[
         "Cabo Delgado"
+    ],
+    "name:ceb_x_preferred":[
+        "Cabo Delgado Province"
     ],
     "name:dan_x_preferred":[
         "Cabo Delgado"
@@ -53,8 +59,14 @@
     "name:eng_x_preferred":[
         "Cabo Delgado"
     ],
+    "name:eng_x_variant":[
+        "Cabo Delgado Province"
+    ],
     "name:eus_x_preferred":[
         "Cabo Delgado probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0627\u0628\u0648 \u062f\u0644\u06af\u0627\u062f\u0648"
     ],
     "name:fin_x_preferred":[
         "Cabo Delgado"
@@ -62,8 +74,17 @@
     "name:fra_x_preferred":[
         "province de Cabo Delgado"
     ],
+    "name:fra_x_variant":[
+        "Cabo Delgado"
+    ],
+    "name:frr_x_preferred":[
+        "Cabo Delgado"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0aac\u0acb \u0aa1\u0ac7\u0ab2\u0a97\u0abe\u0aa1\u0acb \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05e7\u05d0\u05d1\u05d5 \u05d3\u05dc\u05d2\u05d0\u05d3\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0915\u093e\u092c\u094b \u0921\u0947\u0932\u0917\u093e\u0921\u094b \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -151,6 +172,12 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Cabo Delgado"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5fb7\u723e\u52a0\u675c\u89d2\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u5361\u5e03\u5fb7\u52a0\u591a\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u5c14\u52a0\u675c\u89d2\u7701"
@@ -278,7 +305,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561758172,
+    "wof:lastmodified":1563285886,
     "wof:name":"Cabo Delgado",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

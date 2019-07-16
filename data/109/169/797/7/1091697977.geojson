@@ -34,13 +34,15 @@
         "Ilha de Mocambique"
     ],
     "name:eng_x_variant":[
-        "Ilha de Mocambique",
         "Mossuril",
         "ILHA DE MO\uff87AMBIQUE",
         "Mossuril District"
     ],
     "name:fra_x_preferred":[
         "District de Mossuril"
+    ],
+    "name:frr_x_preferred":[
+        "Mossuril"
     ],
     "name:ita_x_preferred":[
         "Distretto di Mossuril"
@@ -53,6 +55,9 @@
     ],
     "name:spa_x_preferred":[
         "Mossuril"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u8607\u91cc\u723e\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -78,7 +83,7 @@
         }
     ],
     "wof:id":1091697977,
-    "wof:lastmodified":1561758238,
+    "wof:lastmodified":1563287641,
     "wof:name":"Ilha de Mocambique",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

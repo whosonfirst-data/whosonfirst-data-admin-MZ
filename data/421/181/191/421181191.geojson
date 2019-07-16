@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Chimoio"
     ],
+    "name:ceb_x_preferred":[
+        "Chimoio"
+    ],
     "name:dan_x_preferred":[
         "Chimoio"
     ],
@@ -300,7 +303,7 @@
         }
     ],
     "wof:id":421181191,
-    "wof:lastmodified":1561758261,
+    "wof:lastmodified":1563287821,
     "wof:name":"Chimoio",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

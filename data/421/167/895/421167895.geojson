@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0631\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u0439\u0440\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u0987\u09b0\u09be"
     ],
@@ -30,6 +36,12 @@
         "\u0411\u0435\u0439\u0440\u0430"
     ],
     "name:cat_x_preferred":[
+        "Beira"
+    ],
+    "name:ceb_x_preferred":[
+        "Beira"
+    ],
+    "name:ces_x_preferred":[
         "Beira"
     ],
     "name:dan_x_preferred":[
@@ -57,7 +69,8 @@
         "\u0628\u06cc\u0631\u0627\u060c \u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u06a9"
     ],
     "name:fas_x_variant":[
-        "\u0628\u0631\u06cc\u0627\u060c \u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u06a9"
+        "\u0628\u0631\u06cc\u0627\u060c \u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u06a9",
+        "\u0628\u0631\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "Beira"
@@ -178,6 +191,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0626\u0631\u0627\u060c \u0645\u0648\u0632\u0645\u0628\u06cc\u0642"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u06cc\u0626\u0631\u0627"
     ],
     "name:uzb_x_preferred":[
         "Beyra"
@@ -327,7 +343,7 @@
         }
     ],
     "wof:id":421167895,
-    "wof:lastmodified":1561758260,
+    "wof:lastmodified":1563287814,
     "wof:name":"Beira",
     "wof:parent_id":1091696899,
     "wof:placetype":"locality",

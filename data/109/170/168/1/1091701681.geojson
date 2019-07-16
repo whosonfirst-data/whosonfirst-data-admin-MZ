@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Districte de Zavala"
     ],
+    "name:ceb_x_preferred":[
+        "Zavala District"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Zavala"
     ],
@@ -40,7 +43,6 @@
         "Zavala"
     ],
     "name:eng_x_variant":[
-        "Zavala",
         "Zavala District",
         "ZAVALA"
     ],
@@ -58,6 +60,9 @@
     ],
     "name:spa_x_preferred":[
         "Zavala"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u5df4\u62c9\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1091701681,
-    "wof:lastmodified":1561758249,
+    "wof:lastmodified":1563287677,
     "wof:name":"Zavala",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Lichinga"
     ],
+    "name:ceb_x_preferred":[
+        "Lichinga"
+    ],
     "name:dan_x_preferred":[
         "Lichinga"
     ],
@@ -312,7 +315,7 @@
         }
     ],
     "wof:id":421176927,
-    "wof:lastmodified":1561758262,
+    "wof:lastmodified":1563287830,
     "wof:name":"Lichinga",
     "wof:parent_id":-4,
     "wof:placetype":"locality",
