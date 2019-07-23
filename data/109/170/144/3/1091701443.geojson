@@ -40,18 +40,26 @@
         "Sanga"
     ],
     "name:eng_x_variant":[
-        "Sanga",
         "Sanga District",
         "SANGA"
     ],
     "name:fra_x_preferred":[
         "District de Sanga"
     ],
+    "name:frr_x_preferred":[
+        "Sanga"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Sanga"
     ],
     "name:por_x_preferred":[
         "Sanga"
+    ],
+    "name:spa_x_preferred":[
+        "Sanga"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u52a0\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -89,7 +97,7 @@
         }
     ],
     "wof:id":1091701443,
-    "wof:lastmodified":1561758252,
+    "wof:lastmodified":1563287686,
     "wof:name":"Sanga",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

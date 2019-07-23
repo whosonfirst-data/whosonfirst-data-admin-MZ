@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Manica"
     ],
+    "name:ceb_x_preferred":[
+        "Manica Province"
+    ],
     "name:dan_x_preferred":[
         "Manica"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:eng_x_preferred":[
         "Manica"
+    ],
+    "name:eng_x_variant":[
+        "Manica Province"
     ],
     "name:est_x_preferred":[
         "Manica provints"
@@ -66,6 +72,12 @@
     ],
     "name:fra_x_preferred":[
         "province de Manica"
+    ],
+    "name:fra_x_variant":[
+        "Manica"
+    ],
+    "name:frr_x_preferred":[
+        "Manica"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0aa8\u0abf\u0a95\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -283,7 +295,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561758176,
+    "wof:lastmodified":1563285895,
     "wof:name":"Manica",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

@@ -33,6 +33,12 @@
     "name:cat_x_preferred":[
         "Districte d'Inhassoro"
     ],
+    "name:cat_x_variant":[
+        "districte d'Inhassoro"
+    ],
+    "name:ceb_x_preferred":[
+        "Inhassoro District"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Inhassoro"
     ],
@@ -40,12 +46,14 @@
         "Inhassoro"
     ],
     "name:eng_x_variant":[
-        "Inhassoro",
         "Inhassoro District",
         "INHASSORO"
     ],
     "name:fra_x_preferred":[
         "District de Inhassoro"
+    ],
+    "name:frr_x_preferred":[
+        "Inhassoro"
     ],
     "name:ita_x_preferred":[
         "Distretto di Inhassoro"
@@ -58,6 +66,9 @@
     ],
     "name:spa_x_preferred":[
         "Inhassoro"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5c3c\u96c5\u7d22\u7f85\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +106,7 @@
         }
     ],
     "wof:id":1091698063,
-    "wof:lastmodified":1561758248,
+    "wof:lastmodified":1563287671,
     "wof:name":"Inhassoro",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

@@ -38,6 +38,9 @@
     "name:aze_x_preferred":[
         "Maputu"
     ],
+    "name:bar_x_preferred":[
+        "Maputo"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043f\u0443\u0442\u0443"
     ],
@@ -60,6 +63,9 @@
         "Maputo"
     ],
     "name:cdo_x_preferred":[
+        "Maputo"
+    ],
+    "name:ceb_x_preferred":[
         "Maputo"
     ],
     "name:ces_x_preferred":[
@@ -134,6 +140,9 @@
     "name:hat_x_preferred":[
         "Mapouto"
     ],
+    "name:hau_x_preferred":[
+        "Maputo"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05e4\u05d5\u05d8\u05d5"
     ],
@@ -182,6 +191,9 @@
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10de\u10e3\u10e2\u10e3"
     ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u043f\u0443\u0442\u0443"
+    ],
     "name:kbp_x_preferred":[
         "Maputo"
     ],
@@ -205,6 +217,9 @@
     ],
     "name:lav_x_preferred":[
         "Maputu"
+    ],
+    "name:lfn_x_preferred":[
+        "Maputo"
     ],
     "name:lij_x_preferred":[
         "Maputo"
@@ -395,6 +410,9 @@
     "name:wol_x_preferred":[
         "Maputo"
     ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u666e\u6258"
+    ],
     "name:xho_x_preferred":[
         "EMaputo"
     ],
@@ -565,7 +583,7 @@
         }
     ],
     "wof:id":421167893,
-    "wof:lastmodified":1561758260,
+    "wof:lastmodified":1563287816,
     "wof:name":"Maputo",
     "wof:parent_id":1091697125,
     "wof:placetype":"locality",

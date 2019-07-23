@@ -40,12 +40,14 @@
         "Moma"
     ],
     "name:eng_x_variant":[
-        "Moma",
         "Moma District",
         "MOMA"
     ],
     "name:fra_x_preferred":[
         "District de Moma"
+    ],
+    "name:frr_x_preferred":[
+        "Moma"
     ],
     "name:ita_x_preferred":[
         "Distretto di Moma"
@@ -58,6 +60,9 @@
     ],
     "name:spa_x_preferred":[
         "Moma"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u99ac\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1091700155,
-    "wof:lastmodified":1561758250,
+    "wof:lastmodified":1563287678,
     "wof:name":"Moma",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

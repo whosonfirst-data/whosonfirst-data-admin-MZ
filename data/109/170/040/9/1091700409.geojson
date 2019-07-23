@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Districte de Muecate"
     ],
+    "name:ceb_x_preferred":[
+        "Muecate District"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Muecate"
     ],
@@ -40,12 +43,14 @@
         "Muecate"
     ],
     "name:eng_x_variant":[
-        "Muecate",
         "Muecate District",
         "MUECATE"
     ],
     "name:fra_x_preferred":[
         "District de Muecate"
+    ],
+    "name:frr_x_preferred":[
+        "Muecate"
     ],
     "name:ita_x_preferred":[
         "Distretto di Muecate"
@@ -58,6 +63,9 @@
     ],
     "name:spa_x_preferred":[
         "Muecate"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u57c3\u5361\u6cf0\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +103,7 @@
         }
     ],
     "wof:id":1091700409,
-    "wof:lastmodified":1561758251,
+    "wof:lastmodified":1563287682,
     "wof:name":"Muecate",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

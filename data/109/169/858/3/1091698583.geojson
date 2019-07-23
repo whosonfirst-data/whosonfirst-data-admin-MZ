@@ -34,12 +34,14 @@
         "Macomia"
     ],
     "name:eng_x_variant":[
-        "Macomia",
         "MACOMIA",
         "Macomia District"
     ],
     "name:fra_x_preferred":[
         "District de Macomia"
+    ],
+    "name:frr_x_preferred":[
+        "Macomia"
     ],
     "name:ita_x_preferred":[
         "Distretto di Macomia"
@@ -65,6 +67,9 @@
     "name:xmf_x_preferred":[
         "\u10db\u10d0\u10d9\u10dd\u10db\u10d8\u10d0\u10e8 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
+    "name:zho_x_preferred":[
+        "\u99ac\u79d1\u7c73\u4e9e\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":1091698583,
-    "wof:lastmodified":1561758241,
+    "wof:lastmodified":1563287651,
     "wof:name":"Macomia",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

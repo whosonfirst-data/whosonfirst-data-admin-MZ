@@ -40,12 +40,14 @@
         "Govuro"
     ],
     "name:eng_x_variant":[
-        "Govuro",
         "Govuro District",
         "GOVURO"
     ],
     "name:fra_x_preferred":[
         "District de Govuro"
+    ],
+    "name:frr_x_preferred":[
+        "Govuro"
     ],
     "name:ita_x_preferred":[
         "Distretto di Govuro"
@@ -58,6 +60,9 @@
     ],
     "name:spa_x_preferred":[
         "Govuro"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u5e03\u7f85\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1091697673,
-    "wof:lastmodified":1561758243,
+    "wof:lastmodified":1563287658,
     "wof:name":"Govuro",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

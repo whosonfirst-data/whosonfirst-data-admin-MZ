@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Districte de Moatize"
     ],
+    "name:ceb_x_preferred":[
+        "Moatize"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Moatize"
     ],
@@ -40,12 +43,14 @@
         "Moatize"
     ],
     "name:eng_x_variant":[
-        "Moatize",
         "Moatize District",
         "MOATIZE"
     ],
     "name:fra_x_preferred":[
         "District de Moatize"
+    ],
+    "name:frr_x_preferred":[
+        "Moatize"
     ],
     "name:ita_x_preferred":[
         "Distretto di Moatize"
@@ -55,6 +60,12 @@
     ],
     "name:por_x_preferred":[
         "Moatize"
+    ],
+    "name:spa_x_preferred":[
+        "Moatize"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u963f\u8482\u6fa4\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -92,7 +103,7 @@
         }
     ],
     "wof:id":1091699971,
-    "wof:lastmodified":1561758238,
+    "wof:lastmodified":1563287643,
     "wof:name":"Moatize",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

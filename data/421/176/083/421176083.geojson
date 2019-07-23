@@ -25,6 +25,9 @@
     "name:nld_x_preferred":[
         "Marromeu"
     ],
+    "name:pol_x_preferred":[
+        "Marromeu"
+    ],
     "name:por_x_preferred":[
         "Marromeu"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421176083,
-    "wof:lastmodified":1561758262,
+    "wof:lastmodified":1563287830,
     "wof:name":"Marromeu",
     "wof:parent_id":1091699215,
     "wof:placetype":"locality",

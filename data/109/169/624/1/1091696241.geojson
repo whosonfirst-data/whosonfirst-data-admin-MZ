@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Districte d'Ancuabe"
     ],
+    "name:ceb_x_preferred":[
+        "Ancuabe District"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Ancuabe"
     ],
@@ -37,7 +40,6 @@
         "Ancuabe"
     ],
     "name:eng_x_variant":[
-        "Ancuabe",
         "ANCUABE",
         "Ancuabe District"
     ],
@@ -46,6 +48,9 @@
     ],
     "name:fra_x_preferred":[
         "District d'Ancuabe"
+    ],
+    "name:frr_x_preferred":[
+        "Ancuabe"
     ],
     "name:ita_x_preferred":[
         "Distretto di Ancuabe"
@@ -67,6 +72,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10dc\u10d9\u10e3\u10d0\u10d1\u10d8\u10e8 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5938\u8c9d\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -92,7 +100,7 @@
         }
     ],
     "wof:id":1091696241,
-    "wof:lastmodified":1561758245,
+    "wof:lastmodified":1563287663,
     "wof:name":"Ancuabe",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

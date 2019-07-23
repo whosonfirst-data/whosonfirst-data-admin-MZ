@@ -41,6 +41,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Niassa"
     ],
+    "name:ceb_x_preferred":[
+        "Niassa Province"
+    ],
     "name:dan_x_preferred":[
         "Niassa"
     ],
@@ -53,6 +56,9 @@
     "name:eng_x_preferred":[
         "Niassa"
     ],
+    "name:eng_x_variant":[
+        "Niassa Province"
+    ],
     "name:eus_x_preferred":[
         "Niassa probintzia"
     ],
@@ -64,6 +70,12 @@
     ],
     "name:fra_x_preferred":[
         "province de Niassa"
+    ],
+    "name:fra_x_variant":[
+        "Niassa"
+    ],
+    "name:frr_x_preferred":[
+        "Niassa"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abf\u0a86\u0ab8\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -157,6 +169,12 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Niassa"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5c3c\u4e9e\u85a9\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u5c3c\u4e9e\u85a9\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u4e9a\u8428\u7701"
@@ -282,7 +300,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561758173,
+    "wof:lastmodified":1563285888,
     "wof:name":"Niassa",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

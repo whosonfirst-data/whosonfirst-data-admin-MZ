@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u064a\u062a\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u064a\u062a\u064a"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09c7\u09a4\u09c7 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -40,6 +43,12 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Tete"
+    ],
+    "name:ceb_x_preferred":[
+        "Tete"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Tete"
     ],
     "name:dan_x_preferred":[
         "Tete"
@@ -73,7 +82,11 @@
         "Province de Tete"
     ],
     "name:fra_x_variant":[
-        "province de Tete"
+        "province de Tete",
+        "Tete"
+    ],
+    "name:frr_x_preferred":[
+        "Tete"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac7\u0a9f\u0ac7 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -294,7 +307,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561758171,
+    "wof:lastmodified":1563285882,
     "wof:name":"Tete",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

@@ -32,6 +32,9 @@
     "name:gag_x_preferred":[
         "Zavala"
     ],
+    "name:ita_x_preferred":[
+        "Zavala"
+    ],
     "name:jpn_x_preferred":[
         "\u30b6\u30f4\u30a1\u30e9"
     ],
@@ -200,7 +203,7 @@
         }
     ],
     "wof:id":421190949,
-    "wof:lastmodified":1561758261,
+    "wof:lastmodified":1563287824,
     "wof:name":"Quissico",
     "wof:parent_id":1091701681,
     "wof:placetype":"locality",

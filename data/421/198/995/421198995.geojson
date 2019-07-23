@@ -25,6 +25,9 @@
     "name:nld_x_preferred":[
         "Inhaca"
     ],
+    "name:por_x_preferred":[
+        "Inhaca"
+    ],
     "name:unk_x_variant":[
         "Portinho da Inhaca"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421198995,
-    "wof:lastmodified":1561758261,
+    "wof:lastmodified":1563287823,
     "wof:name":"Inhaca",
     "wof:parent_id":1091697125,
     "wof:placetype":"locality",

@@ -40,12 +40,14 @@
         "Massingir"
     ],
     "name:eng_x_variant":[
-        "Massingir",
         "Massingir District",
         "MASSINGIR"
     ],
     "name:fra_x_preferred":[
         "District de Massingir"
+    ],
+    "name:frr_x_preferred":[
+        "Massingir"
     ],
     "name:ita_x_preferred":[
         "Distretto di Massingir"
@@ -58,6 +60,9 @@
     ],
     "name:spa_x_preferred":[
         "Massingir"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u8f9b\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1091699347,
-    "wof:lastmodified":1561758244,
+    "wof:lastmodified":1563287660,
     "wof:name":"Massingir",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

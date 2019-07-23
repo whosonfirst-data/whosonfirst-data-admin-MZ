@@ -43,12 +43,14 @@
         "Murrupula"
     ],
     "name:eng_x_variant":[
-        "Murrupula",
         "Murrupula District",
         "MURRUPULA"
     ],
     "name:fra_x_preferred":[
         "District de Murrupula"
+    ],
+    "name:frr_x_preferred":[
+        "Murrupula"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05e8\u05d5\u05e4\u05d5\u05dc\u05d4"
@@ -64,6 +66,9 @@
     ],
     "name:spa_x_preferred":[
         "Murrupula"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u76e7\u666e\u62c9\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":1091700589,
-    "wof:lastmodified":1561758255,
+    "wof:lastmodified":1563287693,
     "wof:name":"Murrupula",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

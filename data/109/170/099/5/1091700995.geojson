@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Districte de Namuno"
     ],
+    "name:ceb_x_preferred":[
+        "Namuno District"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Namuno"
     ],
@@ -40,12 +43,14 @@
         "Namuno"
     ],
     "name:eng_x_variant":[
-        "Namuno",
         "Namuno District",
         "NAMUNO"
     ],
     "name:fra_x_preferred":[
         "District de Namuno"
+    ],
+    "name:frr_x_preferred":[
+        "Namuno"
     ],
     "name:ita_x_preferred":[
         "Distretto di Namuno"
@@ -67,6 +72,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10dc\u10d0\u10db\u10e3\u10dc\u10e3\u10e8 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u7a46\u8afe\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +112,7 @@
         }
     ],
     "wof:id":1091700995,
-    "wof:lastmodified":1561758252,
+    "wof:lastmodified":1563287685,
     "wof:name":"Namuno",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

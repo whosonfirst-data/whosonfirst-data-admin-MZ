@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Districte de Xai-Xai"
     ],
+    "name:ceb_x_preferred":[
+        "Xai-Xai District"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Xai-Xai"
     ],
@@ -34,7 +37,6 @@
         "Xai-xai"
     ],
     "name:eng_x_variant":[
-        "Xai-xai",
         "Xai-Xai",
         "XAI-XAI",
         "Xai-Xai District"
@@ -53,6 +55,9 @@
     ],
     "name:por_x_preferred":[
         "Xai-Xai"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cfd\u8cfd\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -78,7 +83,7 @@
         }
     ],
     "wof:id":1091701651,
-    "wof:lastmodified":1561758253,
+    "wof:lastmodified":1563287688,
     "wof:name":"Xai-xai",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

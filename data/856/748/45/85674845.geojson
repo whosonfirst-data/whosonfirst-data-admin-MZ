@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0625\u0646\u0647\u0627\u0645\u0628\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0625\u0646\u0647\u0627\u0645\u0628\u0627\u0646"
+    ],
     "name:ast_x_preferred":[
         "Inhambane"
     ],
@@ -44,6 +47,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Inhambane"
     ],
+    "name:ceb_x_preferred":[
+        "Inhambane Province"
+    ],
     "name:dan_x_preferred":[
         "Inhambane"
     ],
@@ -53,8 +59,14 @@
     "name:ell_x_preferred":[
         "\u0399\u03bd\u03c7\u03b1\u03bc\u03c0\u03ac\u03bd\u03b5"
     ],
+    "name:ell_x_variant":[
+        "\u0399\u03bd\u03b9\u03b1\u03bc\u03c0\u03ac\u03bd\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Inhambane"
+    ],
+    "name:eng_x_variant":[
+        "Inhambane Province"
     ],
     "name:epo_x_preferred":[
         "Inhambane"
@@ -65,11 +77,20 @@
     "name:eus_x_preferred":[
         "Inhambane probintzia"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u06cc\u0646\u0647\u0627\u0645\u0628\u0627\u0646\u0647"
+    ],
     "name:fin_x_preferred":[
         "Inhambane"
     ],
     "name:fra_x_preferred":[
         "province d'Inhambane"
+    ],
+    "name:fra_x_variant":[
+        "Inhambane"
+    ],
+    "name:frr_x_preferred":[
+        "Inhambane"
     ],
     "name:guj_x_preferred":[
         "\u0a88\u0aa8\u0acd\u0ab9\u0abe\u0aae\u0aac\u0ac7\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -287,7 +308,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561758171,
+    "wof:lastmodified":1563285884,
     "wof:name":"Inhambane",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

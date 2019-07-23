@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0648\u0641\u0627\u0644\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0648\u0641\u0627\u0644\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09ab\u09be\u09b2\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Sofala"
+    ],
+    "name:ceb_x_preferred":[
+        "Sofala Province"
     ],
     "name:dan_x_preferred":[
         "Sofala"
@@ -53,17 +59,29 @@
     "name:eng_x_preferred":[
         "Sofala"
     ],
+    "name:eng_x_variant":[
+        "Sofala Province"
+    ],
     "name:est_x_preferred":[
         "Sofala provints"
     ],
     "name:eus_x_preferred":[
         "Sofala probintzia"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0648\u0641\u0627\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Sofala"
     ],
     "name:fra_x_preferred":[
         "province de Sofala"
+    ],
+    "name:fra_x_variant":[
+        "Sofala"
+    ],
+    "name:frr_x_preferred":[
+        "Sofala"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0aab\u0abe\u0ab2\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -281,7 +299,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561758167,
+    "wof:lastmodified":1563285878,
     "wof:name":"Sofala",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0632\u0627\u0645\u0628\u064a\u0632\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0632\u0627\u0645\u0628\u064a\u0632\u064a\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u09ae\u09cd\u09ac\u09c7\u099c\u09bf\u09af\u09bc\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -53,14 +56,26 @@
     "name:eng_x_preferred":[
         "Zamb\u00e9zia"
     ],
+    "name:eng_x_variant":[
+        "Zambezia Province"
+    ],
     "name:eus_x_preferred":[
         "Zambezia probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0632\u0627\u0645\u0628\u0632\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "Zambezia"
     ],
     "name:fra_x_preferred":[
         "province de Zamb\u00e9zie"
+    ],
+    "name:fra_x_variant":[
+        "Zamb\u00e9zie"
+    ],
+    "name:frr_x_preferred":[
+        "Zamb\u00e9zia"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0aae\u0acd\u0aac\u0a9d\u0abf\u0aaf\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -77,6 +92,9 @@
     "name:jpn_x_preferred":[
         "\u30b6\u30f3\u30d9\u30b8\u30a2"
     ],
+    "name:jpn_x_variant":[
+        "\u30b6\u30f3\u30d9\u30b8\u30a2\u5dde"
+    ],
     "name:kan_x_preferred":[
         "\u0c9c\u0c82\u0cac\u0cc7\u0c9c\u0cbf\u0caf\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
@@ -85,6 +103,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc7a0\ubca0\uc9c0\uc544"
+    ],
+    "name:kor_x_variant":[
+        "\uc7a0\ubca0\uc9c0\uc544 \uc8fc"
     ],
     "name:lav_x_preferred":[
         "Zambezijas province"
@@ -109,6 +130,9 @@
     ],
     "name:por_x_preferred":[
         "Zambezia"
+    ],
+    "name:por_x_variant":[
+        "Zamb\u00e9zia"
     ],
     "name:ron_x_preferred":[
         "Provincia Zambezia"
@@ -279,7 +303,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561758175,
+    "wof:lastmodified":1563285892,
     "wof:name":"Zambezia",
     "wof:parent_id":85632729,
     "wof:placetype":"region",
