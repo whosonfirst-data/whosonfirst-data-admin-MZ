@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Jone"
+    ],
+    "name:por_x_preferred":[
+        "Jone"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276137723,
-    "wof:lastmodified":1537039089,
+    "wof:lastmodified":1564198659,
     "wof:name":"Jone",
     "wof:parent_id":1091696729,
     "wof:placetype":"locality",

@@ -25,6 +25,108 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0643\u0627\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u06a9\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Dekan"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a1\u09c7\u0995\u09c7\u09a8"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u043a\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Dec\u00e0"
+    ],
+    "name:ces_x_preferred":[
+        "Dekan"
+    ],
+    "name:deu_x_preferred":[
+        "N-Decan"
+    ],
+    "name:est_x_preferred":[
+        "Dekaan"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06a9\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Dekaani"
+    ],
+    "name:fra_x_preferred":[
+        "D\u00e9cane"
+    ],
+    "name:hrv_x_preferred":[
+        "Dekan"
+    ],
+    "name:hun_x_preferred":[
+        "Dek\u00e1n"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565\u056f\u0561\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Dekana"
+    ],
+    "name:ita_x_preferred":[
+        "Decano"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30ab\u30f3"
+    ],
+    "name:kir_x_preferred":[
+        "\u0414\u0435\u043a\u0430\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\ub370\ucf00\uc778"
+    ],
+    "name:kur_x_preferred":[
+        "D\u00eakan"
+    ],
+    "name:lav_x_preferred":[
+        "Dek\u0101ns"
+    ],
+    "name:nld_x_preferred":[
+        "Decaan"
+    ],
+    "name:pol_x_preferred":[
+        "Dekan"
+    ],
+    "name:por_x_preferred":[
+        "Decano"
+    ],
+    "name:ron_x_preferred":[
+        "Decan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043a\u0430\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Dekan"
+    ],
+    "name:spa_x_preferred":[
+        "Decano"
+    ],
+    "name:srp_x_preferred":[
+        "Dekan"
+    ],
+    "name:swe_x_preferred":[
+        "Dekan"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bc6\u0b95\u0bcd\u0b95\u0bc7\u0ba9\u0bcd"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043a\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Decan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +150,7 @@
         }
     ],
     "wof:id":1259980267,
-    "wof:lastmodified":1536638751,
+    "wof:lastmodified":1564200534,
     "wof:name":"Decane",
     "wof:parent_id":1091699383,
     "wof:placetype":"locality",

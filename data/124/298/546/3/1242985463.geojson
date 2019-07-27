@@ -25,6 +25,27 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Puto"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e9b\u0eb9\u0ec2\u0e95"
+    ],
+    "name:msa_x_preferred":[
+        "Putu piring"
+    ],
+    "name:nor_x_preferred":[
+        "Puto"
+    ],
+    "name:spa_x_preferred":[
+        "Puto"
+    ],
+    "name:tgl_x_preferred":[
+        "Puto"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e39\u0e42\u0e15"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1242985463,
-    "wof:lastmodified":1536972685,
+    "wof:lastmodified":1564200393,
     "wof:name":"Puto",
     "wof:parent_id":1091696241,
     "wof:placetype":"locality",

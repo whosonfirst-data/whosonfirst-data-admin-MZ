@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:slv_x_preferred":[
+        "Malavi"
+    ],
+    "name:uzb_x_preferred":[
+        "Malavi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1326540199,
-    "wof:lastmodified":1536972061,
+    "wof:lastmodified":1564197540,
     "wof:name":"Malavi",
     "wof:parent_id":1091700177,
     "wof:placetype":"locality",

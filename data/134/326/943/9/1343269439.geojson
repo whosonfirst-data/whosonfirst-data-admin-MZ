@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0422\u0438\u043c\u0431\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343269439,
-    "wof:lastmodified":1537020968,
+    "wof:lastmodified":1564197989,
     "wof:name":"Timbe",
     "wof:parent_id":1091701605,
     "wof:placetype":"locality",

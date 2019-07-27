@@ -25,6 +25,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Schlucht"
+    ],
+    "name:epo_x_preferred":[
+        "Gor\u011do"
+    ],
+    "name:hun_x_preferred":[
+        "Szurdok"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043b\u0438\u0441\u0443\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1360007887,
-    "wof:lastmodified":1537054675,
+    "wof:lastmodified":1564199811,
     "wof:name":"Chine",
     "wof:parent_id":1091700177,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Maua"
+    ],
+    "name:deu_x_preferred":[
+        "Maua"
+    ],
+    "name:swe_x_preferred":[
+        "Maua"
+    ],
     "name:und_x_variant":[
         "Mahua",
         "Ma\u00faa"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1310226465,
-    "wof:lastmodified":1537674535,
+    "wof:lastmodified":1564199536,
     "wof:name":"Maua",
     "wof:parent_id":1091699411,
     "wof:placetype":"locality",

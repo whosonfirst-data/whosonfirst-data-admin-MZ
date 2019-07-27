@@ -26,6 +26,21 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Augusto"
+    ],
+    "name:deu_x_preferred":[
+        "Augusto"
+    ],
+    "name:ita_x_preferred":[
+        "Augusto"
+    ],
+    "name:nor_x_preferred":[
+        "Augusto"
+    ],
+    "name:spa_x_preferred":[
+        "Augusto"
+    ],
     "name:und_x_variant":[
         "Chouri\u00e7a",
         "Augusto"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1310305371,
-    "wof:lastmodified":1537674585,
+    "wof:lastmodified":1564199622,
     "wof:name":"Augusto",
     "wof:parent_id":1091698763,
     "wof:placetype":"locality",

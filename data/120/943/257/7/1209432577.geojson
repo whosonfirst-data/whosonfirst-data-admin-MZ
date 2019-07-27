@@ -25,6 +25,36 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pate"
+    ],
+    "name:deu_x_preferred":[
+        "Pate"
+    ],
+    "name:fin_x_preferred":[
+        "Pate"
+    ],
+    "name:fra_x_preferred":[
+        "Pate"
+    ],
+    "name:ita_x_preferred":[
+        "Pate"
+    ],
+    "name:nds_x_preferred":[
+        "Pate"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0442\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0442\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Pate"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0442\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -42,7 +72,7 @@
         }
     ],
     "wof:id":1209432577,
-    "wof:lastmodified":1536287196,
+    "wof:lastmodified":1564199179,
     "wof:name":"Pate",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mapai"
+    ],
+    "name:spa_x_preferred":[
+        "Mapai"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5e15\u4f0a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1343665183,
-    "wof:lastmodified":1537569929,
+    "wof:lastmodified":1564197821,
     "wof:name":"Mapai",
     "wof:parent_id":1091699347,
     "wof:placetype":"locality",

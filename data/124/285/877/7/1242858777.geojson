@@ -26,6 +26,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pamba"
+    ],
+    "name:deu_x_preferred":[
+        "Pamba"
+    ],
+    "name:swa_x_preferred":[
+        "Pamba"
+    ],
+    "name:swe_x_preferred":[
+        "Pamba"
+    ],
     "name:und_x_variant":[
         "Pomba",
         "Pamba"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1242858777,
-    "wof:lastmodified":1537674491,
+    "wof:lastmodified":1564200384,
     "wof:name":"Pamba",
     "wof:parent_id":1091700255,
     "wof:placetype":"locality",

@@ -30,12 +30,66 @@
     "mps:longitude":39.806712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Angoche"
+    ],
+    "name:ceb_x_preferred":[
+        "Ant\u00f3nio Enes"
+    ],
+    "name:deu_x_preferred":[
+        "Angoche"
+    ],
     "name:eng_x_preferred":[
         "Angoche"
     ],
     "name:eng_x_variant":[
         "Angoche",
         "ANGOCHE"
+    ],
+    "name:eus_x_preferred":[
+        "Angoche"
+    ],
+    "name:fin_x_preferred":[
+        "Angoche"
+    ],
+    "name:fra_x_preferred":[
+        "Angoche"
+    ],
+    "name:frr_x_preferred":[
+        "Angoche"
+    ],
+    "name:gag_x_preferred":[
+        "Angoche"
+    ],
+    "name:hrv_x_preferred":[
+        "Angoche"
+    ],
+    "name:ita_x_preferred":[
+        "Angoche"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10d2\u10dd\u10e8\u10d4"
+    ],
+    "name:pol_x_preferred":[
+        "Angoche"
+    ],
+    "name:por_x_preferred":[
+        "Angoche"
+    ],
+    "name:ron_x_preferred":[
+        "Angoche"
+    ],
+    "name:spa_x_preferred":[
+        "Angoche"
+    ],
+    "name:swa_x_preferred":[
+        "Angoche"
+    ],
+    "name:swe_x_preferred":[
+        "Angoche"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u6208\u8b1d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +126,7 @@
         }
     ],
     "wof:id":1091696277,
-    "wof:lastmodified":1553717907,
+    "wof:lastmodified":1564199922,
     "wof:name":"Angoche",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

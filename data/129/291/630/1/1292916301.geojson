@@ -25,6 +25,27 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Stefani"
+    ],
+    "name:fra_x_preferred":[
+        "Stefani"
+    ],
+    "name:ita_x_preferred":[
+        "Stefani"
+    ],
+    "name:pol_x_preferred":[
+        "Stefani"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0435\u0444\u0430\u043d\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Stefani"
+    ],
+    "name:vie_x_preferred":[
+        "Stefani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1292916301,
-    "wof:lastmodified":1536613963,
+    "wof:lastmodified":1564198306,
     "wof:name":"Stefani",
     "wof:parent_id":1091696849,
     "wof:placetype":"locality",

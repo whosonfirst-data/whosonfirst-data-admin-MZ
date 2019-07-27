@@ -25,6 +25,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Patr\u00edcio"
+    ],
+    "name:por_x_preferred":[
+        "Patr\u00edcio"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0442\u0440\u0438\u0441\u0438\u0443"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1344047089,
-    "wof:lastmodified":1536894677,
+    "wof:lastmodified":1564197933,
     "wof:name":"Patricio",
     "wof:parent_id":1091700251,
     "wof:placetype":"locality",

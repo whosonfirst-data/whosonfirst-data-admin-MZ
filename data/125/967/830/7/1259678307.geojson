@@ -26,6 +26,33 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Brito"
+    ],
+    "name:ceb_x_preferred":[
+        "Brito"
+    ],
+    "name:deu_x_preferred":[
+        "Brito"
+    ],
+    "name:fin_x_preferred":[
+        "Brito"
+    ],
+    "name:fra_x_preferred":[
+        "Brito"
+    ],
+    "name:ita_x_preferred":[
+        "Brito"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ea\u30c8\u30fc"
+    ],
+    "name:pol_x_preferred":[
+        "Brito"
+    ],
+    "name:por_x_preferred":[
+        "Brito"
+    ],
     "name:und_x_variant":[
         "Brilo",
         "Brito"
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1259678307,
-    "wof:lastmodified":1537674606,
+    "wof:lastmodified":1564200721,
     "wof:name":"Brito",
     "wof:parent_id":1091700915,
     "wof:placetype":"locality",

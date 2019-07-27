@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tcy_x_preferred":[
+        "\u0caa\u0cc1\u0c82\u0ca1\u0cbf"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1209619187,
-    "wof:lastmodified":1536281580,
+    "wof:lastmodified":1564199024,
     "wof:name":"Pundi",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",

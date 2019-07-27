@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Chaimite"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1327342591,
-    "wof:lastmodified":1537569937,
+    "wof:lastmodified":1564197372,
     "wof:name":"Chaimite",
     "wof:parent_id":1091696583,
     "wof:placetype":"locality",

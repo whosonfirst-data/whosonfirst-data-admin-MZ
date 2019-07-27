@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:asm_x_preferred":[
+        "\u0997\u0997\u09c8"
+    ],
     "name:por_x_preferred":[
         "Gog\u00f3i"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1243257811,
-    "wof:lastmodified":1537674572,
+    "wof:lastmodified":1564200308,
     "wof:name":"Gogoi",
     "wof:parent_id":1091700331,
     "wof:placetype":"locality",

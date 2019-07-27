@@ -25,6 +25,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Fernandes"
+    ],
+    "name:lav_x_preferred":[
+        "Fernande\u0161s"
+    ],
+    "name:por_x_preferred":[
+        "Fernandes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u0435\u0448"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1343583323,
-    "wof:lastmodified":1537063694,
+    "wof:lastmodified":1564197863,
     "wof:name":"Fernandes",
     "wof:parent_id":1091699601,
     "wof:placetype":"locality",

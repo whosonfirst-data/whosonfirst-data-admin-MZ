@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Mabalane"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5df4\u62c9\u5167"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1310400687,
-    "wof:lastmodified":1537065335,
+    "wof:lastmodified":1564199566,
     "wof:name":"Mabalane",
     "wof:parent_id":1091698535,
     "wof:placetype":"locality",

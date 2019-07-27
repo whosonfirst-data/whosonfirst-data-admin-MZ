@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nuala"
+    ],
+    "name:fra_x_preferred":[
+        "Nuala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226135359,
-    "wof:lastmodified":1537089509,
+    "wof:lastmodified":1564201009,
     "wof:name":"Nuala",
     "wof:parent_id":1091700155,
     "wof:placetype":"locality",

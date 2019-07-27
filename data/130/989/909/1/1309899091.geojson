@@ -25,6 +25,39 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lurio"
+    ],
+    "name:fra_x_preferred":[
+        "Lurio"
+    ],
+    "name:ita_x_preferred":[
+        "Lurio"
+    ],
+    "name:lat_x_preferred":[
+        "Lurio"
+    ],
+    "name:nld_x_preferred":[
+        "Lurio"
+    ],
+    "name:ron_x_preferred":[
+        "Lurio"
+    ],
+    "name:rus_x_preferred":[
+        "Lurio"
+    ],
+    "name:spa_x_preferred":[
+        "Lurio"
+    ],
+    "name:swe_x_preferred":[
+        "Lurio"
+    ],
+    "name:vie_x_preferred":[
+        "Lurio"
+    ],
+    "name:war_x_preferred":[
+        "Lurio"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1309899091,
-    "wof:lastmodified":1536796807,
+    "wof:lastmodified":1564200043,
     "wof:name":"Lurio",
     "wof:parent_id":1091698233,
     "wof:placetype":"locality",

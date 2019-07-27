@@ -25,6 +25,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Paia"
+    ],
+    "name:deu_x_preferred":[
+        "Paia"
+    ],
+    "name:swe_x_preferred":[
+        "Paia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1343253529,
-    "wof:lastmodified":1537043175,
+    "wof:lastmodified":1564197797,
     "wof:name":"Paia",
     "wof:parent_id":1091701189,
     "wof:placetype":"locality",

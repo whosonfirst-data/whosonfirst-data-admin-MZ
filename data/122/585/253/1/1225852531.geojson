@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Alfinete"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1225852531,
-    "wof:lastmodified":1537003078,
+    "wof:lastmodified":1564201190,
     "wof:name":"Alfinete",
     "wof:parent_id":1091698063,
     "wof:placetype":"locality",

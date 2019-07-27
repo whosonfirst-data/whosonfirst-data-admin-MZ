@@ -25,6 +25,21 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Monca"
+    ],
+    "name:nor_x_preferred":[
+        "Monca"
+    ],
+    "name:swe_x_preferred":[
+        "Monca"
+    ],
+    "name:vie_x_preferred":[
+        "Monca"
+    ],
+    "name:war_x_preferred":[
+        "Monca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1293090851,
-    "wof:lastmodified":1536860498,
+    "wof:lastmodified":1564198042,
     "wof:name":"Monca",
     "wof:parent_id":1091701291,
     "wof:placetype":"locality",

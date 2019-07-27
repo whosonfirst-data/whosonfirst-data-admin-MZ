@@ -25,6 +25,30 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mauricio"
+    ],
+    "name:deu_x_preferred":[
+        "Maur\u00edcio"
+    ],
+    "name:ita_x_preferred":[
+        "Mauricio"
+    ],
+    "name:por_x_preferred":[
+        "Maur\u00edcio"
+    ],
+    "name:ron_x_preferred":[
+        "Mauricio"
+    ],
+    "name:spa_x_preferred":[
+        "Mauricio"
+    ],
+    "name:swe_x_preferred":[
+        "Mauricio"
+    ],
+    "name:war_x_preferred":[
+        "Mauricio"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1326922949,
-    "wof:lastmodified":1536918779,
+    "wof:lastmodified":1564197264,
     "wof:name":"Mauricio",
     "wof:parent_id":1091697455,
     "wof:placetype":"locality",

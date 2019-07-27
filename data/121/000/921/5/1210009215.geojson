@@ -25,6 +25,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Mucone"
+    ],
+    "name:ita_x_preferred":[
+        "Mucone"
+    ],
+    "name:spa_x_preferred":[
+        "Mucone"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1210009215,
-    "wof:lastmodified":1536370312,
+    "wof:lastmodified":1564199218,
     "wof:name":"Mucone",
     "wof:parent_id":1091698863,
     "wof:placetype":"locality",

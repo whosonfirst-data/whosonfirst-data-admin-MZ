@@ -25,6 +25,51 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boca"
+    ],
+    "name:deu_x_preferred":[
+        "Boca"
+    ],
+    "name:epo_x_preferred":[
+        "Boca"
+    ],
+    "name:fra_x_preferred":[
+        "Boca"
+    ],
+    "name:glg_x_preferred":[
+        "Boca"
+    ],
+    "name:hun_x_preferred":[
+        "Boca"
+    ],
+    "name:ita_x_preferred":[
+        "Boca"
+    ],
+    "name:lmo_x_preferred":[
+        "Boca"
+    ],
+    "name:nld_x_preferred":[
+        "Boca"
+    ],
+    "name:por_x_preferred":[
+        "Boca"
+    ],
+    "name:slk_x_preferred":[
+        "Boca"
+    ],
+    "name:spa_x_preferred":[
+        "Boca"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Boca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u043a\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +93,7 @@
         }
     ],
     "wof:id":1226165509,
-    "wof:lastmodified":1537047241,
+    "wof:lastmodified":1564200903,
     "wof:name":"Boca",
     "wof:parent_id":1091696395,
     "wof:placetype":"locality",

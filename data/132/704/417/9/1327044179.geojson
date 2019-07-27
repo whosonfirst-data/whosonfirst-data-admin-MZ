@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nimo"
+    ],
+    "name:epo_x_preferred":[
+        "Nimo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1327044179,
-    "wof:lastmodified":1536743121,
+    "wof:lastmodified":1564197422,
     "wof:name":"Nimo",
     "wof:parent_id":1091700457,
     "wof:placetype":"locality",

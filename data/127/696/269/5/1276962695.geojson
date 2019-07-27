@@ -25,6 +25,63 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ac\u09be\u09b8\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u0986\u09ae\u09ac\u09be\u09b8\u09be"
+    ],
+    "name:est_x_preferred":[
+        "Ambassa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ambassa"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u092e\u094d\u092c\u093e\u0938\u093e"
+    ],
+    "name:ita_x_preferred":[
+        "Ambassa"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u092e\u094d\u092c\u093e\u0938\u093e"
+    ],
+    "name:min_x_preferred":[
+        "Ambassa"
+    ],
+    "name:mlg_x_preferred":[
+        "Ambassa"
+    ],
+    "name:msa_x_preferred":[
+        "Ambassa"
+    ],
+    "name:new_x_preferred":[
+        "\u0905\u092e\u094d\u092c\u0938\u094d\u0938\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Ambassa"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b05\u0b2e\u0b4d\u0b2c\u0b38\u0b4d\u0b38\u0b3e"
+    ],
+    "name:san_x_preferred":[
+        "\u0905\u092e\u094d\u092c\u093e\u0938\u094d\u0938\u093e"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bae\u0bcd\u0baa\u0bbe\u0b9a\u0bbe"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0633\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Ambassa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5df4\u8428"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +105,7 @@
         }
     ],
     "wof:id":1276962695,
-    "wof:lastmodified":1536931081,
+    "wof:lastmodified":1564198778,
     "wof:name":"Ambassa",
     "wof:parent_id":1091698535,
     "wof:placetype":"locality",

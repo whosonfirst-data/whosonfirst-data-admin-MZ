@@ -25,6 +25,33 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Bauanhof"
+    ],
+    "name:deu_x_preferred":[
+        "Fazenda"
+    ],
+    "name:fra_x_preferred":[
+        "Fazenda"
+    ],
+    "name:ita_x_preferred":[
+        "Fazenda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30bc\u30f3\u30c0"
+    ],
+    "name:por_x_preferred":[
+        "Fazenda"
+    ],
+    "name:ron_x_preferred":[
+        "Fazend\u0103"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0437\u0435\u043d\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Hacienda colonial"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -42,7 +69,7 @@
         }
     ],
     "wof:id":1209528781,
-    "wof:lastmodified":1536284348,
+    "wof:lastmodified":1564198923,
     "wof:name":"Fazenda",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",

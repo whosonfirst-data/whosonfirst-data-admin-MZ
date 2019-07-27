@@ -30,12 +30,60 @@
     "mps:longitude":36.616283,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Cuamba"
+    ],
+    "name:ceb_x_preferred":[
+        "Cuamba"
+    ],
+    "name:deu_x_preferred":[
+        "Cuamba"
+    ],
     "name:eng_x_preferred":[
         "Cuamba"
     ],
     "name:eng_x_variant":[
         "Cuamba",
         "CUAMBA"
+    ],
+    "name:epo_x_preferred":[
+        "Cuamba"
+    ],
+    "name:fra_x_preferred":[
+        "Cuamba"
+    ],
+    "name:gag_x_preferred":[
+        "Cuamba"
+    ],
+    "name:hrv_x_preferred":[
+        "Cuamba"
+    ],
+    "name:ita_x_preferred":[
+        "Cuamba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10d0\u10db\u10d1\u10d0"
+    ],
+    "name:pol_x_preferred":[
+        "Cuamba"
+    ],
+    "name:por_x_preferred":[
+        "Cuamba"
+    ],
+    "name:ron_x_preferred":[
+        "Cuamba"
+    ],
+    "name:spa_x_preferred":[
+        "Cuamba"
+    ],
+    "name:swa_x_preferred":[
+        "Cuamba"
+    ],
+    "name:swe_x_preferred":[
+        "Cuamba"
+    ],
+    "name:zho_x_preferred":[
+        "\u5938\u59c6\u5df4"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +120,7 @@
         }
     ],
     "wof:id":1091697375,
-    "wof:lastmodified":1553717911,
+    "wof:lastmodified":1564199919,
     "wof:name":"Cuamba",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

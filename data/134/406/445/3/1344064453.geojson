@@ -25,6 +25,24 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aka_x_preferred":[
+        "Tafo"
+    ],
+    "name:ceb_x_preferred":[
+        "Tafo"
+    ],
+    "name:deu_x_preferred":[
+        "Tafo"
+    ],
+    "name:spa_x_preferred":[
+        "New Tafo"
+    ],
+    "name:swe_x_preferred":[
+        "Tafo"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0641\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1344064453,
-    "wof:lastmodified":1536868565,
+    "wof:lastmodified":1564197707,
     "wof:name":"Tafo",
     "wof:parent_id":1091698405,
     "wof:placetype":"locality",

@@ -26,9 +26,21 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Nhamatanda"
+    ],
+    "name:deu_x_preferred":[
+        "Nhamatanda"
+    ],
+    "name:por_x_preferred":[
+        "Nhamatanda"
+    ],
     "name:und_x_variant":[
         "Vila Macahdo",
         "Nhamatanda"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u96c5\u99ac\u5766\u9054"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1243005009,
-    "wof:lastmodified":1537674471,
+    "wof:lastmodified":1564200094,
     "wof:name":"Nhamatanda",
     "wof:parent_id":1091701119,
     "wof:placetype":"locality",

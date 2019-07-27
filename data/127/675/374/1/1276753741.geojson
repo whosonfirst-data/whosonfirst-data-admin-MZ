@@ -25,6 +25,21 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vundo"
+    ],
+    "name:ita_x_preferred":[
+        "Virtumonde"
+    ],
+    "name:lmo_x_preferred":[
+        "Vundo"
+    ],
+    "name:nld_x_preferred":[
+        "Vundo"
+    ],
+    "name:swe_x_preferred":[
+        "Vundo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1276753741,
-    "wof:lastmodified":1536712872,
+    "wof:lastmodified":1564198517,
     "wof:name":"Vundo",
     "wof:parent_id":1091700251,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Maco"
+    ],
+    "name:deu_x_preferred":[
+        "Maco"
+    ],
+    "name:fra_x_preferred":[
+        "Maco"
+    ],
+    "name:nld_x_preferred":[
+        "Maco"
+    ],
+    "name:slk_x_preferred":[
+        "Maco"
+    ],
+    "name:spa_x_preferred":[
+        "Maco"
+    ],
+    "name:swe_x_preferred":[
+        "Maco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1310618653,
-    "wof:lastmodified":1536753724,
+    "wof:lastmodified":1564199725,
     "wof:name":"Maco",
     "wof:parent_id":1091696349,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rio das Pedras"
+    ],
+    "name:fra_x_preferred":[
+        "Rio das Pedras"
+    ],
+    "name:por_x_preferred":[
+        "Rio das Pedras"
+    ],
+    "name:swe_x_preferred":[
+        "Rio das Pedras"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1226653635,
-    "wof:lastmodified":1536846900,
+    "wof:lastmodified":1564201133,
     "wof:name":"Rio das Pedras",
     "wof:parent_id":1091699313,
     "wof:placetype":"locality",

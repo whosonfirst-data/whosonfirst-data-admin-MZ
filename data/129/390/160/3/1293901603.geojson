@@ -25,6 +25,24 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dadi"
+    ],
+    "name:deu_x_preferred":[
+        "Dadi"
+    ],
+    "name:ita_x_preferred":[
+        "Dadi"
+    ],
+    "name:pol_x_preferred":[
+        "Dadi"
+    ],
+    "name:rus_x_preferred":[
+        "Dadi"
+    ],
+    "name:swe_x_preferred":[
+        "Dadi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1293901603,
-    "wof:lastmodified":1536687279,
+    "wof:lastmodified":1564198090,
     "wof:name":"Dadi",
     "wof:parent_id":1091701043,
     "wof:placetype":"locality",

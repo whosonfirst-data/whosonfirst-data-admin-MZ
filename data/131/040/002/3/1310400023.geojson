@@ -26,6 +26,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Eduardo"
+    ],
+    "name:deu_x_preferred":[
+        "Eduardo"
+    ],
+    "name:epo_x_preferred":[
+        "Eduardo"
+    ],
+    "name:spa_x_preferred":[
+        "Eduardo"
+    ],
     "name:und_x_variant":[
         "Choane",
         "Eduaro",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1310400023,
-    "wof:lastmodified":1537674576,
+    "wof:lastmodified":1564199566,
     "wof:name":"Eduardo",
     "wof:parent_id":1091698193,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Madia"
+    ],
+    "name:ita_x_preferred":[
+        "Madia"
+    ],
+    "name:por_x_preferred":[
+        "Madia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0434\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Madia"
+    ],
+    "name:swe_x_preferred":[
+        "Madia"
+    ],
+    "name:vie_x_preferred":[
+        "Madia"
+    ],
+    "name:war_x_preferred":[
+        "Madia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1344047011,
-    "wof:lastmodified":1536894796,
+    "wof:lastmodified":1564197933,
     "wof:name":"Madia",
     "wof:parent_id":1091698671,
     "wof:placetype":"locality",

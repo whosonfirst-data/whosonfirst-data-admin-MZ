@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Chipanga"
+    ],
+    "name:swa_x_preferred":[
+        "Chipanga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243247979,
-    "wof:lastmodified":1537088430,
+    "wof:lastmodified":1564200287,
     "wof:name":"Chipanga",
     "wof:parent_id":1091700255,
     "wof:placetype":"locality",

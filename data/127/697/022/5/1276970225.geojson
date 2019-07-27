@@ -26,6 +26,24 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chissamba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0633\u0645\u0628\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Chissamba"
+    ],
+    "name:por_x_preferred":[
+        "Chissamba"
+    ],
+    "name:ron_x_preferred":[
+        "Chissamba"
+    ],
+    "name:swe_x_preferred":[
+        "Chissamba"
+    ],
     "name:und_x_variant":[
         "Chissambo",
         "Cheutsi",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1276970225,
-    "wof:lastmodified":1537674587,
+    "wof:lastmodified":1564198765,
     "wof:name":"Chissamba",
     "wof:parent_id":1091696659,
     "wof:placetype":"locality",

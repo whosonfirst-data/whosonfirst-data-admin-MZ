@@ -25,6 +25,78 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Xove"
+    ],
+    "name:bre_x_preferred":[
+        "Xove"
+    ],
+    "name:cat_x_preferred":[
+        "Xove"
+    ],
+    "name:ceb_x_preferred":[
+        "Xove"
+    ],
+    "name:eus_x_preferred":[
+        "Xove"
+    ],
+    "name:fra_x_preferred":[
+        "Xove"
+    ],
+    "name:glg_x_preferred":[
+        "Xove"
+    ],
+    "name:hun_x_preferred":[
+        "Xove"
+    ],
+    "name:ita_x_preferred":[
+        "Xove"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e7\u30fc\u30d9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0441\u043e\u0432\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Xove"
+    ],
+    "name:nld_x_preferred":[
+        "Xove"
+    ],
+    "name:oci_x_preferred":[
+        "Xove"
+    ],
+    "name:pol_x_preferred":[
+        "Xove"
+    ],
+    "name:por_x_preferred":[
+        "Xove"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0432\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Jove"
+    ],
+    "name:swe_x_preferred":[
+        "Xove"
+    ],
+    "name:tur_x_preferred":[
+        "Xove"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0432\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "Xove"
+    ],
+    "name:war_x_preferred":[
+        "Xove"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u7d22\u97e6"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +120,7 @@
         }
     ],
     "wof:id":1225952895,
-    "wof:lastmodified":1536857637,
+    "wof:lastmodified":1564200828,
     "wof:name":"Xove",
     "wof:parent_id":1091696709,
     "wof:placetype":"locality",

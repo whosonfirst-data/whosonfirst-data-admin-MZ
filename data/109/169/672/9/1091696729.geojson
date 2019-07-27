@@ -30,12 +30,30 @@
     "mps:longitude":36.322283,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Chinde"
+    ],
     "name:eng_x_preferred":[
         "Chinde"
     ],
     "name:eng_x_variant":[
         "Chinde",
         "CHINDE"
+    ],
+    "name:fra_x_preferred":[
+        "Chinde"
+    ],
+    "name:por_x_preferred":[
+        "Chinde"
+    ],
+    "name:ron_x_preferred":[
+        "Chinde"
+    ],
+    "name:spa_x_preferred":[
+        "Chinde"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0438\u043d\u0434\u0435"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":1091696729,
-    "wof:lastmodified":1553717910,
+    "wof:lastmodified":1564199921,
     "wof:name":"Chinde",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

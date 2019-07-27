@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sin_x_preferred":[
+        "\u0db1\u0dcf\u0d8b\u0dbd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1309927969,
-    "wof:lastmodified":1536755098,
+    "wof:lastmodified":1564200016,
     "wof:name":"Naula",
     "wof:parent_id":1091700091,
     "wof:placetype":"locality",

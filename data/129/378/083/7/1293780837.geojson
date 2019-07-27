@@ -25,6 +25,42 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Ripa"
+    ],
+    "name:ceb_x_preferred":[
+        "Ripa"
+    ],
+    "name:deu_x_preferred":[
+        "Ripa"
+    ],
+    "name:eus_x_preferred":[
+        "Erripa"
+    ],
+    "name:fin_x_preferred":[
+        "Ripa"
+    ],
+    "name:fra_x_preferred":[
+        "Ripa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05e4\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Ripa"
+    ],
+    "name:nld_x_preferred":[
+        "Ripa"
+    ],
+    "name:nor_x_preferred":[
+        "Ripa"
+    ],
+    "name:srp_x_preferred":[
+        "Ripa"
+    ],
+    "name:swe_x_preferred":[
+        "Ripa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1293780837,
-    "wof:lastmodified":1536859905,
+    "wof:lastmodified":1564198195,
     "wof:name":"Ripa",
     "wof:parent_id":1091699845,
     "wof:placetype":"locality",

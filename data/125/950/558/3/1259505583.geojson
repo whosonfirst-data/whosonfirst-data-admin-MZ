@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Cruz"
+    ],
+    "name:deu_x_preferred":[
+        "Cruz"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1259505583,
-    "wof:lastmodified":1536826156,
+    "wof:lastmodified":1564200677,
     "wof:name":"Cruz",
     "wof:parent_id":1091700177,
     "wof:placetype":"locality",

@@ -25,6 +25,111 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0644\u064a\u0634\u064a\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u043b\u0438\u0446\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Mil\u00edcia"
+    ],
+    "name:ces_x_preferred":[
+        "Domobrana"
+    ],
+    "name:dan_x_preferred":[
+        "Milits"
+    ],
+    "name:deu_x_preferred":[
+        "Miliz"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03bb\u03b9\u03c4\u03bf\u03c6\u03c5\u03bb\u03b1\u03ba\u03ae"
+    ],
+    "name:epo_x_preferred":[
+        "Milico"
+    ],
+    "name:eus_x_preferred":[
+        "Milizia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0628\u0647\u200c\u0646\u0638\u0627\u0645\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Miliisi"
+    ],
+    "name:fra_x_preferred":[
+        "Milice"
+    ],
+    "name:glg_x_preferred":[
+        "Milicia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05dc\u05d9\u05e6\u05d9\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Milicija"
+    ],
+    "name:ido_x_preferred":[
+        "Milico"
+    ],
+    "name:ind_x_preferred":[
+        "Milisi"
+    ],
+    "name:ita_x_preferred":[
+        "Milizia"
+    ],
+    "name:msa_x_preferred":[
+        "Militia"
+    ],
+    "name:nld_x_preferred":[
+        "Militie"
+    ],
+    "name:nno_x_preferred":[
+        "Milits"
+    ],
+    "name:nor_x_preferred":[
+        "Milits"
+    ],
+    "name:oci_x_preferred":[
+        "Mil\u00edcia"
+    ],
+    "name:pol_x_preferred":[
+        "Milicja"
+    ],
+    "name:por_x_preferred":[
+        "Mil\u00edcia"
+    ],
+    "name:ron_x_preferred":[
+        "Mili\u021bie"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u0438\u0446\u0438\u044f"
+    ],
+    "name:slk_x_preferred":[
+        "Domobrana"
+    ],
+    "name:spa_x_preferred":[
+        "Milicia"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u043b\u0438\u0446\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Milis"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc1\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8"
+    ],
+    "name:tur_x_preferred":[
+        "Milis"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043b\u0456\u0446\u0456\u044f"
+    ],
+    "name:vec_x_preferred":[
+        "Mi\u0142isia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +153,7 @@
         }
     ],
     "wof:id":1327467127,
-    "wof:lastmodified":1536628988,
+    "wof:lastmodified":1564197348,
     "wof:name":"Militia",
     "wof:parent_id":1091699383,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Guioa"
+    ],
+    "name:ceb_x_preferred":[
+        "Guioa"
+    ],
+    "name:fra_x_preferred":[
+        "Guioa"
+    ],
+    "name:nor_x_preferred":[
+        "Guioa"
+    ],
+    "name:por_x_preferred":[
+        "Guioa"
+    ],
+    "name:spa_x_preferred":[
+        "Guioa"
+    ],
+    "name:swe_x_preferred":[
+        "Guioa"
+    ],
+    "name:war_x_preferred":[
+        "Guioa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1326536221,
-    "wof:lastmodified":1536977676,
+    "wof:lastmodified":1564197531,
     "wof:name":"Guioa",
     "wof:parent_id":1091700825,
     "wof:placetype":"locality",

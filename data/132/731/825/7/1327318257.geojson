@@ -35,6 +35,9 @@
         "Vila Maganja da Costa",
         "Maganja"
     ],
+    "name:zho_x_preferred":[
+        "\u6ff1\u6d77\u99ac\u8b93\u96c5\u5340"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1327318257,
-    "wof:lastmodified":1537674472,
+    "wof:lastmodified":1564197191,
     "wof:name":"Maganja",
     "wof:parent_id":1091698671,
     "wof:placetype":"locality",

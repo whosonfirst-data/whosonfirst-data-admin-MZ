@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Nunes"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243285053,
-    "wof:lastmodified":1537036687,
+    "wof:lastmodified":1564200469,
     "wof:name":"Nunes",
     "wof:parent_id":1091697375,
     "wof:placetype":"locality",

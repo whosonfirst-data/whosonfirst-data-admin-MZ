@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Praca"
+    ],
+    "name:swe_x_preferred":[
+        "Praca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1309898503,
-    "wof:lastmodified":1536797586,
+    "wof:lastmodified":1564200045,
     "wof:name":"Praca",
     "wof:parent_id":1091700091,
     "wof:placetype":"locality",

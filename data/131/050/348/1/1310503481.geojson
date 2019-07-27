@@ -25,6 +25,21 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gino"
+    ],
+    "name:ita_x_preferred":[
+        "Gino"
+    ],
+    "name:por_x_preferred":[
+        "Gino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Gino"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1310503481,
-    "wof:lastmodified":1536920466,
+    "wof:lastmodified":1564199742,
     "wof:name":"Gino",
     "wof:parent_id":1091698063,
     "wof:placetype":"locality",

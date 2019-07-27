@@ -25,6 +25,42 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Matica"
+    ],
+    "name:ceb_x_preferred":[
+        "Matica"
+    ],
+    "name:ces_x_preferred":[
+        "Matice"
+    ],
+    "name:deu_x_preferred":[
+        "Matica"
+    ],
+    "name:fra_x_preferred":[
+        "Matica"
+    ],
+    "name:hrv_x_preferred":[
+        "Matica"
+    ],
+    "name:hun_x_preferred":[
+        "Matica"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u0438\u0446\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Matica"
+    ],
+    "name:slv_x_preferred":[
+        "Matica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0442\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Matica"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1226146017,
-    "wof:lastmodified":1537074217,
+    "wof:lastmodified":1564201006,
     "wof:name":"Matica",
     "wof:parent_id":1091696583,
     "wof:placetype":"locality",

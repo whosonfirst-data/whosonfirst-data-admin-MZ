@@ -25,6 +25,45 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Montepuez"
+    ],
+    "name:ceb_x_preferred":[
+        "Montepuez"
+    ],
+    "name:deu_x_preferred":[
+        "Montepuez"
+    ],
+    "name:fra_x_preferred":[
+        "Montepuez"
+    ],
+    "name:hrv_x_preferred":[
+        "Montepuez"
+    ],
+    "name:ita_x_preferred":[
+        "Montepuez"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10dc\u10e2\u10d4\u10de\u10e3\u10d4\u10d6\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Montepuez"
+    ],
+    "name:por_x_preferred":[
+        "Montepuez"
+    ],
+    "name:ron_x_preferred":[
+        "Montepuez"
+    ],
+    "name:swa_x_preferred":[
+        "Montepuez"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8499\u7279\u666e\u57c3\u8332"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u7279\u666e\u57c3\u8332"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +88,7 @@
         }
     ],
     "wof:id":1243186377,
-    "wof:lastmodified":1537569940,
+    "wof:lastmodified":1564200427,
     "wof:name":"Montepuez",
     "wof:parent_id":1091701371,
     "wof:placetype":"locality",

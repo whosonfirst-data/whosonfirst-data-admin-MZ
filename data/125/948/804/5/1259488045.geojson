@@ -25,6 +25,120 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u062a\u0634\u0627\u0644\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0447\u0430\u043b\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Machala"
+    ],
+    "name:ces_x_preferred":[
+        "Machala"
+    ],
+    "name:deu_x_preferred":[
+        "Machala"
+    ],
+    "name:epo_x_preferred":[
+        "Ma\u0109alo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0686\u0627\u0644\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Machala"
+    ],
+    "name:fra_x_preferred":[
+        "Machala"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e6'\u05d0\u05dc\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Machala"
+    ],
+    "name:ind_x_preferred":[
+        "Machala"
+    ],
+    "name:ita_x_preferred":[
+        "Machala"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30c1\u30e3\u30e9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e9\u10d0\u10da\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ucc30\ub77c"
+    ],
+    "name:lav_x_preferred":[
+        "Ma\u010dala"
+    ],
+    "name:lit_x_preferred":[
+        "Ma\u010dala"
+    ],
+    "name:msa_x_preferred":[
+        "Machala"
+    ],
+    "name:nau_x_preferred":[
+        "Machala"
+    ],
+    "name:nld_x_preferred":[
+        "Machala"
+    ],
+    "name:nno_x_preferred":[
+        "Machala"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u0686\u0627\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Machala"
+    ],
+    "name:por_x_preferred":[
+        "Machala"
+    ],
+    "name:que_x_preferred":[
+        "Machala"
+    ],
+    "name:ron_x_preferred":[
+        "Machala"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0447\u0430\u043b\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Machala"
+    ],
+    "name:spa_x_preferred":[
+        "Machala"
+    ],
+    "name:swe_x_preferred":[
+        "Machala"
+    ],
+    "name:tur_x_preferred":[
+        "Machala"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0447\u0430\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0686\u0627\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Machala"
+    ],
+    "name:vol_x_preferred":[
+        "Machala"
+    ],
+    "name:war_x_preferred":[
+        "Machala"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u67e5\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +162,7 @@
         }
     ],
     "wof:id":1259488045,
-    "wof:lastmodified":1536851111,
+    "wof:lastmodified":1564200594,
     "wof:name":"Machala",
     "wof:parent_id":1091696561,
     "wof:placetype":"locality",

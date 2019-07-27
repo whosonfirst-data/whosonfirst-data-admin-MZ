@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Salamanga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1243264753,
-    "wof:lastmodified":1537569924,
+    "wof:lastmodified":1564200499,
     "wof:name":"Salamanga",
     "wof:parent_id":1091699383,
     "wof:placetype":"locality",

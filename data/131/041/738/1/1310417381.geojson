@@ -25,6 +25,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "N\u0259vai"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0627\u06cc\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Navai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1310417381,
-    "wof:lastmodified":1537042348,
+    "wof:lastmodified":1564199511,
     "wof:name":"Navai",
     "wof:parent_id":1091698063,
     "wof:placetype":"locality",

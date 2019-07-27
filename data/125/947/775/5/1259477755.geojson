@@ -25,6 +25,42 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Apart"
+    ],
+    "name:deu_x_preferred":[
+        "Beiseitesprechen"
+    ],
+    "name:epo_x_preferred":[
+        "Flankeno"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0646\u0627\u0631\u06af\u0648\u06cc\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Apart\u00e9"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057a\u0561\u0580\u057f"
+    ],
+    "name:nld_x_preferred":[
+        "Terzijde"
+    ],
+    "name:por_x_preferred":[
+        "Aparte"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043f\u0430\u0440\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Aparte"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043f\u0430\u0440\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Apart"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1259477755,
-    "wof:lastmodified":1536865763,
+    "wof:lastmodified":1564200663,
     "wof:name":"Aside",
     "wof:parent_id":1091700865,
     "wof:placetype":"locality",

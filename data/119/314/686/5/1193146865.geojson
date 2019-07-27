@@ -25,6 +25,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tiba"
+    ],
+    "name:deu_x_preferred":[
+        "Tiba"
+    ],
+    "name:swe_x_preferred":[
+        "Tiba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1193146865,
-    "wof:lastmodified":1536382448,
+    "wof:lastmodified":1564199288,
     "wof:name":"Tiba",
     "wof:parent_id":1091701561,
     "wof:placetype":"locality",

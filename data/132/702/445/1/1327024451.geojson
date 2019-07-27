@@ -25,6 +25,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mida"
+    ],
+    "name:deu_x_preferred":[
+        "Mida"
+    ],
+    "name:ita_x_preferred":[
+        "Mida"
+    ],
+    "name:swe_x_preferred":[
+        "Mida"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1327024451,
-    "wof:lastmodified":1536772555,
+    "wof:lastmodified":1564197367,
     "wof:name":"Mida",
     "wof:parent_id":1091700255,
     "wof:placetype":"locality",

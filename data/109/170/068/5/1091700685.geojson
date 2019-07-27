@@ -24,6 +24,21 @@
     "mps:longitude":40.737966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Nacala"
+    ],
+    "name:ara_x_preferred":[
+        "\u0646\u0643\u0627\u0644\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Nacala"
+    ],
+    "name:ceb_x_preferred":[
+        "Nacala"
+    ],
+    "name:deu_x_preferred":[
+        "Nacala"
+    ],
     "name:eng_x_preferred":[
         "Nacala"
     ],
@@ -31,6 +46,63 @@
         "Nacala",
         "Nacala Velha",
         "NACALA"
+    ],
+    "name:epo_x_preferred":[
+        "Nacala"
+    ],
+    "name:fin_x_preferred":[
+        "Nacala"
+    ],
+    "name:fra_x_preferred":[
+        "Nacala"
+    ],
+    "name:hrv_x_preferred":[
+        "Nacala"
+    ],
+    "name:ita_x_preferred":[
+        "Nacala"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30ab\u30e9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10d9\u10d0\u10da\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub098\uce7c\ub77c"
+    ],
+    "name:lit_x_preferred":[
+        "Nakala"
+    ],
+    "name:nor_x_preferred":[
+        "Nacala"
+    ],
+    "name:pol_x_preferred":[
+        "Nacala"
+    ],
+    "name:por_x_preferred":[
+        "Nacala Porto"
+    ],
+    "name:ron_x_preferred":[
+        "Nacala"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u043a\u0430\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Nacala"
+    ],
+    "name:swa_x_preferred":[
+        "Nacala"
+    ],
+    "name:swe_x_preferred":[
+        "Nacala"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u043a\u0430\u043b\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u7eb3\u5361\u62c9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -55,7 +127,7 @@
         }
     ],
     "wof:id":1091700685,
-    "wof:lastmodified":1543954367,
+    "wof:lastmodified":1564199945,
     "wof:name":"Nacala",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

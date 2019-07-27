@@ -25,6 +25,27 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Muta"
+    ],
+    "name:deu_x_preferred":[
+        "Muta"
+    ],
+    "name:fra_x_preferred":[
+        "Muta"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0582\u057f\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Muta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Muta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1344271277,
-    "wof:lastmodified":1537065552,
+    "wof:lastmodified":1564197917,
     "wof:name":"Muta",
     "wof:parent_id":1091698583,
     "wof:placetype":"locality",

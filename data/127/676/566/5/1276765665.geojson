@@ -25,6 +25,21 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Filipe"
+    ],
+    "name:deu_x_preferred":[
+        "Filipe"
+    ],
+    "name:glg_x_preferred":[
+        "Filipe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a3\u30ea\u30da"
+    ],
+    "name:por_x_preferred":[
+        "Filipe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1276765665,
-    "wof:lastmodified":1536696713,
+    "wof:lastmodified":1564198676,
     "wof:name":"Filipe",
     "wof:parent_id":1091699347,
     "wof:placetype":"locality",

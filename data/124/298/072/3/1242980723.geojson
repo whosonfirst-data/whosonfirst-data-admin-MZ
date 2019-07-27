@@ -25,6 +25,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Balama"
+    ],
+    "name:swa_x_preferred":[
+        "Balama"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u62c9\u99ac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1242980723,
-    "wof:lastmodified":1537569938,
+    "wof:lastmodified":1564200390,
     "wof:name":"Balama",
     "wof:parent_id":1091696349,
     "wof:placetype":"locality",

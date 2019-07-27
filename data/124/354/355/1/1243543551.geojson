@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Jone"
+    ],
     "name:por_x_preferred":[
         "Jone"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1243543551,
-    "wof:lastmodified":1537674564,
+    "wof:lastmodified":1564200104,
     "wof:name":"Jone",
     "wof:parent_id":1091700331,
     "wof:placetype":"locality",

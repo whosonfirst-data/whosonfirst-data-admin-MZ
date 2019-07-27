@@ -25,6 +25,42 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Suica"
+    ],
+    "name:deu_x_preferred":[
+        "Suica"
+    ],
+    "name:epo_x_preferred":[
+        "Suica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0626\u06cc\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Suica"
+    ],
+    "name:hun_x_preferred":[
+        "Suica k\u00e1rtya"
+    ],
+    "name:ita_x_preferred":[
+        "Suica"
+    ],
+    "name:jpn_x_preferred":[
+        "Suica"
+    ],
+    "name:kor_x_preferred":[
+        "Suica"
+    ],
+    "name:por_x_preferred":[
+        "Suica"
+    ],
+    "name:rus_x_preferred":[
+        "Suica"
+    ],
+    "name:zho_x_preferred":[
+        "Suica"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1259886113,
-    "wof:lastmodified":1536775906,
+    "wof:lastmodified":1564200789,
     "wof:name":"Suica",
     "wof:parent_id":1091698763,
     "wof:placetype":"locality",

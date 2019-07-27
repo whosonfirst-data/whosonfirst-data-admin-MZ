@@ -25,6 +25,198 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Bartolomeus Dias"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0631\u062a\u0648\u0644\u0648\u0645\u064a\u0648 \u062f\u064a\u0627\u0632"
+    ],
+    "name:aze_x_preferred":[
+        "Bartolomeu Dia\u015f"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0440\u0442\u0430\u043b\u0430\u043c\u0435\u0443 \u0414\u044b\u044f\u0448"
+    ],
+    "name:bos_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:bre_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0440\u0442\u043e\u043b\u043e\u043c\u0435\u0443 \u0414\u0438\u0430\u0448"
+    ],
+    "name:cat_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:ces_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:dan_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:deu_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c1\u03b8\u03bf\u03bb\u03bf\u03bc\u03b1\u03af\u03bf\u03c2 \u039d\u03c4\u03b9\u03ac\u03b6"
+    ],
+    "name:epo_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:est_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:eus_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u062a\u0648\u0644\u0648\u0645\u0626\u0648 \u062f\u06cc\u0627\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:fra_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:fry_x_preferred":[
+        "Bartolomeus Dias"
+    ],
+    "name:glg_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e8\u05ea\u05d5\u05dc\u05d5\u05de\u05d9\u05d0\u05d5 \u05d3\u05d9\u05d0\u05e9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u0930\u091f\u094b\u0932\u094b\u092e\u0940\u092f\u0941 \u0921\u093f\u092f\u093e\u0938"
+    ],
+    "name:hrv_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:hun_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0580\u0564\u0578\u0582\u0572\u056b\u0574\u0565\u0578\u057d \u0534\u056b\u0561\u0577"
+    ],
+    "name:ido_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:ind_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:isl_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:ita_x_preferred":[
+        "Bartolomeo Diaz"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30eb\u30c8\u30ed\u30e1\u30a6\u30fb\u30c7\u30a3\u30a2\u30b9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e0\u10e2\u10dd\u10da\u10dd\u10db\u10d4\u10e3 \u10d3\u10d8\u10d0\u10e8\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0440\u0442\u043e\u043b\u043e\u043c\u0435\u0443 \u0414\u0438\u0430\u0448"
+    ],
+    "name:kir_x_preferred":[
+        "\u0414\u0438\u0430\u0448 \u0411\u0430\u0440\u0442\u043e\u043b\u043e\u043c\u0435\u0443"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ub974\ud1a8\ub85c\uba54\uc6b0 \ub514\uc544\uc2a4"
+    ],
+    "name:lat_x_preferred":[
+        "Bartholomaeus Dias"
+    ],
+    "name:lav_x_preferred":[
+        "Bartolomeu Dia\u0161s"
+    ],
+    "name:lit_x_preferred":[
+        "Bartolom\u0117jus Diasas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d7c\u0d24\u0d4d\u0d24\u0d32\u0d4b\u0d2e\u0d3f\u0d2f\u0d4b \u0d21\u0d2f\u0d38\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u093e\u0930\u094d\u0924\u0941\u0932\u0941\u092e\u094d\u092f\u0942 \u0926\u093f\u092f\u093e\u0938"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0440\u0442\u043e\u043b\u043e\u043c\u0435\u043e \u0414\u0438\u0458\u0430\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:mwl_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:nld_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:nno_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:nor_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:oci_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2c\u0a3e\u0a30\u0a1f\u0a4b\u0a32\u0a4b\u0a2e\u0a40\u0a09 \u0a21\u0a3f\u0a06\u0a38"
+    ],
+    "name:pol_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:por_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:ron_x_preferred":[
+        "Bartolomeo Diaz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0430\u0448"
+    ],
+    "name:sco_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:slk_x_preferred":[
+        "Bartolomeo Diaz"
+    ],
+    "name:spa_x_preferred":[
+        "Bartolom\u00e9 D\u00edaz"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0440\u0442\u043e\u043b\u043e\u043c\u0435\u043e \u0414\u0438\u0458\u0430\u0441"
+    ],
+    "name:swa_x_preferred":[
+        "Bartolomeo Dias"
+    ],
+    "name:swe_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bb2\u0bcb\u0bae\u0bbf\u0baf\u0bcb \u0b9f\u0baf\u0bb8\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e32\u0e23\u0e4c\u0e15\u0e39\u0e25\u0e39\u0e40\u0e21\u0e27 \u0e14\u0e35\u0e2d\u0e31\u0e0a"
+    ],
+    "name:tur_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0440\u0442\u043e\u043b\u043e\u043c\u0435\u0443 \u0414\u0456\u0430\u0448"
+    ],
+    "name:vie_x_preferred":[
+        "Bartolomeu Dias"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10d0\u10e0\u10e2\u10dd\u10da\u10dd\u10db\u10d4\u10e3 \u10d3\u10d8\u10d0\u10e8\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u723e\u6258\u6d1b\u6885\u70cf\u00b7\u8fea\u4e9e\u58eb"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +240,7 @@
         }
     ],
     "wof:id":1276443857,
-    "wof:lastmodified":1536628797,
+    "wof:lastmodified":1564198541,
     "wof:name":"Bartolomeu Dias",
     "wof:parent_id":1091697673,
     "wof:placetype":"locality",

@@ -25,8 +25,47 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Vilankulo"
+    ],
+    "name:cat_x_preferred":[
+        "Vilankulo"
+    ],
+    "name:deu_x_preferred":[
+        "Vilankulo"
+    ],
+    "name:gag_x_preferred":[
+        "Vilankulo"
+    ],
+    "name:ind_x_preferred":[
+        "Vilanculos"
+    ],
+    "name:ita_x_preferred":[
+        "Vilankulo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10da\u10d0\u10dc\u10d9\u10e3\u10da\u10e3\u10e8\u10d8"
+    ],
+    "name:nor_x_preferred":[
+        "Vilankulo"
+    ],
+    "name:pol_x_preferred":[
+        "Vilankulo"
+    ],
+    "name:por_x_preferred":[
+        "Vilanculos"
+    ],
+    "name:ron_x_preferred":[
+        "Vilankulo"
+    ],
+    "name:swa_x_preferred":[
+        "Vilanculo"
+    ],
     "name:und_x_variant":[
         "Vilanculos"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u862d\u5eab\u6d1b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1343764007,
-    "wof:lastmodified":1537674618,
+    "wof:lastmodified":1564197768,
     "wof:name":"Vilankulo",
     "wof:parent_id":1091701605,
     "wof:placetype":"locality",

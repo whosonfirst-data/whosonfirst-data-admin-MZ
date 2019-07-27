@@ -25,6 +25,81 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bug_x_preferred":[
+        "Escosse"
+    ],
+    "name:cat_x_preferred":[
+        "Esc\u00f2\u00e7a"
+    ],
+    "name:ceb_x_preferred":[
+        "Escosse"
+    ],
+    "name:eus_x_preferred":[
+        "Escosse"
+    ],
+    "name:fra_x_preferred":[
+        "Escosse"
+    ],
+    "name:hun_x_preferred":[
+        "Escosse"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u057d\u056f\u0578\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Escosse"
+    ],
+    "name:lat_x_preferred":[
+        "Escosse"
+    ],
+    "name:mlg_x_preferred":[
+        "Escosse"
+    ],
+    "name:msa_x_preferred":[
+        "Escosse"
+    ],
+    "name:nld_x_preferred":[
+        "Escosse"
+    ],
+    "name:oci_x_preferred":[
+        "Esc\u00f2\u00e7a"
+    ],
+    "name:pol_x_preferred":[
+        "Escosse"
+    ],
+    "name:por_x_preferred":[
+        "Escosse"
+    ],
+    "name:ron_x_preferred":[
+        "Escosse"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u043a\u043e\u0441"
+    ],
+    "name:slk_x_preferred":[
+        "Escosse"
+    ],
+    "name:spa_x_preferred":[
+        "Escosse"
+    ],
+    "name:swe_x_preferred":[
+        "Escosse"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0441\u043a\u043e\u0441\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "Escosse"
+    ],
+    "name:vol_x_preferred":[
+        "Escosse"
+    ],
+    "name:war_x_preferred":[
+        "Escosse"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u65af\u79d1\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +123,7 @@
         }
     ],
     "wof:id":1360197447,
-    "wof:lastmodified":1536783977,
+    "wof:lastmodified":1564199917,
     "wof:name":"Escosse",
     "wof:parent_id":1091699347,
     "wof:placetype":"locality",

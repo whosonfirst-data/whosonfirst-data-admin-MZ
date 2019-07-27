@@ -14,6 +14,54 @@
     "lbl:longitude":38.260031,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Mocuba"
+    ],
+    "name:cat_x_preferred":[
+        "Mocuba"
+    ],
+    "name:ceb_x_preferred":[
+        "Mocuba"
+    ],
+    "name:deu_x_preferred":[
+        "Mocuba"
+    ],
+    "name:fin_x_preferred":[
+        "Mocuba"
+    ],
+    "name:fra_x_preferred":[
+        "Mocuba"
+    ],
+    "name:hrv_x_preferred":[
+        "Mocuba"
+    ],
+    "name:ita_x_preferred":[
+        "Mocuba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30af\u30d0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10d9\u10e3\u10d1\u10d0"
+    ],
+    "name:pol_x_preferred":[
+        "Mocuba"
+    ],
+    "name:por_x_preferred":[
+        "Mocuba"
+    ],
+    "name:ron_x_preferred":[
+        "Mocuba"
+    ],
+    "name:spa_x_preferred":[
+        "Mocuba"
+    ],
+    "name:swa_x_preferred":[
+        "Mocuba"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u5eab\u5df4"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mozambique",
     "ne:ADM0_A3":"MOZ",
@@ -131,7 +179,7 @@
         }
     ],
     "wof:id":1141907199,
-    "wof:lastmodified":1508889532,
+    "wof:lastmodified":1564201211,
     "wof:name":"Mocuba",
     "wof:parent_id":1091701291,
     "wof:placetype":"locality",

@@ -30,6 +30,30 @@
     "mps:longitude":39.129293,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Nampula"
+    ],
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0645\u0628\u0648\u0644\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u0645\u067e\u0648\u0644\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Nampula"
+    ],
+    "name:ceb_x_preferred":[
+        "Nampula"
+    ],
+    "name:dan_x_preferred":[
+        "Nampula"
+    ],
+    "name:deu_x_preferred":[
+        "Nampula"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03bc\u03c0\u03bf\u03cd\u03bb\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Nampula"
     ],
@@ -37,6 +61,93 @@
         "Nampula",
         "NAMPULA",
         "Rapale-Nampula"
+    ],
+    "name:epo_x_preferred":[
+        "Nampula"
+    ],
+    "name:eus_x_preferred":[
+        "Nampula"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0645\u067e\u0648\u0644\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Nampula"
+    ],
+    "name:fra_x_preferred":[
+        "Nampula"
+    ],
+    "name:frr_x_preferred":[
+        "Nampula"
+    ],
+    "name:hrv_x_preferred":[
+        "Nampula"
+    ],
+    "name:ind_x_preferred":[
+        "Nampula"
+    ],
+    "name:ita_x_preferred":[
+        "Nampula"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30f3\u30d7\u30e9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10db\u10de\u10e3\u10da\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub0a8\ud480\ub77c"
+    ],
+    "name:lat_x_preferred":[
+        "Nampula"
+    ],
+    "name:lit_x_preferred":[
+        "Nampula"
+    ],
+    "name:mri_x_preferred":[
+        "Nampula"
+    ],
+    "name:nld_x_preferred":[
+        "Nampula"
+    ],
+    "name:nor_x_preferred":[
+        "Nampula"
+    ],
+    "name:pol_x_preferred":[
+        "Nampula"
+    ],
+    "name:por_x_preferred":[
+        "Nampula"
+    ],
+    "name:ron_x_preferred":[
+        "Nampula"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u043c\u043f\u0443\u043b\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Nampula"
+    ],
+    "name:spa_x_preferred":[
+        "Nampula"
+    ],
+    "name:swa_x_preferred":[
+        "Nampula"
+    ],
+    "name:swe_x_preferred":[
+        "Nampula"
+    ],
+    "name:tur_x_preferred":[
+        "Nampula"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u043c\u043f\u0443\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0645\u067e\u0648\u0644\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u6960\u666e\u62c9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -71,7 +182,7 @@
         }
     ],
     "wof:id":1091700965,
-    "wof:lastmodified":1553717929,
+    "wof:lastmodified":1564199940,
     "wof:name":"Nampula",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

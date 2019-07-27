@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nah_x_preferred":[
+        "Molotl"
+    ],
+    "name:spa_x_preferred":[
+        "Molote"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1343656961,
-    "wof:lastmodified":1536960058,
+    "wof:lastmodified":1564197606,
     "wof:name":"Molote",
     "wof:parent_id":1091700133,
     "wof:placetype":"locality",

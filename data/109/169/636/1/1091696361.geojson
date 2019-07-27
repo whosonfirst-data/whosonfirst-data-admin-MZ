@@ -38,6 +38,18 @@
         "BILENE",
         "Bilene-Macia"
     ],
+    "name:ita_x_preferred":[
+        "Bilene"
+    ],
+    "name:ron_x_preferred":[
+        "Bilene"
+    ],
+    "name:swe_x_preferred":[
+        "Bilene"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u840a\u5c3c"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +85,7 @@
         }
     ],
     "wof:id":1091696361,
-    "wof:lastmodified":1553717907,
+    "wof:lastmodified":1564199935,
     "wof:name":"Bilene",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

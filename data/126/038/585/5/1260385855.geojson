@@ -26,6 +26,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Motiva"
+    ],
     "name:und_x_variant":[
         "Motiua",
         "Motiva"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1260385855,
-    "wof:lastmodified":1537674523,
+    "wof:lastmodified":1564199355,
     "wof:name":"Motiva",
     "wof:parent_id":1091698823,
     "wof:placetype":"locality",

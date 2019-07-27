@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lin_x_preferred":[
+        "J. Martins"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293694275,
-    "wof:lastmodified":1536985351,
+    "wof:lastmodified":1564198264,
     "wof:name":"J. Martins",
     "wof:parent_id":1091697853,
     "wof:placetype":"locality",

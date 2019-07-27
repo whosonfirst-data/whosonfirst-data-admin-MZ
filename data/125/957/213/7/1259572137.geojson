@@ -26,6 +26,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0442\u0438\u043d\u044c\u043e"
+    ],
+    "name:deu_x_preferred":[
+        "Ratinho"
+    ],
+    "name:pol_x_preferred":[
+        "Ratinho"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0434\u0440\u0438\u0433\u0435\u0441 \u0420\u0430\u0442\u0438\u043d\u044c\u043e"
+    ],
     "name:und_x_variant":[
         "Patinho",
         "Ratinho"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1259572137,
-    "wof:lastmodified":1537674488,
+    "wof:lastmodified":1564200690,
     "wof:name":"Ratinho",
     "wof:parent_id":1091696537,
     "wof:placetype":"locality",

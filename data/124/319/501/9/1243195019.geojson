@@ -26,6 +26,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Inhamitanga"
+    ],
     "name:und_x_variant":[
         "Inhamilanga",
         "Inhamitanga"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1243195019,
-    "wof:lastmodified":1537674567,
+    "wof:lastmodified":1564200488,
     "wof:name":"Inhamitanga",
     "wof:parent_id":1091696559,
     "wof:placetype":"locality",

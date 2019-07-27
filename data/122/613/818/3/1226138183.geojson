@@ -26,6 +26,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Jacopo"
+    ],
+    "name:ita_x_preferred":[
+        "Jacopo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30b3\u30dd"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043a\u043e\u043f\u043e"
+    ],
     "name:und_x_variant":[
         "Jacopa",
         "Jacopo"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1226138183,
-    "wof:lastmodified":1537674566,
+    "wof:lastmodified":1564201009,
     "wof:name":"Jacopo",
     "wof:parent_id":1091701483,
     "wof:placetype":"locality",

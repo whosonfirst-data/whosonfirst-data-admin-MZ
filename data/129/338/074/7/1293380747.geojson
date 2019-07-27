@@ -25,6 +25,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Massangano"
+    ],
+    "name:fra_x_preferred":[
+        "Massangano"
+    ],
+    "name:por_x_preferred":[
+        "Massangano"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1293380747,
-    "wof:lastmodified":1536941517,
+    "wof:lastmodified":1564198028,
     "wof:name":"Massangano",
     "wof:parent_id":1091701561,
     "wof:placetype":"locality",

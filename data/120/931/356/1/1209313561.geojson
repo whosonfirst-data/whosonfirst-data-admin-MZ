@@ -25,6 +25,42 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Luca"
+    ],
+    "name:ces_x_preferred":[
+        "Luca"
+    ],
+    "name:dan_x_preferred":[
+        "Luca"
+    ],
+    "name:deu_x_preferred":[
+        "Luca"
+    ],
+    "name:fin_x_preferred":[
+        "Luca"
+    ],
+    "name:fra_x_preferred":[
+        "Luca"
+    ],
+    "name:ita_x_preferred":[
+        "Luca"
+    ],
+    "name:nld_x_preferred":[
+        "Luca"
+    ],
+    "name:ron_x_preferred":[
+        "Luca"
+    ],
+    "name:spa_x_preferred":[
+        "Luca"
+    ],
+    "name:swe_x_preferred":[
+        "Luca"
+    ],
+    "name:vie_x_preferred":[
+        "Luca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -34,7 +70,7 @@
         "gn:id":1043408
     },
     "wof:country":"MZ",
-    "wof:geomhash":"62fedfa80753ae2fefd3920fe84f093b",
+    "wof:geomhash":"218bb7da8b2ff62226cfdab6fbcd5609",
     "wof:hierarchy":[
         {
             "country_id":85632729,
@@ -42,7 +78,7 @@
         }
     ],
     "wof:id":1209313561,
-    "wof:lastmodified":1536290943,
+    "wof:lastmodified":1564198840,
     "wof:name":"Luca",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",
@@ -52,9 +88,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.759170000000005,
+    33.75917,
     -20.43694,
-    33.759170000000005,
+    33.75917,
     -20.43694
 ],
   "geometry": {"coordinates":[33.75917,-20.43694],"type":"Point"}

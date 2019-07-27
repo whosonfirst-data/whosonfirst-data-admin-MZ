@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Litembo"
+    ],
+    "name:swa_x_preferred":[
+        "Litembo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1326834227,
-    "wof:lastmodified":1537044053,
+    "wof:lastmodified":1564197455,
     "wof:name":"Litembo",
     "wof:parent_id":1091700457,
     "wof:placetype":"locality",

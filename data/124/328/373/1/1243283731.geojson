@@ -25,6 +25,27 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Hebo"
+    ],
+    "name:ind_x_preferred":[
+        "Hebo"
+    ],
+    "name:ita_x_preferred":[
+        "Hebo"
+    ],
+    "name:nor_x_preferred":[
+        "Heng Bo"
+    ],
+    "name:swe_x_preferred":[
+        "Heng Bo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435 \u0411\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "H\u00e0 B\u00e1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1243283731,
-    "wof:lastmodified":1537038509,
+    "wof:lastmodified":1564200474,
     "wof:name":"Hebo",
     "wof:parent_id":1091700637,
     "wof:placetype":"locality",

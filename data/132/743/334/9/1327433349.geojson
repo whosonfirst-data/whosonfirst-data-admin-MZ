@@ -26,9 +26,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Inharrime"
+    ],
+    "name:por_x_preferred":[
+        "Inharrime"
+    ],
     "name:und_x_variant":[
         "Poelelane",
         "Inharrime"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5c3c\u96c5\u5229\u6885"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1327433349,
-    "wof:lastmodified":1537674567,
+    "wof:lastmodified":1564197559,
     "wof:name":"Inharrime",
     "wof:parent_id":1091698019,
     "wof:placetype":"locality",

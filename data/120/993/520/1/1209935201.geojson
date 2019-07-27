@@ -25,6 +25,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Saraiva"
+    ],
+    "name:fra_x_preferred":[
+        "Saraiva"
+    ],
+    "name:por_x_preferred":[
+        "Saraiva"
+    ],
+    "name:spa_x_preferred":[
+        "Saravia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1209935201,
-    "wof:lastmodified":1536390964,
+    "wof:lastmodified":1564199060,
     "wof:name":"Saraiva",
     "wof:parent_id":1091697545,
     "wof:placetype":"locality",

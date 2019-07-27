@@ -37,6 +37,9 @@
         "Chemba",
         "CHEMBA"
     ],
+    "name:swa_x_preferred":[
+        "Chemba"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091696557,
-    "wof:lastmodified":1553717907,
+    "wof:lastmodified":1564199931,
     "wof:name":"Chemba",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

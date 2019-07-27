@@ -25,6 +25,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dudo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05d3\u05d5"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0443\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Dudo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1242888285,
-    "wof:lastmodified":1536613704,
+    "wof:lastmodified":1564200174,
     "wof:name":"Dudo",
     "wof:parent_id":1091701043,
     "wof:placetype":"locality",

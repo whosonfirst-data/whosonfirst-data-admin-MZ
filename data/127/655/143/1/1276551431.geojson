@@ -25,6 +25,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Caula"
+    ],
+    "name:ita_x_preferred":[
+        "Caula"
+    ],
+    "name:swe_x_preferred":[
+        "Caula"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276551431,
-    "wof:lastmodified":1536983013,
+    "wof:lastmodified":1564198740,
     "wof:name":"Caula",
     "wof:parent_id":1091700221,
     "wof:placetype":"locality",

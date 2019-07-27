@@ -26,6 +26,21 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Ernesto"
+    ],
+    "name:deu_x_preferred":[
+        "Ernesto"
+    ],
+    "name:fra_x_preferred":[
+        "Ernesto"
+    ],
+    "name:ita_x_preferred":[
+        "Ernesto"
+    ],
+    "name:spa_x_preferred":[
+        "Ernesto"
+    ],
     "name:und_x_variant":[
         "Ibraim",
         "Ernesto"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1242781049,
-    "wof:lastmodified":1537674568,
+    "wof:lastmodified":1564200367,
     "wof:name":"Ernesto",
     "wof:parent_id":1091696583,
     "wof:placetype":"locality",

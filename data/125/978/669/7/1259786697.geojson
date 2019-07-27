@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Gorila Jambo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259786697,
-    "wof:lastmodified":1536919106,
+    "wof:lastmodified":1564200639,
     "wof:name":"Jambo",
     "wof:parent_id":1091698365,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
         "Namacurra",
         "NAMACURRA"
     ],
+    "name:por_x_preferred":[
+        "Namacurra"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091700865,
-    "wof:lastmodified":1553717929,
+    "wof:lastmodified":1564199944,
     "wof:name":"Namacurra",
     "wof:parent_id":85674839,
     "wof:placetype":"county",
