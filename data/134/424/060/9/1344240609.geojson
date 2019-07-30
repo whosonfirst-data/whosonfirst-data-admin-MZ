@@ -25,6 +25,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zaba"
+    ],
+    "name:deu_x_preferred":[
+        "Zaba"
+    ],
+    "name:swe_x_preferred":[
+        "Zaba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1344240609,
-    "wof:lastmodified":1536613245,
+    "wof:lastmodified":1564197695,
     "wof:name":"Zaba",
     "wof:parent_id":1091699043,
     "wof:placetype":"locality",

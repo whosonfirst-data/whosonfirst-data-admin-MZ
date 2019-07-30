@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Pondo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226151831,
-    "wof:lastmodified":1537065949,
+    "wof:lastmodified":1564201081,
     "wof:name":"Pondo",
     "wof:parent_id":1091696361,
     "wof:placetype":"locality",

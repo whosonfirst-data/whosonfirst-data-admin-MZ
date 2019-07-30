@@ -25,6 +25,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ismael"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0645\u0627\u0639\u06cc\u0644"
+    ],
+    "name:por_x_preferred":[
+        "Ismael"
+    ],
+    "name:tgl_x_preferred":[
+        "Ismael"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259888601,
-    "wof:lastmodified":1536772260,
+    "wof:lastmodified":1564200790,
     "wof:name":"Ismael",
     "wof:parent_id":1091697721,
     "wof:placetype":"locality",

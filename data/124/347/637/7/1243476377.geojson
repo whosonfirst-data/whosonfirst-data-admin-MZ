@@ -25,6 +25,27 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Vaela"
+    ],
+    "name:fra_x_preferred":[
+        "Vaela"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u0565\u056c\u0561"
+    ],
+    "name:nld_x_preferred":[
+        "Vaela"
+    ],
+    "name:pol_x_preferred":[
+        "Vaela"
+    ],
+    "name:spa_x_preferred":[
+        "Vaela"
+    ],
+    "name:vol_x_preferred":[
+        "Vaela"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1243476377,
-    "wof:lastmodified":1536762680,
+    "wof:lastmodified":1564200299,
     "wof:name":"Vaela",
     "wof:parent_id":1091699601,
     "wof:placetype":"locality",

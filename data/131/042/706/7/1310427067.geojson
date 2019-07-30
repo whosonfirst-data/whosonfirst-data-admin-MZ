@@ -25,6 +25,36 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Artur"
+    ],
+    "name:ces_x_preferred":[
+        "Artur"
+    ],
+    "name:est_x_preferred":[
+        "Artur"
+    ],
+    "name:fra_x_preferred":[
+        "Artur"
+    ],
+    "name:glg_x_preferred":[
+        "Artur"
+    ],
+    "name:nno_x_preferred":[
+        "Artur"
+    ],
+    "name:nor_x_preferred":[
+        "Artur"
+    ],
+    "name:pol_x_preferred":[
+        "Artur"
+    ],
+    "name:slv_x_preferred":[
+        "Artur"
+    ],
+    "name:swe_x_preferred":[
+        "Artur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1310427067,
-    "wof:lastmodified":1537028934,
+    "wof:lastmodified":1564199646,
     "wof:name":"Artur",
     "wof:parent_id":1091698193,
     "wof:placetype":"locality",

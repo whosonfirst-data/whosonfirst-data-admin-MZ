@@ -26,10 +26,40 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u099a\u09be\u09b2\u09be\u09b2\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Chal\u0101la"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9a\u0ab2\u0abe\u0ab2\u0abe"
+    ],
+    "name:ita_x_preferred":[
+        "Chalala"
+    ],
+    "name:msa_x_preferred":[
+        "Chalala"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u0932\u093e\u0932\u093e"
+    ],
+    "name:por_x_preferred":[
+        "Chalala"
+    ],
+    "name:swe_x_preferred":[
+        "Chal\u0101la"
+    ],
     "name:und_x_variant":[
         "Coelela",
         "Caolela",
         "Chalala"
+    ],
+    "name:vie_x_preferred":[
+        "Chalala"
+    ],
+    "name:zho_x_preferred":[
+        "\u6070\u62c9\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1327336717,
-    "wof:lastmodified":1537674601,
+    "wof:lastmodified":1564197388,
     "wof:name":"Chalala",
     "wof:parent_id":1091698967,
     "wof:placetype":"locality",

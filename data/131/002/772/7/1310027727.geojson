@@ -26,6 +26,24 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nela"
+    ],
+    "name:deu_x_preferred":[
+        "Nela"
+    ],
+    "name:fin_x_preferred":[
+        "Nela"
+    ],
+    "name:fra_x_preferred":[
+        "Nela"
+    ],
+    "name:pol_x_preferred":[
+        "Nela"
+    ],
+    "name:spa_x_preferred":[
+        "Nela"
+    ],
     "name:und_x_variant":[
         "Nauile",
         "Nela"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1310027727,
-    "wof:lastmodified":1537674503,
+    "wof:lastmodified":1564199760,
     "wof:name":"Nela",
     "wof:parent_id":1091700727,
     "wof:placetype":"locality",

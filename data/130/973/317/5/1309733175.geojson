@@ -26,6 +26,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Reva"
+    ],
+    "name:deu_x_preferred":[
+        "Reva"
+    ],
+    "name:swe_x_preferred":[
+        "Reva"
+    ],
     "name:und_x_variant":[
         "R\u00e9via",
         "Reva"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1309733175,
-    "wof:lastmodified":1537674488,
+    "wof:lastmodified":1564200032,
     "wof:name":"Reva",
     "wof:parent_id":1091698823,
     "wof:placetype":"locality",

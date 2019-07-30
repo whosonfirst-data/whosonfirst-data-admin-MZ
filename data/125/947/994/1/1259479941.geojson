@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mazi"
+    ],
+    "name:swe_x_preferred":[
+        "Mazi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1259479941,
-    "wof:lastmodified":1536862533,
+    "wof:lastmodified":1564200659,
     "wof:name":"Mazi",
     "wof:parent_id":1091701443,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jaco"
+    ],
+    "name:deu_x_preferred":[
+        "Jaco"
+    ],
+    "name:fra_x_preferred":[
+        "Jaco"
+    ],
+    "name:ita_x_preferred":[
+        "Jaco"
+    ],
+    "name:nld_x_preferred":[
+        "Jaco"
+    ],
+    "name:nor_x_preferred":[
+        "Jaco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Jaco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1209799959,
-    "wof:lastmodified":1536391165,
+    "wof:lastmodified":1564198942,
     "wof:name":"Jaco",
     "wof:parent_id":1091698671,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Chicomba"
+    ],
+    "name:deu_x_preferred":[
+        "Chicomba"
+    ],
+    "name:ita_x_preferred":[
+        "Chicomba"
+    ],
+    "name:msa_x_preferred":[
+        "Chicomba"
+    ],
+    "name:por_x_preferred":[
+        "Chicomba"
+    ],
+    "name:spa_x_preferred":[
+        "Chicomba"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u5b54\u5df4"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1243378101,
-    "wof:lastmodified":1536904247,
+    "wof:lastmodified":1564200115,
     "wof:name":"Chicomba",
     "wof:parent_id":1091698535,
     "wof:placetype":"locality",

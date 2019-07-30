@@ -25,6 +25,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mariga"
+    ],
+    "name:deu_x_preferred":[
+        "Mariga"
+    ],
+    "name:ita_x_preferred":[
+        "Mariga"
+    ],
+    "name:spa_x_preferred":[
+        "Mariga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310094493,
-    "wof:lastmodified":1537011677,
+    "wof:lastmodified":1564199594,
     "wof:name":"Mariga",
     "wof:parent_id":1091698535,
     "wof:placetype":"locality",

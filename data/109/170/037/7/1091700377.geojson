@@ -37,6 +37,12 @@
         "Muanza",
         "MUANZA"
     ],
+    "name:por_x_preferred":[
+        "Muanza"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u5b89\u624e"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091700377,
-    "wof:lastmodified":1553717928,
+    "wof:lastmodified":1564199941,
     "wof:name":"Muanza",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

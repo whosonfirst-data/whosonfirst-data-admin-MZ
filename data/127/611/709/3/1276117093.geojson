@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Muanza"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u5b89\u624e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1276117093,
-    "wof:lastmodified":1537569927,
+    "wof:lastmodified":1564198575,
     "wof:name":"Muanza",
     "wof:parent_id":1091700377,
     "wof:placetype":"locality",

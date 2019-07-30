@@ -25,6 +25,33 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Joane"
+    ],
+    "name:deu_x_preferred":[
+        "Joane"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u043e\u0430\u043d\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Joane"
+    ],
+    "name:por_x_preferred":[
+        "Joane"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u0430\u043d\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Joane"
+    ],
+    "name:tur_x_preferred":[
+        "Joane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0443\u0430\u043d\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1276782087,
-    "wof:lastmodified":1536674591,
+    "wof:lastmodified":1564198693,
     "wof:name":"Joane",
     "wof:parent_id":1091698535,
     "wof:placetype":"locality",

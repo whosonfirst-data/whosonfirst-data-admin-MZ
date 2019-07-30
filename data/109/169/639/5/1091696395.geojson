@@ -37,6 +37,9 @@
         "Buzi",
         "BUZI"
     ],
+    "name:nld_x_preferred":[
+        "Buzi"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091696395,
-    "wof:lastmodified":1553717918,
+    "wof:lastmodified":1564199932,
     "wof:name":"Buzi",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

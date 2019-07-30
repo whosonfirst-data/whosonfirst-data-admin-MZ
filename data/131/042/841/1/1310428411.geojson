@@ -25,6 +25,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bimba"
+    ],
+    "name:deu_x_preferred":[
+        "Bimba"
+    ],
+    "name:ita_x_preferred":[
+        "Bimba"
+    ],
+    "name:swe_x_preferred":[
+        "Bimba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310428411,
-    "wof:lastmodified":1537026994,
+    "wof:lastmodified":1564199648,
     "wof:name":"Bimba",
     "wof:parent_id":1091696561,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Montoubu"
+    ],
+    "name:deu_x_preferred":[
+        "Montovo"
+    ],
+    "name:spa_x_preferred":[
+        "Montovo"
+    ],
     "name:und_x_variant":[
         "Nantovo",
         "Montovo"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1276543811,
-    "wof:lastmodified":1537674504,
+    "wof:lastmodified":1564198817,
     "wof:name":"Montovo",
     "wof:parent_id":1091699411,
     "wof:placetype":"locality",

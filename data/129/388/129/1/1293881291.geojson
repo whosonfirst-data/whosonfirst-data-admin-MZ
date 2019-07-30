@@ -25,6 +25,123 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0628\u064a\u0627\u0621"
+    ],
+    "name:aze_x_preferred":[
+        "Cavia"
+    ],
+    "name:bre_x_preferred":[
+        "Cavia"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0440\u0441\u043a\u0438 \u0441\u0432\u0438\u043d\u0447\u0435\u0442\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Cavia"
+    ],
+    "name:ceb_x_preferred":[
+        "Cavia"
+    ],
+    "name:ces_x_preferred":[
+        "Mor\u010de"
+    ],
+    "name:deu_x_preferred":[
+        "Echte Meerschweinchen"
+    ],
+    "name:epo_x_preferred":[
+        "Kavio"
+    ],
+    "name:eus_x_preferred":[
+        "Cavia"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u06a9\u0686\u0647 \u0647\u0646\u062f\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Cavia"
+    ],
+    "name:fry_x_preferred":[
+        "Kavia's"
+    ],
+    "name:glg_x_preferred":[
+        "Cavia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d1\u05d9\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Zamor\u010di\u0107"
+    ],
+    "name:hun_x_preferred":[
+        "Cavia"
+    ],
+    "name:ita_x_preferred":[
+        "Cavia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30f3\u30b8\u30af\u30cd\u30ba\u30df"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0435\u04a3\u0456\u0437 \u0448\u043e\u0448\u049b\u0430\u043b\u0430\u0440\u044b"
+    ],
+    "name:kir_x_preferred":[
+        "\u0414\u043e\u04a3\u0443\u0437\u0447\u044b\u0447\u043a\u0430\u043d\u0434\u0430\u0440"
+    ],
+    "name:kor_x_preferred":[
+        "\uae30\ub2c8\ud53c\uadf8\uc18d"
+    ],
+    "name:lat_x_preferred":[
+        "Cavia"
+    ],
+    "name:lav_x_preferred":[
+        "J\u016brasc\u016bci\u0146as"
+    ],
+    "name:lim_x_preferred":[
+        "Cavia's"
+    ],
+    "name:nav_x_preferred":[
+        "\u0141\u00e9\u02bc\u00e9tsoh beeni\u02bc\u00edhoniitaah\u00edg\u00ed\u00ed"
+    ],
+    "name:nld_x_preferred":[
+        "Cavia's"
+    ],
+    "name:nno_x_preferred":[
+        "Cavia"
+    ],
+    "name:pol_x_preferred":[
+        "Kawia"
+    ],
+    "name:por_x_preferred":[
+        "Cavia"
+    ],
+    "name:que_x_preferred":[
+        "Quwi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0438\u043d\u043a\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Mor\u010da"
+    ],
+    "name:spa_x_preferred":[
+        "Cavia"
+    ],
+    "name:swe_x_preferred":[
+        "Egentliga marsvin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0432\u0456\u044f"
+    ],
+    "name:uzb_x_preferred":[
+        "Dengiz cho\u02bbchqachalari"
+    ],
+    "name:war_x_preferred":[
+        "Cavia"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c5a\u9f20\u5c5e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +165,7 @@
         }
     ],
     "wof:id":1293881291,
-    "wof:lastmodified":1536716898,
+    "wof:lastmodified":1564198445,
     "wof:name":"Cavia",
     "wof:parent_id":1091697977,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Moma"
+    ],
+    "name:frr_x_preferred":[
+        "Moma"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10db\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Moma"
+    ],
+    "name:spa_x_preferred":[
+        "Moma"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u99ac\u5340"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1276654651,
-    "wof:lastmodified":1537569927,
+    "wof:lastmodified":1564198784,
     "wof:name":"Moma",
     "wof:parent_id":1091700155,
     "wof:placetype":"locality",

@@ -26,6 +26,21 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Saule"
+    ],
+    "name:fra_x_preferred":[
+        "Saule"
+    ],
+    "name:ita_x_preferred":[
+        "Saule"
+    ],
+    "name:lav_x_preferred":[
+        "Saule"
+    ],
+    "name:lit_x_preferred":[
+        "Saul\u0117"
+    ],
     "name:und_x_variant":[
         "Sual\u00ea",
         "Saule"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1327026923,
-    "wof:lastmodified":1537674482,
+    "wof:lastmodified":1564197364,
     "wof:name":"Saule",
     "wof:parent_id":1091699257,
     "wof:placetype":"locality",

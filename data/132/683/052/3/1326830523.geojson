@@ -26,6 +26,21 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sisa"
+    ],
+    "name:deu_x_preferred":[
+        "Sisa"
+    ],
+    "name:por_x_preferred":[
+        "Sisa"
+    ],
+    "name:spa_x_preferred":[
+        "Sisa"
+    ],
+    "name:swe_x_preferred":[
+        "Sisa"
+    ],
     "name:und_x_variant":[
         "Lindi\u00e7a",
         "Sisa"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1326830523,
-    "wof:lastmodified":1537674483,
+    "wof:lastmodified":1564197456,
     "wof:name":"Sisa",
     "wof:parent_id":1091696363,
     "wof:placetype":"locality",

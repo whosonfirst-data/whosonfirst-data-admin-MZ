@@ -25,6 +25,39 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Leopoldina"
+    ],
+    "name:ceb_x_preferred":[
+        "Leopoldina"
+    ],
+    "name:deu_x_preferred":[
+        "Leopoldina"
+    ],
+    "name:fra_x_preferred":[
+        "Leopoldina"
+    ],
+    "name:ita_x_preferred":[
+        "Leopoldina"
+    ],
+    "name:mlg_x_preferred":[
+        "Leopoldina"
+    ],
+    "name:nds_x_preferred":[
+        "Leopoldina"
+    ],
+    "name:nld_x_preferred":[
+        "Leopoldina"
+    ],
+    "name:por_x_preferred":[
+        "Leopoldina"
+    ],
+    "name:slv_x_preferred":[
+        "Leopoldina"
+    ],
+    "name:swe_x_preferred":[
+        "Leopoldina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1226750653,
-    "wof:lastmodified":1536708725,
+    "wof:lastmodified":1564200841,
     "wof:name":"Leopoldina",
     "wof:parent_id":1091696583,
     "wof:placetype":"locality",

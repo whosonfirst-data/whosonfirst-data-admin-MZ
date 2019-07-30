@@ -25,6 +25,30 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ozob\u00ed"
+    ],
+    "name:deu_x_preferred":[
+        "Wachshaut"
+    ],
+    "name:epo_x_preferred":[
+        "Vaksa\u0135o"
+    ],
+    "name:fin_x_preferred":[
+        "Vahanahka"
+    ],
+    "name:fra_x_preferred":[
+        "Cire"
+    ],
+    "name:pol_x_preferred":[
+        "Wosk\u00f3wka"
+    ],
+    "name:spa_x_preferred":[
+        "Cera"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00e4bb#Vaxhud"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1277060151,
-    "wof:lastmodified":1536799400,
+    "wof:lastmodified":1564198451,
     "wof:name":"Cere",
     "wof:parent_id":1091697585,
     "wof:placetype":"locality",

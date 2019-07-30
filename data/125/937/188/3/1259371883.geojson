@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u06a9\u0627\u06cc\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259371883,
-    "wof:lastmodified":1537018197,
+    "wof:lastmodified":1564200555,
     "wof:name":"Macaia",
     "wof:parent_id":1091698535,
     "wof:placetype":"locality",

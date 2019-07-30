@@ -30,12 +30,60 @@
     "mps:longitude":36.73554,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Mocuba"
+    ],
+    "name:cat_x_preferred":[
+        "Mocuba"
+    ],
+    "name:ceb_x_preferred":[
+        "Mocuba"
+    ],
+    "name:deu_x_preferred":[
+        "Mocuba"
+    ],
     "name:eng_x_preferred":[
         "Mocuba"
     ],
     "name:eng_x_variant":[
         "Mocuba",
         "MOCUBA"
+    ],
+    "name:fin_x_preferred":[
+        "Mocuba"
+    ],
+    "name:fra_x_preferred":[
+        "Mocuba"
+    ],
+    "name:hrv_x_preferred":[
+        "Mocuba"
+    ],
+    "name:ita_x_preferred":[
+        "Mocuba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30af\u30d0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10d9\u10e3\u10d1\u10d0"
+    ],
+    "name:pol_x_preferred":[
+        "Mocuba"
+    ],
+    "name:por_x_preferred":[
+        "Mocuba"
+    ],
+    "name:ron_x_preferred":[
+        "Mocuba"
+    ],
+    "name:spa_x_preferred":[
+        "Mocuba"
+    ],
+    "name:swa_x_preferred":[
+        "Mocuba"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u5eab\u5df4"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +120,7 @@
         }
     ],
     "wof:id":1091700047,
-    "wof:lastmodified":1553717925,
+    "wof:lastmodified":1564199944,
     "wof:name":"Mocuba",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

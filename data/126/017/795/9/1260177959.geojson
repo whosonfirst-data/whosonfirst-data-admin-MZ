@@ -26,6 +26,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Marita"
+    ],
+    "name:hun_x_preferred":[
+        "Marita"
+    ],
+    "name:pol_x_preferred":[
+        "Marita"
+    ],
     "name:und_x_variant":[
         "Tunha",
         "Marita"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1260177959,
-    "wof:lastmodified":1537674476,
+    "wof:lastmodified":1564199461,
     "wof:name":"Marita",
     "wof:parent_id":1091697943,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Cadi"
+    ],
+    "name:cat_x_preferred":[
+        "Cad\u00ed"
+    ],
+    "name:ceb_x_preferred":[
+        "Cadi"
+    ],
+    "name:deu_x_preferred":[
+        "Cadi"
+    ],
+    "name:spa_x_preferred":[
+        "Cadi"
+    ],
+    "name:swe_x_preferred":[
+        "Cadi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -42,7 +60,7 @@
         }
     ],
     "wof:id":1209424629,
-    "wof:lastmodified":1536287419,
+    "wof:lastmodified":1564199144,
     "wof:name":"Cadi",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0443\u0430\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Guale"
+    ],
+    "name:deu_x_preferred":[
+        "Guale"
+    ],
+    "name:hrv_x_preferred":[
+        "Guale"
+    ],
+    "name:pol_x_preferred":[
+        "Guale"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1310326277,
-    "wof:lastmodified":1536678030,
+    "wof:lastmodified":1564199712,
     "wof:name":"Guale",
     "wof:parent_id":1091701443,
     "wof:placetype":"locality",

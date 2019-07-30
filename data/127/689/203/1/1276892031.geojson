@@ -25,6 +25,30 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Dias"
+    ],
+    "name:ces_x_preferred":[
+        "Dias"
+    ],
+    "name:deu_x_preferred":[
+        "Dias"
+    ],
+    "name:fin_x_preferred":[
+        "Dias"
+    ],
+    "name:fra_x_preferred":[
+        "Dias"
+    ],
+    "name:ita_x_preferred":[
+        "Dias"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0430\u0448"
+    ],
+    "name:tgl_x_preferred":[
+        "Dias"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1276892031,
-    "wof:lastmodified":1537023819,
+    "wof:lastmodified":1564198563,
     "wof:name":"Dias",
     "wof:parent_id":1091697585,
     "wof:placetype":"locality",

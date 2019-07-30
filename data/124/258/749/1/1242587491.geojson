@@ -25,6 +25,24 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Messa"
+    ],
+    "name:fra_x_preferred":[
+        "Messa"
+    ],
+    "name:ita_x_preferred":[
+        "Messa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0441\u0441\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Messa"
+    ],
+    "name:swe_x_preferred":[
+        "Messa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1242587491,
-    "wof:lastmodified":1537047293,
+    "wof:lastmodified":1564200251,
     "wof:name":"Messa",
     "wof:parent_id":1091699015,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lago District"
+    ],
+    "name:por_x_preferred":[
+        "Lago"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u6208\u5340"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209707267,
-    "wof:lastmodified":1537569939,
+    "wof:lastmodified":1564198941,
     "wof:name":"Lago",
     "wof:parent_id":1091698193,
     "wof:placetype":"locality",

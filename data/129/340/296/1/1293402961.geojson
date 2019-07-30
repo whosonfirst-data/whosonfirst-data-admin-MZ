@@ -25,6 +25,429 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Raphael"
+    ],
+    "name:als_x_preferred":[
+        "Raffael"
+    ],
+    "name:amh_x_preferred":[
+        "\u122b\u134b\u12a4\u120e \u1233\u1295\u12da\u12ee"
+    ],
+    "name:ara_x_preferred":[
+        "\u0631\u0641\u0627\u0626\u064a\u0644"
+    ],
+    "name:arg_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:arz_x_preferred":[
+        "\u0631\u0627\u0641\u0627\u064a\u0644\u0644\u0648"
+    ],
+    "name:asm_x_preferred":[
+        "\u09f0\u09be\u09ab\u09be\u09af\u09bc\u09c7\u09b2"
+    ],
+    "name:ast_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:aym_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:azb_x_preferred":[
+        "\u0631\u0627\u0641\u0627\u0626\u0644"
+    ],
+    "name:aze_x_preferred":[
+        "Rafael Santi"
+    ],
+    "name:bak_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u044d\u043b\u044c \u0421\u0430\u043d\u0442\u0438"
+    ],
+    "name:bar_x_preferred":[
+        "Raphael"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u044d\u043b\u044c \u0421\u0430\u043d\u0446\u0456"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09be\u09ab\u09be\u09af\u09bc\u09c7\u09b2"
+    ],
+    "name:bis_x_preferred":[
+        "Raphael"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f62\u0f0b\u0f67\u0fa5\u0f0b\u0f68\u0f7a\u0f63\u0f0b\u0f63\u0f7c\u0f0b\u0f66\u0f53\u0f0b\u0f5b\u0f72\u0f60\u0f7c\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Raffaello Santi"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09b0\u09be\u09ab\u09be\u09af\u09bc\u09c7\u09b2"
+    ],
+    "name:bre_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u0435\u043b\u043e \u0421\u0430\u043d\u0446\u0438\u043e"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u044d\u043b\u044c \u0421\u0430\u043d\u0442\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:ces_x_preferred":[
+        "Raffael Santi"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u044d\u043b\u044c \u0421\u0430\u043d\u0442\u0438"
+    ],
+    "name:chv_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u044d\u043b\u044c"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0695\u0627\u0641\u0627\u06cc\u06ce\u0644"
+    ],
+    "name:cor_x_preferred":[
+        "Raphael Sanzio"
+    ],
+    "name:cos_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:cym_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:dan_x_preferred":[
+        "Raffaello Santi"
+    ],
+    "name:deu_x_preferred":[
+        "Raffael"
+    ],
+    "name:diq_x_preferred":[
+        "Rafaello Sanzio"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03c6\u03b1\u03ae\u03bb"
+    ],
+    "name:epo_x_preferred":[
+        "Rafaelo"
+    ],
+    "name:est_x_preferred":[
+        "Raffael"
+    ],
+    "name:eus_x_preferred":[
+        "Rafael"
+    ],
+    "name:ext_x_preferred":[
+        "Rafael Sanzio"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0641\u0627\u0626\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Rafael"
+    ],
+    "name:fra_x_preferred":[
+        "Rapha\u00ebl"
+    ],
+    "name:frr_x_preferred":[
+        "Raffael"
+    ],
+    "name:fry_x_preferred":[
+        "Rafael"
+    ],
+    "name:gle_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:glg_x_preferred":[
+        "Rafael"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0aab\u0abe\u0aaf\u0ac7\u0ab2"
+    ],
+    "name:hak_x_preferred":[
+        "Raffaello"
+    ],
+    "name:hau_x_preferred":[
+        "Raphael"
+    ],
+    "name:haw_x_preferred":[
+        "Raffael Santi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05e4\u05d0\u05dc"
+    ],
+    "name:hif_x_preferred":[
+        "Raphael"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093e\u092b\u0947\u0932"
+    ],
+    "name:hrv_x_preferred":[
+        "Rafael"
+    ],
+    "name:hun_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0561\u0586\u0561\u0575\u0565\u056c \u054d\u0561\u0576\u057f\u056b"
+    ],
+    "name:ido_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:ilo_x_preferred":[
+        "Rafael Sanzio"
+    ],
+    "name:ina_x_preferred":[
+        "Raphael"
+    ],
+    "name:ind_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:isl_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:ita_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:jav_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30d5\u30a1\u30a8\u30ed\u30fb\u30b5\u30f3\u30c6\u30a3"
+    ],
+    "name:kaa_x_preferred":[
+        "Raphael"
+    ],
+    "name:kab_x_preferred":[
+        "Raffaello"
+    ],
+    "name:kal_x_preferred":[
+        "Raphael"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10e4\u10d0\u10d4\u10da\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u044d\u043b\u044c \u0421\u0430\u043d\u0442\u0438"
+    ],
+    "name:kbd_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u044d\u043b \u0421\u0430\u043d\u0442\u0438"
+    ],
+    "name:kbp_x_preferred":[
+        "Raphael"
+    ],
+    "name:kir_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u044d\u043b\u044c"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ud30c\uc5d8\ub85c \uc0b0\uce58\uc624"
+    ],
+    "name:lad_x_preferred":[
+        "Rafael Sanzio"
+    ],
+    "name:lav_x_preferred":[
+        "Rafa\u0113ls"
+    ],
+    "name:lij_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:lim_x_preferred":[
+        "Rafa\u00ebl"
+    ],
+    "name:lin_x_preferred":[
+        "Raffaello"
+    ],
+    "name:lit_x_preferred":[
+        "Rafaelis"
+    ],
+    "name:lmo_x_preferred":[
+        "Raffael Sanzi"
+    ],
+    "name:ltz_x_preferred":[
+        "Raffael"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d31\u0d3e\u0d2b\u0d47\u0d7d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u092b\u093e\u092f\u0947\u0932"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u044d\u043b\u044c \u0421\u0430\u043d\u0442\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u0435\u043b"
+    ],
+    "name:mlg_x_preferred":[
+        "Rapha\u00ebl"
+    ],
+    "name:mon_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u044d\u043b\u044c \u0421\u0430\u043d\u0442\u0438"
+    ],
+    "name:mri_x_preferred":[
+        "Raphael"
+    ],
+    "name:msa_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:mwl_x_preferred":[
+        "Rafael"
+    ],
+    "name:mya_x_preferred":[
+        "\u101b\u102c\u1016\u101a\u103a"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0631\u0627\u0641\u0627\u0626\u0644"
+    ],
+    "name:nau_x_preferred":[
+        "Raphael"
+    ],
+    "name:new_x_preferred":[
+        "\u0930\u093e\u092b\u0947\u0932"
+    ],
+    "name:nld_x_preferred":[
+        "Rafa\u00ebl"
+    ],
+    "name:nno_x_preferred":[
+        "Rafael"
+    ],
+    "name:nor_x_preferred":[
+        "Rafael"
+    ],
+    "name:oci_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:olo_x_preferred":[
+        "Rafael"
+    ],
+    "name:pam_x_preferred":[
+        "Raphael"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a30\u0a3e\u0a2b\u0a47\u0a32"
+    ],
+    "name:pcd_x_preferred":[
+        "Raffaello"
+    ],
+    "name:pms_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0631\u0627\u0641\u06cc\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Rafael Santi"
+    ],
+    "name:por_x_preferred":[
+        "Rafael"
+    ],
+    "name:que_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:ron_x_preferred":[
+        "Rafael"
+    ],
+    "name:rue_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u0435\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u044d\u043b\u044c \u0421\u0430\u043d\u0442\u0438"
+    ],
+    "name:sah_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u044d\u043b\u044c"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c68\u1c5f\u1c6f\u1c77\u1c5f\u1c6d\u1c6e\u1c5e"
+    ],
+    "name:scn_x_preferred":[
+        "Raffaellu Sanziu"
+    ],
+    "name:sco_x_preferred":[
+        "Raphael"
+    ],
+    "name:slk_x_preferred":[
+        "Raffael"
+    ],
+    "name:slv_x_preferred":[
+        "Raffaello Santi"
+    ],
+    "name:sme_x_preferred":[
+        "Rafael"
+    ],
+    "name:spa_x_preferred":[
+        "Rafael Sanzio"
+    ],
+    "name:sqi_x_preferred":[
+        "Raffaello"
+    ],
+    "name:srd_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u0435\u043b\u043e \u0421\u0430\u043d\u0442\u0438"
+    ],
+    "name:stq_x_preferred":[
+        "Raffaelo Santi"
+    ],
+    "name:swa_x_preferred":[
+        "Raphael"
+    ],
+    "name:swe_x_preferred":[
+        "Rafael"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0bbe\u0baa\u0bbf\u0baf\u0bc7\u0bb2\u0bcd \u0b9a\u0bbe\u0ba9\u0bcd\u0b9a\u0bbf\u0baf\u0bcb"
+    ],
+    "name:tat_x_preferred":[
+        "Rafael Santi"
+    ],
+    "name:tgl_x_preferred":[
+        "Rafael Sanzio"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e32\u0e1f\u0e32\u0e40\u0e2d\u0e25"
+    ],
+    "name:tur_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:udm_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u044d\u043b\u044c \u0421\u0430\u043d\u0442\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u0435\u043b\u044c \u0421\u0430\u043d\u0442\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0641\u06cc\u0644"
+    ],
+    "name:uzb_x_preferred":[
+        "Rafael Santi"
+    ],
+    "name:vep_x_preferred":[
+        "Rafael' Santi"
+    ],
+    "name:vie_x_preferred":[
+        "Raffaello"
+    ],
+    "name:vls_x_preferred":[
+        "Rafa\u00ebl"
+    ],
+    "name:vol_x_preferred":[
+        "Raffaello"
+    ],
+    "name:war_x_preferred":[
+        "Raffaello Sanzio"
+    ],
+    "name:wuu_x_preferred":[
+        "\u62c9\u6590\u5c14"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e0\u10d0\u10e4\u10d0\u10d4\u10da \u10e1\u10d0\u10dc\u10e2\u10d8"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e8\u05d0\u05e4\u05d0\u05e2\u05dc"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u6590\u5c14"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +471,7 @@
         }
     ],
     "wof:id":1293402961,
-    "wof:lastmodified":1536909111,
+    "wof:lastmodified":1564198184,
     "wof:name":"Raphael",
     "wof:parent_id":1091696583,
     "wof:placetype":"locality",

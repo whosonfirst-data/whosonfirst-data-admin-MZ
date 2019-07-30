@@ -25,6 +25,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nido"
+    ],
+    "name:ita_x_preferred":[
+        "Nido"
+    ],
+    "name:swe_x_preferred":[
+        "Nido"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1242957553,
-    "wof:lastmodified":1537012752,
+    "wof:lastmodified":1564200232,
     "wof:name":"Nido",
     "wof:parent_id":1091698671,
     "wof:placetype":"locality",

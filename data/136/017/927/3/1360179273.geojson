@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u06a9\u0648\u0679\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1360179273,
-    "wof:lastmodified":1536809407,
+    "wof:lastmodified":1564199884,
     "wof:name":"Macota",
     "wof:parent_id":1091698823,
     "wof:placetype":"locality",

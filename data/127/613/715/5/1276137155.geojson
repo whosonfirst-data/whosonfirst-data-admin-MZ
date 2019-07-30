@@ -25,6 +25,93 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u062d\u0641\u0629 \u0642\u062f\u064a\u0645\u0629"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0442\u0438\u043a\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Antiguitat"
+    ],
+    "name:ces_x_preferred":[
+        "Staro\u017eitnosti"
+    ],
+    "name:chv_x_preferred":[
+        "\u0410\u043d\u0442\u0438\u043a\u0432\u0430\u0440\u0438\u0430\u0442"
+    ],
+    "name:cym_x_preferred":[
+        "Hen beth"
+    ],
+    "name:dan_x_preferred":[
+        "Antikvitet"
+    ],
+    "name:deu_x_preferred":[
+        "Antiquit\u00e4t"
+    ],
+    "name:epo_x_preferred":[
+        "Antikva\u0135o"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u062a\u06cc\u0642\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Antiikkiesine"
+    ],
+    "name:glg_x_preferred":[
+        "Antig\u00fcidade"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05e0\u05ea\u05d9\u05e7\u05d4"
+    ],
+    "name:ind_x_preferred":[
+        "Barang antik"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9aa8\u8463\u54c1"
+    ],
+    "name:kor_x_preferred":[
+        "\uace8\ub3d9\ud488"
+    ],
+    "name:ltz_x_preferred":[
+        "Antiquit\u00e9iten"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Antik"
+    ],
+    "name:nld_x_preferred":[
+        "Antiek"
+    ],
+    "name:nor_x_preferred":[
+        "Antikvitet"
+    ],
+    "name:pol_x_preferred":[
+        "Antyk"
+    ],
+    "name:por_x_preferred":[
+        "Antiguidade"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0442\u0438\u043a\u0432\u0430\u0440\u0438\u0430\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Antig\u00fcedad"
+    ],
+    "name:swe_x_preferred":[
+        "Antikvitet"
+    ],
+    "name:tur_x_preferred":[
+        "Antika"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0442\u0438\u043a\u0432\u0430\u0440\u0456\u0430\u0442"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d0\u05e0\u05d8\u05d9\u05e7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +135,7 @@
         }
     ],
     "wof:id":1276137155,
-    "wof:lastmodified":1537039813,
+    "wof:lastmodified":1564198656,
     "wof:name":"Antique",
     "wof:parent_id":1091700221,
     "wof:placetype":"locality",

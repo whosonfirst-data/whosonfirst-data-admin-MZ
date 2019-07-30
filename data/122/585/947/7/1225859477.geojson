@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "El Tozu"
+    ],
+    "name:spa_x_preferred":[
+        "Tozo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1225859477,
-    "wof:lastmodified":1536992975,
+    "wof:lastmodified":1564201186,
     "wof:name":"Tozo",
     "wof:parent_id":1091699215,
     "wof:placetype":"locality",

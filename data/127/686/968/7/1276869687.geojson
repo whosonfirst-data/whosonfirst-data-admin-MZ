@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Crist\u00f3v\u00e3o"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276869687,
-    "wof:lastmodified":1537052599,
+    "wof:lastmodified":1564198503,
     "wof:name":"Cristovao",
     "wof:parent_id":1091701415,
     "wof:placetype":"locality",

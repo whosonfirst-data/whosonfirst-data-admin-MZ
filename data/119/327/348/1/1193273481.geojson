@@ -25,6 +25,30 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Lile"
+    ],
+    "name:ceb_x_preferred":[
+        "Lile"
+    ],
+    "name:nld_x_preferred":[
+        "Lile"
+    ],
+    "name:spa_x_preferred":[
+        "Lile"
+    ],
+    "name:swe_x_preferred":[
+        "Lile"
+    ],
+    "name:ukr_x_preferred":[
+        "Lile"
+    ],
+    "name:vie_x_preferred":[
+        "Lile"
+    ],
+    "name:war_x_preferred":[
+        "Lile"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1193273481,
-    "wof:lastmodified":1536367921,
+    "wof:lastmodified":1564199332,
     "wof:name":"Lile",
     "wof:parent_id":1091700287,
     "wof:placetype":"locality",

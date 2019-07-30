@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Horacio"
+    ],
+    "name:spa_x_preferred":[
+        "Horacio"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1343563057,
-    "wof:lastmodified":1537092489,
+    "wof:lastmodified":1564197857,
     "wof:name":"Horacio",
     "wof:parent_id":1091701265,
     "wof:placetype":"locality",

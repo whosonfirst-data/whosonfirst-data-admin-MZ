@@ -25,6 +25,51 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Buca"
+    ],
+    "name:ceb_x_preferred":[
+        "Buca"
+    ],
+    "name:deu_x_preferred":[
+        "Buca"
+    ],
+    "name:diq_x_preferred":[
+        "Buca"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03c5\u03c4\u03b6\u03ac\u03c2"
+    ],
+    "name:epo_x_preferred":[
+        "Buca"
+    ],
+    "name:fra_x_preferred":[
+        "Buca"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0411\u0443\u0434\u0436\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Buca"
+    ],
+    "name:nld_x_preferred":[
+        "Buca"
+    ],
+    "name:nor_x_preferred":[
+        "Buca"
+    ],
+    "name:swa_x_preferred":[
+        "Buca"
+    ],
+    "name:tur_x_preferred":[
+        "Buca"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u062c\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Buca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -34,7 +79,7 @@
         "gn:id":1051978
     },
     "wof:country":"MZ",
-    "wof:geomhash":"e3482c2830b3b6ff77bce52932c90805",
+    "wof:geomhash":"d95de36643609071962a68d21339895c",
     "wof:hierarchy":[
         {
             "country_id":85632729,
@@ -42,7 +87,7 @@
         }
     ],
     "wof:id":1209095189,
-    "wof:lastmodified":1536297909,
+    "wof:lastmodified":1564198829,
     "wof:name":"Buca",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",
@@ -52,9 +97,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.143609999999995,
+    33.14361,
     -21.47083,
-    33.143609999999995,
+    33.14361,
     -21.47083
 ],
   "geometry": {"coordinates":[33.14361,-21.47083],"type":"Point"}

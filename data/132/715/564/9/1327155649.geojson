@@ -25,6 +25,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dini"
+    ],
+    "name:fra_x_preferred":[
+        "Dini"
+    ],
+    "name:ita_x_preferred":[
+        "Dini"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1327155649,
-    "wof:lastmodified":1537077336,
+    "wof:lastmodified":1564197321,
     "wof:name":"Dini",
     "wof:parent_id":1091698193,
     "wof:placetype":"locality",

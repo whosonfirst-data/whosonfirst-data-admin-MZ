@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Magine"
+    ],
+    "name:swe_x_preferred":[
+        "Magine"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1343572927,
-    "wof:lastmodified":1537078306,
+    "wof:lastmodified":1564197834,
     "wof:name":"Magine",
     "wof:parent_id":1091697673,
     "wof:placetype":"locality",

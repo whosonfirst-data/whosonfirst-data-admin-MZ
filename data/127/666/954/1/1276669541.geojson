@@ -25,6 +25,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Arnaldo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30ca\u30eb\u30c9"
+    ],
+    "name:spa_x_preferred":[
+        "Arnaldo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276669541,
-    "wof:lastmodified":1536824304,
+    "wof:lastmodified":1564198628,
     "wof:name":"Arnaldo",
     "wof:parent_id":1091697505,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Panto"
+    ],
+    "name:swe_x_preferred":[
+        "Panto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243285981,
-    "wof:lastmodified":1537035373,
+    "wof:lastmodified":1564200473,
     "wof:name":"Panto",
     "wof:parent_id":1091700091,
     "wof:placetype":"locality",

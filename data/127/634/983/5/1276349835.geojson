@@ -25,6 +25,33 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u06cc\u0646\u0642\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Mavinga"
+    ],
+    "name:deu_x_preferred":[
+        "Mavinga"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u06cc\u0646\u06af\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Mavinga"
+    ],
+    "name:pol_x_preferred":[
+        "Mavinga"
+    ],
+    "name:por_x_preferred":[
+        "Mavinga"
+    ],
+    "name:spa_x_preferred":[
+        "Mavinga"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u6eab\u52a0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1276349835,
-    "wof:lastmodified":1536756365,
+    "wof:lastmodified":1564198590,
     "wof:name":"Mavinga",
     "wof:parent_id":1091700457,
     "wof:placetype":"locality",

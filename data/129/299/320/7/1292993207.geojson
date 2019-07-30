@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Tamela"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1292993207,
-    "wof:lastmodified":1537001870,
+    "wof:lastmodified":1564198328,
     "wof:name":"Tamela",
     "wof:parent_id":1091700177,
     "wof:placetype":"locality",

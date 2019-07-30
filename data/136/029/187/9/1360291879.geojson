@@ -25,6 +25,42 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Choco"
+    ],
+    "name:fra_x_preferred":[
+        "Choco"
+    ],
+    "name:glg_x_preferred":[
+        "Choco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u3061\u3087\u3053"
+    ],
+    "name:nds_x_preferred":[
+        "Choco"
+    ],
+    "name:nld_x_preferred":[
+        "Choco"
+    ],
+    "name:por_x_preferred":[
+        "Choco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u043a\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Choco"
+    ],
+    "name:spa_x_preferred":[
+        "Choco"
+    ],
+    "name:swe_x_preferred":[
+        "Choco"
+    ],
+    "name:zho_x_preferred":[
+        "Choco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1360291879,
-    "wof:lastmodified":1536646819,
+    "wof:lastmodified":1564199873,
     "wof:name":"Choco",
     "wof:parent_id":1091698763,
     "wof:placetype":"locality",

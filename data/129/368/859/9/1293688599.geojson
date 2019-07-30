@@ -25,6 +25,39 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0645\u0628\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u06cc\u0645\u0628\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0438\u043c\u0431\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Dimba"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0645\u0628\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Dimba"
+    ],
+    "name:ita_x_preferred":[
+        "Dimba"
+    ],
+    "name:pol_x_preferred":[
+        "Dimba"
+    ],
+    "name:por_x_preferred":[
+        "Dimba"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0414\u0438\u043c\u0431\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Dimba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1293688599,
-    "wof:lastmodified":1536993564,
+    "wof:lastmodified":1564198238,
     "wof:name":"Dimba",
     "wof:parent_id":1091698405,
     "wof:placetype":"locality",

@@ -25,6 +25,84 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0631\u062a\u0627\u0643\u0633\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u0442\u0430\u0448\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Cartaxo"
+    ],
+    "name:ceb_x_preferred":[
+        "Cartaxo"
+    ],
+    "name:deu_x_preferred":[
+        "Cartaxo"
+    ],
+    "name:epo_x_preferred":[
+        "Cartaxo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u062a\u0627\u0634\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Cartaxo"
+    ],
+    "name:fra_x_preferred":[
+        "Cartaxo"
+    ],
+    "name:ita_x_preferred":[
+        "Cartaxo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10e2\u10d0\u10e8\u10e3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0440\u0442\u0430\u0448\u0443"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ub974\ud0c0\uc288"
+    ],
+    "name:mzn_x_preferred":[
+        "\u06a9\u0627\u0631\u062a\u0627\u0634\u0648"
+    ],
+    "name:nld_x_preferred":[
+        "Cartaxo"
+    ],
+    "name:pol_x_preferred":[
+        "Cartaxo"
+    ],
+    "name:por_x_preferred":[
+        "Cartaxo"
+    ],
+    "name:ron_x_preferred":[
+        "Cartaxo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0442\u0430\u0448\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Cartaxo"
+    ],
+    "name:tur_x_preferred":[
+        "Cartaxo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0442\u0430\u0448\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "Cartaxo"
+    ],
+    "name:vol_x_preferred":[
+        "Cartaxo"
+    ],
+    "name:war_x_preferred":[
+        "Cartaxo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u723e\u5854\u8212"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +126,7 @@
         }
     ],
     "wof:id":1226245835,
-    "wof:lastmodified":1536934223,
+    "wof:lastmodified":1564201065,
     "wof:name":"Cartaxo",
     "wof:parent_id":1091697721,
     "wof:placetype":"locality",

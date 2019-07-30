@@ -26,9 +26,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Malema"
+    ],
     "name:und_x_variant":[
         "Entre Rios",
         "Malema"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u840a\u99ac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1327326095,
-    "wof:lastmodified":1537674547,
+    "wof:lastmodified":1564197398,
     "wof:name":"Malema",
     "wof:parent_id":1091698863,
     "wof:placetype":"locality",

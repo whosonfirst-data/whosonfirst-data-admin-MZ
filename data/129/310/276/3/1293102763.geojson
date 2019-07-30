@@ -25,6 +25,30 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "M\u00e9toma"
+    ],
+    "name:deu_x_preferred":[
+        "Metoma"
+    ],
+    "name:fra_x_preferred":[
+        "Metoma"
+    ],
+    "name:glg_x_preferred":[
+        "Metoma"
+    ],
+    "name:ita_x_preferred":[
+        "Metoma"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041c\u0435\u0442\u043e\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Metoma"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u6258\u99ac\u5cf6"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1293102763,
-    "wof:lastmodified":1536843619,
+    "wof:lastmodified":1564198411,
     "wof:name":"Metoma",
     "wof:parent_id":1091696241,
     "wof:placetype":"locality",

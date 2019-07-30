@@ -25,6 +25,45 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:als_x_preferred":[
+        "Pero"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u0440\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Pero"
+    ],
+    "name:deu_x_preferred":[
+        "Pero"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b7\u03c1\u03ce"
+    ],
+    "name:fin_x_preferred":[
+        "Pero"
+    ],
+    "name:ita_x_preferred":[
+        "Per\u00f2"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30fc\u30ed\u30fc"
+    ],
+    "name:pol_x_preferred":[
+        "Pero"
+    ],
+    "name:por_x_preferred":[
+        "Pero"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "P\u00e9ro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0440\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +87,7 @@
         }
     ],
     "wof:id":1259698589,
-    "wof:lastmodified":1537043392,
+    "wof:lastmodified":1564200753,
     "wof:name":"Pero",
     "wof:parent_id":1091698455,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Maianga"
+    ],
+    "name:deu_x_preferred":[
+        "Maianga"
+    ],
+    "name:ita_x_preferred":[
+        "Maianga"
+    ],
+    "name:por_x_preferred":[
+        "Maianga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310704997,
-    "wof:lastmodified":1536627284,
+    "wof:lastmodified":1564199524,
     "wof:name":"Maianga",
     "wof:parent_id":1091697721,
     "wof:placetype":"locality",

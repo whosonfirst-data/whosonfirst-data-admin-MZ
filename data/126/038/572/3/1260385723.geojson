@@ -25,6 +25,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Muria"
+    ],
+    "name:deu_x_preferred":[
+        "Muria"
+    ],
+    "name:fra_x_preferred":[
+        "Muria"
+    ],
+    "name:swe_x_preferred":[
+        "Muria"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1260385723,
-    "wof:lastmodified":1537069030,
+    "wof:lastmodified":1564199350,
     "wof:name":"Muria",
     "wof:parent_id":1091699553,
     "wof:placetype":"locality",

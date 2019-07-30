@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Cintura"
+    ],
+    "name:spa_x_preferred":[
+        "Cintura"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1310400869,
-    "wof:lastmodified":1537065080,
+    "wof:lastmodified":1564199566,
     "wof:name":"Cintura",
     "wof:parent_id":1091701483,
     "wof:placetype":"locality",

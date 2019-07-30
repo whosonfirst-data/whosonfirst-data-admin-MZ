@@ -25,6 +25,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Janga"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u043d\u0433\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Janga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1310103397,
-    "wof:lastmodified":1536998793,
+    "wof:lastmodified":1564199683,
     "wof:name":"Janga",
     "wof:parent_id":1091700287,
     "wof:placetype":"locality",

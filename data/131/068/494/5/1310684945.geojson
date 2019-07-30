@@ -25,6 +25,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Coa"
+    ],
+    "name:por_x_preferred":[
+        "Coa"
+    ],
+    "name:spa_x_preferred":[
+        "Coa"
+    ],
+    "name:swe_x_preferred":[
+        "Coa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310684945,
-    "wof:lastmodified":1536658159,
+    "wof:lastmodified":1564199751,
     "wof:name":"Coa",
     "wof:parent_id":1091701483,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Tunda"
+    ],
+    "name:spa_x_preferred":[
+        "Tunda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276871475,
-    "wof:lastmodified":1537050307,
+    "wof:lastmodified":1564198575,
     "wof:name":"Tunda",
     "wof:parent_id":1091696899,
     "wof:placetype":"locality",

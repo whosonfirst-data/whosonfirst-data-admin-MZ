@@ -25,6 +25,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Londo"
+    ],
+    "name:fra_x_preferred":[
+        "Londo"
+    ],
+    "name:swe_x_preferred":[
+        "Londo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1310397105,
-    "wof:lastmodified":1537070344,
+    "wof:lastmodified":1564199644,
     "wof:name":"Londo",
     "wof:parent_id":1091698193,
     "wof:placetype":"locality",

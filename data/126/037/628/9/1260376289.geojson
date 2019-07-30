@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Gimo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1260376289,
-    "wof:lastmodified":1537081459,
+    "wof:lastmodified":1564199405,
     "wof:name":"Gimo",
     "wof:parent_id":1091696537,
     "wof:placetype":"locality",

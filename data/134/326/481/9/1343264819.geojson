@@ -25,6 +25,21 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chimo"
+    ],
+    "name:deu_x_preferred":[
+        "Chimo"
+    ],
+    "name:fra_x_preferred":[
+        "Chimo"
+    ],
+    "name:spa_x_preferred":[
+        "Chimo"
+    ],
+    "name:swe_x_preferred":[
+        "Chimo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343264819,
-    "wof:lastmodified":1537027385,
+    "wof:lastmodified":1564197984,
     "wof:name":"Chimo",
     "wof:parent_id":1091696621,
     "wof:placetype":"locality",

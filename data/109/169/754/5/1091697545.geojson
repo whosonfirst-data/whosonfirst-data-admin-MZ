@@ -38,6 +38,18 @@
         "GILE",
         "Gil\u00e9"
     ],
+    "name:fra_x_preferred":[
+        "Gile"
+    ],
+    "name:pol_x_preferred":[
+        "Gile"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0456\u043b\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Gile"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +85,7 @@
         }
     ],
     "wof:id":1091697545,
-    "wof:lastmodified":1553717914,
+    "wof:lastmodified":1564199920,
     "wof:name":"Gile",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

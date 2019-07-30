@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gumbe"
+    ],
+    "name:por_x_preferred":[
+        "Gumb\u00e9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293002461,
-    "wof:lastmodified":1536988418,
+    "wof:lastmodified":1564198036,
     "wof:name":"Gumbe",
     "wof:parent_id":1091701681,
     "wof:placetype":"locality",

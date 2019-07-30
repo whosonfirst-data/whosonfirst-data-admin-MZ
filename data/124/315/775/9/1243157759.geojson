@@ -25,6 +25,33 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Coro"
+    ],
+    "name:deu_x_preferred":[
+        "Coro"
+    ],
+    "name:glg_x_preferred":[
+        "Coro"
+    ],
+    "name:ita_x_preferred":[
+        "Coro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ef\u30a4\u30a2"
+    ],
+    "name:por_x_preferred":[
+        "Coro"
+    ],
+    "name:spa_x_preferred":[
+        "Coro"
+    ],
+    "name:swe_x_preferred":[
+        "Coro"
+    ],
+    "name:vie_x_preferred":[
+        "Coro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1243157759,
-    "wof:lastmodified":1536725165,
+    "wof:lastmodified":1564200292,
     "wof:name":"Coro",
     "wof:parent_id":1091700637,
     "wof:placetype":"locality",

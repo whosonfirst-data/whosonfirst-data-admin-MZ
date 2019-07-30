@@ -26,6 +26,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Gimo"
+    ],
     "name:und_x_variant":[
         "Gima",
         "Gimo"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1242682615,
-    "wof:lastmodified":1537674573,
+    "wof:lastmodified":1564200210,
     "wof:name":"Gimo",
     "wof:parent_id":1091697631,
     "wof:placetype":"locality",

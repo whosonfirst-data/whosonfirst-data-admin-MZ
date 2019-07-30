@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Maguza"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343483547,
-    "wof:lastmodified":1536713158,
+    "wof:lastmodified":1564197743,
     "wof:name":"Maguza",
     "wof:parent_id":1091700637,
     "wof:placetype":"locality",

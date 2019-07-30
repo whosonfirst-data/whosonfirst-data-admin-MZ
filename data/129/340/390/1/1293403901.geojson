@@ -25,6 +25,24 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Duca"
+    ],
+    "name:deu_x_preferred":[
+        "Duca"
+    ],
+    "name:fra_x_preferred":[
+        "Duca"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05e7\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Duca"
+    ],
+    "name:swe_x_preferred":[
+        "Duca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1293403901,
-    "wof:lastmodified":1536907712,
+    "wof:lastmodified":1564198176,
     "wof:name":"Duca",
     "wof:parent_id":1091700543,
     "wof:placetype":"locality",

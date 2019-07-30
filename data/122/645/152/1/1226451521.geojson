@@ -26,6 +26,21 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Eugenio"
+    ],
+    "name:deu_x_preferred":[
+        "Eugenio"
+    ],
+    "name:ita_x_preferred":[
+        "Eugenio"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30a6\u30b8\u30a7\u30fc\u30cb\u30aa"
+    ],
+    "name:tgl_x_preferred":[
+        "Eugenio"
+    ],
     "name:und_x_variant":[
         "Mauatchane",
         "Eug\u00e9nio"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1226451521,
-    "wof:lastmodified":1537674535,
+    "wof:lastmodified":1564200880,
     "wof:name":"Eugenio",
     "wof:parent_id":1091697721,
     "wof:placetype":"locality",

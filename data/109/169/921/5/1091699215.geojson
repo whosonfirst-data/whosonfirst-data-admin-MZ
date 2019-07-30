@@ -30,12 +30,30 @@
     "mps:longitude":35.734153,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Marromeu"
+    ],
+    "name:deu_x_preferred":[
+        "Marromeu"
+    ],
     "name:eng_x_preferred":[
         "Marromeu"
     ],
     "name:eng_x_variant":[
         "Marromeu",
         "MARROMEU"
+    ],
+    "name:pol_x_preferred":[
+        "Marromeu"
+    ],
+    "name:por_x_preferred":[
+        "Marromeu"
+    ],
+    "name:spa_x_preferred":[
+        "Marromeu"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u7f85\u6885\u70cf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":1091699215,
-    "wof:lastmodified":1553717919,
+    "wof:lastmodified":1564199936,
     "wof:name":"Marromeu",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

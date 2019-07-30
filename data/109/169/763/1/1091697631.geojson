@@ -30,12 +30,24 @@
     "mps:longitude":34.209346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Gorongosa"
+    ],
+    "name:deu_x_preferred":[
+        "Vila Gorongosa"
+    ],
     "name:eng_x_preferred":[
         "Gorongosa"
     ],
     "name:eng_x_variant":[
         "Gorongosa",
         "GORONGOSA"
+    ],
+    "name:por_x_preferred":[
+        "Gorongosa"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u9f8d\u6208\u85a9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":1091697631,
-    "wof:lastmodified":1553717917,
+    "wof:lastmodified":1564199918,
     "wof:name":"Gorongosa",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

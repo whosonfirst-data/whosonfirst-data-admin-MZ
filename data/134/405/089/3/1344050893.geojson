@@ -25,6 +25,111 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Salmo"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u0645\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Salmo"
+    ],
+    "name:aze_x_preferred":[
+        "Q\u0131z\u0131lbal\u0131q"
+    ],
+    "name:cat_x_preferred":[
+        "Salmo"
+    ],
+    "name:ceb_x_preferred":[
+        "Salmo"
+    ],
+    "name:ces_x_preferred":[
+        "Salmo"
+    ],
+    "name:dan_x_preferred":[
+        "Laksesl\u00e6gten"
+    ],
+    "name:deu_x_preferred":[
+        "Salmo"
+    ],
+    "name:est_x_preferred":[
+        "L\u00f5he"
+    ],
+    "name:eus_x_preferred":[
+        "Salmo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0647\u06cc\u200c\u0647\u0627\u06cc \u0622\u0632\u0627\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Salmo"
+    ],
+    "name:glg_x_preferred":[
+        "Salmo"
+    ],
+    "name:hrv_x_preferred":[
+        "Salmo"
+    ],
+    "name:hun_x_preferred":[
+        "Salmo"
+    ],
+    "name:ita_x_preferred":[
+        "Salmo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e0\u10d0\u10d2\u10e3\u10da\u10d8"
+    ],
+    "name:lat_x_preferred":[
+        "Salmo"
+    ],
+    "name:lav_x_preferred":[
+        "Atlantijas la\u0161i"
+    ],
+    "name:lit_x_preferred":[
+        "La\u0161i\u0161os"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0430\u0441\u0442\u0440\u043c\u043a\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Salmo"
+    ],
+    "name:oss_x_preferred":[
+        "\u00c6\u0440\u0433\u044a\u0430\u0439"
+    ],
+    "name:pol_x_preferred":[
+        "Salmo"
+    ],
+    "name:por_x_preferred":[
+        "Salmo"
+    ],
+    "name:que_x_preferred":[
+        "Salmun"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0441\u043e\u0441\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Salmo"
+    ],
+    "name:spa_x_preferred":[
+        "Salmo"
+    ],
+    "name:srp_x_preferred":[
+        "Salmo"
+    ],
+    "name:swe_x_preferred":[
+        "Salmo"
+    ],
+    "name:tur_x_preferred":[
+        "Salmo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0441\u043e\u0441\u044c"
+    ],
+    "name:war_x_preferred":[
+        "Salmo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +153,7 @@
         }
     ],
     "wof:id":1344050893,
-    "wof:lastmodified":1536889040,
+    "wof:lastmodified":1564197929,
     "wof:name":"Salmo",
     "wof:parent_id":1091701483,
     "wof:placetype":"locality",

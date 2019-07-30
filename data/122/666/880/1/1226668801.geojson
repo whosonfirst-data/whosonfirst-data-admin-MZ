@@ -25,6 +25,99 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Chimoio"
+    ],
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0645\u0648\u064a\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Chimoio"
+    ],
+    "name:ceb_x_preferred":[
+        "Chimoio"
+    ],
+    "name:dan_x_preferred":[
+        "Chimoio"
+    ],
+    "name:deu_x_preferred":[
+        "Chimoio"
+    ],
+    "name:epo_x_preferred":[
+        "Chimoio"
+    ],
+    "name:eus_x_preferred":[
+        "Chimoio"
+    ],
+    "name:fin_x_preferred":[
+        "Chimoio"
+    ],
+    "name:fra_x_preferred":[
+        "Chimoio"
+    ],
+    "name:frr_x_preferred":[
+        "Chimoio"
+    ],
+    "name:hrv_x_preferred":[
+        "Chimoio"
+    ],
+    "name:ind_x_preferred":[
+        "Chimoio"
+    ],
+    "name:ita_x_preferred":[
+        "Chimoio"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e2\u30a4\u30aa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d8\u10db\u10dd\u10d8\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\ubaa8\uc774\uc6b0"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160imojas"
+    ],
+    "name:nld_x_preferred":[
+        "Chimoio"
+    ],
+    "name:nor_x_preferred":[
+        "Chimoio"
+    ],
+    "name:pol_x_preferred":[
+        "Chimoio"
+    ],
+    "name:por_x_preferred":[
+        "Chimoio"
+    ],
+    "name:ron_x_preferred":[
+        "Chimoio"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043c\u043e\u0439\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Chimoio"
+    ],
+    "name:swa_x_preferred":[
+        "Chimoio"
+    ],
+    "name:swe_x_preferred":[
+        "Chimoio"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0456\u043c\u043e\u044e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u06cc\u0645\u0648\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Chimoio"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u83ab\u5c24"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +141,7 @@
         }
     ],
     "wof:id":1226668801,
-    "wof:lastmodified":1536825377,
+    "wof:lastmodified":1564200977,
     "wof:name":"Chimoio",
     "wof:parent_id":1091699141,
     "wof:placetype":"locality",

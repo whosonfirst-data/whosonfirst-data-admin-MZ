@@ -25,6 +25,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tebo"
+    ],
+    "name:epo_x_preferred":[
+        "Tebo"
+    ],
+    "name:fra_x_preferred":[
+        "Tebo"
+    ],
+    "name:swe_x_preferred":[
+        "Tebo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293189883,
-    "wof:lastmodified":1536719497,
+    "wof:lastmodified":1564198340,
     "wof:name":"Tebo",
     "wof:parent_id":1091696359,
     "wof:placetype":"locality",

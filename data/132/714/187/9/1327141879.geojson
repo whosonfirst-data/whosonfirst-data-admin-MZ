@@ -25,6 +25,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Leonardo"
+    ],
+    "name:ita_x_preferred":[
+        "Leonardo"
+    ],
+    "name:slv_x_preferred":[
+        "Leonardo"
+    ],
+    "name:spa_x_preferred":[
+        "Leonardo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1327141879,
-    "wof:lastmodified":1537096916,
+    "wof:lastmodified":1564197309,
     "wof:name":"Leonardo",
     "wof:parent_id":1091701265,
     "wof:placetype":"locality",

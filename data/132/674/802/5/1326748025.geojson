@@ -25,6 +25,39 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Macute"
+    ],
+    "name:fra_x_preferred":[
+        "Macute"
+    ],
+    "name:hrv_x_preferred":[
+        "Macute"
+    ],
+    "name:hun_x_preferred":[
+        "Macute"
+    ],
+    "name:nld_x_preferred":[
+        "Macute"
+    ],
+    "name:pol_x_preferred":[
+        "Macute"
+    ],
+    "name:slv_x_preferred":[
+        "Macute"
+    ],
+    "name:spa_x_preferred":[
+        "Macute"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0446\u0443\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0446\u0443\u0442\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u06a9\u0648\u0679\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1326748025,
-    "wof:lastmodified":1536672868,
+    "wof:lastmodified":1564197223,
     "wof:name":"Macute",
     "wof:parent_id":1091698583,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Casimiro"
+    ],
+    "name:deu_x_preferred":[
+        "Casimiro"
+    ],
+    "name:por_x_preferred":[
+        "Casimiro"
+    ],
+    "name:swe_x_preferred":[
+        "Casimiro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1226535033,
-    "wof:lastmodified":1537012822,
+    "wof:lastmodified":1564201146,
     "wof:name":"Casimiro",
     "wof:parent_id":1091700409,
     "wof:placetype":"locality",

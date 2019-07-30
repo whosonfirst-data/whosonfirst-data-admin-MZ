@@ -25,6 +25,96 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ace_x_preferred":[
+        "Carei"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0631\u0647 \u060c"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipiul Carei"
+    ],
+    "name:ces_x_preferred":[
+        "Carei"
+    ],
+    "name:deu_x_preferred":[
+        "Carei"
+    ],
+    "name:epo_x_preferred":[
+        "Carei"
+    ],
+    "name:est_x_preferred":[
+        "Carei"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Carei"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e8\u05d9\u05d9"
+    ],
+    "name:hrv_x_preferred":[
+        "Carei"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyk\u00e1roly"
+    ],
+    "name:ind_x_preferred":[
+        "Carei"
+    ],
+    "name:ita_x_preferred":[
+        "Carei"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ec\u30a4"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ub808\uc774"
+    ],
+    "name:min_x_preferred":[
+        "Carei"
+    ],
+    "name:msa_x_preferred":[
+        "Carei"
+    ],
+    "name:nld_x_preferred":[
+        "Carei"
+    ],
+    "name:pol_x_preferred":[
+        "Carei"
+    ],
+    "name:por_x_preferred":[
+        "Carei"
+    ],
+    "name:ron_x_preferred":[
+        "Carei"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0435\u0439"
+    ],
+    "name:slk_x_preferred":[
+        "Carei"
+    ],
+    "name:spa_x_preferred":[
+        "Carei"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041a\u0430\u0440\u0435\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0435\u0439"
+    ],
+    "name:vie_x_preferred":[
+        "Carei"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e7\u05e8\u05d0\u05dc\u05d9"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u96f7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +138,7 @@
         }
     ],
     "wof:id":1344249681,
-    "wof:lastmodified":1537096549,
+    "wof:lastmodified":1564197691,
     "wof:name":"Carei",
     "wof:parent_id":1091700155,
     "wof:placetype":"locality",

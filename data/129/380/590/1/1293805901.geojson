@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Namacurra"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293805901,
-    "wof:lastmodified":1536824243,
+    "wof:lastmodified":1564198391,
     "wof:name":"Namacurra",
     "wof:parent_id":1091700133,
     "wof:placetype":"locality",

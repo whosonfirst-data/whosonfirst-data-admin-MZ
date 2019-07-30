@@ -25,6 +25,108 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Quelimane"
+    ],
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0644\u064a\u0645\u0627\u0646\u064a"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0435\u043b\u0456\u043c\u0430\u043d\u044d"
+    ],
+    "name:cat_x_preferred":[
+        "Quelimane"
+    ],
+    "name:ceb_x_preferred":[
+        "Quelimane"
+    ],
+    "name:ces_x_preferred":[
+        "Quelimane"
+    ],
+    "name:dan_x_preferred":[
+        "Quelimane"
+    ],
+    "name:deu_x_preferred":[
+        "Quelimane"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03bb\u03b9\u03bc\u03ac\u03bd\u03b5"
+    ],
+    "name:epo_x_preferred":[
+        "Quelimane"
+    ],
+    "name:eus_x_preferred":[
+        "Quelimane"
+    ],
+    "name:fin_x_preferred":[
+        "Quelimane"
+    ],
+    "name:fra_x_preferred":[
+        "Qu\u00e9limane"
+    ],
+    "name:frr_x_preferred":[
+        "Quelimane"
+    ],
+    "name:gag_x_preferred":[
+        "Quelimane"
+    ],
+    "name:hrv_x_preferred":[
+        "Quelimane"
+    ],
+    "name:ind_x_preferred":[
+        "Quelimane"
+    ],
+    "name:ita_x_preferred":[
+        "Quelimane"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30ea\u30de\u30cd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d4\u10da\u10d8\u10db\u10d0\u10dc\u10d4"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf08\ub9ac\ub9c8\ub290"
+    ],
+    "name:lit_x_preferred":[
+        "Keliman\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Quelimane"
+    ],
+    "name:nor_x_preferred":[
+        "Quelimane"
+    ],
+    "name:pol_x_preferred":[
+        "Quelimane"
+    ],
+    "name:por_x_preferred":[
+        "Quelimane"
+    ],
+    "name:ron_x_preferred":[
+        "Quelimane"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043b\u0438\u043c\u0430\u043d\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Quelimane"
+    ],
+    "name:swa_x_preferred":[
+        "Quelimane"
+    ],
+    "name:swe_x_preferred":[
+        "Quelimane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u043b\u0456\u043c\u0430\u043d\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0644\u06cc\u0645\u0627\u0646\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u5229\u99ac\u5167"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +150,7 @@
         }
     ],
     "wof:id":1310409731,
-    "wof:lastmodified":1537052885,
+    "wof:lastmodified":1564199568,
     "wof:name":"Quelimane",
     "wof:parent_id":1091700013,
     "wof:placetype":"locality",

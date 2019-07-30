@@ -25,6 +25,21 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mussa"
+    ],
+    "name:ceb_x_preferred":[
+        "Mussa"
+    ],
+    "name:deu_x_preferred":[
+        "Mussa"
+    ],
+    "name:ita_x_preferred":[
+        "Mussa"
+    ],
+    "name:swe_x_preferred":[
+        "Mussa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343257145,
-    "wof:lastmodified":1537038043,
+    "wof:lastmodified":1564197803,
     "wof:name":"Mussa",
     "wof:parent_id":1091700177,
     "wof:placetype":"locality",

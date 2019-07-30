@@ -25,6 +25,33 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tila"
+    ],
+    "name:deu_x_preferred":[
+        "Tila"
+    ],
+    "name:fin_x_preferred":[
+        "Tila"
+    ],
+    "name:fra_x_preferred":[
+        "Tila"
+    ],
+    "name:por_x_preferred":[
+        "Tila"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043b\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Tila"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0438\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Tila"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1210009003,
-    "wof:lastmodified":1536370547,
+    "wof:lastmodified":1564199210,
     "wof:name":"Tila",
     "wof:parent_id":1091700589,
     "wof:placetype":"locality",

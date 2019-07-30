@@ -25,6 +25,12 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mutanda"
+    ],
+    "name:swe_x_preferred":[
+        "Mutanda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276656159,
-    "wof:lastmodified":1536842140,
+    "wof:lastmodified":1564198786,
     "wof:name":"Mutanda",
     "wof:parent_id":1091696395,
     "wof:placetype":"locality",

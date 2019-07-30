@@ -25,6 +25,9 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tole"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1326853355,
-    "wof:lastmodified":1537017622,
+    "wof:lastmodified":1564197438,
     "wof:name":"Tole",
     "wof:parent_id":1091699141,
     "wof:placetype":"locality",

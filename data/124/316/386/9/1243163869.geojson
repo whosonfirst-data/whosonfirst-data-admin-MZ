@@ -25,6 +25,33 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u064a\u0643\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u06cc\u0686\u06cc\u06a9\u0648"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0686\u06cc\u06a9\u0648"
+    ],
+    "name:ita_x_preferred":[
+        "Tcheco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c7\u30eb\u30bd\u30f3\u30fb\u30b7\u30de\u30b9\u30fb\u30eb\u30b7\u30a2\u30fc\u30ce"
+    ],
+    "name:por_x_preferred":[
+        "Tcheco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Tcheco"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0422\u043a\u0435\u043a\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1243163869,
-    "wof:lastmodified":1536716344,
+    "wof:lastmodified":1564200453,
     "wof:name":"Tcheco",
     "wof:parent_id":1091699257,
     "wof:placetype":"locality",

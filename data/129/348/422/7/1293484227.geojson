@@ -26,8 +26,35 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cantua"
+    ],
+    "name:ceb_x_preferred":[
+        "Cantua"
+    ],
+    "name:fra_x_preferred":[
+        "Cantua"
+    ],
+    "name:por_x_preferred":[
+        "Cantua"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0442\u0443\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Cantua"
+    ],
+    "name:swe_x_preferred":[
+        "Inkagullssl\u00e4ktet"
+    ],
     "name:und_x_variant":[
         "Contua",
+        "Cantua"
+    ],
+    "name:vie_x_preferred":[
+        "Cantua"
+    ],
+    "name:war_x_preferred":[
         "Cantua"
     ],
     "src:geom":"geonames",
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1293484227,
-    "wof:lastmodified":1537674581,
+    "wof:lastmodified":1564198138,
     "wof:name":"Cantua",
     "wof:parent_id":1091698823,
     "wof:placetype":"locality",

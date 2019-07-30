@@ -25,6 +25,18 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cat\u00faa"
+    ],
+    "name:ita_x_preferred":[
+        "Catua"
+    ],
+    "name:spa_x_preferred":[
+        "Catua"
+    ],
+    "name:swe_x_preferred":[
+        "Cat\u00faa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1276781357,
-    "wof:lastmodified":1536675602,
+    "wof:lastmodified":1564198687,
     "wof:name":"Catua",
     "wof:parent_id":1091700221,
     "wof:placetype":"locality",

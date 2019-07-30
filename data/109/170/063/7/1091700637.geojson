@@ -37,6 +37,12 @@
         "Mutarara",
         "MUTARARA"
     ],
+    "name:fra_x_preferred":[
+        "Mutarara"
+    ],
+    "name:nld_x_preferred":[
+        "Mutarara"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091700637,
-    "wof:lastmodified":1553717930,
+    "wof:lastmodified":1564199940,
     "wof:name":"Mutarara",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

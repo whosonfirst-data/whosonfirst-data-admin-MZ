@@ -25,6 +25,21 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Constantino"
+    ],
+    "name:glg_x_preferred":[
+        "Constantino"
+    ],
+    "name:ita_x_preferred":[
+        "Constantino"
+    ],
+    "name:por_x_preferred":[
+        "Constantino"
+    ],
+    "name:spa_x_preferred":[
+        "Constantino"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343585195,
-    "wof:lastmodified":1537061070,
+    "wof:lastmodified":1564197862,
     "wof:name":"Constantino",
     "wof:parent_id":1091698763,
     "wof:placetype":"locality",

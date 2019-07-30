@@ -26,10 +26,22 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Metangula"
+    ],
+    "name:ita_x_preferred":[
+        "Metangula"
+    ],
+    "name:por_x_preferred":[
+        "Metangula"
+    ],
     "name:und_x_variant":[
         "Augusto Cardoso",
         "M\u2019tangula",
         "Metangula"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5766\u53e4\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1242965129,
-    "wof:lastmodified":1537674610,
+    "wof:lastmodified":1564200402,
     "wof:name":"Metangula",
     "wof:parent_id":1091698193,
     "wof:placetype":"locality",

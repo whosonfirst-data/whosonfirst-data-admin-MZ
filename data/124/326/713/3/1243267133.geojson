@@ -25,6 +25,33 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:gag_x_preferred":[
+        "Chicualacuala"
+    ],
+    "name:ind_x_preferred":[
+        "Chicualacuala"
+    ],
+    "name:ita_x_preferred":[
+        "Chicualacuala"
+    ],
+    "name:nld_x_preferred":[
+        "Chicualacuala"
+    ],
+    "name:por_x_preferred":[
+        "Chicualacuala"
+    ],
+    "name:ron_x_preferred":[
+        "Chicualacuala"
+    ],
+    "name:spa_x_preferred":[
+        "Chicualacuala"
+    ],
+    "name:vie_x_preferred":[
+        "Malvernia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u5938\u62c9\u5938\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1243267133,
-    "wof:lastmodified":1537569941,
+    "wof:lastmodified":1564200496,
     "wof:name":"Chicualacuala",
     "wof:parent_id":1091696621,
     "wof:placetype":"locality",

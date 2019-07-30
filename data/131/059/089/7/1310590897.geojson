@@ -26,10 +26,58 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Mocuba"
+    ],
+    "name:cat_x_preferred":[
+        "Mocuba"
+    ],
+    "name:ceb_x_preferred":[
+        "Mocuba"
+    ],
+    "name:deu_x_preferred":[
+        "Mocuba"
+    ],
+    "name:fin_x_preferred":[
+        "Mocuba"
+    ],
+    "name:fra_x_preferred":[
+        "Mocuba"
+    ],
+    "name:hrv_x_preferred":[
+        "Mocuba"
+    ],
+    "name:ita_x_preferred":[
+        "Mocuba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30af\u30d0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10d9\u10e3\u10d1\u10d0"
+    ],
+    "name:pol_x_preferred":[
+        "Mocuba"
+    ],
+    "name:por_x_preferred":[
+        "Mocuba"
+    ],
+    "name:ron_x_preferred":[
+        "Mocuba"
+    ],
+    "name:spa_x_preferred":[
+        "Mocuba"
+    ],
+    "name:swa_x_preferred":[
+        "Mocuba"
+    ],
     "name:und_x_variant":[
         "Vila de Mocuba",
         "Mukuba",
         "Mocuba"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u5eab\u5df4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +103,7 @@
         }
     ],
     "wof:id":1310590897,
-    "wof:lastmodified":1537674472,
+    "wof:lastmodified":1564199733,
     "wof:name":"Mocuba",
     "wof:parent_id":1091700047,
     "wof:placetype":"locality",

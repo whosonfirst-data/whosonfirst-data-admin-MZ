@@ -25,6 +25,15 @@
     "iso:country":"MZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09aa\u099f\u09c1\u09af\u09bc\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Patua"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u091f\u0941\u0906"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1344149587,
-    "wof:lastmodified":1536746775,
+    "wof:lastmodified":1564197675,
     "wof:name":"Patua",
     "wof:parent_id":1091701415,
     "wof:placetype":"locality",
