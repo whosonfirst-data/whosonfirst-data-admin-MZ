@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MN"
+    ],
     "lbl:latitude":-19.036819,
     "lbl:longitude":33.356195,
     "meso:name_local":"Manica",
@@ -286,16 +289,13 @@
         }
     ],
     "wof:id":85674815,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563285895,
+    "wof:lastmodified":1565731060,
     "wof:name":"Manica",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

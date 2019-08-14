@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZA"
+    ],
     "lbl:latitude":-16.492321,
     "lbl:longitude":36.952584,
     "meso:name_local":"Zambezia",
@@ -294,16 +297,13 @@
         }
     ],
     "wof:id":85674839,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563285892,
+    "wof:lastmodified":1565731059,
     "wof:name":"Zambezia",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

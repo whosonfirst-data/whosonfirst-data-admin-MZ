@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TE"
+    ],
     "lbl:latitude":-15.425861,
     "lbl:longitude":32.809063,
     "meso:name_local":"Tete",
@@ -298,16 +301,13 @@
         }
     ],
     "wof:id":85674811,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563285882,
+    "wof:lastmodified":1565731054,
     "wof:name":"Tete",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

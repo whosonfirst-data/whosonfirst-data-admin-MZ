@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NS"
+    ],
     "lbl:latitude":-13.124401,
     "lbl:longitude":36.422969,
     "meso:name_local":"Niassa",
@@ -291,16 +294,13 @@
         }
     ],
     "wof:id":85674821,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563285888,
+    "wof:lastmodified":1565731057,
     "wof:name":"Niassa",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

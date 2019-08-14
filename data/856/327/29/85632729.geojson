@@ -15,6 +15,9 @@
     "itu:country_code":[
         "258"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MZ"
+    ],
     "lbl:latitude":-13.885531,
     "lbl:longitude":37.837456,
     "mps:latitude":-13.885531,
@@ -981,16 +984,13 @@
         }
     ],
     "wof:id":85632729,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563285901,
+    "wof:lastmodified":1565731062,
     "wof:name":"Mozambique",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

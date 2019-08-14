@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GA"
+    ],
     "lbl:latitude":-23.315407,
     "lbl:longitude":32.648727,
     "meso:name_local":"Gaza",
@@ -296,16 +299,13 @@
         }
     ],
     "wof:id":85674831,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563285889,
+    "wof:lastmodified":1565731058,
     "wof:name":"Gaza",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

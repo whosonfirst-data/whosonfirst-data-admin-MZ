@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MP"
+    ],
     "lbl:latitude":-25.25551,
     "lbl:longitude":32.501016,
     "meso:name_local":"Maputo",
@@ -194,16 +197,13 @@
         }
     ],
     "wof:id":85674849,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563285896,
+    "wof:lastmodified":1565731061,
     "wof:name":"Maputo",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

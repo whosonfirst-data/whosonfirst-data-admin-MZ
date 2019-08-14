@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MC"
+    ],
     "lbl:latitude":-25.879917,
     "lbl:longitude":32.611792,
     "meso:name_local":"Maputo",
@@ -213,7 +216,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563285891,
+    "wof:lastmodified":1565731059,
     "wof:name":"Maputo",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

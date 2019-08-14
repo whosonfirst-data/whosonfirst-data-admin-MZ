@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IN"
+    ],
     "lbl:latitude":-22.739777,
     "lbl:longitude":34.614828,
     "meso:name_local":"Inhambane",
@@ -299,16 +302,13 @@
         }
     ],
     "wof:id":85674845,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563285884,
+    "wof:lastmodified":1565731055,
     "wof:name":"Inhambane",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

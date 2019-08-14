@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SO"
+    ],
     "lbl:latitude":-18.762558,
     "lbl:longitude":34.881385,
     "meso:name_local":"Sofala",
@@ -290,16 +293,13 @@
         }
     ],
     "wof:id":85674835,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563285878,
+    "wof:lastmodified":1565731051,
     "wof:name":"Sofala",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

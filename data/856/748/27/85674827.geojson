@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NM"
+    ],
     "lbl:latitude":-14.960345,
     "lbl:longitude":39.277902,
     "meso:name_local":"Nampula",
@@ -285,16 +288,13 @@
         }
     ],
     "wof:id":85674827,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563285880,
+    "wof:lastmodified":1565731053,
     "wof:name":"Nampula",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

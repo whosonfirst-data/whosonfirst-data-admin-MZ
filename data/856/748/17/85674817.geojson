@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CD"
+    ],
     "lbl:latitude":-12.464102,
     "lbl:longitude":39.383331,
     "meso:name_local":"Cabo Delgado",
@@ -296,16 +299,13 @@
         }
     ],
     "wof:id":85674817,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563285886,
+    "wof:lastmodified":1565731056,
     "wof:name":"Cabo Delgado",
     "wof:parent_id":85632729,
     "wof:placetype":"region",
