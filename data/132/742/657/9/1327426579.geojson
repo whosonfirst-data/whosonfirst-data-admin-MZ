@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.73333,-16.38556,39.77333,-16.34556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Aube"
     ],
@@ -234,8 +238,7 @@
         "\u041e\u0431"
     ],
     "name:und_x_variant":[
-        "Quilua",
-        "Aube"
+        "Quilua"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0628"
@@ -278,7 +281,7 @@
         }
     ],
     "wof:id":1327426579,
-    "wof:lastmodified":1564197570,
+    "wof:lastmodified":1566644933,
     "wof:name":"Aube",
     "wof:parent_id":1091696277,
     "wof:placetype":"locality",

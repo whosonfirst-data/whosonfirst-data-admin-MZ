@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.92861,-21.04611,34.96861,-21.00611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tgk_x_preferred":[
         "\u0413\u0430\u0431\u0440\u0438\u044d\u043b C\u0442\u0440\u0435\u0444\u0435\u0441\u0441\u0430"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260081987,
-    "wof:lastmodified":1564199398,
+    "wof:lastmodified":1566646236,
     "wof:name":"Espeto",
     "wof:parent_id":1091697673,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.7975,-11.39694,39.8375,-11.35694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Dudo"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1242888285,
-    "wof:lastmodified":1564200174,
+    "wof:lastmodified":1566646864,
     "wof:name":"Dudo",
     "wof:parent_id":1091701043,
     "wof:placetype":"locality",

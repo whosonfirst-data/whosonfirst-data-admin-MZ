@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.28,-17.13944,33.32,-17.09944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Catunguene",
         "Catungur\u00e9ne"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360281491,
-    "wof:lastmodified":1537674599,
+    "wof:lastmodified":1566646591,
     "wof:name":"Catungurene",
     "wof:parent_id":1091697771,
     "wof:placetype":"locality",

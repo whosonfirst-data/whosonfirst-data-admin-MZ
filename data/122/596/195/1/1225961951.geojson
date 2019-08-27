@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.88083,-11.25722,39.92083,-11.21722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225961951,
-    "wof:lastmodified":1536844837,
+    "wof:lastmodified":1566647463,
     "wof:name":"Mendire",
     "wof:parent_id":1091701043,
     "wof:placetype":"locality",

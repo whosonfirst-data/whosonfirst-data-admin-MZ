@@ -10,6 +10,9 @@
     "geom:latitude":-24.72028,
     "geom:longitude":34.7425,
     "iso:country":"MZ",
+    "lbl:bbox":"34.7225,-24.74028,34.7625,-24.70028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -186,7 +189,7 @@
     "wof:concordances":{
         "gn:id":1028307,
         "gp:id":1558845,
-        "qs:id":58985,
+        "qs_pg:id":58985,
         "wd:id":"Q166838",
         "wk:page":"Zavala, Mozambique"
     },
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":421190949,
-    "wof:lastmodified":1563287824,
+    "wof:lastmodified":1566646784,
     "wof:name":"Quissico",
     "wof:parent_id":1091701681,
     "wof:placetype":"locality",

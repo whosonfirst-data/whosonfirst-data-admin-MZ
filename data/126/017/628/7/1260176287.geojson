@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"37.73972,-12.16472,37.77972,-12.12472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260176287,
-    "wof:lastmodified":1536856699,
+    "wof:lastmodified":1566646274,
     "wof:name":"Ibraimo",
     "wof:parent_id":1091699731,
     "wof:placetype":"locality",

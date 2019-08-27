@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.03083,-15.76222,38.07083,-15.72222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Apua",
         "Aparra"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327252407,
-    "wof:lastmodified":1537674611,
+    "wof:lastmodified":1566644745,
     "wof:name":"Aparra",
     "wof:parent_id":1091697545,
     "wof:placetype":"locality",

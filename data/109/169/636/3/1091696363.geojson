@@ -12,6 +12,8 @@
     "iso:country":"MZ",
     "lbl:latitude":-26.017221,
     "lbl:longitude":32.381282,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MAPUTO",
     "meso:gadm_admin":"Boane",
     "meso:gadm_hasc2":"MZ.MP.BO",
@@ -24,6 +26,7 @@
     "mps:longitude":32.381282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Boane"
     ],
@@ -32,7 +35,7 @@
         "BOANE"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632729,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1091696363,
-    "wof:lastmodified":1543954383,
+    "wof:lastmodified":1566646661,
     "wof:name":"Boane",
     "wof:parent_id":85674849,
     "wof:placetype":"county",

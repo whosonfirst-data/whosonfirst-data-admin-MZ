@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.29611,-14.59833,39.33611,-14.55833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209713063,
-    "wof:lastmodified":1536389816,
+    "wof:lastmodified":1566645936,
     "wof:name":"Rosario",
     "wof:parent_id":1091700409,
     "wof:placetype":"locality",

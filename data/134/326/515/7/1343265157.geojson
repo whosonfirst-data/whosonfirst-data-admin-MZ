@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"32.75306,-22.59528,32.79306,-22.55528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ocuanhe",
         "Regedor Ocuanhe"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343265157,
-    "wof:lastmodified":1537674495,
+    "wof:lastmodified":1566645228,
     "wof:name":"Regedor Ocuanhe",
     "wof:parent_id":1091696709,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"37.6875,-16.27278,37.7275,-16.23278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -34,7 +38,7 @@
         "gn:id":1024940
     },
     "wof:country":"MZ",
-    "wof:geomhash":"1781545a61cb0b80c2f24f79e11abe84",
+    "wof:geomhash":"160470ed9c8ef7b47e6d451544648f9f",
     "wof:hierarchy":[
         {
             "country_id":85632729,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209611113,
-    "wof:lastmodified":1536281843,
+    "wof:lastmodified":1566645967,
     "wof:name":"Upua",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     37.7075,
-    -16.252779999999998,
+    -16.25278,
     37.7075,
-    -16.252779999999998
+    -16.25278
 ],
   "geometry": {"coordinates":[37.7075,-16.25278],"type":"Point"}
 }

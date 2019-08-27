@@ -10,8 +10,12 @@
     "geom:latitude":-16.14972,
     "geom:longitude":33.59722,
     "iso:country":"MZ",
+    "lbl:bbox":"33.57722,-16.16972,33.61722,-16.12972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"MZ",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":1039761,
         "gp:id":1558170,
-        "qs:id":1083618
+        "qs_pg:id":1083618
     },
     "wof:country":"MZ",
     "wof:created":1459009516,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421187525,
-    "wof:lastmodified":1500014009,
+    "wof:lastmodified":1566646782,
     "wof:name":"Matundo",
     "wof:parent_id":1091697287,
     "wof:placetype":"locality",

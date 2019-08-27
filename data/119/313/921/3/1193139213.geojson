@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.13139,-23.90444,35.17139,-23.86444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Manhica",
         "Homo\u00edne"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193139213,
-    "wof:lastmodified":1537674569,
+    "wof:lastmodified":1566646159,
     "wof:name":"Homoine",
     "wof:parent_id":1091697853,
     "wof:placetype":"locality",

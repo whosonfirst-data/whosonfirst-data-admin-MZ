@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"32.765,-24.41028,32.805,-24.37028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343774955,
-    "wof:lastmodified":1536790382,
+    "wof:lastmodified":1566645054,
     "wof:name":"Chate",
     "wof:parent_id":1091696849,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"32.29667,-25.88667,32.33667,-25.84667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sisa"
     ],
@@ -42,8 +46,7 @@
         "Sisa"
     ],
     "name:und_x_variant":[
-        "Lindi\u00e7a",
-        "Sisa"
+        "Lindi\u00e7a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1326830523,
-    "wof:lastmodified":1564197456,
+    "wof:lastmodified":1566644861,
     "wof:name":"Sisa",
     "wof:parent_id":1091696363,
     "wof:placetype":"locality",

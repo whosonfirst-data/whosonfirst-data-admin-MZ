@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"31.89167,-15.64722,31.93167,-15.60722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310300935,
-    "wof:lastmodified":1536714860,
+    "wof:lastmodified":1566646391,
     "wof:name":"Botao",
     "wof:parent_id":1091699093,
     "wof:placetype":"locality",

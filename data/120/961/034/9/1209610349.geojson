@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.49472,-18.06917,33.53472,-18.02917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -34,7 +38,7 @@
         "gn:id":1046298
     },
     "wof:country":"MZ",
-    "wof:geomhash":"7536237606866cfb9c6b69c4bdcc8089",
+    "wof:geomhash":"0c284f6a8c995150bc36972480c8c20e",
     "wof:hierarchy":[
         {
             "country_id":85632729,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209610349,
-    "wof:lastmodified":1536281868,
+    "wof:lastmodified":1566645969,
     "wof:name":"Fombe",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.514720000000004,
+    33.51472,
     -18.04917,
-    33.514720000000004,
+    33.51472,
     -18.04917
 ],
   "geometry": {"coordinates":[33.51472,-18.04917],"type":"Point"}

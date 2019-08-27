@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.8625,-21.39472,33.9025,-21.35472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276430153,
-    "wof:lastmodified":1536648571,
+    "wof:lastmodified":1566645623,
     "wof:name":"Mapanhe",
     "wof:parent_id":1091698535,
     "wof:placetype":"locality",

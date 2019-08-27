@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-19.036819,
     "lbl:longitude":33.356195,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Manica",
     "mps:latitude":-19.047745,
     "mps:longitude":33.349483,
@@ -163,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043d\u0456\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Distrito de Vila Pery"
     ],
     "name:urd_x_preferred":[
@@ -247,9 +248,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-08-01",
+    "src:population_date":"2007-08-01",
     "statoids:area_km":"61,661",
     "statoids:area_mi":"23,807",
     "statoids:as_of_date":"2007-08-01",
@@ -274,7 +275,7 @@
         "gp:id":2346320,
         "hasc:id":"MZ.MN",
         "iso:id":"MZ-B",
-        "qs:id":891330,
+        "qs_pg:id":891330,
         "unlc:id":"MZ-B",
         "wd:id":"Q622792",
         "wk:page":"Manica Province"
@@ -295,11 +296,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565731060,
+    "wof:lastmodified":1566645265,
     "wof:name":"Manica",
     "wof:parent_id":85632729,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1438386,
     "wof:population_rank":12,

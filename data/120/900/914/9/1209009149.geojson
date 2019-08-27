@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.83639,-21.05556,34.87639,-21.01556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -34,7 +38,7 @@
         "gn:id":1103605
     },
     "wof:country":"MZ",
-    "wof:geomhash":"99bc32f6d93079a54a5ec88f2a7a275b",
+    "wof:geomhash":"6729fa47c3af020f403fdf8d89a159a0",
     "wof:hierarchy":[
         {
             "country_id":85632729,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209009149,
-    "wof:lastmodified":1536300504,
+    "wof:lastmodified":1566645851,
     "wof:name":"Lamejo",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    34.856390000000005,
+    34.85639,
     -21.03556,
-    34.856390000000005,
+    34.85639,
     -21.03556
 ],
   "geometry": {"coordinates":[34.85639,-21.03556],"type":"Point"}

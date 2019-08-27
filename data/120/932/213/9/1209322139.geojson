@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.16583,-21.68722,34.20583,-21.64722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Naite",
         "Naiete"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209322139,
-    "wof:lastmodified":1537674509,
+    "wof:lastmodified":1566645988,
     "wof:name":"Naiete",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",

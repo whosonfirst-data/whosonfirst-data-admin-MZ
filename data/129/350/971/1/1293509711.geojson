@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.83417,-16.08972,33.87417,-16.04972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293509711,
-    "wof:lastmodified":1536755103,
+    "wof:lastmodified":1566645422,
     "wof:name":"Aldeia Vila Formosa",
     "wof:parent_id":1091699971,
     "wof:placetype":"locality",

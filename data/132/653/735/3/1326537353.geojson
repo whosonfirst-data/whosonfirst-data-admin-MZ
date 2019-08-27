@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.39472,-22.56889,35.43472,-22.52889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326537353,
-    "wof:lastmodified":1536976066,
+    "wof:lastmodified":1566644908,
     "wof:name":"Uanela",
     "wof:parent_id":1091701605,
     "wof:placetype":"locality",

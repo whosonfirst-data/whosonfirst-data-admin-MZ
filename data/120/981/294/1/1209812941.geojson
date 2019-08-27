@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"40.0325,-14.87444,40.0725,-14.83444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209812941,
-    "wof:lastmodified":1536385611,
+    "wof:lastmodified":1566646083,
     "wof:name":"Puina",
     "wof:parent_id":1091699601,
     "wof:placetype":"locality",

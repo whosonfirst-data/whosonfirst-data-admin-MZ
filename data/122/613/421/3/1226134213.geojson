@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.13917,-11.61472,35.17917,-11.57472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tuliane",
         "Uliane"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226134213,
-    "wof:lastmodified":1537674477,
+    "wof:lastmodified":1566647479,
     "wof:name":"Uliane",
     "wof:parent_id":1091698193,
     "wof:placetype":"locality",

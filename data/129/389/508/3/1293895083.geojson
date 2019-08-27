@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.35861,-22.70806,34.39861,-22.66806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09ac\u09bf\u09a8\u09cb"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1293895083,
-    "wof:lastmodified":1564198370,
+    "wof:lastmodified":1566645525,
     "wof:name":"Sabino",
     "wof:parent_id":1091699313,
     "wof:placetype":"locality",

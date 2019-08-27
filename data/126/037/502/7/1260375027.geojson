@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"36.81417,-17.00917,36.85417,-16.96917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Goaigo",
         "Godigo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260375027,
-    "wof:lastmodified":1537674572,
+    "wof:lastmodified":1566646238,
     "wof:name":"Godigo",
     "wof:parent_id":1091700047,
     "wof:placetype":"locality",

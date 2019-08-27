@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.54528,-21.56389,34.58528,-21.52389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209827109,
-    "wof:lastmodified":1536372532,
+    "wof:lastmodified":1566645951,
     "wof:name":"Ofisso",
     "wof:parent_id":1091697673,
     "wof:placetype":"locality",

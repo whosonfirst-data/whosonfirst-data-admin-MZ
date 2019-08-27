@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.71528,-14.94139,38.75528,-14.90139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sosinho",
         "S\u00f2zinho"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343850603,
-    "wof:lastmodified":1537674482,
+    "wof:lastmodified":1566645068,
     "wof:name":"Sozinho",
     "wof:parent_id":1091701415,
     "wof:placetype":"locality",

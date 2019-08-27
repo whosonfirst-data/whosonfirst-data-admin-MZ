@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.77972,-15.61667,39.81972,-15.57667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maloje",
         "Maloge"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293022987,
-    "wof:lastmodified":1537674546,
+    "wof:lastmodified":1566645472,
     "wof:name":"Maloge",
     "wof:parent_id":1091700091,
     "wof:placetype":"locality",

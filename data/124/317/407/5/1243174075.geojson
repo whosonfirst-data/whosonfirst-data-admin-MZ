@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.02472,-22.81111,35.06472,-22.77111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chicomo",
         "Cabo Chilomo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243174075,
-    "wof:lastmodified":1537674592,
+    "wof:lastmodified":1566647090,
     "wof:name":"Cabo Chilomo",
     "wof:parent_id":1091699313,
     "wof:placetype":"locality",

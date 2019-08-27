@@ -12,6 +12,8 @@
     "iso:country":"MZ",
     "lbl:latitude":-16.456515,
     "lbl:longitude":33.154532,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"TETE",
     "meso:gadm_admin":"Changara",
     "meso:gadm_hasc2":"MZ.TE.CG",
@@ -24,6 +26,7 @@
     "mps:longitude":33.154532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Changara"
     ],
@@ -32,7 +35,7 @@
         "CHANGARA"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632729,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1091696537,
-    "wof:lastmodified":1543954383,
+    "wof:lastmodified":1566646659,
     "wof:name":"Changara",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

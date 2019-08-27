@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.55917,-19.90111,34.59917,-19.86111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vila Guilherme d\u2019Arriaga",
         "Vila Arriaga"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326735233,
-    "wof:lastmodified":1537674472,
+    "wof:lastmodified":1566644710,
     "wof:name":"Vila Arriaga",
     "wof:parent_id":1091696395,
     "wof:placetype":"locality",

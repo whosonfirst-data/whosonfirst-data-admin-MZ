@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"36.12778,-15.32972,36.16778,-15.28972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0627\u0645\u0628\u0627"
     ],
@@ -63,8 +67,7 @@
         "Chamba"
     ],
     "name:und_x_variant":[
-        "Tchamba",
-        "Chamba"
+        "Tchamba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1226164137,
-    "wof:lastmodified":1564200903,
+    "wof:lastmodified":1566647397,
     "wof:name":"Chamba",
     "wof:parent_id":1091699553,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.26222,-15.905,33.30222,-15.865",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Joaquim Felipe",
         "Joaquim Filipe"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1210002125,
-    "wof:lastmodified":1537674564,
+    "wof:lastmodified":1566646103,
     "wof:name":"Joaquim Filipe",
     "wof:parent_id":1091696537,
     "wof:placetype":"locality",

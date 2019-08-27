@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.18583,-19.24139,33.22583,-19.20139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1292984669,
-    "wof:lastmodified":1537014187,
+    "wof:lastmodified":1566645475,
     "wof:name":"Ganhamo",
     "wof:parent_id":1091699043,
     "wof:placetype":"locality",

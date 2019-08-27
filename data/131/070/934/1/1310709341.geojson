@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.81389,-23.61861,34.85389,-23.57861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310709341,
-    "wof:lastmodified":1536620685,
+    "wof:lastmodified":1566646324,
     "wof:name":"Furo de Prospeccao",
     "wof:parent_id":1091700259,
     "wof:placetype":"locality",

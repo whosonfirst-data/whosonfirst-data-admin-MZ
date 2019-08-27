@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.08028,-15.4275,39.12028,-15.3875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Namacurra"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293805901,
-    "wof:lastmodified":1564198391,
+    "wof:lastmodified":1566645537,
     "wof:name":"Namacurra",
     "wof:parent_id":1091700133,
     "wof:placetype":"locality",

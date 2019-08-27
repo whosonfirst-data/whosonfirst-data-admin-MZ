@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.90861,-22.32833,34.94861,-22.28833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Dominig"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1243183903,
-    "wof:lastmodified":1564200420,
+    "wof:lastmodified":1566647047,
     "wof:name":"Domingo",
     "wof:parent_id":1091701605,
     "wof:placetype":"locality",

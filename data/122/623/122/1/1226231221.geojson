@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.34639,-18.79444,33.38639,-18.75444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bernardino"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1226231221,
-    "wof:lastmodified":1564201052,
+    "wof:lastmodified":1566647506,
     "wof:name":"Bernardino",
     "wof:parent_id":1091699043,
     "wof:placetype":"locality",

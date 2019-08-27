@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"40.80278,-14.78694,40.84278,-14.74694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Ali"
     ],
@@ -114,8 +118,7 @@
         "Ali"
     ],
     "name:und_x_variant":[
-        "Alimp\u00e9ria",
-        "Ali"
+        "Alimp\u00e9ria"
     ],
     "name:uzb_x_preferred":[
         "Ali"
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":1360077521,
-    "wof:lastmodified":1564199802,
+    "wof:lastmodified":1566646519,
     "wof:name":"Ali",
     "wof:parent_id":1091700287,
     "wof:placetype":"locality",

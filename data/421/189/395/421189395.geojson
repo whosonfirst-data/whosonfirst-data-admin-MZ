@@ -10,8 +10,12 @@
     "geom:latitude":-15.01056,
     "geom:longitude":40.66639,
     "iso:country":"MZ",
+    "lbl:bbox":"40.64639,-15.03056,40.68639,-14.99056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Lumbo"
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":1043244,
         "gp:id":1548985,
-        "qs:id":44403,
+        "qs_pg:id":44403,
         "wd:id":"Q488030",
         "wk:page":"Lumbo"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":421189395,
-    "wof:lastmodified":1563287820,
+    "wof:lastmodified":1566646783,
     "wof:name":"Lumbo",
     "wof:parent_id":1091697977,
     "wof:placetype":"locality",

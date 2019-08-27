@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"32.59361,-20.92028,32.63361,-20.88028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Ingl\u00eas"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309696081,
-    "wof:lastmodified":1537674568,
+    "wof:lastmodified":1566646747,
     "wof:name":"Ingles",
     "wof:parent_id":1091700331,
     "wof:placetype":"locality",

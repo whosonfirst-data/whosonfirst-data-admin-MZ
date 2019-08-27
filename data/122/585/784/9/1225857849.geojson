@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.09,-24.60694,33.13,-24.56694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Noa"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1225857849,
-    "wof:lastmodified":1564201186,
+    "wof:lastmodified":1566647597,
     "wof:name":"Noa",
     "wof:parent_id":1091696849,
     "wof:placetype":"locality",

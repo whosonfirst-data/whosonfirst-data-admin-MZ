@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.90667,-16.75472,38.94667,-16.71472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343550867,
-    "wof:lastmodified":1536613372,
+    "wof:lastmodified":1566644984,
     "wof:name":"Muariua",
     "wof:parent_id":1091701291,
     "wof:placetype":"locality",

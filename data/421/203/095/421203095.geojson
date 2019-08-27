@@ -10,6 +10,9 @@
     "geom:latitude":-15.11646,
     "geom:longitude":39.2666,
     "iso:country":"MZ",
+    "lbl:bbox":"39.2466,-15.13646,39.2866,-15.09646",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -300,7 +303,7 @@
     "wof:concordances":{
         "gn:id":1033356,
         "gp:id":1558573,
-        "qs:id":229276,
+        "qs_pg:id":229276,
         "wd:id":"Q323801",
         "wk:page":"Nampula"
     },
@@ -324,7 +327,7 @@
         }
     ],
     "wof:id":421203095,
-    "wof:lastmodified":1563287817,
+    "wof:lastmodified":1566646781,
     "wof:name":"Nampula",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

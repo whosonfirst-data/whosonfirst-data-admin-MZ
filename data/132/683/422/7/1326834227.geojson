@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.665,-11.7375,39.705,-11.6975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Litembo"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326834227,
-    "wof:lastmodified":1564197455,
+    "wof:lastmodified":1566644860,
     "wof:name":"Litembo",
     "wof:parent_id":1091700457,
     "wof:placetype":"locality",

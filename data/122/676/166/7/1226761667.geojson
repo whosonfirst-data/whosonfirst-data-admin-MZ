@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"40.32306,-12.50472,40.36306,-12.46472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dura"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1226761667,
-    "wof:lastmodified":1564201030,
+    "wof:lastmodified":1566647491,
     "wof:name":"Dura",
     "wof:parent_id":1091701371,
     "wof:placetype":"locality",

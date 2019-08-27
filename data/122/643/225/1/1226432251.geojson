@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"37.45833,-15.3675,37.49833,-15.3275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Merrita",
         "Matoro"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226432251,
-    "wof:lastmodified":1537674529,
+    "wof:lastmodified":1566647364,
     "wof:name":"Matoro",
     "wof:parent_id":1091696213,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"36.90556,-16.41917,36.94556,-16.37917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243548903,
-    "wof:lastmodified":1536658047,
+    "wof:lastmodified":1566646815,
     "wof:name":"Venha",
     "wof:parent_id":1091698327,
     "wof:placetype":"locality",

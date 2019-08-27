@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"40.4625,-14.0025,40.5025,-13.9625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Naponeque",
         "Naponete"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225936527,
-    "wof:lastmodified":1537674503,
+    "wof:lastmodified":1566647337,
     "wof:name":"Naponete",
     "wof:parent_id":1091699799,
     "wof:placetype":"locality",

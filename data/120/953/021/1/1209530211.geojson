@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"40.61333,-14.60333,40.65333,-14.56333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -34,7 +38,7 @@
         "gn:id":1036192
     },
     "wof:country":"MZ",
-    "wof:geomhash":"496806d501c4feff15e3dbd70ad5ab74",
+    "wof:geomhash":"c92126747a63d6751b9b20527226e17b",
     "wof:hierarchy":[
         {
             "country_id":85632729,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209530211,
-    "wof:lastmodified":1536284304,
+    "wof:lastmodified":1566645856,
     "wof:name":"Muepane",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     40.63333,
-    -14.583329999999998,
+    -14.58333,
     40.63333,
-    -14.583329999999998
+    -14.58333
 ],
   "geometry": {"coordinates":[40.63333,-14.58333],"type":"Point"}
 }

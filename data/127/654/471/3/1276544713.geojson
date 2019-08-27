@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.47556,-15.91611,39.51556,-15.87611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Muitacala",
         "Muitacale"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276544713,
-    "wof:lastmodified":1537674516,
+    "wof:lastmodified":1566645825,
     "wof:name":"Muitacale",
     "wof:parent_id":1091700133,
     "wof:placetype":"locality",

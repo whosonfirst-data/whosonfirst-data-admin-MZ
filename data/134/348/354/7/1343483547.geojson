@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.03111,-17.08,35.07111,-17.04",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:vie_x_preferred":[
         "Maguza"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343483547,
-    "wof:lastmodified":1564197743,
+    "wof:lastmodified":1566645055,
     "wof:name":"Maguza",
     "wof:parent_id":1091700637,
     "wof:placetype":"locality",

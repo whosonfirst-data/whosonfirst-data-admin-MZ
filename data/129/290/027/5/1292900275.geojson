@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"37.31417,-13.79861,37.35417,-13.75861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abimo",
         "Abima"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1292900275,
-    "wof:lastmodified":1537674615,
+    "wof:lastmodified":1566645488,
     "wof:name":"Abima",
     "wof:parent_id":1091699411,
     "wof:placetype":"locality",

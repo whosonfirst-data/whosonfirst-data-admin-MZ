@@ -10,10 +10,14 @@
     "geom:latitude":-23.85556,
     "geom:longitude":35.54806,
     "iso:country":"MZ",
+    "lbl:bbox":"35.52806,-23.87556,35.56806,-23.83556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Praia do Toto"
     ],
     "qs:gn_country":"MZ",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1028575,
         "gp:id":1554434,
-        "qs:id":1083617
+        "qs_pg:id":1083617
     },
     "wof:country":"MZ",
     "wof:created":1459009516,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421187523,
-    "wof:lastmodified":1501216605,
+    "wof:lastmodified":1566646782,
     "wof:name":"Praia do Tofo",
     "wof:parent_id":1091697029,
     "wof:placetype":"locality",

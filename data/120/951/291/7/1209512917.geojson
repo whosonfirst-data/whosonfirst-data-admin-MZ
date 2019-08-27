@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.54944,-16.23306,39.58944,-16.19306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -34,7 +38,7 @@
         "gn:id":1095182
     },
     "wof:country":"MZ",
-    "wof:geomhash":"23c6a441cceb9946280da32b52dbe18a",
+    "wof:geomhash":"25575514c2bad81447073c852fc6f2b8",
     "wof:hierarchy":[
         {
             "country_id":85632729,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209512917,
-    "wof:lastmodified":1536284825,
+    "wof:lastmodified":1566646011,
     "wof:name":"Regulo Mucaquiua",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     39.56944,
-    -16.213060000000002,
+    -16.21306,
     39.56944,
-    -16.213060000000002
+    -16.21306
 ],
   "geometry": {"coordinates":[39.56944,-16.21306],"type":"Point"}
 }

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"36.59194,-14.62722,36.63194,-14.58722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Camala",
         "Chefe Camala"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209436365,
-    "wof:lastmodified":1537674603,
+    "wof:lastmodified":1566646080,
     "wof:name":"Chefe Camala",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",

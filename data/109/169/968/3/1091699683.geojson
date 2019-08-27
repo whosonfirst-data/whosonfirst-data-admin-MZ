@@ -12,6 +12,8 @@
     "iso:country":"MZ",
     "lbl:latitude":-13.242714,
     "lbl:longitude":40.400161,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CABO_DELGADO",
     "meso:gadm_admin":"Ancuabe",
     "meso:gadm_hasc2":"MZ.CD.AN",
@@ -24,6 +26,7 @@
     "mps:longitude":40.400161,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Districte d'Ancuabe"
     ],
@@ -78,7 +81,7 @@
         "\u5b89\u5938\u8c9d\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632729,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1091699683,
-    "wof:lastmodified":1563287656,
+    "wof:lastmodified":1566646637,
     "wof:name":"Mecufi",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

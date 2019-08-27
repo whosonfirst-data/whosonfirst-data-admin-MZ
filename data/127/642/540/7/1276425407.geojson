@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"36.23944,-16.85222,36.27944,-16.81222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Somass\u00f4a",
         "Samass\u00f4a"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276425407,
-    "wof:lastmodified":1537674486,
+    "wof:lastmodified":1566645653,
     "wof:name":"Samassoa",
     "wof:parent_id":1091700255,
     "wof:placetype":"locality",

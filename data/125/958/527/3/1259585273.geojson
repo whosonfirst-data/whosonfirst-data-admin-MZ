@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.71,-24.03139,34.75,-23.99139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259585273,
-    "wof:lastmodified":1536712556,
+    "wof:lastmodified":1566647269,
     "wof:name":"Cat. Episcopal Sao Pacule",
     "wof:parent_id":1091701265,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.72167,-18.12639,35.76167,-18.08639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bauaze",
         "Banze"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277079185,
-    "wof:lastmodified":1537674608,
+    "wof:lastmodified":1566645602,
     "wof:name":"Banze",
     "wof:parent_id":1091699215,
     "wof:placetype":"locality",

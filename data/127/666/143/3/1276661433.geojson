@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.67028,-13.55528,38.71028,-13.51528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u2019talia",
         "Mitalia"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276661433,
-    "wof:lastmodified":1537674522,
+    "wof:lastmodified":1566645705,
     "wof:name":"Mitalia",
     "wof:parent_id":1091700995,
     "wof:placetype":"locality",

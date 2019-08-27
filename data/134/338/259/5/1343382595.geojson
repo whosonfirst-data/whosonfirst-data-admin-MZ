@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.32806,-13.00972,35.36806,-12.96972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Utxigonja",
         "Utxingonja"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343382595,
-    "wof:lastmodified":1537674473,
+    "wof:lastmodified":1566644942,
     "wof:name":"Utxingonja",
     "wof:parent_id":1091701443,
     "wof:placetype":"locality",

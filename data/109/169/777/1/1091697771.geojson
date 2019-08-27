@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-16.987167,
     "lbl:longitude":33.53829,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MANICA",
     "meso:gadm_admin":"Guro",
     "meso:gadm_hasc2":"MZ.MN.GU",
@@ -30,6 +32,7 @@
     "mps:longitude":33.53829,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Guro"
     ],
@@ -65,9 +68,9 @@
         "Guro"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-08-01",
+    "src:population_date":"2007-08-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2007-08-01",
     "statoids:capital":"",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1091697771,
-    "wof:lastmodified":1564199926,
+    "wof:lastmodified":1566646634,
     "wof:name":"Guro",
     "wof:parent_id":85674815,
     "wof:placetype":"county",

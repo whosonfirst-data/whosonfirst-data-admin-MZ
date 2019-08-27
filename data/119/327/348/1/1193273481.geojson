@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"40.74556,-14.59944,40.78556,-14.55944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lile"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1193273481,
-    "wof:lastmodified":1564199332,
+    "wof:lastmodified":1566646191,
     "wof:name":"Lile",
     "wof:parent_id":1091700287,
     "wof:placetype":"locality",

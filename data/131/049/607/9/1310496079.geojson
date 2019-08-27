@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"37.17,-17.28361,37.21,-17.24361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bida"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1310496079,
-    "wof:lastmodified":1564199555,
+    "wof:lastmodified":1566646345,
     "wof:name":"Bida",
     "wof:parent_id":1091698671,
     "wof:placetype":"locality",

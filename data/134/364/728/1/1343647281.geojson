@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.11111,-17.38972,35.15111,-17.34972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343647281,
-    "wof:lastmodified":1536973638,
+    "wof:lastmodified":1566644993,
     "wof:name":"Joao",
     "wof:parent_id":1091700637,
     "wof:placetype":"locality",

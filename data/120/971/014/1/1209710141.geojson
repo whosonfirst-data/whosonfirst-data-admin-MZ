@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"36.35472,-18.67389,36.39472,-18.63389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Jorge"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1209710141,
-    "wof:lastmodified":1564198974,
+    "wof:lastmodified":1566645937,
     "wof:name":"Jorge",
     "wof:parent_id":1091696729,
     "wof:placetype":"locality",

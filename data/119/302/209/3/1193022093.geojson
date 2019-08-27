@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"32.4475,-26.8375,32.4875,-26.7975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guebesa",
         "Gabeza",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193022093,
-    "wof:lastmodified":1537674574,
+    "wof:lastmodified":1566646184,
     "wof:name":"Cabeza",
     "wof:parent_id":1091699383,
     "wof:placetype":"locality",

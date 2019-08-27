@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.86333,-13.44667,38.90333,-13.40667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Merruo",
         "R\u00e9gulo Merruo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276242523,
-    "wof:lastmodified":1537674529,
+    "wof:lastmodified":1566645759,
     "wof:name":"Regulo Merruo",
     "wof:parent_id":1091700995,
     "wof:placetype":"locality",

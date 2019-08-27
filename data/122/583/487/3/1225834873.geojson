@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"37.27028,-15.15944,37.31028,-15.11944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225834873,
-    "wof:lastmodified":1537028178,
+    "wof:lastmodified":1566647613,
     "wof:name":"Marruri",
     "wof:parent_id":1091697801,
     "wof:placetype":"locality",

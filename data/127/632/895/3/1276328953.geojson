@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"36.29361,-17.5525,36.33361,-17.5125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rozendo",
         "Rezendo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276328953,
-    "wof:lastmodified":1537674488,
+    "wof:lastmodified":1566645699,
     "wof:name":"Rezendo",
     "wof:parent_id":1091700251,
     "wof:placetype":"locality",

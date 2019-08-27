@@ -10,6 +10,9 @@
     "geom:latitude":-17.87861,
     "geom:longitude":36.88833,
     "iso:country":"MZ",
+    "lbl:bbox":"36.86833,-17.89861,36.90833,-17.85861",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -289,7 +292,7 @@
     "wof:concordances":{
         "gn:id":1028434,
         "gp:id":1554515,
-        "qs:id":493006,
+        "qs_pg:id":493006,
         "wd:id":"Q318306",
         "wk:page":"Quelimane"
     },
@@ -306,7 +309,7 @@
         }
     ],
     "wof:id":421168433,
-    "wof:lastmodified":1563287809,
+    "wof:lastmodified":1566646780,
     "wof:name":"Quelimane",
     "wof:parent_id":1091697259,
     "wof:placetype":"locality",

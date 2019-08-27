@@ -10,8 +10,12 @@
     "geom:latitude":-26.00758,
     "geom:longitude":32.93281,
     "iso:country":"MZ",
+    "lbl:bbox":"32.91281,-26.02758,32.95281,-25.98758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Inhaca"
@@ -28,7 +32,7 @@
     "name:por_x_preferred":[
         "Inhaca"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Portinho da Inhaca"
     ],
     "qs:gn_country":"MZ",
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":1045194,
         "gp:id":1548314,
-        "qs:id":448933,
+        "qs_pg:id":448933,
         "wd:id":"Q16892662",
         "wk:page":"Inhaca"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421198995,
-    "wof:lastmodified":1563287823,
+    "wof:lastmodified":1566646783,
     "wof:name":"Inhaca",
     "wof:parent_id":1091697125,
     "wof:placetype":"locality",

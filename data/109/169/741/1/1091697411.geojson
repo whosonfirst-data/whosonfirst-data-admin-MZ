@@ -12,6 +12,8 @@
     "iso:country":"MZ",
     "lbl:latitude":-19.507163,
     "lbl:longitude":34.788968,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SOFALA",
     "meso:gadm_admin":"Dondo",
     "meso:gadm_hasc2":"MZ.SO.DO",
@@ -24,6 +26,7 @@
     "mps:longitude":34.788968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Dondo"
     ],
@@ -56,7 +59,7 @@
         "Dondo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632729,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1091697411,
-    "wof:lastmodified":1564199927,
+    "wof:lastmodified":1566646636,
     "wof:name":"Dondo",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

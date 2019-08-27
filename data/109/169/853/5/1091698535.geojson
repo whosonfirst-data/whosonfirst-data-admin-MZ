@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-21.148377,
     "lbl:longitude":33.270668,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MANICA",
     "meso:gadm_admin":"Machaze",
     "meso:gadm_hasc2":"MZ.MN.MZ",
@@ -30,6 +32,7 @@
     "mps:longitude":33.270668,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Machaze"
     ],
@@ -38,9 +41,9 @@
         "MACHAZE"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-08-01",
+    "src:population_date":"2007-08-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2007-08-01",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091698535,
-    "wof:lastmodified":1553717913,
+    "wof:lastmodified":1566646654,
     "wof:name":"Machaze",
     "wof:parent_id":85674815,
     "wof:placetype":"county",

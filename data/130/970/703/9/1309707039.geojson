@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"37.75167,-15.78306,37.79167,-15.74306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309707039,
-    "wof:lastmodified":1537070468,
+    "wof:lastmodified":1566646717,
     "wof:name":"Requele",
     "wof:parent_id":1091696213,
     "wof:placetype":"locality",

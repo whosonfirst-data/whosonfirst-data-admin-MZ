@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.47917,-18.15639,34.51917,-18.11639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Chimoio"
     ],
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":1226668801,
-    "wof:lastmodified":1564200977,
+    "wof:lastmodified":1566647451,
     "wof:name":"Chimoio",
     "wof:parent_id":1091699141,
     "wof:placetype":"locality",

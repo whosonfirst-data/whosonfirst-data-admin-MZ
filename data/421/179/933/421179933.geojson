@@ -10,8 +10,12 @@
     "geom:latitude":-25.44278,
     "geom:longitude":31.99528,
     "iso:country":"MZ",
+    "lbl:bbox":"31.97528,-25.46278,32.01528,-25.42278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Ressano Garcia"
@@ -34,7 +38,7 @@
     "name:por_x_preferred":[
         "Ressano Garcia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Resano Garcia"
     ],
     "qs:gn_country":"MZ",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":1028079,
         "gp:id":1554688,
-        "qs:id":266887,
+        "qs_pg:id":266887,
         "wd:id":"Q279377",
         "wk:page":"Ressano Garcia"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421179933,
-    "wof:lastmodified":1563287828,
+    "wof:lastmodified":1566646786,
     "wof:name":"Ressano Garcia",
     "wof:parent_id":1091699925,
     "wof:placetype":"locality",

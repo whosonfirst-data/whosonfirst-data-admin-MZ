@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.4875,-24.63389,34.5275,-24.59389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259390197,
-    "wof:lastmodified":1536991703,
+    "wof:lastmodified":1566647145,
     "wof:name":"Manenga",
     "wof:parent_id":1091701681,
     "wof:placetype":"locality",

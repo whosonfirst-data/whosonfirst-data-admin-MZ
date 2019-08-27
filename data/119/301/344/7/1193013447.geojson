@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"40.30639,-13.66111,40.34639,-13.62111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193013447,
-    "wof:lastmodified":1536381051,
+    "wof:lastmodified":1566646139,
     "wof:name":"Cabo Matimpa",
     "wof:parent_id":1091699799,
     "wof:placetype":"locality",

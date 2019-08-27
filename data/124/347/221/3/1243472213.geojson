@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"40.32139,-12.8275,40.36139,-12.7875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243472213,
-    "wof:lastmodified":1536768865,
+    "wof:lastmodified":1566646954,
     "wof:name":"Miroto",
     "wof:parent_id":1091701325,
     "wof:placetype":"locality",

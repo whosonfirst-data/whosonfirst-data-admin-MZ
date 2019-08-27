@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"36.69667,-18.17,36.73667,-18.13",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bernardo",
         "S\u00e3o Bernardo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226352219,
-    "wof:lastmodified":1537674485,
+    "wof:lastmodified":1566647443,
     "wof:name":"Sao Bernardo",
     "wof:parent_id":1091698097,
     "wof:placetype":"locality",

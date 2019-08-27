@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.32417,-17.84028,35.36417,-17.80028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Caia"
     ],
@@ -33,8 +37,7 @@
         "Caia"
     ],
     "name:und_x_variant":[
-        "Vila Fontes",
-        "Caia"
+        "Vila Fontes"
     ],
     "name:zho_x_preferred":[
         "\u5361\u4e9e"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1309904997,
-    "wof:lastmodified":1564199962,
+    "wof:lastmodified":1566646701,
     "wof:name":"Caia",
     "wof:parent_id":1091696493,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.87194,-17.66639,33.91194,-17.62639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pamba"
     ],
@@ -39,8 +43,7 @@
         "Pamba"
     ],
     "name:und_x_variant":[
-        "Pemba",
-        "Pamba"
+        "Pemba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1344152515,
-    "wof:lastmodified":1564197682,
+    "wof:lastmodified":1566645010,
     "wof:name":"Pamba",
     "wof:parent_id":1091698625,
     "wof:placetype":"locality",

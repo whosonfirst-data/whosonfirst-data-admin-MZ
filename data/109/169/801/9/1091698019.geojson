@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-24.395832,
     "lbl:longitude":34.771413,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"INHAMBANE",
     "meso:gadm_admin":"Inharrime",
     "meso:gadm_hasc2":"MZ.IN.IR",
@@ -30,6 +32,7 @@
     "mps:longitude":34.771413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Districte d'Inharrime"
     ],
@@ -71,9 +74,9 @@
         "\u4f0a\u5c3c\u96c5\u5229\u6885\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-08-01",
+    "src:population_date":"2007-08-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2007-08-01",
     "statoids:capital":"",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1091698019,
-    "wof:lastmodified":1563287672,
+    "wof:lastmodified":1566646660,
     "wof:name":"Inharrime",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

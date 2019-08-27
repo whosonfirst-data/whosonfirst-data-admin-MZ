@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"37.705,-16.13528,37.745,-16.09528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Roan\u00e1cua",
         "Chefe Ruanacua"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327423521,
-    "wof:lastmodified":1537674488,
+    "wof:lastmodified":1566644932,
     "wof:name":"Chefe Ruanacua",
     "wof:parent_id":1091697943,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.2575,-15.63361,39.2975,-15.59361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Catarrua",
         "Cotarrua"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209938695,
-    "wof:lastmodified":1537674581,
+    "wof:lastmodified":1566645993,
     "wof:name":"Cotarrua",
     "wof:parent_id":1091699601,
     "wof:placetype":"locality",

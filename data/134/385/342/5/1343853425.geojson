@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.69778,-17.0775,33.73778,-17.0375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343853425,
-    "wof:lastmodified":1536676788,
+    "wof:lastmodified":1566645068,
     "wof:name":"Cruzado",
     "wof:parent_id":1091697771,
     "wof:placetype":"locality",

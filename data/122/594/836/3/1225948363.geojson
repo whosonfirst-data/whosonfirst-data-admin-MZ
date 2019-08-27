@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.95694,-12.60222,39.99694,-12.56222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Camba"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1225948363,
-    "wof:lastmodified":1564200813,
+    "wof:lastmodified":1566647331,
     "wof:name":"Camba",
     "wof:parent_id":1091699771,
     "wof:placetype":"locality",

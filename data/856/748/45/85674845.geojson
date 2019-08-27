@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-22.739777,
     "lbl:longitude":34.614828,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Inhambane",
     "mps:latitude":-22.717621,
     "mps:longitude":34.525804,
@@ -162,7 +163,7 @@
         "Inhambane"
     ],
     "name:tam_x_preferred":[
-        "\u0b87\u0b95\u0bae\u0bcd\u0baa\u0ba9\u0bc7  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b87\u0b95\u0bae\u0bcd\u0baa\u0ba9\u0bc7 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c07\u0c28\u0c4d\u0c39\u0c3e\u0c02\u0c2c\u0c47\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -176,7 +177,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043d\u044c\u044f\u043c\u0431\u0430\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Distrito de Inhambane"
     ],
     "name:urd_x_preferred":[
@@ -260,9 +261,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-08-01",
+    "src:population_date":"2007-08-01",
     "statoids:area_km":"68,615",
     "statoids:area_mi":"26,492",
     "statoids:as_of_date":"2007-08-01",
@@ -287,7 +288,7 @@
         "gp:id":2346313,
         "hasc:id":"MZ.IN",
         "iso:id":"MZ-I",
-        "qs:id":1091218,
+        "qs_pg:id":1091218,
         "unlc:id":"MZ-I",
         "wd:id":"Q466547",
         "wk:page":"Inhambane Province"
@@ -308,11 +309,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565731055,
+    "wof:lastmodified":1566645256,
     "wof:name":"Inhambane",
     "wof:parent_id":85632729,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1304820,
     "wof:population_rank":12,

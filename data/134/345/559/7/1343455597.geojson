@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.60444,-14.33806,35.64444,-14.29806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Matrez",
         "R\u00e9gulo Matreze"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343455597,
-    "wof:lastmodified":1537674536,
+    "wof:lastmodified":1566645199,
     "wof:name":"Regulo Matreze",
     "wof:parent_id":1091698923,
     "wof:placetype":"locality",

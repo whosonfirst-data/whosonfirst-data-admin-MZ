@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"40.04028,-14.09139,40.08028,-14.05139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Melage",
         "Metage"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209812975,
-    "wof:lastmodified":1537674532,
+    "wof:lastmodified":1566646089,
     "wof:name":"Metage",
     "wof:parent_id":1091697455,
     "wof:placetype":"locality",

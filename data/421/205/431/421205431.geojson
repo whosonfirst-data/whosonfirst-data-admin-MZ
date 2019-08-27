@@ -10,8 +10,12 @@
     "geom:latitude":-24.53333,
     "geom:longitude":32.98333,
     "iso:country":"MZ",
+    "lbl:bbox":"32.96333,-24.55333,33.00333,-24.51333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Ch\u00f3kw\u00e8"
@@ -61,7 +65,7 @@
     "name:szl_x_preferred":[
         "Chokw\u00e9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Trigo Morais"
     ],
     "name:zho_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":1048364,
         "gp:id":1546789,
-        "qs:id":263145,
+        "qs_pg:id":263145,
         "wd:id":"Q1022170",
         "wk:page":"Chokwe, Mozambique"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421205431,
-    "wof:lastmodified":1563287818,
+    "wof:lastmodified":1566646782,
     "wof:name":"Chokw\u00e9",
     "wof:parent_id":1091696849,
     "wof:placetype":"locality",

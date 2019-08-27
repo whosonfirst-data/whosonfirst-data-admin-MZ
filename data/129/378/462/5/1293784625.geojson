@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"32.525,-26.75194,32.565,-26.71194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Huco",
         "Uco"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293784625,
-    "wof:lastmodified":1537674475,
+    "wof:lastmodified":1566645402,
     "wof:name":"Uco",
     "wof:parent_id":1091699383,
     "wof:placetype":"locality",

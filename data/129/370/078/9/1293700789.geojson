@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.8225,-11.31361,39.8625,-11.27361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u064a\u0631\u0648"
     ],
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1293700789,
-    "wof:lastmodified":1564198147,
+    "wof:lastmodified":1566645368,
     "wof:name":"Siero",
     "wof:parent_id":1091701043,
     "wof:placetype":"locality",

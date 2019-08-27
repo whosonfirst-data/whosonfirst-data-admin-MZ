@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.00694,-23.84861,35.04694,-23.80861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cherringuete",
         "Cabo Chirrenguete"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226254249,
-    "wof:lastmodified":1537674595,
+    "wof:lastmodified":1566647484,
     "wof:name":"Cabo Chirrenguete",
     "wof:parent_id":1091697853,
     "wof:placetype":"locality",

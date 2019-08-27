@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.30083,-17.37778,35.34083,-17.33778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310190667,
-    "wof:lastmodified":1536872703,
+    "wof:lastmodified":1566646444,
     "wof:name":"Maricane",
     "wof:parent_id":1091700637,
     "wof:placetype":"locality",

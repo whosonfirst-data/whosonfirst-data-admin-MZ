@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.29667,-24.32389,33.33667,-24.28389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Malambo"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1343770955,
-    "wof:lastmodified":1564197740,
+    "wof:lastmodified":1566645053,
     "wof:name":"Malambo",
     "wof:parent_id":1091696583,
     "wof:placetype":"locality",

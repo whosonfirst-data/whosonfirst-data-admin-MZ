@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.71306,-11.58639,39.75306,-11.54639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326744473,
-    "wof:lastmodified":1536677982,
+    "wof:lastmodified":1566644694,
     "wof:name":"Nandole",
     "wof:parent_id":1091700457,
     "wof:placetype":"locality",

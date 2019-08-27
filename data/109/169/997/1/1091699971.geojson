@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-16.118024,
     "lbl:longitude":33.995005,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"TETE",
     "meso:gadm_admin":"Moatize",
     "meso:gadm_hasc2":"MZ.TE.MT",
@@ -30,6 +32,7 @@
     "mps:longitude":33.995005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Districte de Moatize"
     ],
@@ -68,9 +71,9 @@
         "\u83ab\u963f\u8482\u6fa4\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-08-01",
+    "src:population_date":"2007-08-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2007-08-01",
     "statoids:capital":"",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1091699971,
-    "wof:lastmodified":1563287643,
+    "wof:lastmodified":1566646615,
     "wof:name":"Moatize",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

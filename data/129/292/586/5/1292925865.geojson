@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"32.01399,-16.35646,32.05399,-16.31646",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Jeque"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1292925865,
-    "wof:lastmodified":1537674565,
+    "wof:lastmodified":1566645333,
     "wof:name":"Jeque",
     "wof:parent_id":1091698723,
     "wof:placetype":"locality",

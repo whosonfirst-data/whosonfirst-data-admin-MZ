@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"40.33,-13.10306,40.37,-13.06306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226147147,
-    "wof:lastmodified":1537072564,
+    "wof:lastmodified":1566647471,
     "wof:name":"Ripaue",
     "wof:parent_id":1091699683,
     "wof:placetype":"locality",

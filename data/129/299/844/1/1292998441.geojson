@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.95639,-14.76694,39.99639,-14.72694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Netia"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1292998441,
-    "wof:lastmodified":1564198321,
+    "wof:lastmodified":1566645491,
     "wof:name":"Netia",
     "wof:parent_id":1091700177,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"32.77917,-25.1375,32.81917,-25.0975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chulamati",
         "Chulamate"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310702203,
-    "wof:lastmodified":1537674584,
+    "wof:lastmodified":1566646321,
     "wof:name":"Chulamate",
     "wof:parent_id":1091699015,
     "wof:placetype":"locality",

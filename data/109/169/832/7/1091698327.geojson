@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-16.290154,
     "lbl:longitude":36.60385,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ZAMBEZIA",
     "meso:gadm_admin":"Lugela",
     "meso:gadm_hasc2":"MZ.ZA.LU",
@@ -30,6 +32,7 @@
     "mps:longitude":36.60385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Lugela"
     ],
@@ -38,9 +41,9 @@
         "LUGELA"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-08-01",
+    "src:population_date":"2007-08-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2007-08-01",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091698327,
-    "wof:lastmodified":1553717916,
+    "wof:lastmodified":1566646627,
     "wof:name":"Lugela",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

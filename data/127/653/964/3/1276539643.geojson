@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.855,-17.00472,34.895,-16.96472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Kvadlar"
     ],
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1276539643,
-    "wof:lastmodified":1564198802,
+    "wof:lastmodified":1566645821,
     "wof:name":"Quadi",
     "wof:parent_id":1091700637,
     "wof:placetype":"locality",

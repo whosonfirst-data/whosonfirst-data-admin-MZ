@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"36.30528,-15.72528,36.34528,-15.68528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Muassua",
         "R\u00e9gulo Muassua"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226327043,
-    "wof:lastmodified":1537674521,
+    "wof:lastmodified":1566647450,
     "wof:name":"Regulo Muassua",
     "wof:parent_id":1091699895,
     "wof:placetype":"locality",

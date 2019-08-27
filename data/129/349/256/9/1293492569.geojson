@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.41806,-17.40083,34.45806,-17.36083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0631\u0648\u0645\u0648"
     ],
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1293492569,
-    "wof:lastmodified":1564198166,
+    "wof:lastmodified":1566645381,
     "wof:name":"Rumo",
     "wof:parent_id":1091696557,
     "wof:placetype":"locality",

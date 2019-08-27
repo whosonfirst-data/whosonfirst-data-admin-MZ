@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-15.425861,
     "lbl:longitude":32.809063,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Tete",
     "mps:latitude":-15.426061,
     "mps:longitude":32.780651,
@@ -161,7 +162,7 @@
         "Tete"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bc7\u0b9f\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9f\u0bc7\u0b9f\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c46\u0c1f\u0c46 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -175,7 +176,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Intend\u00eancia de Tete"
     ],
     "name:urd_x_preferred":[
@@ -259,9 +260,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-08-01",
+    "src:population_date":"2007-08-01",
     "statoids:area_km":"100,724",
     "statoids:area_mi":"38,890",
     "statoids:as_of_date":"2007-08-01",
@@ -286,7 +287,7 @@
         "gp:id":2346318,
         "hasc:id":"MZ.TE",
         "iso:id":"MZ-T",
-        "qs:id":423835,
+        "qs_pg:id":423835,
         "unlc:id":"MZ-T",
         "wd:id":"Q605787",
         "wk:page":"Tete Province"
@@ -307,11 +308,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565731054,
+    "wof:lastmodified":1566645255,
     "wof:name":"Tete",
     "wof:parent_id":85632729,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1807485,
     "wof:population_rank":12,

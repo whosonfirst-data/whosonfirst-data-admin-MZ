@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.77889,-24.72833,34.81889,-24.68833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Inhacodo",
         "Chefe Nhac\u00f3du\u00e8"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343568521,
-    "wof:lastmodified":1537674568,
+    "wof:lastmodified":1566645135,
     "wof:name":"Chefe Nhacodue",
     "wof:parent_id":1091701681,
     "wof:placetype":"locality",

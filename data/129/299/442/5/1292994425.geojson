@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.92944,-17.32111,33.96944,-17.28111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1292994425,
-    "wof:lastmodified":1537000143,
+    "wof:lastmodified":1566645495,
     "wof:name":"Jaze",
     "wof:parent_id":1091701529,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.82528,-11.35389,39.86528,-11.31389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Acombang\u00fc\u00e8",
         "Acombanqu\u00e8"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326644249,
-    "wof:lastmodified":1537674614,
+    "wof:lastmodified":1566644878,
     "wof:name":"Acombanque",
     "wof:parent_id":1091701043,
     "wof:placetype":"locality",

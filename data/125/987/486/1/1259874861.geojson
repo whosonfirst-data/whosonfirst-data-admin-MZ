@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.42861,-20.73278,33.46861,-20.69278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259874861,
-    "wof:lastmodified":1536791982,
+    "wof:lastmodified":1566647296,
     "wof:name":"Falavanto",
     "wof:parent_id":1091698535,
     "wof:placetype":"locality",

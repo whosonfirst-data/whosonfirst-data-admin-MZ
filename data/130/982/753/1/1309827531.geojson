@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"36.15639,-13.67917,36.19639,-13.63917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nacuchiua",
         "Nacuchiva"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309827531,
-    "wof:lastmodified":1537674510,
+    "wof:lastmodified":1566646735,
     "wof:name":"Nacuchiva",
     "wof:parent_id":1091698823,
     "wof:placetype":"locality",

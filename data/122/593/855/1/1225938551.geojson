@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.92444,-12.13528,34.96444,-12.09528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Leoale",
         "Leol"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225938551,
-    "wof:lastmodified":1537674561,
+    "wof:lastmodified":1566647338,
     "wof:name":"Leol",
     "wof:parent_id":1091698193,
     "wof:placetype":"locality",

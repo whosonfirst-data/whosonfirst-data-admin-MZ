@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.44361,-22.11833,35.48361,-22.07833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Mazarete"
     ],
@@ -90,8 +94,7 @@
         "\u041c\u0430\u0441\u0430\u0440\u0435\u0442\u0435"
     ],
     "name:und_x_variant":[
-        "Madamo",
-        "Mazarete"
+        "Madamo"
     ],
     "name:vie_x_preferred":[
         "Mazarete"
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1309917257,
-    "wof:lastmodified":1564199952,
+    "wof:lastmodified":1566646694,
     "wof:name":"Mazarete",
     "wof:parent_id":1091701605,
     "wof:placetype":"locality",
