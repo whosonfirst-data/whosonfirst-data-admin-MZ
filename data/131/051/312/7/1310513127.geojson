@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.65639,-23.48111,34.69639,-23.44111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0648\u0644\u0627\u064a"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1310513127,
-    "wof:lastmodified":1564199781,
+    "wof:lastmodified":1566646504,
     "wof:name":"Julai",
     "wof:parent_id":1091697505,
     "wof:placetype":"locality",

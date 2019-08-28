@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.40139,-13.56806,38.44139,-13.52806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ku\u00e9ku\u00e8",
         "Reteta"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242591421,
-    "wof:lastmodified":1537674488,
+    "wof:lastmodified":1566646903,
     "wof:name":"Reteta",
     "wof:parent_id":1091696349,
     "wof:placetype":"locality",

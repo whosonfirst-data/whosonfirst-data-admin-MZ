@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"31.94417,-14.47361,31.98417,-14.43361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Catunga",
         "Camechunjo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327253711,
-    "wof:lastmodified":1537674603,
+    "wof:lastmodified":1566644743,
     "wof:name":"Camechunjo",
     "wof:parent_id":1091699093,
     "wof:placetype":"locality",

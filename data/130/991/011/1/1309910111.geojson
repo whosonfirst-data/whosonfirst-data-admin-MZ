@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.26722,-11.28778,39.30722,-11.24778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mocimboa do Ruvuma",
         "Moc\u00edmboa do Rovuma",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309910111,
-    "wof:lastmodified":1537674525,
+    "wof:lastmodified":1566646697,
     "wof:name":"Ngapa",
     "wof:parent_id":1091700457,
     "wof:placetype":"locality",

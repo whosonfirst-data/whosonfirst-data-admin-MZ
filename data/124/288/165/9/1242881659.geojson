@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.54528,-22.77556,33.58528,-22.73556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242881659,
-    "wof:lastmodified":1536623680,
+    "wof:lastmodified":1566646867,
     "wof:name":"Saute",
     "wof:parent_id":1091698405,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.80056,-12.79306,35.84056,-12.75306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quinanh\u00eane",
         "Cuinanh\u00eane"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293284029,
-    "wof:lastmodified":1537674580,
+    "wof:lastmodified":1566645543,
     "wof:name":"Cuinanhene",
     "wof:parent_id":1091700505,
     "wof:placetype":"locality",

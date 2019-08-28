@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.94833,-13.23611,38.98833,-13.19611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293505145,
-    "wof:lastmodified":1536761848,
+    "wof:lastmodified":1566645425,
     "wof:name":"Quimau",
     "wof:parent_id":1091700221,
     "wof:placetype":"locality",

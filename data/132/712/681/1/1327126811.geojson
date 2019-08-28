@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.2575,-14.28944,39.2975,-14.24944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Alupa",
         "Aiupa"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327126811,
-    "wof:lastmodified":1537674613,
+    "wof:lastmodified":1566644768,
     "wof:name":"Aiupa",
     "wof:parent_id":1091699653,
     "wof:placetype":"locality",

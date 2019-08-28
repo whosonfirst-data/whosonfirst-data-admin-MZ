@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"36.77528,-18.26222,36.81528,-18.22222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Deia"
     ],
@@ -45,8 +49,7 @@
         "Deia"
     ],
     "name:und_x_variant":[
-        "De\u00e9a",
-        "Deia"
+        "De\u00e9a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1260272701,
-    "wof:lastmodified":1564199425,
+    "wof:lastmodified":1566646252,
     "wof:name":"Deia",
     "wof:parent_id":1091696729,
     "wof:placetype":"locality",

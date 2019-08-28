@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.31333,-15.05722,39.35333,-15.01722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1209711189,
-    "wof:lastmodified":1536390618,
+    "wof:lastmodified":1566645938,
     "wof:name":"Saite",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

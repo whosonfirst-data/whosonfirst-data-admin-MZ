@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.28278,-13.0525,38.32278,-13.0125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Matanga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259697787,
-    "wof:lastmodified":1564200754,
+    "wof:lastmodified":1566647286,
     "wof:name":"Matanga",
     "wof:parent_id":1091700221,
     "wof:placetype":"locality",

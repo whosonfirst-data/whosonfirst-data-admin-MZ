@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.41556,-24.8325,34.45556,-24.7925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -34,7 +38,7 @@
         "gn:id":1100837
     },
     "wof:country":"MZ",
-    "wof:geomhash":"3087de96baaa1ca11773bb3ecde8cd32",
+    "wof:geomhash":"75e66b4808483c1a84599495e2556c4f",
     "wof:hierarchy":[
         {
             "country_id":85632729,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209223537,
-    "wof:lastmodified":1536293877,
+    "wof:lastmodified":1566645952,
     "wof:name":"Cat. Metodista",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    34.435559999999995,
+    34.43556,
     -24.8125,
-    34.435559999999995,
+    34.43556,
     -24.8125
 ],
   "geometry": {"coordinates":[34.43556,-24.8125],"type":"Point"}

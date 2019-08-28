@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.68694,-12.92361,39.72694,-12.88361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0417\u0430\u043c\u0431\u0435\u0437\u0438\u044f"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1243081821,
-    "wof:lastmodified":1564200134,
+    "wof:lastmodified":1566646832,
     "wof:name":"Zambezia",
     "wof:parent_id":1091696241,
     "wof:placetype":"locality",

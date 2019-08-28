@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.64028,-24.69111,34.68028,-24.65111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chissambula",
         "G. Chissambule"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225852387,
-    "wof:lastmodified":1537674587,
+    "wof:lastmodified":1566647600,
     "wof:name":"G. Chissambule",
     "wof:parent_id":1091701681,
     "wof:placetype":"locality",

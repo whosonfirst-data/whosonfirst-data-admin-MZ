@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.31889,-13.95972,38.35889,-13.91972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343276185,
-    "wof:lastmodified":1537011411,
+    "wof:lastmodified":1566645193,
     "wof:name":"Murrihiua",
     "wof:parent_id":1091696349,
     "wof:placetype":"locality",

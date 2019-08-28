@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-23.315407,
     "lbl:longitude":32.648727,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Gaza",
     "mps:latitude":-23.319341,
     "mps:longitude":32.633296,
@@ -159,7 +160,7 @@
         "Gaza"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbe\u0b9c\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bbe\u0b9c\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c3e\u0c1c\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -173,7 +174,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0437\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Intend\u00eancia de Gaza"
     ],
     "name:urd_x_preferred":[
@@ -257,9 +258,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-08-01",
+    "src:population_date":"2007-08-01",
     "statoids:area_km":"75,709",
     "statoids:area_mi":"29,231",
     "statoids:as_of_date":"2007-08-01",
@@ -284,7 +285,7 @@
         "gp:id":2346312,
         "hasc:id":"MZ.GA",
         "iso:id":"MZ-G",
-        "qs:id":1091217,
+        "qs_pg:id":1091217,
         "unlc:id":"MZ-G",
         "wd:id":"Q466526",
         "wk:page":"Gaza Province"
@@ -305,11 +306,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565731058,
+    "wof:lastmodified":1566645261,
     "wof:name":"Gaza",
     "wof:parent_id":85632729,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1236284,
     "wof:population_rank":12,

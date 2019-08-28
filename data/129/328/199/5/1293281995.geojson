@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"36.25972,-17.76639,36.29972,-17.72639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Zorica"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293281995,
-    "wof:lastmodified":1564198398,
+    "wof:lastmodified":1566645542,
     "wof:name":"Zorica",
     "wof:parent_id":1091700251,
     "wof:placetype":"locality",

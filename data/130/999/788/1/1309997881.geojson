@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.88333,-12.00556,34.92333,-11.96556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Bota"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309997881,
-    "wof:lastmodified":1564199974,
+    "wof:lastmodified":1566646710,
     "wof:name":"Bota",
     "wof:parent_id":1091698193,
     "wof:placetype":"locality",

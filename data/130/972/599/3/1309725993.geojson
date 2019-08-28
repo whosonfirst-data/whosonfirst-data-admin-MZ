@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.835,-12.99667,39.875,-12.95667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03ba\u03bf\u03c5\u03ac\u03bc\u03c0\u03b5"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1309725993,
-    "wof:lastmodified":1564200068,
+    "wof:lastmodified":1566646778,
     "wof:name":"Ancuabe",
     "wof:parent_id":1091696241,
     "wof:placetype":"locality",

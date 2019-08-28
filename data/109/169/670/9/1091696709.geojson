@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-22.345801,
     "lbl:longitude":32.966838,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"GAZA",
     "meso:gadm_admin":"Chigubo",
     "meso:gadm_hasc2":"MZ.GA.CG",
@@ -30,6 +32,7 @@
     "mps:longitude":32.966838,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Districte de Chigubo"
     ],
@@ -68,9 +71,9 @@
         "\u5e0c\u53e4\u535a\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-08-01",
+    "src:population_date":"2007-08-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2007-08-01",
     "statoids:capital":"",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1091696709,
-    "wof:lastmodified":1563287665,
+    "wof:lastmodified":1566646649,
     "wof:name":"Chigubo",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

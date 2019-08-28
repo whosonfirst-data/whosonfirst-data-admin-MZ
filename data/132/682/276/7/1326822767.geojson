@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"37.1625,-14.78167,37.2025,-14.74167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mv\u00f4vo",
         "Miv\u00f3va"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326822767,
-    "wof:lastmodified":1537674512,
+    "wof:lastmodified":1566644845,
     "wof:name":"Mivova",
     "wof:parent_id":1091698863,
     "wof:placetype":"locality",

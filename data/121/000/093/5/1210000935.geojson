@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.52917,-16.20389,38.56917,-16.16389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1210000935,
-    "wof:lastmodified":1536378795,
+    "wof:lastmodified":1566646104,
     "wof:name":"Moarea",
     "wof:parent_id":1091697545,
     "wof:placetype":"locality",

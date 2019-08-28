@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.88611,-14.19472,39.92611,-14.15472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Narcisszusz"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343980301,
-    "wof:lastmodified":1564197622,
+    "wof:lastmodified":1566644969,
     "wof:name":"Narciso",
     "wof:parent_id":1091700773,
     "wof:placetype":"locality",

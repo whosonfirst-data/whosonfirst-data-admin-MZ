@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"30.99667,-15.37,31.03667,-15.33",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ungu\u00e9x\u00f9ca",
         "Ungu\u00e9z\u00f9ca"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209630027,
-    "wof:lastmodified":1537674474,
+    "wof:lastmodified":1566645891,
     "wof:name":"Unguezuca",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",

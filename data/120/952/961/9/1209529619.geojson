@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.46389,-13.45417,38.50389,-13.41417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -34,7 +38,7 @@
         "gn:id":1050877
     },
     "wof:country":"MZ",
-    "wof:geomhash":"8336b08354699992ee978b07414bb8d8",
+    "wof:geomhash":"820e82cd837a9c507f9f2bedc48b1cbe",
     "wof:hierarchy":[
         {
             "country_id":85632729,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209529619,
-    "wof:lastmodified":1536284321,
+    "wof:lastmodified":1566645900,
     "wof:name":"Catambo",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     38.48389,
-    -13.434170000000002,
+    -13.43417,
     38.48389,
-    -13.434170000000002
+    -13.43417
 ],
   "geometry": {"coordinates":[38.48389,-13.43417],"type":"Point"}
 }

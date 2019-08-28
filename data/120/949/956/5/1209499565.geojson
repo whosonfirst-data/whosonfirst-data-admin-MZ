@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.96417,-16.72667,39.00417,-16.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -34,7 +38,7 @@
         "gn:id":1094462
     },
     "wof:country":"MZ",
-    "wof:geomhash":"a531f6797b9e9931f6b97411bf9c790f",
+    "wof:geomhash":"62502578ae2d4c7945d32d1bdc221742",
     "wof:hierarchy":[
         {
             "country_id":85632729,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209499565,
-    "wof:lastmodified":1536285226,
+    "wof:lastmodified":1566645944,
     "wof:name":"Ossufo",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     38.98417,
-    -16.706670000000006,
+    -16.70667000000001,
     38.98417,
-    -16.706670000000006
+    -16.70667000000001
 ],
   "geometry": {"coordinates":[38.98417,-16.70667000000001],"type":"Point"}
 }

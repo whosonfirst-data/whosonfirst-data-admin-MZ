@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.57611,-13.73278,38.61611,-13.69278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Uacota",
         "Uacata"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242984839,
-    "wof:lastmodified":1537674476,
+    "wof:lastmodified":1566647022,
     "wof:name":"Uacata",
     "wof:parent_id":1091700995,
     "wof:placetype":"locality",

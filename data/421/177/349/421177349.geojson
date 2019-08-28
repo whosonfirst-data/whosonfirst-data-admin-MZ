@@ -10,10 +10,14 @@
     "geom:latitude":-22.45306,
     "geom:longitude":31.33278,
     "iso:country":"MZ",
+    "lbl:bbox":"31.31278,-22.47306,31.35278,-22.43306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alto Limpopo"
     ],
     "qs:gn_country":"MZ",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1029304,
         "gp:id":1554087,
-        "qs:id":1175302
+        "qs_pg:id":1175302
     },
     "wof:country":"MZ",
     "wof:created":1459009141,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421177349,
-    "wof:lastmodified":1501216605,
+    "wof:lastmodified":1566646785,
     "wof:name":"Paf\u00fari",
     "wof:parent_id":1091696621,
     "wof:placetype":"locality",

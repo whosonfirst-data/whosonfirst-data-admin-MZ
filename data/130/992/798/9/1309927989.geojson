@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"37.34472,-14.98583,37.38472,-14.94583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309927989,
-    "wof:lastmodified":1536755067,
+    "wof:lastmodified":1566646740,
     "wof:name":"Avarra",
     "wof:parent_id":1091698863,
     "wof:placetype":"locality",

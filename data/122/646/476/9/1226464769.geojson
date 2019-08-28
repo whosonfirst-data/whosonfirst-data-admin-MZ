@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.02528,-16.17306,39.06528,-16.13306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fernando",
         "R\u00e9gulo Fernando"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226464769,
-    "wof:lastmodified":1537674575,
+    "wof:lastmodified":1566647525,
     "wof:name":"Regulo Fernando",
     "wof:parent_id":1091700155,
     "wof:placetype":"locality",

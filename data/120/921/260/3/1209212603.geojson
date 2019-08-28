@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"40.06833,-15.51333,40.10833,-15.47333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -34,7 +38,7 @@
         "gn:id":1091769
     },
     "wof:country":"MZ",
-    "wof:geomhash":"ecf9c6375362506b6b88ee5a579c16b2",
+    "wof:geomhash":"4e042688915783b8adf9f1852ac9fd59",
     "wof:hierarchy":[
         {
             "country_id":85632729,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209212603,
-    "wof:lastmodified":1536294240,
+    "wof:lastmodified":1566646060,
     "wof:name":"Nerua",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     40.08833,
-    -15.493329999999998,
+    -15.49333,
     40.08833,
-    -15.493329999999998
+    -15.49333
 ],
   "geometry": {"coordinates":[40.08833,-15.49333],"type":"Point"}
 }

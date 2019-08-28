@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.08917,-20.08639,33.12917,-20.04639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Cintura"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310400869,
-    "wof:lastmodified":1564199566,
+    "wof:lastmodified":1566646352,
     "wof:name":"Cintura",
     "wof:parent_id":1091701483,
     "wof:placetype":"locality",

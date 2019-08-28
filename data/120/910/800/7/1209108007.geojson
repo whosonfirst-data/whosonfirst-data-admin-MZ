@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.11972,-24.34639,35.15972,-24.30639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -34,7 +38,7 @@
         "gn:id":1102242
     },
     "wof:country":"MZ",
-    "wof:geomhash":"b605b96704504399afba5e5f7946dcc0",
+    "wof:geomhash":"957f7343abcdd98338d931f8f094f951",
     "wof:hierarchy":[
         {
             "country_id":85632729,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209108007,
-    "wof:lastmodified":1536297502,
+    "wof:lastmodified":1566646072,
     "wof:name":"Catequese Anglicana",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.139720000000004,
+    35.13972,
     -24.32639,
-    35.139720000000004,
+    35.13972,
     -24.32639
 ],
   "geometry": {"coordinates":[35.13972,-24.32639],"type":"Point"}

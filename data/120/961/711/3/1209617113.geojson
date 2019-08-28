@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.09167,-22.20056,34.13167,-22.16056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -34,7 +38,7 @@
         "gn:id":1042380
     },
     "wof:country":"MZ",
-    "wof:geomhash":"222186c562652b5c47d3c7e5400d238b",
+    "wof:geomhash":"8e43ef5a0d3b5274998ce2d831317ae8",
     "wof:hierarchy":[
         {
             "country_id":85632729,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209617113,
-    "wof:lastmodified":1536281650,
+    "wof:lastmodified":1566645970,
     "wof:name":"Macuacua",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    34.111670000000004,
+    34.11167,
     -22.18056,
-    34.111670000000004,
+    34.11167,
     -22.18056
 ],
   "geometry": {"coordinates":[34.11167,-22.18056],"type":"Point"}

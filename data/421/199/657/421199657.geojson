@@ -10,6 +10,9 @@
     "geom:latitude":-25.05194,
     "geom:longitude":33.64417,
     "iso:country":"MZ",
+    "lbl:bbox":"33.62417,-25.07194,33.66417,-25.03194",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -164,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u0457-\u0428\u0430\u0457"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Joa Belo"
     ],
     "name:urd_x_preferred":[
@@ -302,7 +305,7 @@
     "wof:concordances":{
         "gn:id":1024552,
         "gp:id":1556319,
-        "qs:id":1221181,
+        "qs_pg:id":1221181,
         "wd:id":"Q318299",
         "wk:page":"Xai-Xai"
     },
@@ -319,7 +322,7 @@
         }
     ],
     "wof:id":421199657,
-    "wof:lastmodified":1563287826,
+    "wof:lastmodified":1566646785,
     "wof:name":"Xai-Xai",
     "wof:parent_id":1091697333,
     "wof:placetype":"locality",

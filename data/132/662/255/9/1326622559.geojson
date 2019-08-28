@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"40.36389,-13.56417,40.40389,-13.52417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326622559,
-    "wof:lastmodified":1536852700,
+    "wof:lastmodified":1566644896,
     "wof:name":"Mepiteria",
     "wof:parent_id":1091699799,
     "wof:placetype":"locality",

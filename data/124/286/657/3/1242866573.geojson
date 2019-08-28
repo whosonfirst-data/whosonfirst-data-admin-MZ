@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.72528,-14.31722,39.76528,-14.27722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ora\u0219 Ianca"
     ],
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":1242866573,
-    "wof:lastmodified":1564200188,
+    "wof:lastmodified":1566646873,
     "wof:name":"Ianca",
     "wof:parent_id":1091700773,
     "wof:placetype":"locality",

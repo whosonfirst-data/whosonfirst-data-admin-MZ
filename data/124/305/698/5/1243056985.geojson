@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.49889,-18.29722,33.53889,-18.25722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u2019tx\u00e9ula",
         "M\u2019tx\u00e9\u00f9la"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243056985,
-    "wof:lastmodified":1537674522,
+    "wof:lastmodified":1566646991,
     "wof:name":"M'txeula",
     "wof:parent_id":1091698625,
     "wof:placetype":"locality",

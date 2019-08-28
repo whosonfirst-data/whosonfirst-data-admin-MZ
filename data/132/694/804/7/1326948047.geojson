@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.28083,-13.58167,39.32083,-13.54167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326948047,
-    "wof:lastmodified":1536881338,
+    "wof:lastmodified":1566644714,
     "wof:name":"Chefe Nira",
     "wof:parent_id":1091700995,
     "wof:placetype":"locality",

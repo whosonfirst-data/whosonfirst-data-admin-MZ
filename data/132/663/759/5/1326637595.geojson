@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.78083,-23.7475,34.82083,-23.7075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Saul"
     ],
@@ -201,7 +205,7 @@
         }
     ],
     "wof:id":1326637595,
-    "wof:lastmodified":1564197496,
+    "wof:lastmodified":1566644888,
     "wof:name":"Saul",
     "wof:parent_id":1091701265,
     "wof:placetype":"locality",

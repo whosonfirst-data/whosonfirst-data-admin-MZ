@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.96528,-15.29917,36.00528,-15.25917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sicima",
         "Chefe Naissima"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343452759,
-    "wof:lastmodified":1537674483,
+    "wof:lastmodified":1566645200,
     "wof:name":"Chefe Naissima",
     "wof:parent_id":1091699553,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":-23.865,
     "geom:longitude":35.38333,
     "iso:country":"MZ",
+    "lbl:bbox":"35.36333,-23.885,35.40333,-23.845",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -298,7 +301,7 @@
     "wof:concordances":{
         "gn:id":1045114,
         "gp:id":1548332,
-        "qs:id":279547,
+        "qs_pg:id":279547,
         "wd:id":"Q456577",
         "wk:page":"Inhambane"
     },
@@ -315,7 +318,7 @@
         }
     ],
     "wof:id":421195191,
-    "wof:lastmodified":1563287812,
+    "wof:lastmodified":1566646780,
     "wof:name":"Inhambane",
     "wof:parent_id":1091697029,
     "wof:placetype":"locality",

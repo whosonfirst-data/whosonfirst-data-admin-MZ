@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"37.07139,-17.28944,37.11139,-17.24944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310496017,
-    "wof:lastmodified":1536931343,
+    "wof:lastmodified":1566646344,
     "wof:name":"Naciai",
     "wof:parent_id":1091698671,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.79306,-14.29861,39.83306,-14.25861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Pinto"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209508373,
-    "wof:lastmodified":1564199015,
+    "wof:lastmodified":1566645964,
     "wof:name":"Pinto",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",

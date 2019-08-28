@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.19417,-24.05778,35.23417,-24.01778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Joane Levene"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276549097,
-    "wof:lastmodified":1537674561,
+    "wof:lastmodified":1566645823,
     "wof:name":"Levene",
     "wof:parent_id":1091697853,
     "wof:placetype":"locality",

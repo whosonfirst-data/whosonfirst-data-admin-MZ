@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.11528,-18.20861,34.15528,-18.16861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242573077,
-    "wof:lastmodified":1537067256,
+    "wof:lastmodified":1566646878,
     "wof:name":"Mecumbezi",
     "wof:parent_id":1091698625,
     "wof:placetype":"locality",

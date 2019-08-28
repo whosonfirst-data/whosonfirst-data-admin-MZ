@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"40.17583,-12.74139,40.21583,-12.70139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226655483,
-    "wof:lastmodified":1536844235,
+    "wof:lastmodified":1566647570,
     "wof:name":"Nuirai",
     "wof:parent_id":1091701371,
     "wof:placetype":"locality",

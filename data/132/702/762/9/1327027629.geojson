@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.54722,-15.86556,39.58722,-15.82556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0642\u0648\u0646\u0629"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1327027629,
-    "wof:lastmodified":1564197361,
+    "wof:lastmodified":1566644794,
     "wof:name":"Mucuna",
     "wof:parent_id":1091700133,
     "wof:placetype":"locality",

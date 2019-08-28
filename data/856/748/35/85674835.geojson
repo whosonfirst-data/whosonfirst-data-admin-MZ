@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-18.762558,
     "lbl:longitude":34.881385,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Sofala",
     "mps:latitude":-18.757236,
     "mps:longitude":34.886295,
@@ -153,7 +154,7 @@
         "Sofala"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bcb\u0baa\u0bbe\u0bb2\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9a\u0bcb\u0baa\u0bbe\u0bb2\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4b\u0c2b\u0c3e\u0c32\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -167,7 +168,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0444\u0430\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia de Beira"
     ],
     "name:urd_x_preferred":[
@@ -251,9 +252,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-08-01",
+    "src:population_date":"2007-08-01",
     "statoids:area_km":"68,018",
     "statoids:area_mi":"26,262",
     "statoids:as_of_date":"2007-08-01",
@@ -278,7 +279,7 @@
         "gp:id":2346315,
         "hasc:id":"MZ.SO",
         "iso:id":"MZ-S",
-        "qs:id":1091220,
+        "qs_pg:id":1091220,
         "unlc:id":"MZ-S",
         "wd:id":"Q622801",
         "wk:page":"Sofala Province"
@@ -299,11 +300,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565731051,
+    "wof:lastmodified":1566645250,
     "wof:name":"Sofala",
     "wof:parent_id":85632729,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1685663,
     "wof:population_rank":12,

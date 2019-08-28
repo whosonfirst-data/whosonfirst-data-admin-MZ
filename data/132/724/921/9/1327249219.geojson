@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.94694,-13.73833,38.98694,-13.69833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327249219,
-    "wof:lastmodified":1536945676,
+    "wof:lastmodified":1566644779,
     "wof:name":"Metanapo",
     "wof:parent_id":1091700995,
     "wof:placetype":"locality",

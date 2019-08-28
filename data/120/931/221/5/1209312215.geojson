@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"40.24389,-14.89917,40.28389,-14.85917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -34,7 +38,7 @@
         "gn:id":1029794
     },
     "wof:country":"MZ",
-    "wof:geomhash":"400fa9b8422301a7766b9df8111659e3",
+    "wof:geomhash":"3bfea0508cc2a969924b6aaf9d026530",
     "wof:hierarchy":[
         {
             "country_id":85632729,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209312215,
-    "wof:lastmodified":1536290987,
+    "wof:lastmodified":1566645842,
     "wof:name":"Nioma",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     40.26389,
-    -14.879170000000002,
+    -14.87917,
     40.26389,
-    -14.879170000000002
+    -14.87917
 ],
   "geometry": {"coordinates":[40.26389,-14.87917],"type":"Point"}
 }

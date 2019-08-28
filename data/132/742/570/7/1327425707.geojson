@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.02306,-12.49972,35.06306,-12.45972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mecuela",
         "Micuela"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327425707,
-    "wof:lastmodified":1537674532,
+    "wof:lastmodified":1566644936,
     "wof:name":"Micuela",
     "wof:parent_id":1091698193,
     "wof:placetype":"locality",

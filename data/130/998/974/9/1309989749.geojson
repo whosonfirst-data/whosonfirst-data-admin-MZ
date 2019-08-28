@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.16972,-16.80583,34.20972,-16.76583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b8\u09be\u09a6\u09cb"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1309989749,
-    "wof:lastmodified":1564199948,
+    "wof:lastmodified":1566646691,
     "wof:name":"Casado",
     "wof:parent_id":1091701529,
     "wof:placetype":"locality",

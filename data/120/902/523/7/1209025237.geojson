@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"37.15028,-16.1175,37.19028,-16.0775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tenda"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1209025237,
-    "wof:lastmodified":1564199093,
+    "wof:lastmodified":1566646017,
     "wof:name":"Tenda",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",

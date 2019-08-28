@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"36.8875,-17.80917,36.9275,-17.76917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nhamacata",
         "Namacata"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1292995171,
-    "wof:lastmodified":1537674509,
+    "wof:lastmodified":1566645492,
     "wof:name":"Namacata",
     "wof:parent_id":1091701163,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.04583,-17.22528,38.08583,-17.18528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Morroa",
         "Bajone"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259372571,
-    "wof:lastmodified":1537674609,
+    "wof:lastmodified":1566647148,
     "wof:name":"Bajone",
     "wof:parent_id":1091698671,
     "wof:placetype":"locality",

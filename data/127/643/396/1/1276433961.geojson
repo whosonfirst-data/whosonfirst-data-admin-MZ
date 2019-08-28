@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.23472,-14.63667,38.27472,-14.59667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Iriua",
         "Eriua"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276433961,
-    "wof:lastmodified":1537674566,
+    "wof:lastmodified":1566645623,
     "wof:name":"Eriua",
     "wof:parent_id":1091701415,
     "wof:placetype":"locality",

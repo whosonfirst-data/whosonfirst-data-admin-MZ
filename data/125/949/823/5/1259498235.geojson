@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"40.58,-15.05333,40.62,-15.01333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Monxuele",
         "Monzuele"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259498235,
-    "wof:lastmodified":1537674524,
+    "wof:lastmodified":1566647230,
     "wof:name":"Monzuele",
     "wof:parent_id":1091697977,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.89833,-22.64639,33.93833,-22.60639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mungunzo",
         "Zanova"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276665117,
-    "wof:lastmodified":1537674515,
+    "wof:lastmodified":1566645706,
     "wof:name":"Zanova",
     "wof:parent_id":1091698405,
     "wof:placetype":"locality",

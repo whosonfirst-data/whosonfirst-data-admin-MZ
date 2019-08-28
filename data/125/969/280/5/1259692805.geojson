@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.68083,-24.86917,33.72083,-24.82917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Regedor Bungane"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259692805,
-    "wof:lastmodified":1537674605,
+    "wof:lastmodified":1566647283,
     "wof:name":"Bungane",
     "wof:parent_id":1091701651,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":-23.85972,
     "geom:longitude":35.34722,
     "iso:country":"MZ",
+    "lbl:bbox":"35.32722,-23.87972,35.36722,-23.83972",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -268,7 +271,7 @@
     "wof:concordances":{
         "gn:id":1039536,
         "gp:id":1550919,
-        "qs:id":275901,
+        "qs_pg:id":275901,
         "wd:id":"Q525118",
         "wk:page":"Maxixe, Mozambique"
     },
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":421166899,
-    "wof:lastmodified":1563287811,
+    "wof:lastmodified":1566646780,
     "wof:name":"Maxixe",
     "wof:parent_id":1091699509,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.51,-24.76389,33.55,-24.72389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293792905,
-    "wof:lastmodified":1536842731,
+    "wof:lastmodified":1566645348,
     "wof:name":"Chefe Conjane",
     "wof:parent_id":1091696583,
     "wof:placetype":"locality",

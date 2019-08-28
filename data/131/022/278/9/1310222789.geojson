@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.47361,-11.44833,38.51361,-11.40833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Negomane"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310222789,
-    "wof:lastmodified":1564199535,
+    "wof:lastmodified":1566646329,
     "wof:name":"Negomano",
     "wof:parent_id":1091700457,
     "wof:placetype":"locality",

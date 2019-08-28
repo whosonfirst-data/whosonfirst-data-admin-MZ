@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.79028,-21.45333,34.83028,-21.41333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Mabalane"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226144815,
-    "wof:lastmodified":1564201004,
+    "wof:lastmodified":1566647473,
     "wof:name":"Mabalane",
     "wof:parent_id":1091697673,
     "wof:placetype":"locality",

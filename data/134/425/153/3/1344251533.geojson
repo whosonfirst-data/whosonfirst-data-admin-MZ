@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"37.20528,-16.68472,37.24528,-16.64472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344251533,
-    "wof:lastmodified":1537093931,
+    "wof:lastmodified":1566644998,
     "wof:name":"Chefe Sambora",
     "wof:parent_id":1091700047,
     "wof:placetype":"locality",

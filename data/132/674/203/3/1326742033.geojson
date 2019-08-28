@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.21806,-21.76167,35.25806,-21.72167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mapanzine",
         "Megui\u00e3o Mupane"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326742033,
-    "wof:lastmodified":1537674542,
+    "wof:lastmodified":1566644697,
     "wof:name":"Meguiao Mupane",
     "wof:parent_id":1091698063,
     "wof:placetype":"locality",

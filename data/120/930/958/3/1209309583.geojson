@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"32.69917,-20.66056,32.73917,-20.62056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Guzenzua"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209309583,
-    "wof:lastmodified":1537674569,
+    "wof:lastmodified":1566645885,
     "wof:name":"Guzenzua",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",

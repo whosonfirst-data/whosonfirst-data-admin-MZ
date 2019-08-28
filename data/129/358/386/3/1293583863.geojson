@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"37.49083,-16.47778,37.53083,-16.43778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mulevala",
         "R\u00e9gulo Mulevala"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293583863,
-    "wof:lastmodified":1537674515,
+    "wof:lastmodified":1566645459,
     "wof:name":"Regulo Mulevala",
     "wof:parent_id":1091697943,
     "wof:placetype":"locality",

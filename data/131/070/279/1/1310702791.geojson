@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"32.34333,-24.53833,32.38333,-24.49833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310702791,
-    "wof:lastmodified":1536630667,
+    "wof:lastmodified":1566646324,
     "wof:name":"Tchindjulana",
     "wof:parent_id":1091698763,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.55611,-13.64611,39.59611,-13.60611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1277088573,
-    "wof:lastmodified":1536759312,
+    "wof:lastmodified":1566645581,
     "wof:name":"Nampope",
     "wof:parent_id":1091696771,
     "wof:placetype":"locality",

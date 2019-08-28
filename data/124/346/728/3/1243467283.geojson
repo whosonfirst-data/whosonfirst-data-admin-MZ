@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"31.45556,-22.45694,31.49556,-22.41694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cunguma",
         "Chefe Conguma"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243467283,
-    "wof:lastmodified":1537674579,
+    "wof:lastmodified":1566646948,
     "wof:name":"Chefe Conguma",
     "wof:parent_id":1091696621,
     "wof:placetype":"locality",

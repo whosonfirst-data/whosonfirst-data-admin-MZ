@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.71528,-19.12222,33.75528,-19.08222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -34,7 +38,7 @@
         "gn:id":1031310
     },
     "wof:country":"MZ",
-    "wof:geomhash":"e6976ea7cf489189d0e3f8402cad6c44",
+    "wof:geomhash":"fbc2200c592ea2be93d9a1b15f3ecfdd",
     "wof:hierarchy":[
         {
             "country_id":85632729,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209303605,
-    "wof:lastmodified":1536291271,
+    "wof:lastmodified":1566645885,
     "wof:name":"Nhamatanga",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     33.73528,
-    -19.102220000000006,
+    -19.10222000000001,
     33.73528,
-    -19.102220000000006
+    -19.10222000000001
 ],
   "geometry": {"coordinates":[33.73528,-19.10222000000001],"type":"Point"}
 }

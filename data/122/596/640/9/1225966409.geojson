@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.87556,-15.22222,38.91556,-15.18222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225966409,
-    "wof:lastmodified":1536838509,
+    "wof:lastmodified":1566647466,
     "wof:name":"Mulahea",
     "wof:parent_id":1091700965,
     "wof:placetype":"locality",

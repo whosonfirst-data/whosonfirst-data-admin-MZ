@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"40.37583,-14.43528,40.41583,-14.39528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343656831,
-    "wof:lastmodified":1536960235,
+    "wof:lastmodified":1566644958,
     "wof:name":"Amade",
     "wof:parent_id":1091699799,
     "wof:placetype":"locality",

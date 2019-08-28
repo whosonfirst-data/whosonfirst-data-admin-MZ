@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"32.69083,-26.56722,32.73083,-26.52722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -34,7 +38,7 @@
         "gn:id":1027005
     },
     "wof:country":"MZ",
-    "wof:geomhash":"af2c72ba620c44597adf40313c2c263f",
+    "wof:geomhash":"2b64727f4d7ae156398c9dc070ca1310",
     "wof:hierarchy":[
         {
             "country_id":85632729,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209039473,
-    "wof:lastmodified":1536299591,
+    "wof:lastmodified":1566645991,
     "wof:name":"Sibebo",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     32.71083,
-    -26.547220000000006,
+    -26.54722000000001,
     32.71083,
-    -26.547220000000006
+    -26.54722000000001
 ],
   "geometry": {"coordinates":[32.71083,-26.54722000000001],"type":"Point"}
 }

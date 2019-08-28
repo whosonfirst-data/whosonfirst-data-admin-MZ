@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"36.16361,-12.50417,36.20361,-12.46417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Valadim",
         "Mavabo",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293581101,
-    "wof:lastmodified":1537674535,
+    "wof:lastmodified":1566645456,
     "wof:name":"Mavago",
     "wof:parent_id":1091699465,
     "wof:placetype":"locality",

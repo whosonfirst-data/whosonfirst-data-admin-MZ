@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.11417,-20.91222,33.15417,-20.87222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lambo"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1242773075,
-    "wof:lastmodified":1564200347,
+    "wof:lastmodified":1566646993,
     "wof:name":"Lambo",
     "wof:parent_id":1091698535,
     "wof:placetype":"locality",

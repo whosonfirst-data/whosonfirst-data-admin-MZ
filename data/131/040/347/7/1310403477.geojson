@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.99389,-14.49667,40.03389,-14.45667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mapaio",
         "Mepaio"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310403477,
-    "wof:lastmodified":1537674531,
+    "wof:lastmodified":1566646349,
     "wof:name":"Mepaio",
     "wof:parent_id":1091700773,
     "wof:placetype":"locality",

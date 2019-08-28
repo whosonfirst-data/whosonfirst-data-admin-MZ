@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.68056,-21.85556,33.72056,-21.81556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327433419,
-    "wof:lastmodified":1536679314,
+    "wof:lastmodified":1566644926,
     "wof:name":"Chicacane",
     "wof:parent_id":1091698405,
     "wof:placetype":"locality",

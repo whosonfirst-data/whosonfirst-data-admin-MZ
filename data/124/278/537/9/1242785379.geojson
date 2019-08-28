@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.46139,-21.86056,34.50139,-21.82056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cometela",
         "Chefe Cometela"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242785379,
-    "wof:lastmodified":1537674582,
+    "wof:lastmodified":1566647011,
     "wof:name":"Chefe Cometela",
     "wof:parent_id":1091698063,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"40.33158,-11.37172,40.37158,-11.33172",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mocimboa da Praia"
     ],
@@ -49,8 +53,7 @@
     ],
     "name:und_x_variant":[
         "Vila de Moc\u00edmboa da Praia",
-        "Moc\u00edmboa",
-        "Moc\u00edmboa da Praia"
+        "Moc\u00edmboa"
     ],
     "name:xmf_x_preferred":[
         "\u10db\u10dd\u10e1\u10d8\u10db\u10d1\u10dd\u10d0-\u10d3\u10d0-\u10de\u10e0\u10d0\u10d8\u10d0\u10e8 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1260200947,
-    "wof:lastmodified":1564199419,
+    "wof:lastmodified":1566646247,
     "wof:name":"Mocimboa da Praia",
     "wof:parent_id":1091700013,
     "wof:placetype":"locality",

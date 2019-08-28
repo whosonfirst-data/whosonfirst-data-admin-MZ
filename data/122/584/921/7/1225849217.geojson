@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.74667,-13.56361,38.78667,-13.52361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Mulda"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1225849217,
-    "wof:lastmodified":1564201200,
+    "wof:lastmodified":1566647608,
     "wof:name":"Mulda",
     "wof:parent_id":1091700995,
     "wof:placetype":"locality",

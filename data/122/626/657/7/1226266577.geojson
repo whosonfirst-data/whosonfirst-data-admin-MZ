@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"32.29667,-25.55333,32.33667,-25.51333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226266577,
-    "wof:lastmodified":1536903776,
+    "wof:lastmodified":1566647374,
     "wof:name":"Dualhe",
     "wof:parent_id":1091699925,
     "wof:placetype":"locality",

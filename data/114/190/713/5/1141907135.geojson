@@ -10,10 +10,14 @@
     "geom:latitude":-18.969606,
     "geom:longitude":32.879998,
     "iso:country":"MZ",
+    "lbl:bbox":"32.8599979235,-18.9896056937,32.8999979235,-18.9496056937",
     "lbl:latitude":-18.969606,
     "lbl:longitude":32.879998,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u064a\u0643\u0627"
     ],
@@ -253,7 +257,7 @@
         }
     ],
     "wof:id":1141907135,
-    "wof:lastmodified":1563288866,
+    "wof:lastmodified":1566647615,
     "wof:name":"Manica",
     "wof:parent_id":1091699043,
     "wof:placetype":"locality",

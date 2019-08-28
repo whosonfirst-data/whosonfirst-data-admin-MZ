@@ -10,6 +10,9 @@
     "geom:latitude":-16.2325,
     "geom:longitude":39.90861,
     "iso:country":"MZ",
+    "lbl:bbox":"39.88861,-16.2525,39.92861,-16.2125",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Angoche"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vila de Ant\u00f3nio Enes"
     ],
     "name:zho_x_preferred":[
@@ -211,7 +214,7 @@
     "wof:concordances":{
         "gn:id":1052944,
         "gp:id":1556658,
-        "qs:id":130359,
+        "qs_pg:id":130359,
         "wd:id":"Q541656",
         "wk:page":"Angoche"
     },
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":421167179,
-    "wof:lastmodified":1563287816,
+    "wof:lastmodified":1566646781,
     "wof:name":"Angoche",
     "wof:parent_id":1091696277,
     "wof:placetype":"locality",

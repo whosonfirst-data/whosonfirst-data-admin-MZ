@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-15.662416,
     "lbl:longitude":37.65761,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ZAMBEZIA",
     "meso:gadm_admin":"Alto Molocue",
     "meso:gadm_hasc2":"MZ.ZA.AM",
@@ -30,6 +32,7 @@
     "mps:longitude":37.65761,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Districte d'Alto Mol\u00f3cu\u00e8"
     ],
@@ -69,9 +72,9 @@
         "\u4e0a\u83ab\u6d1b\u594e\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-08-01",
+    "src:population_date":"2007-08-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2007-08-01",
     "statoids:capital":"",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1091696213,
-    "wof:lastmodified":1563287645,
+    "wof:lastmodified":1566646618,
     "wof:name":"Alto Molocue",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

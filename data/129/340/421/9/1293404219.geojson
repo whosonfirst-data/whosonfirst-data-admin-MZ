@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.0125,-11.36167,39.0525,-11.32167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293404219,
-    "wof:lastmodified":1536907237,
+    "wof:lastmodified":1566645391,
     "wof:name":"Miganga",
     "wof:parent_id":1091700457,
     "wof:placetype":"locality",

@@ -10,10 +10,14 @@
     "geom:latitude":-19.19472,
     "geom:longitude":33.89389,
     "iso:country":"MZ",
+    "lbl:bbox":"33.87389,-19.21472,33.91389,-19.17472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Inchopes"
     ],
     "qs:gn_country":"MZ",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1045289,
         "gp:id":1548262,
-        "qs:id":317100
+        "qs_pg:id":317100
     },
     "wof:country":"MZ",
     "wof:created":1459009020,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421174115,
-    "wof:lastmodified":1501216736,
+    "wof:lastmodified":1566646782,
     "wof:name":"Inchope",
     "wof:parent_id":1091697585,
     "wof:placetype":"locality",

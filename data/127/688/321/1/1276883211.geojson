@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.33,-24.17,35.37,-24.13",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276883211,
-    "wof:lastmodified":1537035028,
+    "wof:lastmodified":1566645637,
     "wof:name":"Toquisse",
     "wof:parent_id":1091698147,
     "wof:placetype":"locality",

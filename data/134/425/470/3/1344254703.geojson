@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"38.44111,-15.455,38.48111,-15.415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0627\u062d\u064a\u0629"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1344254703,
-    "wof:lastmodified":1564197661,
+    "wof:lastmodified":1566644996,
     "wof:name":"Rahia",
     "wof:parent_id":1091700589,
     "wof:placetype":"locality",

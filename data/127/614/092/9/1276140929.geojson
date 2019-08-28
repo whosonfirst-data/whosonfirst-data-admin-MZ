@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"37.56389,-16.86472,37.60389,-16.82472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276140929,
-    "wof:lastmodified":1537034980,
+    "wof:lastmodified":1566645719,
     "wof:name":"Nacombe",
     "wof:parent_id":1091698671,
     "wof:placetype":"locality",

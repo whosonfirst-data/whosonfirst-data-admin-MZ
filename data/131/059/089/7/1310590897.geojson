@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"36.96556,-16.8575,37.00556,-16.8175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mocuba"
     ],
@@ -73,8 +77,7 @@
     ],
     "name:und_x_variant":[
         "Vila de Mocuba",
-        "Mukuba",
-        "Mocuba"
+        "Mukuba"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u5eab\u5df4"
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1310590897,
-    "wof:lastmodified":1564199733,
+    "wof:lastmodified":1566646468,
     "wof:name":"Mocuba",
     "wof:parent_id":1091700047,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.69,-12.39722,34.73,-12.35722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242994511,
-    "wof:lastmodified":1536960115,
+    "wof:lastmodified":1566647045,
     "wof:name":"Aldeia Limbue",
     "wof:parent_id":1091698193,
     "wof:placetype":"locality",

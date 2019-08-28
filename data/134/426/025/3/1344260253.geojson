@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.28972,-24.00083,33.32972,-23.96083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Massacane",
         "Massassane",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344260253,
-    "wof:lastmodified":1537674539,
+    "wof:lastmodified":1566645153,
     "wof:name":"Masseanan",
     "wof:parent_id":1091697721,
     "wof:placetype":"locality",

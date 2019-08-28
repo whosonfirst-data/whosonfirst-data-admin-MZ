@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.05472,-24.96389,33.09472,-24.92389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Momonhe",
         "Regedor Mamonho"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209223309,
-    "wof:lastmodified":1537674524,
+    "wof:lastmodified":1566645952,
     "wof:name":"Regedor Mamonho",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",

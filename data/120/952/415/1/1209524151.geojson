@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.18583,-24.82667,33.22583,-24.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Alexandre",
         "Chefe Alexandre"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209524151,
-    "wof:lastmodified":1537674614,
+    "wof:lastmodified":1566645898,
     "wof:name":"Chefe Alexandre",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",

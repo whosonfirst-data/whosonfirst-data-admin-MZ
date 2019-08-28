@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"32.35472,-24.01,32.39472,-23.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cumbane",
         "Elambo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225853661,
-    "wof:lastmodified":1537674580,
+    "wof:lastmodified":1566647597,
     "wof:name":"Elambo",
     "wof:parent_id":1091699347,
     "wof:placetype":"locality",

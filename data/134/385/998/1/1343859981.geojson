@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.95722,-21.8825,33.99722,-21.8425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0643\u0627\u0644\u0627\u0648"
     ],
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":1343859981,
-    "wof:lastmodified":1564197758,
+    "wof:lastmodified":1566645064,
     "wof:name":"Bacalhau",
     "wof:parent_id":1091698405,
     "wof:placetype":"locality",

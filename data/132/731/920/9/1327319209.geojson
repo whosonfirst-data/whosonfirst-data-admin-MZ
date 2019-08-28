@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"31.72611,-15.82778,31.76611,-15.78778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327319209,
-    "wof:lastmodified":1536843293,
+    "wof:lastmodified":1566644676,
     "wof:name":"Boroma",
     "wof:parent_id":1091698723,
     "wof:placetype":"locality",

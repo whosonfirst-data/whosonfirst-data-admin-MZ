@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"40.56417,-14.87639,40.60417,-14.83639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Guarda"
     ],
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1226742495,
-    "wof:lastmodified":1564200894,
+    "wof:lastmodified":1566647391,
     "wof:name":"Guarda",
     "wof:parent_id":1091700287,
     "wof:placetype":"locality",

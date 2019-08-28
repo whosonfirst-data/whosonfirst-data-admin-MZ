@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.74611,-24.74611,34.78611,-24.70611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quissico",
         "Regedor Quissico"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259590629,
-    "wof:lastmodified":1537674489,
+    "wof:lastmodified":1566647256,
     "wof:name":"Regedor Quissico",
     "wof:parent_id":1091701681,
     "wof:placetype":"locality",

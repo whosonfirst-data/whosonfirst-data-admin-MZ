@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"37.49833,-15.22528,37.53833,-15.18528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tchim\u00e9\u00e7o",
         "Tchim\u00e9\u00e7a",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259875591,
-    "wof:lastmodified":1537674480,
+    "wof:lastmodified":1566647290,
     "wof:name":"Murrucha",
     "wof:parent_id":1091696213,
     "wof:placetype":"locality",

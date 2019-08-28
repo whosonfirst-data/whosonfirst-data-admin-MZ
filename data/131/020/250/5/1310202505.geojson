@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.79667,-14.91139,39.83667,-14.87139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310202505,
-    "wof:lastmodified":1536855428,
+    "wof:lastmodified":1566646412,
     "wof:name":"Malancha",
     "wof:parent_id":1091699601,
     "wof:placetype":"locality",

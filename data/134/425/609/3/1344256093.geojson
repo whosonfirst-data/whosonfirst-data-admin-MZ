@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.29722,-17.92083,35.33722,-17.88083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nangue",
         "Inhangua"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344256093,
-    "wof:lastmodified":1537674567,
+    "wof:lastmodified":1566645000,
     "wof:name":"Inhangua",
     "wof:parent_id":1091696559,
     "wof:placetype":"locality",

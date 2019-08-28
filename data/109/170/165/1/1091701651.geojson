@@ -12,6 +12,8 @@
     "iso:country":"MZ",
     "lbl:latitude":-25.099126,
     "lbl:longitude":33.469177,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"GAZA",
     "meso:gadm_admin":"Xai-Xai",
     "meso:gadm_hasc2":"MZ.GA.XX",
@@ -24,6 +26,7 @@
     "mps:longitude":33.469177,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Districte de Xai-Xai"
     ],
@@ -60,7 +63,7 @@
         "\u8cfd\u8cfd\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632729,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1091701651,
-    "wof:lastmodified":1563287688,
+    "wof:lastmodified":1566646681,
     "wof:name":"Xai-xai",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

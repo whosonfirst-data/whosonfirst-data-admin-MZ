@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.14972,-15.31306,39.18972,-15.27306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193129825,
-    "wof:lastmodified":1536376993,
+    "wof:lastmodified":1566646148,
     "wof:name":"Namarra",
     "wof:parent_id":1091700965,
     "wof:placetype":"locality",

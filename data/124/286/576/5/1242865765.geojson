@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"37.05167,-14.50722,37.09167,-14.46722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242865765,
-    "wof:lastmodified":1536648279,
+    "wof:lastmodified":1566646876,
     "wof:name":"Niquanqua",
     "wof:parent_id":1091699845,
     "wof:placetype":"locality",

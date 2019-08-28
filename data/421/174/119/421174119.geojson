@@ -10,8 +10,12 @@
     "geom:latitude":-25.73694,
     "geom:longitude":32.67639,
     "iso:country":"MZ",
+    "lbl:bbox":"32.65639,-25.75694,32.69639,-25.71694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Marracuene"
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "Marracuene"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vila Luiza"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":1024688,
         "gp:id":1550460,
-        "qs:id":317123,
+        "qs_pg:id":317123,
         "wd:id":"Q3082732",
         "wk:page":"Marracuene"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421174119,
-    "wof:lastmodified":1563287819,
+    "wof:lastmodified":1566646782,
     "wof:name":"Marracuene",
     "wof:parent_id":1091699175,
     "wof:placetype":"locality",

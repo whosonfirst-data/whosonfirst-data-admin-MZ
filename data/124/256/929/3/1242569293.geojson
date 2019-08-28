@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"36.52472,-14.9525,36.56472,-14.9125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242569293,
-    "wof:lastmodified":1537072558,
+    "wof:lastmodified":1566646931,
     "wof:name":"Inacio",
     "wof:parent_id":1091697375,
     "wof:placetype":"locality",

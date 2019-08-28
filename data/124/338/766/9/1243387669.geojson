@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"32.07722,-25.06806,32.11722,-25.02806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243387669,
-    "wof:lastmodified":1536889964,
+    "wof:lastmodified":1566646800,
     "wof:name":"Joane Chibundene",
     "wof:parent_id":1091699925,
     "wof:placetype":"locality",

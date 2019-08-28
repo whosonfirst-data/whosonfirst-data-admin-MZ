@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"32.24111,-15.19806,32.28111,-15.15806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saiva"
     ],
@@ -36,8 +40,7 @@
         "Saiva"
     ],
     "name:und_x_variant":[
-        "Nhendza",
-        "Saiva"
+        "Nhendza"
     ],
     "name:war_x_preferred":[
         "Saiva"
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1260075811,
-    "wof:lastmodified":1564199364,
+    "wof:lastmodified":1566646211,
     "wof:name":"Saiva",
     "wof:parent_id":1091699093,
     "wof:placetype":"locality",

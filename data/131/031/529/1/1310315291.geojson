@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"30.66333,-15.65333,30.70333,-15.61333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mataquenha",
         "Nhamaz\u00e1ga"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310315291,
-    "wof:lastmodified":1537674499,
+    "wof:lastmodified":1566646376,
     "wof:name":"Nhamazaga",
     "wof:parent_id":1091698723,
     "wof:placetype":"locality",

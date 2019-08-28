@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.38861,-24.12361,35.42861,-24.08361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343965539,
-    "wof:lastmodified":1537011842,
+    "wof:lastmodified":1566644963,
     "wof:name":"R. Nhapossa",
     "wof:parent_id":1091698147,
     "wof:placetype":"locality",

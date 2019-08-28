@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-13.924022,
     "lbl:longitude":39.78127,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NAMPULA",
     "meso:gadm_admin":"Namapa",
     "meso:gadm_hasc2":"NO DATA",
@@ -30,6 +32,7 @@
     "mps:longitude":39.78127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Erati"
     ],
@@ -40,9 +43,9 @@
         "Namapa-Erati"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-08-01",
+    "src:population_date":"2007-08-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2007-08-01",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091697455,
-    "wof:lastmodified":1553717911,
+    "wof:lastmodified":1566646666,
     "wof:name":"Erati",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

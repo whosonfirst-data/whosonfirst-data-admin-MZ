@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"31.68944,-22.59583,31.72944,-22.55583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293111647,
-    "wof:lastmodified":1536830872,
+    "wof:lastmodified":1566645512,
     "wof:name":"Pani",
     "wof:parent_id":1091696621,
     "wof:placetype":"locality",

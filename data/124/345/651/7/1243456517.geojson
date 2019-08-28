@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.3725,-22.59111,35.4125,-22.55111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Macauza",
         "Macauzo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243456517,
-    "wof:lastmodified":1537674556,
+    "wof:lastmodified":1566647076,
     "wof:name":"Macauzo",
     "wof:parent_id":1091701605,
     "wof:placetype":"locality",

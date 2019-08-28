@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"36.22361,-16.99056,36.26361,-16.95056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maj\u00f4a",
         "Majaro"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226138853,
-    "wof:lastmodified":1537674548,
+    "wof:lastmodified":1566647480,
     "wof:name":"Majaro",
     "wof:parent_id":1091700255,
     "wof:placetype":"locality",

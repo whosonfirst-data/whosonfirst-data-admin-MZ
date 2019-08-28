@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"33.70389,-20.17694,33.74389,-20.13694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Konsertina"
     ],
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":1209620085,
-    "wof:lastmodified":1564198872,
+    "wof:lastmodified":1566645868,
     "wof:name":"Concertina",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",

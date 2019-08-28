@@ -11,8 +11,11 @@
     "geom:longitude":40.73583,
     "gn:country":"MZ",
     "gn:fcode":"PPL",
-    "gn:pop":54315,
+    "gn:population":54315,
     "iso:country":"MZ",
+    "lbl:bbox":"40.71583,-15.05417,40.75583,-15.01417",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -127,9 +130,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0437\u0430\u043c\u0431\u0456\u043a"
     ],
-    "name:unk_x_variant":[
-        "Mo\u00e7ambique"
-    ],
     "name:vec_x_preferred":[
         "Ixola de Mozanbico"
     ],
@@ -243,7 +243,7 @@
     "wof:concordances":{
         "gn:id":1037390,
         "gp:id":1558311,
-        "qs:id":1029527,
+        "qs_pg:id":1029527,
         "wd:id":"Q331099"
     },
     "wof:country":"MZ",
@@ -259,7 +259,7 @@
         }
     ],
     "wof:id":890436945,
-    "wof:lastmodified":1563287831,
+    "wof:lastmodified":1566646787,
     "wof:name":"Ilha de Mo\u00e7ambique",
     "wof:parent_id":1091697977,
     "wof:placetype":"locality",

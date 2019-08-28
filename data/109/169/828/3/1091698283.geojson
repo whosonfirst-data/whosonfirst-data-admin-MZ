@@ -12,6 +12,8 @@
     "iso:country":"MZ",
     "lbl:latitude":-13.434151,
     "lbl:longitude":35.241348,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NIASSA",
     "meso:gadm_admin":"Lichinga",
     "meso:gadm_hasc2":"MZ.NS.LI",
@@ -24,6 +26,7 @@
     "mps:longitude":35.241348,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Lichinga District"
     ],
@@ -57,7 +60,7 @@
         "\u5229\u8f9b\u52a0\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632729,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1091698283,
-    "wof:lastmodified":1563287646,
+    "wof:lastmodified":1566646618,
     "wof:name":"Cidade de Lichinga",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

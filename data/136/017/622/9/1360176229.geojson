@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.75222,-12.89306,34.79222,-12.85306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mloma",
         "Manaicha"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360176229,
-    "wof:lastmodified":1537674546,
+    "wof:lastmodified":1566646581,
     "wof:name":"Manaicha",
     "wof:parent_id":1091698193,
     "wof:placetype":"locality",

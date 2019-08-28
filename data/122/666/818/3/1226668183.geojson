@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"39.56194,-16.01389,39.60194,-15.97389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226668183,
-    "wof:lastmodified":1536826287,
+    "wof:lastmodified":1566647451,
     "wof:name":"Naqueitel",
     "wof:parent_id":1091700133,
     "wof:placetype":"locality",

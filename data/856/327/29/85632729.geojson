@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":-13.885531,
     "lbl:longitude":37.837456,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-13.885531,
     "mps:longitude":37.837456,
     "mz:hierarchy_label":1,
@@ -760,14 +762,9 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0437\u0430\u043c\u0431\u0456\u043a"
     ],
-    "name:und_x_preferred":[
-        "Mozambik"
-    ],
     "name:und_x_variant":[
         "M\u00f3sambik",
-        "Republika Mozambik"
-    ],
-    "name:unk_x_variant":[
+        "Republika Mozambik",
         "Portuguese East Africa"
     ],
     "name:urd_x_preferred":[
@@ -923,7 +920,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"258",
     "statoids:ds":"MOC",
@@ -968,7 +965,7 @@
         "mzb:id":"mozambique",
         "ne:adm0_a3":"MOZ",
         "nyt:id":"N61626022548911769611",
-        "qs:id":467088,
+        "qs_pg:id":467088,
         "uncrt:id":"MOC",
         "wd:id":"Q1029",
         "wk:page":"Mozambique",
@@ -990,7 +987,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565731062,
+    "wof:lastmodified":1566645267,
     "wof:name":"Mozambique",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.82528,-21.45083,34.86528,-21.41083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Janie"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344258635,
-    "wof:lastmodified":1564197671,
+    "wof:lastmodified":1566645000,
     "wof:name":"Janie",
     "wof:parent_id":1091697673,
     "wof:placetype":"locality",

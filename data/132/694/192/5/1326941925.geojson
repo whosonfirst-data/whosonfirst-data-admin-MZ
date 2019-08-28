@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.99167,-21.60444,35.03167,-21.56444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326941925,
-    "wof:lastmodified":1536890416,
+    "wof:lastmodified":1566644713,
     "wof:name":"Sambula",
     "wof:parent_id":1091698063,
     "wof:placetype":"locality",

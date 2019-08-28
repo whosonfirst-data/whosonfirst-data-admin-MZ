@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.66833,-24.255,34.70833,-24.215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326742053,
-    "wof:lastmodified":1536681476,
+    "wof:lastmodified":1566644697,
     "wof:name":"Jeremias Paruque",
     "wof:parent_id":1091701265,
     "wof:placetype":"locality",

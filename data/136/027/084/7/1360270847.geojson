@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"34.12278,-14.755,34.16278,-14.715",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u2019chincula",
         "Mechincula"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360270847,
-    "wof:lastmodified":1537674533,
+    "wof:lastmodified":1566646556,
     "wof:name":"Mechincula",
     "wof:parent_id":1091696323,
     "wof:placetype":"locality",

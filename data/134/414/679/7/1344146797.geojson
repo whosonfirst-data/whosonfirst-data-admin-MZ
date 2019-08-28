@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maputo",
     "iso:country":"MZ",
+    "lbl:bbox":"35.31194,-16.35083,35.35194,-16.31083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Miscorio",
         "Miscoria"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344146797,
-    "wof:lastmodified":1537674526,
+    "wof:lastmodified":1566645005,
     "wof:name":"Miscoria",
     "wof:parent_id":1091699895,
     "wof:placetype":"locality",
