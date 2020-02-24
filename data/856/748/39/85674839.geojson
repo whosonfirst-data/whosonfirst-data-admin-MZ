@@ -289,6 +289,9 @@
         "wk:page":"Zambezia Province"
     },
     "wof:country":"MZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"580235eb61878114489be95fee59a095",
     "wof:hierarchy":[
         {
@@ -304,7 +307,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566645263,
+    "wof:lastmodified":1582349817,
     "wof:name":"Zambezia",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

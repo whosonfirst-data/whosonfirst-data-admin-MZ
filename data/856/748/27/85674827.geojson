@@ -280,6 +280,9 @@
         "wk:page":"Nampula Province"
     },
     "wof:country":"MZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fd3fa56fba66006fedfac81a03fed5d5",
     "wof:hierarchy":[
         {
@@ -295,7 +298,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566645253,
+    "wof:lastmodified":1582349811,
     "wof:name":"Nampula",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

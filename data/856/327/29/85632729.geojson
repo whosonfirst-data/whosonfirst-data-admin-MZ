@@ -973,6 +973,11 @@
     },
     "wof:country":"MZ",
     "wof:country_alpha3":"MOZ",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "meso"
+    ],
     "wof:geomhash":"42d12c8f1047a5b169eef74461b633fb",
     "wof:hierarchy":[
         {
@@ -987,7 +992,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566645267,
+    "wof:lastmodified":1582349820,
     "wof:name":"Mozambique",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -209,6 +209,9 @@
     },
     "wof:country":"MZ",
     "wof:created":1459009849,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"7ec5ecabad6f866dde3b1b52e0e022d2",
     "wof:hierarchy":[
         {
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":421195459,
-    "wof:lastmodified":1561758260,
+    "wof:lastmodified":1582349847,
     "wof:name":"Vilanculos",
     "wof:parent_id":1091701605,
     "wof:placetype":"locality",
