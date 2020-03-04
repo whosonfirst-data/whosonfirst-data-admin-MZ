@@ -195,6 +195,9 @@
     },
     "wof:country":"MZ",
     "wof:created":1459009674,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"0db9e998949908b2acadd2e0f871fed6",
     "wof:hierarchy":[
         {
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":421190949,
-    "wof:lastmodified":1566646784,
+    "wof:lastmodified":1582349847,
     "wof:name":"Quissico",
     "wof:parent_id":1091701681,
     "wof:placetype":"locality",

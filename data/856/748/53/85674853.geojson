@@ -202,6 +202,9 @@
         421167893
     ],
     "wof:country":"MZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"41df8a34d36ad5d82dfbfa1997824bde",
     "wof:hierarchy":[
         {
@@ -217,7 +220,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566645262,
+    "wof:lastmodified":1582349817,
     "wof:name":"Maputo",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

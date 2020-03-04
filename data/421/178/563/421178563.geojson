@@ -207,6 +207,9 @@
     },
     "wof:country":"MZ",
     "wof:created":1459009186,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"82cd00cb2ca7f2d18a937acc6f1d8d32",
     "wof:hierarchy":[
         {
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":421178563,
-    "wof:lastmodified":1566646786,
+    "wof:lastmodified":1582349848,
     "wof:name":"Moatize",
     "wof:parent_id":1091699971,
     "wof:placetype":"locality",

@@ -281,6 +281,9 @@
         "wk:page":"Manica Province"
     },
     "wof:country":"MZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"66e143704ae43d8596d53152e51eae8c",
     "wof:hierarchy":[
         {
@@ -296,7 +299,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566645265,
+    "wof:lastmodified":1582349818,
     "wof:name":"Manica",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

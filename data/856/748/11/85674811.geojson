@@ -293,6 +293,9 @@
         "wk:page":"Tete Province"
     },
     "wof:country":"MZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d00bf3e7187a5793a2eb0e31515c47cb",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566645255,
+    "wof:lastmodified":1582349812,
     "wof:name":"Tete",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

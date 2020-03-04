@@ -286,6 +286,9 @@
         "wk:page":"Niassa Province"
     },
     "wof:country":"MZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"75b40a0fd04d99ec118cc1a63e8ba6a9",
     "wof:hierarchy":[
         {
@@ -301,7 +304,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566645260,
+    "wof:lastmodified":1582349815,
     "wof:name":"Niassa",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

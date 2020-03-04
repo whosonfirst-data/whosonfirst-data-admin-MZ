@@ -294,6 +294,9 @@
         "wk:page":"Inhambane Province"
     },
     "wof:country":"MZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8117a3617025154542ba6421c4e2fea2",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566645256,
+    "wof:lastmodified":1582349813,
     "wof:name":"Inhambane",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

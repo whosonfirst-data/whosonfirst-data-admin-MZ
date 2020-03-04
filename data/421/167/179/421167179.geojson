@@ -220,6 +220,9 @@
     },
     "wof:country":"MZ",
     "wof:created":1459008722,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"17dda35a55a6b07a979ece5dba93b0e8",
     "wof:hierarchy":[
         {
@@ -231,7 +234,7 @@
         }
     ],
     "wof:id":421167179,
-    "wof:lastmodified":1566646781,
+    "wof:lastmodified":1582349847,
     "wof:name":"Angoche",
     "wof:parent_id":1091696277,
     "wof:placetype":"locality",

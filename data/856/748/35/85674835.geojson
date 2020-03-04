@@ -285,6 +285,9 @@
         "wk:page":"Sofala Province"
     },
     "wof:country":"MZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d2306b32d9068fd38ce97f84e0037bf0",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566645250,
+    "wof:lastmodified":1582349810,
     "wof:name":"Sofala",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

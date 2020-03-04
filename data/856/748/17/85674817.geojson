@@ -291,6 +291,9 @@
         "wk:page":"Cabo Delgado Province"
     },
     "wof:country":"MZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1c8d00c0c04887923bac74fe0214fee5",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566645258,
+    "wof:lastmodified":1582349814,
     "wof:name":"Cabo Delgado",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

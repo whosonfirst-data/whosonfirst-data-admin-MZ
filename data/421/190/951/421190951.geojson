@@ -233,6 +233,9 @@
     },
     "wof:country":"MZ",
     "wof:created":1459009674,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"4cfd2c106daf655ec37c243bf133c69b",
     "wof:hierarchy":[
         {
@@ -244,7 +247,7 @@
         }
     ],
     "wof:id":421190951,
-    "wof:lastmodified":1561758261,
+    "wof:lastmodified":1582349847,
     "wof:name":"Mapai",
     "wof:parent_id":1091696621,
     "wof:placetype":"locality",

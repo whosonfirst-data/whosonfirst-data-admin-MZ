@@ -189,6 +189,9 @@
         "wk:page":"Maputo Province"
     },
     "wof:country":"MZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"01c490cd56dd3136fb010a1a0465da6b",
     "wof:hierarchy":[
         {
@@ -204,7 +207,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566645266,
+    "wof:lastmodified":1582349819,
     "wof:name":"Maputo",
     "wof:parent_id":85632729,
     "wof:placetype":"region",
