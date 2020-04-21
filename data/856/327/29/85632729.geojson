@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":66.98453,
-    "geom:area_square_m":789054339303.417358,
+    "geom:area_square_m":789054337550.243896,
     "geom:bbox":"30.21555,-26.868161,40.848751,-10.477195",
     "geom:latitude":-17.260097,
     "geom:longitude":35.55384,
@@ -55,6 +55,9 @@
     "name:arg_x_preferred":[
         "Mozambique"
     ],
+    "name:ary_x_preferred":[
+        "\u0645\u0648\u0632\u0627\u0645\u0628\u064a\u0642"
+    ],
     "name:arz_x_preferred":[
         "\u0645\u0648\u0632\u0627\u0645\u0628\u064a\u0642"
     ],
@@ -81,6 +84,9 @@
     ],
     "name:bam_x_variant":[
         "Mozanbiki"
+    ],
+    "name:ban_x_preferred":[
+        "Mozambik"
     ],
     "name:bcl_x_preferred":[
         "Mosambik"
@@ -166,6 +172,9 @@
     "name:dan_x_variant":[
         "Mo\u00e7ambique"
     ],
+    "name:deu_ch_x_preferred":[
+        "Mosambik"
+    ],
     "name:deu_x_preferred":[
         "Mosambik"
     ],
@@ -186,6 +195,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03b6\u03b1\u03bc\u03b2\u03af\u03ba\u03b7"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Mozambique"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Mozambique"
     ],
     "name:eng_x_preferred":[
         "Mozambique"
@@ -249,6 +264,9 @@
     ],
     "name:gag_x_preferred":[
         "Mozambik"
+    ],
+    "name:gcr_x_preferred":[
+        "Mozanbik"
     ],
     "name:gla_x_preferred":[
         "M\u00f2saimbic"
@@ -545,6 +563,9 @@
     "name:nov_x_preferred":[
         "Mozambik"
     ],
+    "name:nqo_x_preferred":[
+        "\u07e1\u07cf\u07d6\u07ed\u07ca\u07f2\u07d3\u07cc\u07de\u07cc\u07ec"
+    ],
     "name:nso_x_preferred":[
         "Mozambique"
     ],
@@ -595,6 +616,9 @@
     ],
     "name:pol_x_preferred":[
         "Mozambik"
+    ],
+    "name:por_br_x_preferred":[
+        "Mo\u00e7ambique"
     ],
     "name:por_x_colloquial":[
         "Mocambique"
@@ -659,6 +683,9 @@
     "name:sna_x_preferred":[
         "Mozambique"
     ],
+    "name:snd_x_preferred":[
+        "\u0645\u0648\u0632\u0645\u0628\u064a\u0642"
+    ],
     "name:som_x_preferred":[
         "Musanbiig"
     ],
@@ -679,6 +706,12 @@
     ],
     "name:srd_x_preferred":[
         "Mozambico"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a"
+    ],
+    "name:srp_el_x_preferred":[
+        "Mozambik"
     ],
     "name:srp_x_preferred":[
         "\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a"
@@ -706,6 +739,9 @@
     ],
     "name:szl_x_preferred":[
         "Mozambik"
+    ],
+    "name:szy_x_preferred":[
+        "Mozambique"
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bca\u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd"
@@ -822,11 +858,20 @@
     "name:yue_x_preferred":[
         "\u83ab\u4e09\u9f3b\u7d66"
     ],
+    "name:zea_x_preferred":[
+        "Mozambique"
+    ],
     "name:zha_x_preferred":[
         "Mozambique"
     ],
+    "name:zho_hk_x_preferred":[
+        "\u83ab\u6851\u6bd4\u514b"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Mo\u00e7ambique"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u83ab\u4e09\u6bd4\u514b"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u6851\u6bd4\u514b"
@@ -993,7 +1038,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1583797395,
+    "wof:lastmodified":1587428952,
     "wof:name":"Mozambique",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
