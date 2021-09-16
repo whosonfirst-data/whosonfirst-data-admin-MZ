@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.3132972222,-22.0184305556,35.3132972222,-22.0184305556",
+    "geom:bbox":"35.313297,-22.018431,35.313297,-22.018431",
     "geom:latitude":-22.018431,
     "geom:longitude":35.313297,
     "iso:country":"MZ",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Vilankulo Airport"
+    ],
+    "name:eng_x_variant":[
+        "VNX",
+        "FQVL"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0644\u0646\u06a9\u0648\u0644\u0648"
@@ -66,7 +70,7 @@
         "wd:id":"Q7930082"
     },
     "wof:country":"MZ",
-    "wof:geomhash":"64811abd60c462f8c0905c960ab66d2b",
+    "wof:geomhash":"821aa831a4472ae87294393dc6a5a0ae",
     "wof:hierarchy":[
         {
             "campus_id":102544087,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":102544087,
-    "wof:lastmodified":1566644941,
+    "wof:lastmodified":1631750932,
     "wof:name":"Vilanculos Airport",
     "wof:parent_id":85674845,
     "wof:placetype":"campus",
@@ -87,10 +91,10 @@
     ]
 },
   "bbox": [
-    35.313297222222,
-    -22.018430555556,
-    35.313297222222,
-    -22.018430555556
+    35.313297,
+    -22.018431,
+    35.313297,
+    -22.018431
 ],
-  "geometry": {"coordinates":[35.313297222222,-22.018430555556],"type":"Point"}
+  "geometry": {"coordinates":[35.313297,-22.018431],"type":"Point"}
 }
