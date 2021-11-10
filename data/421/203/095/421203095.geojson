@@ -69,12 +69,18 @@
         "\u0aa8\u0abe\u0aae\u0aaa\u0ac1\u0ab2\u0abe"
     ],
     "name:heb_x_preferred":[
+        "\u05e0\u05d0\u05de\u05e4\u05d5\u05dc\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05e0\u05de\u05e4\u05d5\u05dc\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0928\u093e\u092e\u092a\u0942\u0932\u093e"
     ],
     "name:hrv_x_preferred":[
+        "Nampula"
+    ],
+    "name:hun_x_preferred":[
         "Nampula"
     ],
     "name:ind_x_preferred":[
@@ -327,7 +333,7 @@
         }
     ],
     "wof:id":421203095,
-    "wof:lastmodified":1566646781,
+    "wof:lastmodified":1636501814,
     "wof:name":"Nampula",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

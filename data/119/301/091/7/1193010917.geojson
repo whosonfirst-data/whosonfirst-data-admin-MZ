@@ -35,6 +35,9 @@
     "name:bel_x_preferred":[
         "\u041c\u043e\u043b\u0435"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cb\u09b2\u09a6\u09c7"
+    ],
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09b2\u09a1\u09c7"
     ],
@@ -76,6 +79,9 @@
     ],
     "name:fra_x_preferred":[
         "Molde"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0932\u094d\u0921"
     ],
     "name:hrv_x_preferred":[
         "Molde"
@@ -200,7 +206,7 @@
         "gn:id":1037256
     },
     "wof:country":"MZ",
-    "wof:geomhash":"bf9952017805cbd86a87be1bcaaca02b",
+    "wof:geomhash":"2e2c52bc6a2a52db770a96abd3582084",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -211,7 +217,7 @@
         }
     ],
     "wof:id":1193010917,
-    "wof:lastmodified":1566646133,
+    "wof:lastmodified":1636501803,
     "wof:name":"Molde",
     "wof:parent_id":1091699601,
     "wof:placetype":"locality",
@@ -221,10 +227,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.75194000000001,
+    39.75194,
     -15.46333,
-    39.75194000000001,
+    39.75194,
     -15.46333
 ],
-  "geometry": {"coordinates":[39.75194000000001,-15.46333],"type":"Point"}
+  "geometry": {"coordinates":[39.75194,-15.46333],"type":"Point"}
 }

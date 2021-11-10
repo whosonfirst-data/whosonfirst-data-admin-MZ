@@ -71,7 +71,13 @@
     "name:frr_x_preferred":[
         "Nampula"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d0\u05de\u05e4\u05d5\u05dc\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Nampula"
+    ],
+    "name:hun_x_preferred":[
         "Nampula"
     ],
     "name:ind_x_preferred":[
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1343583331,
-    "wof:lastmodified":1566645138,
+    "wof:lastmodified":1636501784,
     "wof:name":"Nampula",
     "wof:parent_id":1091700177,
     "wof:placetype":"locality",

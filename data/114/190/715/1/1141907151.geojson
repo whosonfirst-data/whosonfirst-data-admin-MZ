@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"37.499457559,-13.1983817354,37.499457559,-13.1983817354",
+    "geom:bbox":"37.499458,-13.198382,37.499458,-13.198382",
     "geom:latitude":-13.198382,
     "geom:longitude":37.499458,
     "iso:country":"MZ",
@@ -18,22 +18,79 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u0648\u0628\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b0\u09b0\u09c1\u09aa\u09be"
+    ],
     "name:cat_x_preferred":[
         "Marrupa"
     ],
     "name:deu_x_preferred":[
         "Marrupa"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03bf\u03cd\u03c0\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Marrupa"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u0648\u067e\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Marrupa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05e8\u05d5\u05e4\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0930\u0942\u092a\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Marrupa"
+    ],
+    "name:ind_x_preferred":[
+        "Marrupa"
+    ],
+    "name:ita_x_preferred":[
+        "Marrupa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30d1"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub8e8\ud30c"
+    ],
     "name:nld_x_preferred":[
+        "Marrupa"
+    ],
+    "name:pol_x_preferred":[
         "Marrupa"
     ],
     "name:por_x_preferred":[
         "Marrupa"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0440\u0443\u043f\u0430"
+    ],
     "name:spa_x_preferred":[
+        "Marrupa"
+    ],
+    "name:swe_x_preferred":[
+        "Marrupa"
+    ],
+    "name:tur_x_preferred":[
+        "Marrupa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0440\u0443\u043f\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0631\u0648\u067e\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Marrupa"
     ],
     "name:zho_x_preferred":[
@@ -147,7 +204,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1499130688,
-    "wof:geomhash":"e654149293aec71d21b270635ff3c945",
+    "wof:geomhash":"9e7ae2f4c836cef3a523ce854586ae40",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -158,7 +215,7 @@
         }
     ],
     "wof:id":1141907151,
-    "wof:lastmodified":1566647615,
+    "wof:lastmodified":1636501826,
     "wof:name":"Marrupa",
     "wof:parent_id":1091699257,
     "wof:placetype":"locality",
@@ -168,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    37.49945755895675,
-    -13.19838173538795,
-    37.49945755895675,
-    -13.19838173538795
+    37.499458,
+    -13.198382,
+    37.499458,
+    -13.198382
 ],
-  "geometry": {"coordinates":[37.49945755895675,-13.19838173538795],"type":"Point"}
+  "geometry": {"coordinates":[37.499458,-13.198382],"type":"Point"}
 }

@@ -68,7 +68,13 @@
     "name:frr_x_preferred":[
         "Matola"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d8\u05d5\u05dc\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Matola"
+    ],
+    "name:hun_x_preferred":[
         "Matola"
     ],
     "name:ind_x_preferred":[
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":1293711299,
-    "wof:lastmodified":1566645376,
+    "wof:lastmodified":1636501794,
     "wof:name":"Matola",
     "wof:parent_id":1091698863,
     "wof:placetype":"locality",

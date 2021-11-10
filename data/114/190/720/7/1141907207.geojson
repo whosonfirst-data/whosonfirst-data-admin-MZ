@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.3165933825,-21.9995499483,35.3165933825,-21.9995499483",
+    "geom:bbox":"35.316593,-21.99955,35.316593,-21.99955",
     "geom:latitude":-21.99955,
     "geom:longitude":35.316593,
     "iso:country":"MZ",
@@ -24,11 +24,20 @@
     "name:afr_x_variant":[
         "Vilanculos"
     ],
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u0627\u0646\u0643\u0648\u0644\u0648\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09bf\u09b2\u09be\u09a8\u0995\u09c1\u09b2\u09cb\u09b8"
+    ],
     "name:cat_x_preferred":[
         "Vilankulo"
     ],
     "name:deu_x_preferred":[
         "Vilankulo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b9\u03bb\u03b1\u03bd\u03ba\u03bf\u03cd\u03bb\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Vilankulo"
@@ -42,6 +51,15 @@
     "name:gag_x_preferred":[
         "Vilankulo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05dc\u05e0\u05e7\u05d5\u05dc\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093f\u0932\u0948\u0928\u0915\u094d\u092f\u0942\u0932\u094b\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Vilanculos"
+    ],
     "name:ind_x_preferred":[
         "Vilanculos"
     ],
@@ -53,6 +71,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d8\u10da\u10d0\u10dc\u10d9\u10e3\u10da\u10e3\u10e8\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ube4c\ub780\ucfe8\ub85c\uc2a4"
     ],
     "name:nld_x_preferred":[
         "Vilankulo"
@@ -72,11 +93,29 @@
     "name:ron_x_preferred":[
         "Vilankulo"
     ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u0430\u043d\u043a\u0443\u043b\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Vilanculos"
+    ],
     "name:swa_x_preferred":[
         "Vilanculo"
     ],
+    "name:swe_x_preferred":[
+        "Vilanculos"
+    ],
+    "name:tur_x_preferred":[
+        "Vilanculos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u0430\u043d\u043a\u0443\u043b\u043e\u0441"
+    ],
     "name:und_x_variant":[
         "Villancuios"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0644\u0627\u0646\u06a9\u06cc\u0648\u0644\u0633"
     ],
     "name:vie_x_preferred":[
         "Vilanculos"
@@ -196,7 +235,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1499130695,
-    "wof:geomhash":"ee4ac2b16d2b7705f8ff05920da77946",
+    "wof:geomhash":"03e20ca560d7d070797723264e2d8397",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -207,7 +246,7 @@
         }
     ],
     "wof:id":1141907207,
-    "wof:lastmodified":1566647616,
+    "wof:lastmodified":1636501827,
     "wof:name":"Vilanculos",
     "wof:parent_id":1091701605,
     "wof:placetype":"locality",
@@ -219,10 +258,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.31659338251575,
-    -21.99954994831381,
-    35.31659338251575,
-    -21.99954994831381
+    35.316593,
+    -21.99955,
+    35.316593,
+    -21.99955
 ],
-  "geometry": {"coordinates":[35.31659338251575,-21.99954994831381],"type":"Point"}
+  "geometry": {"coordinates":[35.316593,-21.99955],"type":"Point"}
 }

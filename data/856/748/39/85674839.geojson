@@ -84,8 +84,14 @@
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0aae\u0acd\u0aac\u0a9d\u0abf\u0aaf\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05de\u05d1\u05d6\u05d9\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u092e\u094d\u092c\u0947\u091c\u093c\u093f\u092f\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Zambezia"
     ],
     "name:ind_x_preferred":[
         "Provinsi Zambezia"
@@ -307,7 +313,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1614895364,
+    "wof:lastmodified":1636501791,
     "wof:name":"Zambezia",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

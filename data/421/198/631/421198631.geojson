@@ -57,6 +57,9 @@
         "Montepuez"
     ],
     "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435\u043f\u0443\u044d\u0441"
+    ],
+    "name:rus_x_variant":[
         "\u041c\u043e\u043d\u0442\u0435\u043f\u0432\u0435\u0437\u0435"
     ],
     "name:spa_x_preferred":[
@@ -65,8 +68,23 @@
     "name:swa_x_preferred":[
         "Montepuez"
     ],
+    "name:swe_x_preferred":[
+        "Montepuez"
+    ],
+    "name:tur_x_preferred":[
+        "Montepuez"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435\u043f\u0443\u0435\u0441"
+    ],
     "name:und_x_variant":[
         "Vila de Montepuez"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0646\u0679\u0627\u067e\u0648\u0626\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Montepuez"
     ],
     "name:wuu_x_preferred":[
         "\u8499\u7279\u666e\u57c3\u8332"
@@ -219,7 +237,7 @@
         }
     ],
     "wof:id":421198631,
-    "wof:lastmodified":1566646784,
+    "wof:lastmodified":1636501815,
     "wof:name":"Montepuez",
     "wof:parent_id":1091700221,
     "wof:placetype":"locality",

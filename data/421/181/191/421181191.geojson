@@ -62,10 +62,16 @@
     "name:guj_x_preferred":[
         "\u0a9a\u0abf\u0aae\u0acb\u0a93"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d9\u05de\u05d5\u05d9\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u091a\u093f\u092e\u094b\u0913"
     ],
     "name:hrv_x_preferred":[
+        "Chimoio"
+    ],
+    "name:hun_x_preferred":[
         "Chimoio"
     ],
     "name:ind_x_preferred":[
@@ -306,7 +312,7 @@
         }
     ],
     "wof:id":421181191,
-    "wof:lastmodified":1566646783,
+    "wof:lastmodified":1636501815,
     "wof:name":"Chimoio",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -44,6 +44,9 @@
     "name:fra_x_preferred":[
         "Manta"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d8\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Manta"
     ],
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1243060153,
-    "wof:lastmodified":1566646833,
+    "wof:lastmodified":1636501817,
     "wof:name":"Manta",
     "wof:parent_id":1091700133,
     "wof:placetype":"locality",

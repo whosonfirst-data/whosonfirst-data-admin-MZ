@@ -62,7 +62,13 @@
     "name:frr_x_preferred":[
         "Chimoio"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d9\u05de\u05d5\u05d9\u05d5"
+    ],
     "name:hrv_x_preferred":[
+        "Chimoio"
+    ],
+    "name:hun_x_preferred":[
         "Chimoio"
     ],
     "name:ind_x_preferred":[
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":1276358343,
-    "wof:lastmodified":1566645694,
+    "wof:lastmodified":1636501798,
     "wof:name":"Chimoio",
     "wof:parent_id":1091700133,
     "wof:placetype":"locality",

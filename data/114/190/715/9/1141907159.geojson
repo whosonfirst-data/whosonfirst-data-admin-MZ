@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"31.9630513089,-22.8426509412,31.9630513089,-22.8426509412",
+    "geom:bbox":"31.963051,-22.842651,31.963051,-22.842651",
     "geom:latitude":-22.842651,
     "geom:longitude":31.963051,
     "iso:country":"MZ",
@@ -94,7 +94,16 @@
         "Mapai"
     ],
     "name:ukr_x_preferred":[
+        "\u041c\u0430\u043f\u0430\u0457"
+    ],
+    "name:ukr_x_variant":[
         "\u041c\u0430\u043f\u0430\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u067e\u0627\u0626\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Mapai"
     ],
     "name:yid_x_preferred":[
         "\u05de\u05e4\u05d0\"\u05d9"
@@ -216,7 +225,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1499130689,
-    "wof:geomhash":"226d860fcf74207f2493f3dcc4bfe60e",
+    "wof:geomhash":"67c3575acc304cc5ebbc4c2382081343",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -227,7 +236,7 @@
         }
     ],
     "wof:id":1141907159,
-    "wof:lastmodified":1566647615,
+    "wof:lastmodified":1636501826,
     "wof:name":"Mapai",
     "wof:parent_id":1091696621,
     "wof:placetype":"locality",
@@ -239,10 +248,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.96305130893461,
-    -22.84265094115568,
-    31.96305130893461,
-    -22.84265094115568
+    31.963051,
+    -22.842651,
+    31.963051,
+    -22.842651
 ],
-  "geometry": {"coordinates":[31.96305130893461,-22.84265094115568],"type":"Point"}
+  "geometry": {"coordinates":[31.963051,-22.842651],"type":"Point"}
 }

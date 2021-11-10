@@ -30,6 +30,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b2\u09bf\u09b8\u09cb\u09ac\u09be"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05e1\u05d1\u05d5\u05d0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093f\u0938\u094d\u092c\u094b\u0906"
+    ],
     "name:und_x_variant":[
         "Lisbaa",
         "Lisboa"
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1326714101,
-    "wof:lastmodified":1566644852,
+    "wof:lastmodified":1636501782,
     "wof:name":"Lisboa",
     "wof:parent_id":1091697771,
     "wof:placetype":"locality",

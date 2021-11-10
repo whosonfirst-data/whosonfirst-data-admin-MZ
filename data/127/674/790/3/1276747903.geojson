@@ -56,6 +56,9 @@
     "name:hrv_x_preferred":[
         "Nacala"
     ],
+    "name:hun_x_preferred":[
+        "Nacala"
+    ],
     "name:ita_x_preferred":[
         "Nacala"
     ],
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1276747903,
-    "wof:lastmodified":1566645659,
+    "wof:lastmodified":1636501797,
     "wof:name":"Nacala",
     "wof:parent_id":1091697545,
     "wof:placetype":"locality",

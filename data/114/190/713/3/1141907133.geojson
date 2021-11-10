@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"33.9500101306,-16.0995483207,33.9500101306,-16.0995483207",
+    "geom:bbox":"33.95001,-16.099548,33.95001,-16.099548",
     "geom:latitude":-16.099548,
     "geom:longitude":33.95001,
     "iso:country":"MZ",
@@ -21,11 +21,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0627\u062a\u064a\u0632"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cb\u09df\u09be\u09a4\u09bf\u099c"
+    ],
     "name:cat_x_preferred":[
         "Moatize"
     ],
     "name:deu_x_preferred":[
         "Moatize"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03b1\u03c4\u03af\u03b6\u03b5"
     ],
     "name:eng_x_preferred":[
         "Moatize"
@@ -36,7 +42,19 @@
     "name:fra_x_preferred":[
         "Moatize"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d0\u05d8\u05d9\u05d6"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0906\u091f\u093f\u091c\u093c\u0947"
+    ],
     "name:hrv_x_preferred":[
+        "Moatize"
+    ],
+    "name:hun_x_preferred":[
+        "Moatize"
+    ],
+    "name:ind_x_preferred":[
         "Moatize"
     ],
     "name:ita_x_preferred":[
@@ -47,6 +65,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10d0\u10e2\u10d8\u10d6\u10d4"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\uc544\ud0c0\uc774\uc988"
     ],
     "name:nld_x_preferred":[
         "Moatize"
@@ -60,6 +81,9 @@
     "name:ron_x_preferred":[
         "Moatize"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0430\u0442\u0438\u0437"
+    ],
     "name:spa_x_preferred":[
         "Moatize"
     ],
@@ -67,6 +91,18 @@
         "Moatize"
     ],
     "name:swe_x_preferred":[
+        "Moatize"
+    ],
+    "name:tur_x_preferred":[
+        "Moatize"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0430\u0442\u0456\u0437"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0622\u0679\u0632\u06d2"
+    ],
+    "name:vie_x_preferred":[
         "Moatize"
     ],
     "name:zho_x_preferred":[
@@ -180,7 +216,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1499130686,
-    "wof:geomhash":"8f944b5eb564c4df0fb7b116cf232fe5",
+    "wof:geomhash":"e4176f2189145de68f7d8426e8218830",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -191,7 +227,7 @@
         }
     ],
     "wof:id":1141907133,
-    "wof:lastmodified":1566647615,
+    "wof:lastmodified":1636501825,
     "wof:name":"Moatize",
     "wof:parent_id":1091699971,
     "wof:placetype":"locality",
@@ -201,10 +237,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.95001013055702,
-    -16.09954832068598,
-    33.95001013055702,
-    -16.09954832068598
+    33.95001,
+    -16.099548,
+    33.95001,
+    -16.099548
 ],
-  "geometry": {"coordinates":[33.95001013055702,-16.09954832068598],"type":"Point"}
+  "geometry": {"coordinates":[33.95001,-16.099548],"type":"Point"}
 }

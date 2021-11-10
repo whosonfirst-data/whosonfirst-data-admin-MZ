@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0648\u0633\u064a\u0643\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c1\u0987\u09b8\u09bf\u0995\u09cb"
+    ],
     "name:cat_x_preferred":[
         "Quissico"
     ],
@@ -25,6 +31,9 @@
     ],
     "name:deu_x_preferred":[
         "Zavala"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03af\u03c3\u03b9\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Zavala"
@@ -35,11 +44,26 @@
     "name:gag_x_preferred":[
         "Zavala"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d5\u05d9\u05e1\u05d9\u05e7\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0935\u093f\u0938\u093f\u0915\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Quissico"
+    ],
+    "name:ind_x_preferred":[
+        "Quissico"
+    ],
     "name:ita_x_preferred":[
         "Zavala"
     ],
     "name:jpn_x_preferred":[
         "\u30b6\u30f4\u30a1\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0a4\uc2dc\ucf54"
     ],
     "name:nld_x_preferred":[
         "Zavala"
@@ -50,16 +74,37 @@
     "name:nob_x_preferred":[
         "Zavala"
     ],
+    "name:pol_x_preferred":[
+        "Quissico"
+    ],
     "name:por_x_preferred":[
         "Quissico"
     ],
     "name:ron_x_preferred":[
         "Zavala"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0438\u0441\u0441\u0438\u043a\u043e"
+    ],
     "name:slv_x_preferred":[
         "Zavala"
     ],
     "name:spa_x_preferred":[
+        "Quissico"
+    ],
+    "name:swe_x_preferred":[
+        "Quissico"
+    ],
+    "name:tur_x_preferred":[
+        "Quissico"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0441\u0441\u0456\u043a\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0626\u0633\u06cc\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
         "Quissico"
     ],
     "name:zho_x_preferred":[
@@ -209,7 +254,7 @@
         }
     ],
     "wof:id":421190949,
-    "wof:lastmodified":1582349847,
+    "wof:lastmodified":1636501815,
     "wof:name":"Quissico",
     "wof:parent_id":1091701681,
     "wof:placetype":"locality",

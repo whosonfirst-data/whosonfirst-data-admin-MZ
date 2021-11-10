@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"32.9563756904,-21.5373042615,32.9563756904,-21.5373042615",
+    "geom:bbox":"32.956376,-21.537304,32.956376,-21.537304",
     "geom:latitude":-21.537304,
     "geom:longitude":32.956376,
     "iso:country":"MZ",
@@ -18,23 +18,83 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0633\u0627\u0646\u062c\u064a\u0646\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cd\u09af\u09be\u09b8\u09b8\u09be\u09a8\u099c\u09c7\u09a8\u09be"
+    ],
     "name:deu_x_preferred":[
         "Massangena"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c3\u03b1\u03bd\u03c4\u03b6\u03ad\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Massangena"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0633\u0627\u0646\u06af\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
         "Massangena"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e1\u05e0\u05d2'\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0938\u093e\u0902\u0917\u0947\u0928\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Massangena"
+    ],
+    "name:ind_x_preferred":[
+        "Massangena"
+    ],
+    "name:ita_x_preferred":[
+        "Massangena"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30b5\u30f3\u30b8\u30a7\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc0b0\uac8c\ub098"
+    ],
     "name:nld_x_preferred":[
+        "Massangena"
+    ],
+    "name:pol_x_preferred":[
         "Massangena"
     ],
     "name:por_x_preferred":[
         "Massangena"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0441\u0441\u0430\u043d\u0433\u0435\u043d\u0430"
+    ],
     "name:spa_x_preferred":[
         "Massangena"
+    ],
+    "name:swe_x_preferred":[
+        "Massangena"
+    ],
+    "name:tur_x_preferred":[
+        "Massangena"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0441\u0441\u0430\u043d\u0433\u0435\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0633\u06cc\u0646\u062c\u06cc\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Massangena"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u9a6c\u6851\u70ed\u7eb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u99ac\u6851\u71b1\u5167"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mozambique",
@@ -144,7 +204,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1499130689,
-    "wof:geomhash":"2d49882a8ca556dccf2d41525d3dccf7",
+    "wof:geomhash":"a90300b810aa3396ca258752ac0adba0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -155,7 +215,7 @@
         }
     ],
     "wof:id":1141907155,
-    "wof:lastmodified":1566647616,
+    "wof:lastmodified":1636501826,
     "wof:name":"Massangena",
     "wof:parent_id":1091699281,
     "wof:placetype":"locality",
@@ -165,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.95637569044908,
-    -21.53730426146296,
-    32.95637569044908,
-    -21.53730426146296
+    32.956376,
+    -21.537304,
+    32.956376,
+    -21.537304
 ],
-  "geometry": {"coordinates":[32.95637569044908,-21.53730426146296],"type":"Point"}
+  "geometry": {"coordinates":[32.956376,-21.537304],"type":"Point"}
 }

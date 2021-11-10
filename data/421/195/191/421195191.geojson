@@ -71,10 +71,16 @@
     "name:guj_x_preferred":[
         "\u0a87\u0aa8\u0acd\u0ab9\u0abe\u0aae\u0aac\u0ac7\u0aa8"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05e0\u05d4\u05de\u05d1\u05d0\u05e0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0907\u0928\u094d\u0939\u092e\u094d\u092c\u093e\u0928\u0947"
     ],
     "name:hrv_x_preferred":[
+        "Inhambane"
+    ],
+    "name:hun_x_preferred":[
         "Inhambane"
     ],
     "name:ind_x_preferred":[
@@ -318,7 +324,7 @@
         }
     ],
     "wof:id":421195191,
-    "wof:lastmodified":1566646780,
+    "wof:lastmodified":1636501814,
     "wof:name":"Inhambane",
     "wof:parent_id":1091697029,
     "wof:placetype":"locality",

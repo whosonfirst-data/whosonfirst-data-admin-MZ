@@ -74,7 +74,13 @@
     "name:gag_x_preferred":[
         "Quelimane"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d5\u05d9\u05dc\u05d9\u05de\u05df"
+    ],
     "name:hrv_x_preferred":[
+        "Quelimane"
+    ],
+    "name:hun_x_preferred":[
         "Quelimane"
     ],
     "name:ind_x_preferred":[
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":1310409731,
-    "wof:lastmodified":1566646354,
+    "wof:lastmodified":1636501806,
     "wof:name":"Quelimane",
     "wof:parent_id":1091700013,
     "wof:placetype":"locality",

@@ -29,16 +29,31 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0997\u09cb\u09ac\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Goba"
     ],
     "name:deu_x_preferred":[
         "Goba"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03cc\u03bc\u03c0\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0628\u0627"
+    ],
     "name:fra_x_preferred":[
         "Goba"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05d1\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Goba"
+    ],
+    "name:ind_x_preferred":[
         "Goba"
     ],
     "name:ita_x_preferred":[
@@ -65,6 +80,15 @@
     "name:swe_x_preferred":[
         "Goba"
     ],
+    "name:tur_x_preferred":[
+        "Goba"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0648\u0628\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Goba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -77,7 +101,7 @@
         "gn:id":1045947
     },
     "wof:country":"MZ",
-    "wof:geomhash":"c345963378f5c3881aa56c5e07c8eadb",
+    "wof:geomhash":"52649be4b394ff1df520e91241d1607b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +112,7 @@
         }
     ],
     "wof:id":1225950567,
-    "wof:lastmodified":1566647348,
+    "wof:lastmodified":1636501823,
     "wof:name":"Goba",
     "wof:parent_id":1091700825,
     "wof:placetype":"locality",
@@ -99,9 +123,9 @@
 },
   "bbox": [
     32.13833,
-    -26.19972000000001,
+    -26.19972,
     32.13833,
-    -26.19972000000001
+    -26.19972
 ],
-  "geometry": {"coordinates":[32.13833,-26.19972000000001],"type":"Point"}
+  "geometry": {"coordinates":[32.13833,-26.19972],"type":"Point"}
 }

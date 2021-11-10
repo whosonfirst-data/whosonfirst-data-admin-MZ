@@ -207,6 +207,9 @@
         "Maputo"
     ],
     "name:kor_x_preferred":[
+        "\ub9c8\ud478\ud1a0"
+    ],
+    "name:kor_x_variant":[
         "\ub9c8\ud478\ud22c"
     ],
     "name:lat_x_preferred":[
@@ -327,6 +330,9 @@
         "Maputo"
     ],
     "name:swe_x_preferred":[
+        "Maputofloden"
+    ],
+    "name:swe_x_variant":[
         "Maputo"
     ],
     "name:szl_x_preferred":[
@@ -418,7 +424,7 @@
         }
     ],
     "wof:id":1242775507,
-    "wof:lastmodified":1566646993,
+    "wof:lastmodified":1636501819,
     "wof:name":"Maputo",
     "wof:parent_id":1091700287,
     "wof:placetype":"locality",

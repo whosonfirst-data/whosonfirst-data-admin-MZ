@@ -68,10 +68,16 @@
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a9f\u0acb\u0ab2\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d8\u05d5\u05dc\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u091f\u094b\u0932\u093e"
     ],
     "name:hrv_x_preferred":[
+        "Matola"
+    ],
+    "name:hun_x_preferred":[
         "Matola"
     ],
     "name:ind_x_preferred":[
@@ -318,7 +324,7 @@
         }
     ],
     "wof:id":421168789,
-    "wof:lastmodified":1566646780,
+    "wof:lastmodified":1636501814,
     "wof:name":"Matola",
     "wof:parent_id":1091696953,
     "wof:placetype":"locality",

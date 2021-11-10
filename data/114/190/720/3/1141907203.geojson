@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"34.7302725817,-24.0628865369,34.7302725817,-24.0628865369",
+    "geom:bbox":"34.730273,-24.062887,34.730273,-24.062887",
     "geom:latitude":-24.062887,
     "geom:longitude":34.730273,
     "iso:country":"MZ",
@@ -18,6 +18,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0646\u062f\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09a8\u09cd\u09a1\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Panda"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03bd\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Panda"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0646\u062f\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Panda"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e0\u05d3\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093e\u0902\u0921\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Panda"
+    ],
+    "name:ind_x_preferred":[
+        "Panda"
+    ],
+    "name:ita_x_preferred":[
+        "Panda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30f3\u30c0"
+    ],
+    "name:kor_x_preferred":[
+        "\ud310\ub2e4"
+    ],
+    "name:nld_x_preferred":[
+        "Panda"
+    ],
+    "name:pol_x_preferred":[
+        "Panda"
+    ],
+    "name:por_x_preferred":[
+        "Panda"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043d\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Panda"
+    ],
+    "name:swe_x_preferred":[
+        "Panda"
+    ],
+    "name:tur_x_preferred":[
+        "Panda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043d\u0434\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0646\u0688\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Panda"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6f58\u8fbe"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6f58\u9054"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mozambique",
     "ne:ADM0_A3":"MOZ",
@@ -124,7 +202,7 @@
     "wof:concordances":{},
     "wof:country":"MZ",
     "wof:created":1499130695,
-    "wof:geomhash":"6c2374f3410e3c915b98fd21b59b22fb",
+    "wof:geomhash":"f48a44301a270a50b8eaafba8e0dbb2c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +213,7 @@
         }
     ],
     "wof:id":1141907203,
-    "wof:lastmodified":1566647616,
+    "wof:lastmodified":1636501827,
     "wof:name":"Panda",
     "wof:parent_id":1091701265,
     "wof:placetype":"locality",
@@ -145,10 +223,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    34.73027258173209,
-    -24.06288653686369,
-    34.73027258173209,
-    -24.06288653686369
+    34.730273,
+    -24.062887,
+    34.730273,
+    -24.062887
 ],
-  "geometry": {"coordinates":[34.73027258173209,-24.06288653686369],"type":"Point"}
+  "geometry": {"coordinates":[34.730273,-24.062887],"type":"Point"}
 }

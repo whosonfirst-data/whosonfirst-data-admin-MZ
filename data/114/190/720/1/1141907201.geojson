@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"36.8197057686,-17.6076733207,36.8197057686,-17.6076733207",
+    "geom:bbox":"36.819706,-17.607673,36.819706,-17.607673",
     "geom:latitude":-17.607673,
     "geom:longitude":36.819706,
     "iso:country":"MZ",
@@ -18,6 +18,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0643\u0648\u0627\u062f\u0627\u0644\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09bf\u0995\u09c1\u09df\u09be\u09a6\u09be\u09b2\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Nicuadala"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03ba\u03bf\u03c5\u03b1\u03bd\u03c4\u03ac\u03bb\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Nicuadala"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u06a9\u0648\u0622\u062f\u0627\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Nicuadala"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05e7\u05d5\u05d0\u05d3\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093f\u0915\u0941\u0906\u0921\u093e\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Nicuadala"
+    ],
+    "name:ind_x_preferred":[
+        "Nicuadala"
+    ],
+    "name:ita_x_preferred":[
+        "Nicoadala"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30af\u30a2\u30c0\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2c8\ucf70\ub2ec\ub77c"
+    ],
+    "name:nld_x_preferred":[
+        "Nicuadala"
+    ],
+    "name:pol_x_preferred":[
+        "Nicuadala"
+    ],
+    "name:por_x_preferred":[
+        "Nicoadala"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u0443\u0430\u0434\u0430\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Nicuadala"
+    ],
+    "name:swe_x_preferred":[
+        "Nicuadala"
+    ],
+    "name:tur_x_preferred":[
+        "Nicuadala"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u043a\u0443\u0430\u0434\u0430\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06a9\u0648\u0627\u0688\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Nicuadala"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5c3c\u5938\u8fbe\u62c9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5c3c\u74dc\u9054\u62c9"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mozambique",
     "ne:ADM0_A3":"MOZ",
@@ -124,7 +202,7 @@
     "wof:concordances":{},
     "wof:country":"MZ",
     "wof:created":1499130694,
-    "wof:geomhash":"123f35e45052df0086eabad94b45f8b5",
+    "wof:geomhash":"fac60814c330ab8cb5f2fa955ea1584c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +213,7 @@
         }
     ],
     "wof:id":1141907201,
-    "wof:lastmodified":1566647616,
+    "wof:lastmodified":1636501827,
     "wof:name":"Nicuadala",
     "wof:parent_id":1091701163,
     "wof:placetype":"locality",
@@ -145,10 +223,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    36.81970576858947,
-    -17.60767332069207,
-    36.81970576858947,
-    -17.60767332069207
+    36.819706,
+    -17.607673,
+    36.819706,
+    -17.607673
 ],
-  "geometry": {"coordinates":[36.81970576858947,-17.60767332069207],"type":"Point"}
+  "geometry": {"coordinates":[36.819706,-17.607673],"type":"Point"}
 }

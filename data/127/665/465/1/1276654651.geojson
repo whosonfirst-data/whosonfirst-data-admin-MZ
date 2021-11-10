@@ -29,20 +29,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0645\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cb\u09ae\u09be"
+    ],
     "name:deu_x_preferred":[
         "Moma"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03bc\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0645\u0627"
     ],
     "name:frr_x_preferred":[
         "Moma"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05db\u05e1 \u05de\u05d5\u05de\u05e1\u05e7\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u092e\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Moma"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10db\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\ub9c8"
     ],
     "name:por_x_preferred":[
         "Moma"
     ],
     "name:spa_x_preferred":[
         "Moma"
+    ],
+    "name:spa_x_variant":[],
+    "name:swe_x_preferred":[
+        "Moma"
+    ],
+    "name:tur_x_preferred":[
+        "Moma"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0645\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Moma"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u99ac\u5340"
@@ -71,7 +108,7 @@
         }
     ],
     "wof:id":1276654651,
-    "wof:lastmodified":1566645811,
+    "wof:lastmodified":1636501800,
     "wof:name":"Moma",
     "wof:parent_id":1091700155,
     "wof:placetype":"locality",

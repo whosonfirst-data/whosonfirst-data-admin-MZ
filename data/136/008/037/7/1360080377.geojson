@@ -53,6 +53,9 @@
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05d0\u05e8\u05d8\u05d4"
     ],
+    "name:hun_x_preferred":[
+        "Duarte"
+    ],
     "name:ita_x_preferred":[
         "Duarte"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1360080377,
-    "wof:lastmodified":1566646544,
+    "wof:lastmodified":1636501807,
     "wof:name":"Duarte",
     "wof:parent_id":1091700177,
     "wof:placetype":"locality",

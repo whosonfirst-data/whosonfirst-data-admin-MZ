@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"37.7400113513,-15.1756770642,37.7400113513,-15.1756770642",
+    "geom:bbox":"37.740011,-15.175677,37.740011,-15.175677",
     "geom:latitude":-15.175677,
     "geom:longitude":37.740011,
     "iso:country":"MZ",
@@ -18,6 +18,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u062c\u0648\u0646\u0647\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09bf\u0997\u09cb\u09a8\u09b9\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Ligonha"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03b3\u03ba\u03cc\u03bd\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Ligonha"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u06af\u0648\u0646\u0647\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ligonha"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05d2\u05d5\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093f\u0917\u094b\u0928\u094d\u0939\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Ligonha"
+    ],
+    "name:ind_x_preferred":[
+        "Ligonha"
+    ],
+    "name:ita_x_preferred":[
+        "Ligonha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30b4\u30f3\u30cf\u5ddd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uace0\ub0d0"
+    ],
+    "name:nld_x_preferred":[
+        "Ligonha"
+    ],
+    "name:pol_x_preferred":[
+        "Ligonha"
+    ],
+    "name:por_x_preferred":[
+        "Ligonha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u041b\u0438\u0433\u043e\u043d\u044c\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Ligonha"
+    ],
+    "name:swe_x_preferred":[
+        "Ligonha"
+    ],
+    "name:tur_x_preferred":[
+        "Ligonha"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0433\u043e\u043d\u0445\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u06af\u0648\u0646\u06c1\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Ligonha"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5229\u6208\u5c3c\u4e9a\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5229\u6208\u5c3c\u4e9e\u6cb3"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mozambique",
     "ne:ADM0_A3":"MOZ",
@@ -124,7 +202,7 @@
     "wof:concordances":{},
     "wof:country":"MZ",
     "wof:created":1499130688,
-    "wof:geomhash":"c3a2eff4d834025c19fac91d4bbd2ff2",
+    "wof:geomhash":"b6a5575de1358b0eac761b72e2c3efbc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +213,7 @@
         }
     ],
     "wof:id":1141907153,
-    "wof:lastmodified":1566647615,
+    "wof:lastmodified":1636501826,
     "wof:name":"Ligonha",
     "wof:parent_id":1091701415,
     "wof:placetype":"locality",
@@ -145,10 +223,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    37.74001135127537,
-    -15.17567706417191,
-    37.74001135127537,
-    -15.17567706417191
+    37.740011,
+    -15.175677,
+    37.740011,
+    -15.175677
 ],
-  "geometry": {"coordinates":[37.74001135127537,-15.17567706417191],"type":"Point"}
+  "geometry": {"coordinates":[37.740011,-15.175677],"type":"Point"}
 }

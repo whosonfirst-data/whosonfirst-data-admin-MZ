@@ -71,6 +71,9 @@
     "name:grn_x_preferred":[
         "Franca"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05e0\u05e7\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Franca"
     ],
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":1327023807,
-    "wof:lastmodified":1566644800,
+    "wof:lastmodified":1636501782,
     "wof:name":"Franca",
     "wof:parent_id":1091697585,
     "wof:placetype":"locality",

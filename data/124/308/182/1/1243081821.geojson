@@ -35,6 +35,12 @@
     "name:deu_x_preferred":[
         "Zambezia"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05de\u05d1\u05d6\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Zambezia"
+    ],
     "name:ita_x_preferred":[
         "Zambezia"
     ],
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1243081821,
-    "wof:lastmodified":1566646832,
+    "wof:lastmodified":1636501817,
     "wof:name":"Zambezia",
     "wof:parent_id":1091696241,
     "wof:placetype":"locality",

@@ -35,6 +35,12 @@
     "name:fra_x_preferred":[
         "Manica"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d9\u05e7\u05d0\u05dc\u05d0\u05e0\u05d3"
+    ],
+    "name:hun_x_preferred":[
+        "Manica"
+    ],
     "name:ita_x_preferred":[
         "Manica"
     ],
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1209091873,
-    "wof:lastmodified":1566645838,
+    "wof:lastmodified":1636501800,
     "wof:name":"Manica",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",

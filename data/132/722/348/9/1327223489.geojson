@@ -54,6 +54,9 @@
         "Pimentel"
     ],
     "name:rus_x_preferred":[
+        "\u041f\u0438\u043c\u0435\u043d\u0442\u0435\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
         "\u041f\u0438\u043c\u0435\u043d\u0442\u0435\u043b"
     ],
     "name:spa_x_preferred":[
@@ -63,6 +66,18 @@
         "\u041f\u0438\u043c\u0435\u043d\u0442\u0435\u043b"
     ],
     "name:swe_x_preferred":[
+        "Pimentel"
+    ],
+    "name:tur_x_preferred":[
+        "Pimentel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u043c\u0435\u043d\u0442\u0435\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0626\u0645\u06cc\u0646\u0679\u0644"
+    ],
+    "name:vie_x_preferred":[
         "Pimentel"
     ],
     "src:geom":"geonames",
@@ -88,7 +103,7 @@
         }
     ],
     "wof:id":1327223489,
-    "wof:lastmodified":1566644739,
+    "wof:lastmodified":1636501781,
     "wof:name":"Pimentel",
     "wof:parent_id":1091700915,
     "wof:placetype":"locality",

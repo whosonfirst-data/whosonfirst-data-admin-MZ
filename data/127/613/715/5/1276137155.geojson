@@ -66,7 +66,13 @@
         "Antig\u00fcidade"
     ],
     "name:heb_x_preferred":[
+        "\u05e2\u05b8\u05ea\u05b4\u05d9\u05e7"
+    ],
+    "name:heb_x_variant":[
         "\u05e2\u05e0\u05ea\u05d9\u05e7\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Antique"
     ],
     "name:ind_x_preferred":[
         "Barang antik"
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1276137155,
-    "wof:lastmodified":1566645722,
+    "wof:lastmodified":1636501799,
     "wof:name":"Antique",
     "wof:parent_id":1091700221,
     "wof:placetype":"locality",

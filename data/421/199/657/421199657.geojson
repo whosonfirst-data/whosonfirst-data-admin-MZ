@@ -77,10 +77,16 @@
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0a88-\u0a9d\u0abe\u0a88"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05d0\u05d9-\u05e7\u05e1\u05d0\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u0948\u0908-\u091c\u093c\u0948\u0908"
     ],
     "name:hrv_x_preferred":[
+        "Xai-Xai"
+    ],
+    "name:hun_x_preferred":[
         "Xai-Xai"
     ],
     "name:ind_x_preferred":[
@@ -322,7 +328,7 @@
         }
     ],
     "wof:id":421199657,
-    "wof:lastmodified":1566646785,
+    "wof:lastmodified":1636501815,
     "wof:name":"Xai-Xai",
     "wof:parent_id":1091697333,
     "wof:placetype":"locality",
