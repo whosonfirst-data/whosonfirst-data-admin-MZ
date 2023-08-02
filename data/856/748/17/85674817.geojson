@@ -36,6 +36,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0627\u0628\u0648 \u062f\u064a\u0644\u063a\u0627\u062f\u0648"
     ],
+    "name:avk_x_preferred":[
+        "MozambikaCaboDelgadoWinka"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u0431\u0443-\u0414\u044d\u043b\u0433\u0430\u0434\u0443"
     ],
@@ -51,6 +54,9 @@
     "name:ceb_x_preferred":[
         "Cabo Delgado Province"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Cabo Delgado"
+    ],
     "name:dan_x_preferred":[
         "Cabo Delgado"
     ],
@@ -65,6 +71,9 @@
     ],
     "name:eng_x_variant":[
         "Cabo Delgado Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Cabo Delgado"
     ],
     "name:eus_x_preferred":[
         "Cabo Delgado probintzia"
@@ -93,6 +102,9 @@
     "name:hin_x_preferred":[
         "\u0915\u093e\u092c\u094b \u0921\u0947\u0932\u0917\u093e\u0921\u094b \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
+    "name:hun_x_preferred":[
+        "Cabo Delgado"
+    ],
     "name:ind_x_preferred":[
         "Cabo Delgado"
     ],
@@ -111,17 +123,26 @@
     "name:kor_x_preferred":[
         "\uce74\ubd80\ub378\uac00\ub450 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uce74\ubd80\ub378\uac00\ub450\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Kabu Delgadu province"
     ],
     "name:lit_x_preferred":[
         "Kabo Delgado provincija"
     ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d4d\u0d2f\u0d3e\u0d2c\u0d4b \u0d26\u0d46\u0d7d\u0d17\u0d3e\u0d21\u0d4b \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u0945\u092c\u094b \u0921\u0947\u0932\u0917\u093e\u0921\u094b \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
     "name:msa_x_preferred":[
         "Cabo Delgado"
+    ],
+    "name:nan_x_preferred":[
+        "Cabo Delgado S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Cabo Delgado"
@@ -188,6 +209,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u5c14\u52a0\u675c\u89d2\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Cabo Delgado"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MOZ",
@@ -312,7 +336,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636501789,
+    "wof:lastmodified":1690848223,
     "wof:name":"Cabo Delgado",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

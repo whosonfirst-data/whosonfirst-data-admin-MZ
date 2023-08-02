@@ -27,6 +27,9 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627\u0646\u0643\u0648\u0644\u0648\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Vilankulo"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09b2\u09be\u09a8\u0995\u09c1\u09b2\u09cb\u09b8"
     ],
@@ -39,11 +42,20 @@
     "name:ell_x_preferred":[
         "\u0392\u03b9\u03bb\u03b1\u03bd\u03ba\u03bf\u03cd\u03bb\u03bf\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u0392\u03b9\u03bb\u03b1\u03bd\u03ba\u03bf\u03cd\u03bb\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Vilankulo"
     ],
     "name:eng_x_variant":[
         "Vilanculos"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0627\u0646\u06a9\u0648\u0644\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Vilankulo"
     ],
     "name:fra_x_preferred":[
         "Vilankulo"
@@ -53,6 +65,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05dc\u05e0\u05e7\u05d5\u05dc\u05d5\u05e1"
+    ],
+    "name:heb_x_variant":[
+        "\u05d5\u05d9\u05dc\u05e0\u05e7\u05d5\u05dc\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0935\u093f\u0932\u0948\u0928\u0915\u094d\u092f\u0942\u0932\u094b\u0938"
@@ -74,6 +89,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube4c\ub780\ucfe8\ub85c\uc2a4"
+    ],
+    "name:lit_x_preferred":[
+        "Vilankulas"
     ],
     "name:nld_x_preferred":[
         "Vilankulo"
@@ -122,6 +140,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7dad\u862d\u5eab\u6d1b"
+    ],
+    "name:zul_x_preferred":[
+        "Vilankulo"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mozambique",
@@ -246,7 +267,7 @@
         }
     ],
     "wof:id":1141907207,
-    "wof:lastmodified":1636501827,
+    "wof:lastmodified":1690848272,
     "wof:name":"Vilanculos",
     "wof:parent_id":1091701605,
     "wof:placetype":"locality",

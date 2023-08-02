@@ -64,11 +64,17 @@
     "name:jpn_x_preferred":[
         "\u30de\u30b5\u30f3\u30b8\u30a7\u30ca"
     ],
+    "name:jpn_x_variant":[
+        "\u30de\u30b5\u30f3\u30b2\u30ca\u90e1"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10e1\u10d0\u10dc\u10df\u10d4\u10dc\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ub9c8\uc0b0\uac8c\ub098"
+    ],
+    "name:nan_x_preferred":[
+        "Massangena Ko\u0101n"
     ],
     "name:pol_x_preferred":[
         "Massangena"
@@ -102,6 +108,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u6851\u71b1\u5167\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Massangena District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -139,7 +148,7 @@
         }
     ],
     "wof:id":1091699281,
-    "wof:lastmodified":1636501810,
+    "wof:lastmodified":1690848250,
     "wof:name":"Massangena",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

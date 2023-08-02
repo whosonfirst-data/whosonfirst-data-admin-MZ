@@ -35,6 +35,12 @@
     "name:frr_x_preferred":[
         "Ibo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30dc\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Ibo Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Ibo District"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421177345,
-    "wof:lastmodified":1566646786,
+    "wof:lastmodified":1690848265,
     "wof:name":"Ibo",
     "wof:parent_id":1091697897,
     "wof:placetype":"locality",

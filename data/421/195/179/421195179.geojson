@@ -26,6 +26,9 @@
     "name:nld_x_preferred":[
         "Inhassoro"
     ],
+    "name:pol_x_preferred":[
+        "Inhassoro"
+    ],
     "name:por_x_preferred":[
         "Inhassoro"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421195179,
-    "wof:lastmodified":1566646781,
+    "wof:lastmodified":1690848260,
     "wof:name":"Inhassoro",
     "wof:parent_id":1091698063,
     "wof:placetype":"locality",

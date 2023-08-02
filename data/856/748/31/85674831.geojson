@@ -36,6 +36,12 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u063a\u0632\u0629"
     ],
+    "name:avk_x_preferred":[
+        "MozambikaGazaWinka"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0437\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09be\u099c\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -47,6 +53,9 @@
     ],
     "name:ceb_x_preferred":[
         "Gaza Province"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Gaza"
     ],
     "name:dan_x_preferred":[
         "Gaza"
@@ -62,6 +71,9 @@
     ],
     "name:eng_x_variant":[
         "Gaza Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Gaza"
     ],
     "name:est_x_preferred":[
         "Gaza provints"
@@ -96,6 +108,9 @@
     "name:hun_x_preferred":[
         "Gaza"
     ],
+    "name:hye_x_preferred":[
+        "\u0533\u0561\u0566\u0561"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Gaza"
     ],
@@ -114,6 +129,9 @@
     "name:kor_x_preferred":[
         "\uac00\uc790 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uac00\uc790\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Gazas province"
     ],
@@ -128,6 +146,9 @@
     ],
     "name:msa_x_preferred":[
         "Wilayah Gaza"
+    ],
+    "name:nan_x_preferred":[
+        "Gaza S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Gaza"
@@ -171,6 +192,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e32\u0e0b\u0e32"
     ],
+    "name:tso_x_preferred":[
+        "Ka Gaza"
+    ],
     "name:tur_x_preferred":[
         "Gaza B\u00f6lgesi"
     ],
@@ -188,6 +212,9 @@
     ],
     "name:zho_x_preferred":[
         "\u52a0\u624e\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Gaza"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MOZ",
@@ -312,7 +339,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636501790,
+    "wof:lastmodified":1690848224,
     "wof:name":"Gaza",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

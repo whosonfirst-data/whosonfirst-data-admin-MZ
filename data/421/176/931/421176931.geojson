@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u062a\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u064a\u062a\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Tete"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u062a\u0647"
     ],
@@ -63,6 +69,9 @@
         "Tete"
     ],
     "name:frr_x_preferred":[
+        "Tete"
+    ],
+    "name:gle_x_preferred":[
         "Tete"
     ],
     "name:guj_x_preferred":[
@@ -106,6 +115,9 @@
     ],
     "name:mar_x_preferred":[
         "\u091f\u0947\u091f\u0947"
+    ],
+    "name:mlg_x_preferred":[
+        "Tete"
     ],
     "name:msa_x_preferred":[
         "Tete"
@@ -170,11 +182,17 @@
     "name:urd_x_variant":[
         "\u062a\u06cc\u062a\u06d2"
     ],
+    "name:vec_x_preferred":[
+        "Tete"
+    ],
     "name:vie_x_preferred":[
         "Tete"
     ],
     "name:zho_x_preferred":[
         "\u592a\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "Tete"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mozambique",
@@ -319,7 +337,7 @@
         }
     ],
     "wof:id":421176931,
-    "wof:lastmodified":1566646786,
+    "wof:lastmodified":1690848266,
     "wof:name":"Tete",
     "wof:parent_id":1091697287,
     "wof:placetype":"locality",

@@ -26,8 +26,14 @@
     "name:eng_x_preferred":[
         "Mandimba"
     ],
+    "name:pol_x_preferred":[
+        "Mandimba"
+    ],
     "name:por_x_preferred":[
         "Mandimba"
+    ],
+    "name:zho_x_preferred":[
+        "\u66fc\u4e01\u5df4"
     ],
     "qs:gn_country":"MZ",
     "qs:gn_fcode":"PPL",
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":421195139,
-    "wof:lastmodified":1566646780,
+    "wof:lastmodified":1690848259,
     "wof:name":"Mandimba",
     "wof:parent_id":1091698923,
     "wof:placetype":"locality",

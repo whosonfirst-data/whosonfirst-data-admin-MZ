@@ -76,11 +76,17 @@
     "name:ita_x_preferred":[
         "Distretto di Moma"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30fc\u30de\u90e1"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10db\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ubaa8\ub9c8"
+    ],
+    "name:nan_x_preferred":[
+        "Moma Ko\u0101n"
     ],
     "name:por_x_preferred":[
         "Moma"
@@ -88,7 +94,6 @@
     "name:spa_x_preferred":[
         "Moma"
     ],
-    "name:spa_x_variant":[],
     "name:swe_x_preferred":[
         "Moma"
     ],
@@ -103,6 +108,9 @@
     ],
     "name:zho_x_preferred":[
         "\u83ab\u99ac\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Moma District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -140,7 +148,7 @@
         }
     ],
     "wof:id":1091700155,
-    "wof:lastmodified":1636501811,
+    "wof:lastmodified":1690848251,
     "wof:name":"Moma",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

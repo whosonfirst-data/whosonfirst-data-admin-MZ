@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Lumbo"
+    ],
     "name:cat_x_preferred":[
         "Lumbo"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:fra_x_preferred":[
         "Lumbo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05de\u05d1\u05d5"
     ],
     "name:jpn_x_preferred":[
         "\u30eb\u30f3\u30dc"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421189395,
-    "wof:lastmodified":1566646783,
+    "wof:lastmodified":1690848262,
     "wof:name":"Lumbo",
     "wof:parent_id":1091697977,
     "wof:placetype":"locality",
