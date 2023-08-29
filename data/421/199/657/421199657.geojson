@@ -74,6 +74,9 @@
     "name:gag_x_preferred":[
         "Xai-Xai"
     ],
+    "name:gle_x_preferred":[
+        "Xai-Xai"
+    ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0a88-\u0a9d\u0abe\u0a88"
     ],
@@ -118,6 +121,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0915\u094d\u0938\u093e\u0908-\u0915\u094d\u0938\u093e\u0908"
+    ],
+    "name:mlg_x_preferred":[
+        "Xai-Xai"
     ],
     "name:msa_x_preferred":[
         "Xai-Xai"
@@ -179,11 +185,17 @@
     "name:urd_x_preferred":[
         "\u0634\u0627\u06cc-\u0634\u0627\u06cc"
     ],
+    "name:vec_x_preferred":[
+        "Xai-Xai"
+    ],
     "name:vie_x_preferred":[
         "Xai-Xai"
     ],
     "name:zho_x_preferred":[
         "\u8cfd\u8cfd"
+    ],
+    "name:zul_x_preferred":[
+        "Xai-Xai"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mozambique",
@@ -328,7 +340,7 @@
         }
     ],
     "wof:id":421199657,
-    "wof:lastmodified":1636501815,
+    "wof:lastmodified":1690848265,
     "wof:name":"Xai-Xai",
     "wof:parent_id":1091697333,
     "wof:placetype":"locality",

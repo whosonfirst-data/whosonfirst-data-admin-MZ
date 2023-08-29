@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Chibuto"
+    ],
     "name:cat_x_preferred":[
         "Chibuto"
     ],
@@ -35,6 +38,9 @@
     "name:eus_x_preferred":[
         "Chibuto"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0628\u0648\u062a\u0648"
+    ],
     "name:fra_x_preferred":[
         "Chibuto"
     ],
@@ -49,6 +55,12 @@
     ],
     "name:kat_x_preferred":[
         "\u10e8\u10d8\u10d1\u10e3\u10e2\u10e3"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160ibutas"
+    ],
+    "name:mlg_x_preferred":[
+        "Chibuto"
     ],
     "name:msa_x_preferred":[
         "Chibuto"
@@ -73,6 +85,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e0c\u5e03\u6258"
+    ],
+    "name:zul_x_preferred":[
+        "Chibuto"
     ],
     "qs:gn_country":"MZ",
     "qs:gn_fcode":"PPL",
@@ -124,7 +139,7 @@
         }
     ],
     "wof:id":421205433,
-    "wof:lastmodified":1566646782,
+    "wof:lastmodified":1690848261,
     "wof:name":"Chibuto",
     "wof:parent_id":1091696583,
     "wof:placetype":"locality",

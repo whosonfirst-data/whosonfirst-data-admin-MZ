@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0631\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Beira"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0631\u0627"
     ],
@@ -84,8 +90,14 @@
     "name:frr_x_preferred":[
         "Beira"
     ],
+    "name:gle_x_preferred":[
+        "Beira"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac8\u0ab0\u0abe"
+    ],
+    "name:hau_x_preferred":[
+        "Beira"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05d9\u05e8\u05d4"
@@ -98,6 +110,9 @@
     ],
     "name:hun_x_preferred":[
         "Beira"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0575\u0580\u0561"
     ],
     "name:ind_x_preferred":[
         "Beira"
@@ -128,6 +143,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092c\u0947\u0907\u0930\u093e"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0411\u044d\u0439\u0440\u0430"
     ],
     "name:mri_x_preferred":[
         "Beira"
@@ -186,6 +204,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e35\u0e22\u0e23\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e44\u0e1a\u0e23\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Beira"
     ],
@@ -201,11 +222,20 @@
     "name:uzb_x_preferred":[
         "Beyra"
     ],
+    "name:vec_x_preferred":[
+        "Beira"
+    ],
     "name:vie_x_preferred":[
+        "Beira"
+    ],
+    "name:war_x_preferred":[
         "Beira"
     ],
     "name:zho_x_preferred":[
         "\u8d1d\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Beira"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mozambique",
@@ -346,7 +376,7 @@
         }
     ],
     "wof:id":421167895,
-    "wof:lastmodified":1566646781,
+    "wof:lastmodified":1690848260,
     "wof:name":"Beira",
     "wof:parent_id":1091696899,
     "wof:placetype":"locality",

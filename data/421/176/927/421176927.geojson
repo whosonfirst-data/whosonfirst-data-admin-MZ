@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0634\u0646\u062c\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u0634\u0646\u062c\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Lichinga"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u099a\u09bf\u0999\u09cd\u0997\u09be"
     ],
@@ -30,6 +36,9 @@
         "Lichinga"
     ],
     "name:ceb_x_preferred":[
+        "Lichinga"
+    ],
+    "name:ces_x_preferred":[
         "Lichinga"
     ],
     "name:dan_x_preferred":[
@@ -50,6 +59,9 @@
     "name:eus_x_preferred":[
         "Lichinga"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0686\u06cc\u0646\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
         "Lichinga"
     ],
@@ -60,6 +72,9 @@
         "Lichinga"
     ],
     "name:gag_x_preferred":[
+        "Lichinga"
+    ],
+    "name:gle_x_preferred":[
         "Lichinga"
     ],
     "name:guj_x_preferred":[
@@ -76,6 +91,9 @@
     ],
     "name:hun_x_preferred":[
         "Lichinga"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0577\u056b\u0576\u0563\u0561"
     ],
     "name:ind_x_preferred":[
         "Lichinga"
@@ -103,6 +121,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0932\u093f\u091a\u093f\u0902\u0917\u093e"
+    ],
+    "name:mlg_x_preferred":[
+        "Lichinga"
     ],
     "name:msa_x_preferred":[
         "Lichinga"
@@ -161,6 +182,9 @@
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0686\u06cc\u0646\u06af\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Lichinga"
+    ],
     "name:vie_x_preferred":[
         "Lichinga"
     ],
@@ -172,6 +196,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5229\u6b23\u52a0"
+    ],
+    "name:zul_x_preferred":[
+        "Lichinga"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mozambique",
@@ -324,7 +351,7 @@
         }
     ],
     "wof:id":421176927,
-    "wof:lastmodified":1636501816,
+    "wof:lastmodified":1690848267,
     "wof:name":"Lichinga",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

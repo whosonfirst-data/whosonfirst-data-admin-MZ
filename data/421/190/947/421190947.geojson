@@ -51,10 +51,16 @@
     "name:epo_x_preferred":[
         "Nacala"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06a9\u0627\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Nacala"
     ],
     "name:fra_x_preferred":[
+        "Nacala"
+    ],
+    "name:gle_x_preferred":[
         "Nacala"
     ],
     "name:guj_x_preferred":[
@@ -98,6 +104,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0928\u093e\u0915\u0947\u0932\u093e"
+    ],
+    "name:mlg_x_preferred":[
+        "Nacala"
     ],
     "name:msa_x_preferred":[
         "Nacala"
@@ -156,11 +165,17 @@
     "name:urd_x_preferred":[
         "\u0646\u0627\u06a9\u0627\u0644\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Nacala"
+    ],
     "name:vie_x_preferred":[
         "Nacala"
     ],
     "name:zho_x_preferred":[
         "\u7eb3\u5361\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Nacala"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mozambique",
@@ -303,7 +318,7 @@
         }
     ],
     "wof:id":421190947,
-    "wof:lastmodified":1636501815,
+    "wof:lastmodified":1690848264,
     "wof:name":"Nacala",
     "wof:parent_id":1091700685,
     "wof:placetype":"locality",

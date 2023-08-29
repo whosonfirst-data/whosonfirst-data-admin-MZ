@@ -23,6 +23,21 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0645\u0628\u0648\u0644\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0634\u0631\u0627\u0628\u064a\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0646\u0627\u0645\u0628\u0648\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Nampula"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u0645\u067e\u0648\u0644\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u043c\u043f\u0443\u043b\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09ae\u09cd\u09aa\u09cb\u09b2\u09be"
     ],
@@ -65,8 +80,14 @@
     "name:frr_x_preferred":[
         "Nampula"
     ],
+    "name:gle_x_preferred":[
+        "Nampula"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0aae\u0aaa\u0ac1\u0ab2\u0abe"
+    ],
+    "name:hau_x_preferred":[
+        "Nampula"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d0\u05de\u05e4\u05d5\u05dc\u05d4"
@@ -82,6 +103,9 @@
     ],
     "name:hun_x_preferred":[
         "Nampula"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u0574\u057a\u0578\u0582\u056c\u0561"
     ],
     "name:ind_x_preferred":[
         "Nampula"
@@ -112,6 +136,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0928\u093e\u092e\u092a\u0942\u0932\u093e"
+    ],
+    "name:mlg_x_preferred":[
+        "Nampula"
     ],
     "name:mri_x_preferred":[
         "Nampula"
@@ -176,11 +203,20 @@
     "name:urd_x_preferred":[
         "\u0646\u0627\u0645\u067e\u0648\u0644\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Nampula"
+    ],
     "name:vie_x_preferred":[
+        "Nampula"
+    ],
+    "name:war_x_preferred":[
         "Nampula"
     ],
     "name:zho_x_preferred":[
         "\u6960\u666e\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Nampula"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mozambique",
@@ -333,7 +369,7 @@
         }
     ],
     "wof:id":421203095,
-    "wof:lastmodified":1636501814,
+    "wof:lastmodified":1690848261,
     "wof:name":"Nampula",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

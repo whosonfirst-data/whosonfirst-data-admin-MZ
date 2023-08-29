@@ -79,11 +79,17 @@
     "name:jpn_x_preferred":[
         "\u30e2\u30f3\u30c6\u30d7\u30a8\u30ba"
     ],
+    "name:jpn_x_variant":[
+        "\u30e2\u30f3\u30c6\u30d7\u30a8\u30b9\u90e1"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10dc\u10e2\u10d4\u10de\u10e3\u10d4\u10d6\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ubaac\ud14c\ud478\uc5d0\uc988"
+    ],
+    "name:nan_x_preferred":[
+        "Montepuez Ko\u0101n"
     ],
     "name:por_x_preferred":[
         "Montepuez"
@@ -117,6 +123,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8499\u7279\u666e\u57c3\u8332\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Montepuez District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -154,7 +163,7 @@
         }
     ],
     "wof:id":1091700221,
-    "wof:lastmodified":1636501811,
+    "wof:lastmodified":1690848252,
     "wof:name":"Montepuez",
     "wof:parent_id":85674817,
     "wof:placetype":"county",
