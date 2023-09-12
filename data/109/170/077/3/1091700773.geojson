@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.227382,
-    "geom:area_square_m":2724060573.021933,
+    "geom:area_square_m":2724060670.607121,
     "geom:bbox":"39.415737,-14.580818,40.456177,-14.140347",
     "geom:latitude":-14.336129,
     "geom:longitude":39.906121,
@@ -101,11 +101,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"MZ.NM.NR",
         "wd:id":"Q6436058"
     },
     "wof:country":"MZ",
     "wof:created":1473879761,
-    "wof:geomhash":"5fdee6940009491ad0ee9f919a50881e",
+    "wof:geomhash":"df2aeedde9e29fcd7b5259f6741e05c6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1091700773,
-    "wof:lastmodified":1690848251,
+    "wof:lastmodified":1694492406,
     "wof:name":"Nacaroa",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

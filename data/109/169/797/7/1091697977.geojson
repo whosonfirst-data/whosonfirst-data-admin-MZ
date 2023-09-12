@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015232,
-    "geom:area_square_m":181885569.081674,
+    "geom:area_square_m":181885769.793409,
     "geom:bbox":"40.508167,-15.123812,40.791275,-14.985803",
     "geom:latitude":-15.05077,
     "geom:longitude":40.617774,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Ilha de Mocambique District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.049821,
     "lbl:longitude":40.606935,
     "lbl:max_zoom":10.0,
@@ -85,7 +91,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879649,
-    "wof:geomhash":"d24ab7902fcd5796988434f74aa04cce",
+    "wof:geomhash":"75938207eb28801126bae5bb1ee96ae2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1091697977,
-    "wof:lastmodified":1690848235,
+    "wof:lastmodified":1694497842,
     "wof:name":"Ilha de Mocambique",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010372,
-    "geom:area_square_m":122067819.558382,
+    "geom:area_square_m":122067954.274143,
     "geom:bbox":"36.836914,-17.954201,36.966038,-17.776739",
     "geom:latitude":-17.860703,
     "geom:longitude":36.915438,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Cidade de Quelimane District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.856448,
     "lbl:longitude":36.92081,
     "lbl:max_zoom":10.0,
@@ -51,7 +57,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879622,
-    "wof:geomhash":"8ceffe73a9da8d86e77edb72af36c87a",
+    "wof:geomhash":"3c192d7c04e24df0aa4168bed756055e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1091697259,
-    "wof:lastmodified":1627522455,
+    "wof:lastmodified":1694498061,
     "wof:name":"Cidade de Quelimane",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

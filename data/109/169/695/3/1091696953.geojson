@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033104,
-    "geom:area_square_m":368422191.323661,
+    "geom:area_square_m":368422129.056133,
     "geom:bbox":"32.401169,-25.993446,32.586567,-25.692995",
     "geom:latitude":-25.83472,
     "geom:longitude":32.495158,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Cidade da Matola District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.832882,
     "lbl:longitude":32.493431,
     "lbl:max_zoom":10.0,
@@ -51,7 +57,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879611,
-    "wof:geomhash":"71fa91b817287896425165aa499267b3",
+    "wof:geomhash":"54148506ab8f3455c200e8984496daeb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1091696953,
-    "wof:lastmodified":1627522451,
+    "wof:lastmodified":1694498061,
     "wof:name":"Cidade da Matola",
     "wof:parent_id":85674849,
     "wof:placetype":"county",

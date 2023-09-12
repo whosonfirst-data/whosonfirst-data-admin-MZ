@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031277,
-    "geom:area_square_m":347722440.470401,
+    "geom:area_square_m":347722803.424656,
     "geom:bbox":"32.440636,-26.094553,32.995689,-25.810024",
     "geom:latitude":-25.96106,
     "geom:longitude":32.624996,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Cidade de Maputo City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":-25.879917,
     "lbl:longitude":32.611792,
     "lbl:max_zoom":10.0,
@@ -40,16 +46,32 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2007-08-01",
+    "statoids:areakm":602,
+    "statoids:areami":232,
+    "statoids:capital":"Maputo (Louren\u00e7o Marques)",
+    "statoids:country":"MZ",
+    "statoids:date":"2007-08-01",
+    "statoids:gec":"MZ11",
+    "statoids:hasc":"MZ.MC",
+    "statoids:iso":"MPM",
+    "statoids:name":"Maputo [city]",
+    "statoids:population":1111638,
+    "statoids:timezone":"+2",
+    "statoids:type":"city",
     "wof:belongsto":[
         102191573,
         85632729,
         85674853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"MZ.MC"
+    },
     "wof:country":"MZ",
     "wof:created":1473879617,
-    "wof:geomhash":"8c8b05abbb610e2ca42d9243e226061f",
+    "wof:geomhash":"949165f79663e6bee815c2a8d050e51e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,10 +81,12 @@
         }
     ],
     "wof:id":1091697125,
-    "wof:lastmodified":1627522450,
+    "wof:lastmodified":1694498061,
     "wof:name":"Cidade de Maputo",
     "wof:parent_id":85674853,
     "wof:placetype":"county",
+    "wof:population":1111638,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-mz",
     "wof:superseded_by":[],
     "wof:supersedes":[],

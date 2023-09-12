@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017283,
-    "geom:area_square_m":195398474.930284,
+    "geom:area_square_m":195398374.900673,
     "geom:bbox":"35.370831,-23.967159,35.556263,-23.778643",
     "geom:latitude":-23.886561,
     "geom:longitude":35.467947,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Cidade de Inhambane District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.909725,
     "lbl:longitude":35.435619,
     "lbl:max_zoom":10.0,
@@ -88,7 +94,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879614,
-    "wof:geomhash":"92c98ff0fff6a75b0a5ab32bb08c6328",
+    "wof:geomhash":"37e31e266bf0062ac2c4a3f484dabaaf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1091697029,
-    "wof:lastmodified":1690848241,
+    "wof:lastmodified":1694497842,
     "wof:name":"Cidade de Inhambane",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

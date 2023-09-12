@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006138,
-    "geom:area_square_m":74146552.269661,
+    "geom:area_square_m":74146523.307617,
     "geom:bbox":"40.546181,-12.49665,40.636284,-12.1791",
     "geom:latitude":-12.325143,
     "geom:longitude":40.594305,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Ibo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-12.205532,
     "lbl:longitude":40.595482,
     "lbl:max_zoom":10.0,
@@ -51,7 +57,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879645,
-    "wof:geomhash":"8b1781049ef8cc955ccd13d646ad66e5",
+    "wof:geomhash":"da12c40e2c7bb9217c3fa54e58d096b9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1091697897,
-    "wof:lastmodified":1627522447,
+    "wof:lastmodified":1694498060,
     "wof:name":"Ibo",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

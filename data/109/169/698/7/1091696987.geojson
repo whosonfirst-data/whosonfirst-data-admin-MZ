@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014977,
-    "geom:area_square_m":174970985.905532,
+    "geom:area_square_m":174971149.791182,
     "geom:bbox":"33.37495,-19.201099,33.527466,-19.065996",
     "geom:latitude":-19.127044,
     "geom:longitude":33.456265,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Cidade de Chimoio District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.122067,
     "lbl:longitude":33.456278,
     "lbl:max_zoom":10.0,
@@ -51,7 +57,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879612,
-    "wof:geomhash":"5c02dc8478f3cee5b4b7dc115f180352",
+    "wof:geomhash":"635e35c6ee6ba2643cdc4f9f944a8658",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1091696987,
-    "wof:lastmodified":1627522446,
+    "wof:lastmodified":1694498060,
     "wof:name":"Cidade de Chimoio",
     "wof:parent_id":85674815,
     "wof:placetype":"county",

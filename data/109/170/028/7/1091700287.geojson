@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.28417,
-    "geom:area_square_m":3393079754.545896,
+    "geom:area_square_m":3393079070.038545,
     "geom:bbox":"40.222473,-15.514672,40.840626,-14.52575",
     "geom:latitude":-15.06176,
     "geom:longitude":40.514382,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Mossuril District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.326044,
     "lbl:longitude":40.432371,
     "lbl:max_zoom":10.0,
@@ -84,7 +90,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879743,
-    "wof:geomhash":"5a06a8e8c1b8aa83c1ea375244619d1f",
+    "wof:geomhash":"a82e3e5d981363b301fcaebe8321f224",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1091700287,
-    "wof:lastmodified":1690848257,
+    "wof:lastmodified":1694497843,
     "wof:name":"Mossuril",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.421109,
-    "geom:area_square_m":5029542383.994752,
+    "geom:area_square_m":5029542300.699202,
     "geom:bbox":"35.790684,-15.479039,36.434509,-14.395753",
     "geom:latitude":-15.003118,
     "geom:longitude":36.077344,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Mecanhelas District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.062904,
     "lbl:longitude":36.083414,
     "lbl:max_zoom":10.0,
@@ -50,7 +56,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879709,
-    "wof:geomhash":"5379c45d1d565d820906cd38007535d5",
+    "wof:geomhash":"f9b7fb8b2807d8f608d600b15b02c5a4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1091699553,
-    "wof:lastmodified":1627522452,
+    "wof:lastmodified":1694498061,
     "wof:name":"Mecanhelas",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

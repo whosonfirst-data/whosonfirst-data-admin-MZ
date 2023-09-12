@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114846,
-    "geom:area_square_m":1295665204.675592,
+    "geom:area_square_m":1295666046.881751,
     "geom:bbox":"35.001076,-24.371384,35.522335,-23.94095",
     "geom:latitude":-24.163026,
     "geom:longitude":35.271278,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Jangamo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.165207,
     "lbl:longitude":35.27154,
     "lbl:max_zoom":10.0,
@@ -87,7 +93,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879655,
-    "wof:geomhash":"06961a66debdd7953890e2713b39df4b",
+    "wof:geomhash":"fbbbc35e07f1b6979ccae6c29796b1a5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1091698147,
-    "wof:lastmodified":1690848245,
+    "wof:lastmodified":1694497843,
     "wof:name":"Jangamo",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

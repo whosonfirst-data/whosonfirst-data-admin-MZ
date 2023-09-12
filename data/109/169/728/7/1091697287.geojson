@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024272,
-    "geom:area_square_m":288301410.683744,
+    "geom:area_square_m":288301190.646521,
     "geom:bbox":"33.426739,-16.262783,33.662868,-16.051395",
     "geom:latitude":-16.13858,
     "geom:longitude":33.567148,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Cidade de Tete District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.127156,
     "lbl:longitude":33.576985,
     "lbl:max_zoom":10.0,
@@ -51,7 +57,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879623,
-    "wof:geomhash":"a35e9e311d6014139220a1c5ccdf27fb",
+    "wof:geomhash":"02da210146b69e50dc9d3dadc6da99a2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1091697287,
-    "wof:lastmodified":1627522456,
+    "wof:lastmodified":1694498061,
     "wof:name":"Cidade de Tete",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

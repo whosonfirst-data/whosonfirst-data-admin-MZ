@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023737,
-    "geom:area_square_m":268380264.560504,
+    "geom:area_square_m":268380677.050621,
     "geom:bbox":"35.234005,-24.053614,35.378796,-23.687225",
     "geom:latitude":-23.881673,
     "geom:longitude":35.30948,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Maxixe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.880665,
     "lbl:longitude":35.302327,
     "lbl:max_zoom":10.0,
@@ -63,7 +69,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879708,
-    "wof:geomhash":"ad366649d4b3a5c7ef291fc079c31fc5",
+    "wof:geomhash":"5a4dcbf0392d9892a0bb07c762747ca9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1091699509,
-    "wof:lastmodified":1636501809,
+    "wof:lastmodified":1694498108,
     "wof:name":"Maxixe",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

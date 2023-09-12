@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008362,
-    "geom:area_square_m":100742444.174346,
+    "geom:area_square_m":100742422.528592,
     "geom:bbox":"40.467224,-13.108563,40.588703,-12.949615",
     "geom:latitude":-13.01801,
     "geom:longitude":40.531303,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Cidade de Pemba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-13.011338,
     "lbl:longitude":40.545568,
     "lbl:max_zoom":10.0,
@@ -51,7 +57,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879620,
-    "wof:geomhash":"57089a1db619bf1c4025dd559944378d",
+    "wof:geomhash":"e17e8efc1a5f883cf376cd622bc7b03d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1091697197,
-    "wof:lastmodified":1627522455,
+    "wof:lastmodified":1694498061,
     "wof:name":"Cidade de Pemba",
     "wof:parent_id":85674817,
     "wof:placetype":"county",
