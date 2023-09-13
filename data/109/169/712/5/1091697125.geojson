@@ -37,7 +37,6 @@
         "Cidade de Maputo"
     ],
     "name:eng_x_variant":[
-        "Cidade de Maputo",
         "Maputo",
         "CIDADE DE MAPUTO"
     ],
@@ -47,7 +46,7 @@
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population_year":"2007-08-01",
+    "src:population_date":"2007-08-01",
     "statoids:areakm":602,
     "statoids:areami":232,
     "statoids:capital":"Maputo (Louren\u00e7o Marques)",
@@ -81,7 +80,7 @@
         }
     ],
     "wof:id":1091697125,
-    "wof:lastmodified":1694498061,
+    "wof:lastmodified":1694639720,
     "wof:name":"Cidade de Maputo",
     "wof:parent_id":85674853,
     "wof:placetype":"county",
