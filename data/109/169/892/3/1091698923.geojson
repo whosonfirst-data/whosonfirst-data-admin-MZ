@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.391924,
-    "geom:area_square_m":4697946771.585406,
+    "geom:area_square_m":4697946365.648342,
     "geom:bbox":"35.386333,-14.672342,36.314911,-13.785191",
     "geom:latitude":-14.206997,
     "geom:longitude":35.898768,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Mandimba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-14.138395,
     "lbl:longitude":35.898808,
     "lbl:max_zoom":10.0,
@@ -60,7 +66,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879683,
-    "wof:geomhash":"d24e1d5f90f724e3a829f26db7e3e2db",
+    "wof:geomhash":"4a137fd835b4e03c05311f88c2a73c20",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1091698923,
-    "wof:lastmodified":1627522450,
+    "wof:lastmodified":1694498061,
     "wof:name":"Mandimba",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

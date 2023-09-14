@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.328754,
-    "geom:area_square_m":3695198083.769532,
+    "geom:area_square_m":3695197746.473615,
     "geom:bbox":"33.765995,-25.036837,34.473415,-24.070993",
     "geom:latitude":-24.630596,
     "geom:longitude":34.06745,
@@ -96,11 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"MZ.GA.MJ",
         "wd:id":"Q6489660"
     },
     "wof:country":"MZ",
     "wof:created":1473879685,
-    "wof:geomhash":"71059f13e01accc544dae8aa90eabe36",
+    "wof:geomhash":"77c7a1c6ae3be59e34b77a212a31c4e4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1091698967,
-    "wof:lastmodified":1690848247,
+    "wof:lastmodified":1694492406,
     "wof:name":"Mandlakaze",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

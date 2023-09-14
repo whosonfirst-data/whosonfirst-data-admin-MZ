@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198622,
-    "geom:area_square_m":2315230921.09096,
+    "geom:area_square_m":2315230960.172545,
     "geom:bbox":"34.514229,-19.71064,35.324074,-19.16596",
     "geom:latitude":-19.492692,
     "geom:longitude":34.828571,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Dondo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.507163,
     "lbl:longitude":34.788968,
     "lbl:max_zoom":10.0,
@@ -122,7 +128,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879628,
-    "wof:geomhash":"5695375ffe0e8dea114af1740ed54e2d",
+    "wof:geomhash":"746ca0e5eae389f35f2423f33d000ba1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":1091697411,
-    "wof:lastmodified":1636501809,
+    "wof:lastmodified":1694498108,
     "wof:name":"Dondo",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

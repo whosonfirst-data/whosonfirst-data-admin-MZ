@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102992,
-    "geom:area_square_m":1239675682.733215,
+    "geom:area_square_m":1239675580.386005,
     "geom:bbox":"40.170589,-13.477718,40.586121,-13.048717",
     "geom:latitude":-13.238502,
     "geom:longitude":40.403318,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Mecufi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-13.242714,
     "lbl:longitude":40.400161,
     "lbl:max_zoom":10.0,
@@ -106,7 +112,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879714,
-    "wof:geomhash":"5087a1a915cbee5bc720c6bc38ab3714",
+    "wof:geomhash":"8cf2d16e40be6b5f741b57f9afd2d93f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":1091699683,
-    "wof:lastmodified":1690848241,
+    "wof:lastmodified":1694497842,
     "wof:name":"Mecufi",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

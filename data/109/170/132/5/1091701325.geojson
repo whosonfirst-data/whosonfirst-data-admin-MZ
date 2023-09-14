@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.132295,
-    "geom:area_square_m":1594584711.825151,
+    "geom:area_square_m":1594584169.42641,
     "geom:bbox":"40.005512,-13.138717,40.631382,-12.703987",
     "geom:latitude":-12.896067,
     "geom:longitude":40.313068,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Pemba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-12.88445,
     "lbl:longitude":40.282223,
     "lbl:max_zoom":10.0,
@@ -113,7 +119,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879783,
-    "wof:geomhash":"fe94e4d80ac99e15038af43d935fda46",
+    "wof:geomhash":"a8aa49a28e67cb7d6ac65da54f72a22e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":1091701325,
-    "wof:lastmodified":1636501810,
+    "wof:lastmodified":1694498108,
     "wof:name":"Pemba",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

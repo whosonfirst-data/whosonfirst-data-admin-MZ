@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054339,
-    "geom:area_square_m":632521817.294712,
+    "geom:area_square_m":632521826.962241,
     "geom:bbox":"34.697941,-19.851852,35.15184,-19.616629",
     "geom:latitude":-19.71628,
     "geom:longitude":34.933011,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Cidade da Beira District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.711472,
     "lbl:longitude":34.930828,
     "lbl:max_zoom":10.0,
@@ -51,7 +57,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879609,
-    "wof:geomhash":"3e20aeb2a609701547b188f58784da60",
+    "wof:geomhash":"bb7db41447013c373b40414ff902b981",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1091696899,
-    "wof:lastmodified":1627522444,
+    "wof:lastmodified":1694498060,
     "wof:name":"Cidade da Beira",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

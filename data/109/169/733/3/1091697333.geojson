@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012102,
-    "geom:area_square_m":135573006.277385,
+    "geom:area_square_m":135572926.337153,
     "geom:bbox":"33.580471,-25.123096,33.755165,-24.97562",
     "geom:latitude":-25.04918,
     "geom:longitude":33.65859,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Cidade de Xai-Xai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.056712,
     "lbl:longitude":33.642749,
     "lbl:max_zoom":10.0,
@@ -85,7 +91,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879624,
-    "wof:geomhash":"46eb350372afb5d1266c7f6434c8fec3",
+    "wof:geomhash":"68853c3cf31bb94a9bea4cc6f2976330",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1091697333,
-    "wof:lastmodified":1690848241,
+    "wof:lastmodified":1694497842,
     "wof:name":"Cidade de Xai-Xai",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

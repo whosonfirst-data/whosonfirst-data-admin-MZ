@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.749993,
-    "geom:area_square_m":8895275367.883244,
+    "geom:area_square_m":8895275705.971329,
     "geom:bbox":"32.703632,-17.342772,33.793335,-15.741314",
     "geom:latitude":-16.423373,
     "geom:longitude":33.146396,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Changara District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.456515,
     "lbl:longitude":33.154532,
     "lbl:max_zoom":10.0,
@@ -50,7 +56,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879589,
-    "wof:geomhash":"d70ae4674e453c3e422fa724c3da01ce",
+    "wof:geomhash":"18a3a985c3a2628ab6be599179e4640e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1091696537,
-    "wof:lastmodified":1627522445,
+    "wof:lastmodified":1694498060,
     "wof:name":"Changara",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.347983,
-    "geom:area_square_m":4207839502.563463,
+    "geom:area_square_m":4207839382.467289,
     "geom:bbox":"39.716976,-12.395192,40.610535,-11.674523",
     "geom:latitude":-12.063145,
     "geom:longitude":40.190878,
     "iso:country":"MZ",
+    "label:eng_x_preferred_longname":[
+        "Macomia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-12.081825,
     "lbl:longitude":40.190293,
     "lbl:max_zoom":10.0,
@@ -96,7 +102,7 @@
     },
     "wof:country":"MZ",
     "wof:created":1473879671,
-    "wof:geomhash":"137ea6a0939f7156a2c6eb7dd687a722",
+    "wof:geomhash":"37742620bebe55cc9348bc34b67feb06",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1091698583,
-    "wof:lastmodified":1690848239,
+    "wof:lastmodified":1694497842,
     "wof:name":"Macomia",
     "wof:parent_id":85674817,
     "wof:placetype":"county",
