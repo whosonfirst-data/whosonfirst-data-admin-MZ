@@ -86,6 +86,7 @@
         "hasc:id":"MZ.NS.LI",
         "wd:id":"Q2090184"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879615,
     "wof:geomhash":"80b02f6d4fd984da7d43ce71b9e76c53",
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1091697077,
-    "wof:lastmodified":1694497842,
+    "wof:lastmodified":1695886392,
     "wof:name":"Cidade de Lichinga",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

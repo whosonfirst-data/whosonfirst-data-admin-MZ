@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.273586,
-    "geom:area_square_m":3272595775.714094,
+    "geom:area_square_m":3272595599.47924,
     "geom:bbox":"33.734371,-15.150656,34.55064,-14.384274",
     "geom:latitude":-14.673889,
     "geom:longitude":34.163274,
@@ -101,9 +101,10 @@
         "hasc:id":"MZ.TE.AN",
         "wd:id":"Q2849724"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879576,
-    "wof:geomhash":"7cd8060969373c8b5306df2fd7579496",
+    "wof:geomhash":"1c9520ec3d6b4b6b8ec8ea22516968b7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1091696323,
-    "wof:lastmodified":1690848239,
+    "wof:lastmodified":1695886396,
     "wof:name":"Angonia",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.524269,
-    "geom:area_square_m":6170267696.378282,
+    "geom:area_square_m":6170267107.957332,
     "geom:bbox":"34.139309,-18.416771,34.86713,-17.209871",
     "geom:latitude":-17.857706,
     "geom:longitude":34.484821,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.SO.MG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879691,
-    "wof:geomhash":"5c7d221a4023398a62ca28fd47c7c469",
+    "wof:geomhash":"4790e929deb14fd614a2487b82740684",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091699141,
-    "wof:lastmodified":1627522450,
+    "wof:lastmodified":1695886061,
     "wof:name":"Maringue",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

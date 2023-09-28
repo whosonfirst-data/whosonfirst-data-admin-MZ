@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.372228,
-    "geom:area_square_m":4466579734.836581,
+    "geom:area_square_m":4466579641.196002,
     "geom:bbox":"40.017879,-14.476028,40.740101,-13.453867",
     "geom:latitude":-13.96591,
     "geom:longitude":40.394368,
@@ -103,9 +103,10 @@
         "hasc:id":"MZ.NM.MM",
         "wd:id":"Q6436086"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879718,
-    "wof:geomhash":"a6a950801fedeeea5994878281e2f5dd",
+    "wof:geomhash":"3a9fd085cce52bc9bca2fa8aa4fcead8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1091699799,
-    "wof:lastmodified":1690848240,
+    "wof:lastmodified":1695886397,
     "wof:name":"Memba",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

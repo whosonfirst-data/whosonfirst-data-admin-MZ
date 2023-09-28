@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.721821,
-    "geom:area_square_m":8583880804.211375,
+    "geom:area_square_m":8583879898.065556,
     "geom:bbox":"30.419125,-16.417183,32.158611,-15.61932",
     "geom:latitude":-15.901697,
     "geom:longitude":31.36315,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.TE.MG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879676,
-    "wof:geomhash":"20ba2e9ecadfc427ad09b7f6760be29e",
+    "wof:geomhash":"17906b3edb7daff3d0b1d604d2f83b93",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091698723,
-    "wof:lastmodified":1627522449,
+    "wof:lastmodified":1695886058,
     "wof:name":"Magoe",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

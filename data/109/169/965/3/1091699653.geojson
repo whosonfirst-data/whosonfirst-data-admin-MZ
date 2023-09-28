@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.602756,
-    "geom:area_square_m":7216506731.568329,
+    "geom:area_square_m":7216507531.043633,
     "geom:bbox":"38.483738,-14.963293,39.340492,-13.935059",
     "geom:latitude":-14.476192,
     "geom:longitude":38.915932,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.NM.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879712,
-    "wof:geomhash":"32ea1eb1cd4129ca2f5050ab42d5b991",
+    "wof:geomhash":"176fe97c2c349b54374b19be2a531113",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091699653,
-    "wof:lastmodified":1627522452,
+    "wof:lastmodified":1695886063,
     "wof:name":"Mecuburi",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

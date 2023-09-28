@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.789225,
-    "geom:area_square_m":8950805457.144936,
+    "geom:area_square_m":8950803611.683668,
     "geom:bbox":"32.238121,-24.192669,33.24876,-22.966085",
     "geom:latitude":-23.478867,
     "geom:longitude":32.737941,
@@ -103,9 +103,10 @@
         "hasc:id":"MZ.GA.MB",
         "wd:id":"Q6322311"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879662,
-    "wof:geomhash":"190d14113f1fe1fba78b7fe24e01f8df",
+    "wof:geomhash":"afee7b570b304dad0bc8dd9d1821c797",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1091698365,
-    "wof:lastmodified":1690848247,
+    "wof:lastmodified":1695886404,
     "wof:name":"Mabalane",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

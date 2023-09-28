@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.26043,
-    "geom:area_square_m":3104623491.269587,
+    "geom:area_square_m":3104623360.427864,
     "geom:bbox":"38.258518,-15.785432,39.010071,-15.049574",
     "geom:latitude":-15.400686,
     "geom:longitude":38.661173,
@@ -106,9 +106,10 @@
         "hasc:id":"MZ.NM.MR",
         "wd:id":"Q6436054"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879754,
-    "wof:geomhash":"cf3b79973da447399bf244c5f3a7ba7c",
+    "wof:geomhash":"efb82f67646484a3c05591e45cee2b79",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1091700589,
-    "wof:lastmodified":1690848257,
+    "wof:lastmodified":1695886413,
     "wof:name":"Murrupula",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

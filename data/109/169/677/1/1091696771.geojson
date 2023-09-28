@@ -110,6 +110,7 @@
         "hasc:id":"MZ.CD.AN",
         "wd:id":"Q2640799"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879605,
     "wof:geomhash":"96716327059d6e339d2f935df178deb1",
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1091696771,
-    "wof:lastmodified":1694497843,
+    "wof:lastmodified":1695886403,
     "wof:name":"Chiure",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

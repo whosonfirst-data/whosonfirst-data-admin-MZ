@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.434988,
-    "geom:area_square_m":5037608457.427942,
+    "geom:area_square_m":5037607513.900527,
     "geom:bbox":"32.486347,-20.914734,33.514111,-20.027195",
     "geom:latitude":-20.513622,
     "geom:longitude":32.943321,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.MN.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879745,
-    "wof:geomhash":"e8e7a12df81303bac7db314be3e6721c",
+    "wof:geomhash":"5610639870519fab0655857d556147b6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091700331,
-    "wof:lastmodified":1627522453,
+    "wof:lastmodified":1695886066,
     "wof:name":"Mossurize",
     "wof:parent_id":85674815,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.743845,
-    "geom:area_square_m":8802680640.699888,
+    "geom:area_square_m":8802680465.725319,
     "geom:bbox":"36.123951,-17.403265,37.533306,-16.298565",
     "geom:latitude":-16.853331,
     "geom:longitude":36.863398,
@@ -153,9 +153,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.ZA.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879728,
-    "wof:geomhash":"9a0e1628ce565b9a3b4f7abe7fd46b48",
+    "wof:geomhash":"b8942d0263a35ebaeb2997d8ee9525fa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":1091700047,
-    "wof:lastmodified":1636501812,
+    "wof:lastmodified":1695886800,
     "wof:name":"Mocuba",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

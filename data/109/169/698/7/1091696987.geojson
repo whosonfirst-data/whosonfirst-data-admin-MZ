@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.MN.GO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879612,
     "wof:geomhash":"635e35c6ee6ba2643cdc4f9f944a8658",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091696987,
-    "wof:lastmodified":1694498060,
+    "wof:lastmodified":1695886051,
     "wof:name":"Cidade de Chimoio",
     "wof:parent_id":85674815,
     "wof:placetype":"county",

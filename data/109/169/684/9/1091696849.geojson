@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.217848,
-    "geom:area_square_m":2449968543.90198,
+    "geom:area_square_m":2449969769.266758,
     "geom:bbox":"32.560032,-24.864445,33.522972,-24.108652",
     "geom:latitude":-24.56186,
     "geom:longitude":32.955684,
@@ -107,9 +107,10 @@
         "hasc:id":"MZ.GA.CK",
         "wd:id":"Q2048783"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879608,
-    "wof:geomhash":"fe9803c9e61e9a2853577d981ffbf486",
+    "wof:geomhash":"2ec9b5d80f015cac50851c4cd2c5cf5e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1091696849,
-    "wof:lastmodified":1690848246,
+    "wof:lastmodified":1695886404,
     "wof:name":"Chokwe",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

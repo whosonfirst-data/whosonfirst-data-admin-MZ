@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.672945,
-    "geom:area_square_m":8077312280.164042,
+    "geom:area_square_m":8077312997.954754,
     "geom:bbox":"36.113075,-14.366103,37.745808,-13.430336",
     "geom:latitude":-13.901954,
     "geom:longitude":37.040516,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.NS.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879704,
-    "wof:geomhash":"5b0c523c7cf90aa88fb5002d8b44fddf",
+    "wof:geomhash":"247184ffe4ae3a6d2d2db086e6a2aa1d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1091699411,
-    "wof:lastmodified":1627522451,
+    "wof:lastmodified":1695886062,
     "wof:name":"Maua",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

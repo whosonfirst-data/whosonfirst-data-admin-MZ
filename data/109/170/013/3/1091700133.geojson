@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.397248,
-    "geom:area_square_m":4727897678.036261,
+    "geom:area_square_m":4727897998.35712,
     "geom:bbox":"38.793144,-16.078844,39.820663,-15.367579",
     "geom:latitude":-15.737599,
     "geom:longitude":39.259709,
@@ -100,9 +100,10 @@
         "hasc:id":"MZ.NM.MV",
         "wd:id":"Q6890719"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879731,
-    "wof:geomhash":"bd9aa86210aa4e0dea41222c9dd1895d",
+    "wof:geomhash":"b6006150530d07271c51bbdaaf715541",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1091700133,
-    "wof:lastmodified":1690848251,
+    "wof:lastmodified":1695886408,
     "wof:name":"Mogovolas",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

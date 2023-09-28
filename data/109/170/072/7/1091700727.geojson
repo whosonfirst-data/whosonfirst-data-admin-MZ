@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.NM.NV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879759,
     "wof:geomhash":"4e78b1918e4ec4e67150eb5eb7c0ff0a",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091700727,
-    "wof:lastmodified":1694498061,
+    "wof:lastmodified":1695886068,
     "wof:name":"Nacala-A-Velha",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

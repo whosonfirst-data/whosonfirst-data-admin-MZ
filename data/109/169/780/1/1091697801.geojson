@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.475014,
-    "geom:area_square_m":5664092527.450849,
+    "geom:area_square_m":5664092565.544981,
     "geom:bbox":"36.461876,-15.923437,37.387905,-14.999998",
     "geom:latitude":-15.349169,
     "geom:longitude":36.947449,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.ZA.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879642,
-    "wof:geomhash":"c64960f36ff4f692f0cc9d40d1c1d2f2",
+    "wof:geomhash":"816c7c4f8ac192902f1919101c519ac1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091697801,
-    "wof:lastmodified":1627522447,
+    "wof:lastmodified":1695886053,
     "wof:name":"Gurue",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

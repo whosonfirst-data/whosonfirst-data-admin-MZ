@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.345339,
-    "geom:area_square_m":3977977172.96087,
+    "geom:area_square_m":3977977794.304905,
     "geom:bbox":"34.023907,-21.678148,35.131622,-20.954969",
     "geom:latitude":-21.31853,
     "geom:longitude":34.676044,
@@ -100,9 +100,10 @@
         "hasc:id":"MZ.IN.GO",
         "wd:id":"Q5589969"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879638,
-    "wof:geomhash":"3e033cae26eceedb334dc233dd863bc7",
+    "wof:geomhash":"eef98e794ca07f0586ae2e52bf28eb4b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1091697673,
-    "wof:lastmodified":1690848242,
+    "wof:lastmodified":1695886398,
     "wof:name":"Govuro",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

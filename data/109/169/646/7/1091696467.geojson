@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.747074,
-    "geom:area_square_m":8878621519.337749,
+    "geom:area_square_m":8878623049.521282,
     "geom:bbox":"31.92086,-16.605007,33.11272,-15.551954",
     "geom:latitude":-16.025539,
     "geom:longitude":32.5056,
@@ -104,9 +104,10 @@
         "hasc:id":"MZ.TE.CB",
         "wd:id":"Q4891530"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879586,
-    "wof:geomhash":"3a937db1260e35060333f4d7c02fbee5",
+    "wof:geomhash":"7d610d26d8d83b3a311158170220af65",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1091696467,
-    "wof:lastmodified":1690848245,
+    "wof:lastmodified":1695886402,
     "wof:name":"Cahora Bassa",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

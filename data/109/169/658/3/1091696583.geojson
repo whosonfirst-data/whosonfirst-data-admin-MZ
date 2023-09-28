@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.498554,
-    "geom:area_square_m":5618453209.059502,
+    "geom:area_square_m":5618453558.457169,
     "geom:bbox":"33.261929,-24.8741,33.956024,-23.655912",
     "geom:latitude":-24.300603,
     "geom:longitude":33.609953,
@@ -109,9 +109,10 @@
         "hasc:id":"MZ.GA.CB",
         "wd:id":"Q602291"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879596,
-    "wof:geomhash":"6cd6c8c2dcde0ab8fc7c988a0609da13",
+    "wof:geomhash":"15ce1e0cf3b3437de511498f50262e56",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1091696583,
-    "wof:lastmodified":1690848239,
+    "wof:lastmodified":1695886395,
     "wof:name":"Chibuto",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

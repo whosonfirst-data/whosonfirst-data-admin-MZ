@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.587963,
-    "geom:area_square_m":6953553133.667427,
+    "geom:area_square_m":6953553006.959112,
     "geom:bbox":"33.08979,-17.519253,33.956795,-16.387352",
     "geom:latitude":-16.972208,
     "geom:longitude":33.538423,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.MN.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879641,
-    "wof:geomhash":"5b16a211aed2d46cf6827ba961d3c949",
+    "wof:geomhash":"697c08f8cc4d88555eaf23d3fd8a549a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1091697771,
-    "wof:lastmodified":1627522447,
+    "wof:lastmodified":1695886053,
     "wof:name":"Guro",
     "wof:parent_id":85674815,
     "wof:placetype":"county",

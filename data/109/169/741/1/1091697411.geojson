@@ -126,6 +126,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.SO.DO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879628,
     "wof:geomhash":"746ca0e5eae389f35f2423f33d000ba1",
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1091697411,
-    "wof:lastmodified":1694498108,
+    "wof:lastmodified":1695886797,
     "wof:name":"Dondo",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

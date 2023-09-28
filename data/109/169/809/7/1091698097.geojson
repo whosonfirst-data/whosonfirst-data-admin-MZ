@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064384,
-    "geom:area_square_m":756914498.088869,
+    "geom:area_square_m":756914486.712551,
     "geom:bbox":"36.646835,-18.246223,36.966694,-17.882446",
     "geom:latitude":-18.056246,
     "geom:longitude":36.803399,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.ZA.IN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879653,
-    "wof:geomhash":"09f544f9c325e840a459df39cca6de5d",
+    "wof:geomhash":"7c29251a10803336d4eb5a4faddacf31",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091698097,
-    "wof:lastmodified":1627522448,
+    "wof:lastmodified":1695886054,
     "wof:name":"Inhassunge",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

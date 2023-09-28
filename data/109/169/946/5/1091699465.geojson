@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.76392,
-    "geom:area_square_m":9231365255.086218,
+    "geom:area_square_m":9231366313.842623,
     "geom:bbox":"35.888672,-12.763216,36.948711,-11.567369",
     "geom:latitude":-12.234798,
     "geom:longitude":36.406514,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.NS.MV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879706,
-    "wof:geomhash":"bddf782d3bdfb1ade5e3c20b9eaf1342",
+    "wof:geomhash":"706d5036b1d39cf3fd4b8ebf225857d7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091699465,
-    "wof:lastmodified":1627522451,
+    "wof:lastmodified":1695886062,
     "wof:name":"Mavago",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

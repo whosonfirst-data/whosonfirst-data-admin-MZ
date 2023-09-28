@@ -91,6 +91,7 @@
         "hasc:id":"MZ.IN.JA",
         "wd:id":"Q5946674"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879655,
     "wof:geomhash":"fbbbc35e07f1b6979ccae6c29796b1a5",
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1091698147,
-    "wof:lastmodified":1694497843,
+    "wof:lastmodified":1695886402,
     "wof:name":"Jangamo",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

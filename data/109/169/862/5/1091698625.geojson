@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.815494,
-    "geom:area_square_m":9594927755.054659,
+    "geom:area_square_m":9594927609.448729,
     "geom:bbox":"33.358383,-18.731567,34.292175,-17.327341",
     "geom:latitude":-17.910235,
     "geom:longitude":33.789389,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.MN.MS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879673,
-    "wof:geomhash":"dc006dc421b819fb38e1a39e0df78017",
+    "wof:geomhash":"ed32f041c61890ec931c5948c5d40e92",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091698625,
-    "wof:lastmodified":1627522449,
+    "wof:lastmodified":1695886057,
     "wof:name":"Macossa",
     "wof:parent_id":85674815,
     "wof:placetype":"county",

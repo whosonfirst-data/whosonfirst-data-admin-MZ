@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.481371,
-    "geom:area_square_m":17875599322.564842,
+    "geom:area_square_m":17875599704.527218,
     "geom:bbox":"37.938332,-13.48283,39.412109,-11.763962",
     "geom:latitude":-12.604018,
     "geom:longitude":38.728147,
@@ -151,9 +151,10 @@
         "hasc:id":"MZ.CD.MN",
         "wd:id":"Q8604234"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879736,
-    "wof:geomhash":"a7c679ae8e620992526cb7d06aae9fa8",
+    "wof:geomhash":"1cfa8503ce54a9fa0ccdd966f322e5b2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -163,7 +164,7 @@
         }
     ],
     "wof:id":1091700221,
-    "wof:lastmodified":1690848252,
+    "wof:lastmodified":1695886799,
     "wof:name":"Montepuez",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

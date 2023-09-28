@@ -117,6 +117,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.CD.PM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879783,
     "wof:geomhash":"a8aa49a28e67cb7d6ac65da54f72a22e",
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1091701325,
-    "wof:lastmodified":1694498108,
+    "wof:lastmodified":1695886799,
     "wof:name":"Pemba",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

@@ -100,6 +100,7 @@
         "hasc:id":"MZ.CD.MA",
         "wd:id":"Q2444619"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879671,
     "wof:geomhash":"37742620bebe55cc9348bc34b67feb06",
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1091698583,
-    "wof:lastmodified":1694497842,
+    "wof:lastmodified":1695886396,
     "wof:name":"Macomia",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

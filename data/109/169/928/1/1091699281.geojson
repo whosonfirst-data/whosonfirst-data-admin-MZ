@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.658709,
-    "geom:area_square_m":7565296176.686888,
+    "geom:area_square_m":7565296792.169347,
     "geom:bbox":"31.87652,-22.176861,33.296371,-21.309015",
     "geom:latitude":-21.748023,
     "geom:longitude":32.593378,
@@ -136,9 +136,10 @@
         "hasc:id":"MZ.GA.MS",
         "wd:id":"Q6489681"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879698,
-    "wof:geomhash":"6fc83bc7c8ccfdd9f60a896903e0eb5d",
+    "wof:geomhash":"af72c23fdcb7ec1b59fd25cdb28aa345",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1091699281,
-    "wof:lastmodified":1690848250,
+    "wof:lastmodified":1695886799,
     "wof:name":"Massangena",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.337899,
-    "geom:area_square_m":3991186405.997898,
+    "geom:area_square_m":3991185652.620618,
     "geom:bbox":"34.174805,-17.653019,35.002174,-16.797598",
     "geom:latitude":-17.20599,
     "geom:longitude":34.630099,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.SO.CM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879591,
-    "wof:geomhash":"17366239b08bd04be54ac0c21fb614bc",
+    "wof:geomhash":"e27146412a5d02f5160f5727b4de8a39",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1091696557,
-    "wof:lastmodified":1627522445,
+    "wof:lastmodified":1695886049,
     "wof:name":"Chemba",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

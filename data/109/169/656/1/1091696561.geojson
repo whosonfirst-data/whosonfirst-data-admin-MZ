@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.604951,
-    "geom:area_square_m":7012506331.568147,
+    "geom:area_square_m":7012508239.81942,
     "geom:bbox":"33.384979,-20.999989,34.417732,-19.596432",
     "geom:latitude":-20.36884,
     "geom:longitude":33.883556,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.SO.CB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879594,
-    "wof:geomhash":"837c29b1cbd8c3318dc5b585c2fa5804",
+    "wof:geomhash":"283f8f326283958dbf63d14064ac4754",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091696561,
-    "wof:lastmodified":1627522446,
+    "wof:lastmodified":1695886049,
     "wof:name":"Chibabava",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

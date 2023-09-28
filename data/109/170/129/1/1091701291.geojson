@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.855998,
-    "geom:area_square_m":10137035304.653671,
+    "geom:area_square_m":10137035504.317316,
     "geom:bbox":"37.898399,-17.298,39.138893,-16.117882",
     "geom:latitude":-16.719077,
     "geom:longitude":38.540059,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.ZA.PE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879781,
-    "wof:geomhash":"2d781f170961aafa8b52ec9b70d5284c",
+    "wof:geomhash":"d72610f35c5269b3eace2c904f20c471",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091701291,
-    "wof:lastmodified":1627522455,
+    "wof:lastmodified":1695886071,
     "wof:name":"Pebane",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

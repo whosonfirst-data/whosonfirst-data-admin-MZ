@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.212074,
-    "geom:area_square_m":2370612216.937774,
+    "geom:area_square_m":2370611001.571483,
     "geom:bbox":"32.51413,-25.596207,33.137318,-24.980211",
     "geom:latitude":-25.309744,
     "geom:longitude":32.825775,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.MP.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879687,
-    "wof:geomhash":"0e19f7cca339d5e7516a70f5bcc3d609",
+    "wof:geomhash":"3ef5244b2ed8dd4a3973f8f3f3cc0797",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091699015,
-    "wof:lastmodified":1627522450,
+    "wof:lastmodified":1695886060,
     "wof:name":"Manhica",
     "wof:parent_id":85674849,
     "wof:placetype":"county",

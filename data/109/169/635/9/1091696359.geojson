@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.492665,
-    "geom:area_square_m":5793841683.743613,
+    "geom:area_square_m":5793841986.127589,
     "geom:bbox":"32.937153,-18.668396,33.555805,-17.238588",
     "geom:latitude":-17.993775,
     "geom:longitude":33.225028,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.MN.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879579,
-    "wof:geomhash":"f868c18f2c235c42a71f2edc27cf6e8b",
+    "wof:geomhash":"0885a3193c394eb6dee8230641be2104",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091696359,
-    "wof:lastmodified":1627522444,
+    "wof:lastmodified":1695886044,
     "wof:name":"Barue",
     "wof:parent_id":85674815,
     "wof:placetype":"county",

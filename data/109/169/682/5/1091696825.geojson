@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.599996,
-    "geom:area_square_m":7150213221.203427,
+    "geom:area_square_m":7150212551.693635,
     "geom:bbox":"32.916565,-15.936675,34.042194,-15.080769",
     "geom:latitude":-15.470653,
     "geom:longitude":33.454608,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.TE.CT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879606,
-    "wof:geomhash":"de8e1b11e42cb781ce806861b34ec3f0",
+    "wof:geomhash":"8e4c40be53bfba104a1c928080205bae",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091696825,
-    "wof:lastmodified":1627522446,
+    "wof:lastmodified":1695886050,
     "wof:name":"Chiuta",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

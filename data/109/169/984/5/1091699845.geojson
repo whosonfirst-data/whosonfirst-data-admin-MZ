@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.407127,
-    "geom:area_square_m":4877716352.683493,
+    "geom:area_square_m":4877716502.594869,
     "geom:bbox":"36.181355,-14.643411,37.594151,-14.016244",
     "geom:latitude":-14.322469,
     "geom:longitude":36.862712,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.NS.MT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879720,
-    "wof:geomhash":"1f978c4f018651dc0cad9ee87cd03fa1",
+    "wof:geomhash":"bdd20700ec4127da4a4584be60a7ac1f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091699845,
-    "wof:lastmodified":1627522452,
+    "wof:lastmodified":1695886064,
     "wof:name":"Metarica",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.580282,
-    "geom:area_square_m":6799938905.380785,
+    "geom:area_square_m":6799939244.010341,
     "geom:bbox":"33.723778,-19.164087,34.708294,-18.122688",
     "geom:latitude":-18.613609,
     "geom:longitude":34.217183,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.SO.GO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879636,
-    "wof:geomhash":"eaa20d13fbc6c9f40727d4ca6543c7f3",
+    "wof:geomhash":"28f7fe9418573adb9870cbd793d38da5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091697631,
-    "wof:lastmodified":1627522447,
+    "wof:lastmodified":1695886052,
     "wof:name":"Gorongosa",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

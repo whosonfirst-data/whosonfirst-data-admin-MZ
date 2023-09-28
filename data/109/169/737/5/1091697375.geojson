@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.448548,
-    "geom:area_square_m":5363618128.05296,
+    "geom:area_square_m":5363618813.592759,
     "geom:bbox":"36.141407,-15.271412,37.085793,-14.223697",
     "geom:latitude":-14.747815,
     "geom:longitude":36.544848,
@@ -150,9 +150,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.NS.CU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879626,
-    "wof:geomhash":"08c481e333c1545a65491ba5f6ec447a",
+    "wof:geomhash":"b236beb35fc88dc6f3f0d0ff2fd92ed1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":1091697375,
-    "wof:lastmodified":1636501808,
+    "wof:lastmodified":1695886797,
     "wof:name":"Cuamba",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

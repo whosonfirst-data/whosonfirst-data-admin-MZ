@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.372332,
-    "geom:area_square_m":4200416719.034444,
+    "geom:area_square_m":4200417491.059275,
     "geom:bbox":"32.74147,-24.640905,33.431149,-23.64257",
     "geom:latitude":-24.167199,
     "geom:longitude":33.121402,
@@ -104,9 +104,10 @@
         "hasc:id":"MZ.GA.GU",
         "wd:id":"Q2680874"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879639,
-    "wof:geomhash":"ed836bfd29475044dc82b0bce1d36282",
+    "wof:geomhash":"c791229f408f2ab66e0ef15eeb17d59e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1091697721,
-    "wof:lastmodified":1690848249,
+    "wof:lastmodified":1695886406,
     "wof:name":"Guija",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

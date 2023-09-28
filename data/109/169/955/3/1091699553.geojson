@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.NS.MS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879709,
     "wof:geomhash":"f9b7fb8b2807d8f608d600b15b02c5a4",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091699553,
-    "wof:lastmodified":1694498061,
+    "wof:lastmodified":1695886063,
     "wof:name":"Mecanhelas",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

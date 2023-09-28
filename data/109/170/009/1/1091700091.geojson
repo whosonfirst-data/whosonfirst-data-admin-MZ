@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.371043,
-    "geom:area_square_m":4420291949.113189,
+    "geom:area_square_m":4420291499.070944,
     "geom:bbox":"39.730045,-15.953723,40.57906,-15.093995",
     "geom:latitude":-15.539174,
     "geom:longitude":40.087354,
@@ -101,9 +101,10 @@
         "hasc:id":"MZ.NM.MG",
         "wd:id":"Q6436050"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879730,
-    "wof:geomhash":"3078d362fc2ca3086eef70346f9ff49a",
+    "wof:geomhash":"c2f8d0eec0b4ad3c310ad5aaa247963e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1091700091,
-    "wof:lastmodified":1690848254,
+    "wof:lastmodified":1695886409,
     "wof:name":"Mogincual",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

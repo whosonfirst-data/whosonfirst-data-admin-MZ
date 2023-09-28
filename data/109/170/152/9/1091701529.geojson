@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.363514,
-    "geom:area_square_m":4299321992.703291,
+    "geom:area_square_m":4299323066.759008,
     "geom:bbox":"33.810352,-17.385168,34.541496,-16.572437",
     "geom:latitude":-16.963363,
     "geom:longitude":34.105076,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.MN.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879791,
-    "wof:geomhash":"39a189a989996a87854fac982550e72f",
+    "wof:geomhash":"0319cd370b6116833cc65fd2d51f8f2b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091701529,
-    "wof:lastmodified":1627522456,
+    "wof:lastmodified":1695886073,
     "wof:name":"Tambara",
     "wof:parent_id":85674815,
     "wof:placetype":"county",

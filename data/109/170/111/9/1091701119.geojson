@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.34516,
-    "geom:area_square_m":4027263287.849708,
+    "geom:area_square_m":4027262999.784407,
     "geom:bbox":"33.935829,-19.66305,34.568611,-18.945494",
     "geom:latitude":-19.333932,
     "geom:longitude":34.240487,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.SO.NH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879773,
-    "wof:geomhash":"f86527840bbc23dbb72b27e300b5ef44",
+    "wof:geomhash":"c1853042c8c6e5bd6f65cb950b128805",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091701119,
-    "wof:lastmodified":1627522454,
+    "wof:lastmodified":1695886068,
     "wof:name":"Nhamatanda",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

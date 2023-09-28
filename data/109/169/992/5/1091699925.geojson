@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.410712,
-    "geom:area_square_m":4589642908.19961,
+    "geom:area_square_m":4589643882.291473,
     "geom:bbox":"31.977472,-25.844479,32.624783,-24.785419",
     "geom:latitude":-25.345616,
     "geom:longitude":32.253863,
@@ -103,9 +103,10 @@
         "hasc:id":"MZ.MP.MO",
         "wd:id":"Q6484207"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879723,
-    "wof:geomhash":"2f5c06c69cbdac3d37abf8070c201da3",
+    "wof:geomhash":"710e90df54499ca54e2a9d5f1e3e8d83",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1091699925,
-    "wof:lastmodified":1690848241,
+    "wof:lastmodified":1695886398,
     "wof:name":"Moamba",
     "wof:parent_id":85674849,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.362245,
-    "geom:area_square_m":4250330392.188139,
+    "geom:area_square_m":4250330392.18709,
     "geom:bbox":"35.8201065063,-18.9023704529,36.8303833008,-18.0307350159",
     "geom:latitude":-18.394915,
     "geom:longitude":36.322677,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.ZA.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879602,
-    "wof:geomhash":"8a2f0a867dad1432fcf7f3e3967374a4",
+    "wof:geomhash":"a25445c323693f10cfdf3b6835fc220d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091696729,
-    "wof:lastmodified":1566646616,
+    "wof:lastmodified":1695886392,
     "wof:name":"Chinde",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

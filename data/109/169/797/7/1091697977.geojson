@@ -89,6 +89,7 @@
         "hasc:id":"MZ.NM.MS",
         "wd:id":"Q6436077"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879649,
     "wof:geomhash":"75938207eb28801126bae5bb1ee96ae2",
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1091697977,
-    "wof:lastmodified":1694497842,
+    "wof:lastmodified":1695886390,
     "wof:name":"Ilha de Mocambique",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

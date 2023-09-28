@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.CD.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879645,
     "wof:geomhash":"da12c40e2c7bb9217c3fa54e58d096b9",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091697897,
-    "wof:lastmodified":1694498060,
+    "wof:lastmodified":1695886054,
     "wof:name":"Ibo",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

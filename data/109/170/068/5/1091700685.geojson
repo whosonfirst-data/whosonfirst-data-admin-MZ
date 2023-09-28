@@ -127,6 +127,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.NM.NV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879757,
     "wof:geomhash":"2f432c026cb766f7370eb9f862b67eaa",
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":1091700685,
-    "wof:lastmodified":1694498109,
+    "wof:lastmodified":1695886801,
     "wof:name":"Nacala",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

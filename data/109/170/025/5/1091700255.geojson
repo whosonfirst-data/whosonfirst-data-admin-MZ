@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.085027,
-    "geom:area_square_m":12826218760.022444,
+    "geom:area_square_m":12826218933.12541,
     "geom:bbox":"35.145626,-17.655827,36.459145,-16.352329",
     "geom:latitude":-17.057371,
     "geom:longitude":35.790253,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.ZA.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879740,
-    "wof:geomhash":"abdd220f0eb72556d6becf26a2ca6653",
+    "wof:geomhash":"8354631a572ca2fbb5835b3a7090296b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091700255,
-    "wof:lastmodified":1627522453,
+    "wof:lastmodified":1695886065,
     "wof:name":"Morrumbala",
     "wof:parent_id":85674839,
     "wof:placetype":"county",
