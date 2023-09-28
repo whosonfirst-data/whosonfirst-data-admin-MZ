@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.568638,
-    "geom:area_square_m":78461268063.995544,
+    "geom:area_square_m":78461267514.7034,
     "geom:bbox":"36.695835,-16.901962,40.840626,-13.445104",
     "geom:latitude":-14.966443,
     "geom:longitude":39.24871,
@@ -300,17 +300,19 @@
         "gn:id":1033354,
         "gp:id":2346316,
         "hasc:id":"MZ.NM",
+        "iso:code":"MZ-N",
         "iso:id":"MZ-N",
         "qs_pg:id":894926,
         "unlc:id":"MZ-N",
         "wd:id":"Q622794",
         "wk:page":"Nampula Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"42576d6403f89300e5690d2a5c81a3af",
+    "wof:geomhash":"5f3530bbaeda74da54e0bddbbe77ea43",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -325,7 +327,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690848220,
+    "wof:lastmodified":1695884907,
     "wof:name":"Nampula",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.656118,
-    "geom:area_square_m":75569101872.324188,
+    "geom:area_square_m":75569101923.072479,
     "geom:bbox":"31.306313,-25.380955,34.473415,-21.309015",
     "geom:latitude":-23.321273,
     "geom:longitude":32.804189,
@@ -314,17 +314,19 @@
         "gn:id":1046058,
         "gp:id":2346312,
         "hasc:id":"MZ.GA",
+        "iso:code":"MZ-G",
         "iso:id":"MZ-G",
         "qs_pg:id":1091217,
         "unlc:id":"MZ-G",
         "wd:id":"Q466526",
         "wk:page":"Gaza Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f559f127393bc82e593a4ad56e3c72d8",
+    "wof:geomhash":"05ef9c726992f623a9a45dbe9f69bcdd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -339,7 +341,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690848224,
+    "wof:lastmodified":1695884910,
     "wof:name":"Gaza",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

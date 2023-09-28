@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.816035,
-    "geom:area_square_m":67961061174.603462,
+    "geom:area_square_m":67961062152.470825,
     "geom:bbox":"33.384979,-21.316055,36.189751,-16.797598",
     "geom:latitude":-19.062121,
     "geom:longitude":34.671009,
@@ -305,17 +305,19 @@
         "gn:id":1026804,
         "gp:id":2346315,
         "hasc:id":"MZ.SO",
+        "iso:code":"MZ-S",
         "iso:id":"MZ-S",
         "qs_pg:id":1091220,
         "unlc:id":"MZ-S",
         "wd:id":"Q622801",
         "wk:page":"Sofala Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c3eb773f3366f5600b9c8b80852b3b31",
+    "wof:geomhash":"cff091cf9c220e29b5c514f302d7332c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -330,7 +332,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690848219,
+    "wof:lastmodified":1695884906,
     "wof:name":"Sofala",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

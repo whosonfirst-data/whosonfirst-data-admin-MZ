@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.47797,
-    "geom:area_square_m":78205964504.16864,
+    "geom:area_square_m":78205963273.771927,
     "geom:bbox":"37.938332,-14.164414,40.717762,-10.472198",
     "geom:latitude":-12.460629,
     "geom:longitude":39.365495,
@@ -311,17 +311,19 @@
         "gn:id":1051823,
         "gp:id":2346311,
         "hasc:id":"MZ.CD",
+        "iso:code":"MZ-P",
         "iso:id":"MZ-P",
         "qs_pg:id":388548,
         "unlc:id":"MZ-P",
         "wd:id":"Q466538",
         "wk:page":"Cabo Delgado Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f0da98b71f8fd09b4ec36f1130cc2883",
+    "wof:geomhash":"adf814c26c559383da802d803bb2de45",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -336,7 +338,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690848223,
+    "wof:lastmodified":1695884909,
     "wof:name":"Cabo Delgado",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

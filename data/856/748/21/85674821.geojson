@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.786688,
-    "geom:area_square_m":129912224519.950073,
+    "geom:area_square_m":129912223950.175598,
     "geom:bbox":"34.350483,-15.479039,38.487164,-11.259965",
     "geom:latitude":-13.058082,
     "geom:longitude":36.461944,
@@ -307,16 +307,18 @@
         "gn:id":1030006,
         "gp:id":2346317,
         "hasc:id":"MZ.NS",
+        "iso:code":"MZ-A",
         "iso:id":"MZ-A",
         "qs_pg:id":894927,
         "wd:id":"Q622799",
         "wk:page":"Niassa Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"53ddc16665b5fd654066fee65a36b9c2",
+    "wof:geomhash":"d83e846378c6ba60563bb959747faaef",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -331,7 +333,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690848224,
+    "wof:lastmodified":1695884909,
     "wof:name":"Niassa",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

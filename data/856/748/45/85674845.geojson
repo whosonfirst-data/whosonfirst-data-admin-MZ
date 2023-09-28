@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.05076,
-    "geom:area_square_m":68958465586.081558,
+    "geom:area_square_m":68958466824.664642,
     "geom:bbox":"33.161545,-24.861891,35.604565,-20.954969",
     "geom:latitude":-22.809418,
     "geom:longitude":34.51514,
@@ -308,17 +308,19 @@
         "gn:id":1045110,
         "gp:id":2346313,
         "hasc:id":"MZ.IN",
+        "iso:code":"MZ-I",
         "iso:id":"MZ-I",
         "qs_pg:id":1091218,
         "unlc:id":"MZ-I",
         "wd:id":"Q466547",
         "wk:page":"Inhambane Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ac9d0fe7643faf14b5b2761e0526e303",
+    "wof:geomhash":"41f0859d95d5cc8b7064a7b373c3807d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -333,7 +335,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690848222,
+    "wof:lastmodified":1695884908,
     "wof:name":"Inhambane",
     "wof:parent_id":85632729,
     "wof:placetype":"region",
