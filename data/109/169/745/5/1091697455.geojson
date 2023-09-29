@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.NM.NE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879629,
     "wof:geomhash":"e0898da47331e1eb3d0e20db3b98eaea",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1091697455,
-    "wof:lastmodified":1695886051,
+    "wof:lastmodified":1696023153,
     "wof:name":"Erati",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

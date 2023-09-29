@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.NM.NC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879618,
     "wof:geomhash":"da7fb1aa94085a90f795f5d387d7353f",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091697151,
-    "wof:lastmodified":1695886068,
+    "wof:lastmodified":1696023153,
     "wof:name":"Cidade de Nampula",
     "wof:parent_id":85674827,
     "wof:placetype":"county",
