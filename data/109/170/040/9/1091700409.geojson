@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.344574,
-    "geom:area_square_m":4121577848.846797,
+    "geom:area_square_m":4121577569.04268,
     "geom:bbox":"39.186047,-15.009346,40.004452,-14.307763",
     "geom:latitude":-14.682592,
     "geom:longitude":39.533772,
@@ -103,9 +103,10 @@
         "hasc:id":"MZ.NM.MU",
         "wd:id":"Q6436042"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879748,
-    "wof:geomhash":"e11e3126643f0e721e0fdbb4a30361c5",
+    "wof:geomhash":"d68847ce764acc5e36085da9983d70e6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1091700409,
-    "wof:lastmodified":1690848253,
+    "wof:lastmodified":1695886408,
     "wof:name":"Muecate",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

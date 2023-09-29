@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.588716,
-    "geom:area_square_m":18120378452.917488,
+    "geom:area_square_m":18120375732.116886,
     "geom:bbox":"31.306313,-23.584587,32.902485,-21.872313",
     "geom:latitude":-22.716503,
     "geom:longitude":32.032354,
@@ -109,9 +109,10 @@
         "hasc:id":"MZ.GA.CC",
         "wd:id":"Q2577748"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879598,
-    "wof:geomhash":"5cc29d6ac799442493b073fe12630856",
+    "wof:geomhash":"d3484f060c0b55faef48d258d034af28",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1091696621,
-    "wof:lastmodified":1690848248,
+    "wof:lastmodified":1695886405,
     "wof:name":"Chicualacuala",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

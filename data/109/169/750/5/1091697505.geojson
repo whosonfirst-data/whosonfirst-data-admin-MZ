@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.200278,
-    "geom:area_square_m":13655950377.365837,
+    "geom:area_square_m":13655950096.634323,
     "geom:bbox":"33.646088,-23.714006,34.962341,-22.154814",
     "geom:latitude":-23.055279,
     "geom:longitude":34.306372,
@@ -103,9 +103,10 @@
         "hasc:id":"MZ.IN.FU",
         "wd:id":"Q5509190"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879631,
-    "wof:geomhash":"d94b38d9fabb2273cea42af6ed767749",
+    "wof:geomhash":"7cf7e920523392c676b8f862b998a1fd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1091697505,
-    "wof:lastmodified":1690848242,
+    "wof:lastmodified":1695886399,
     "wof:name":"Funhalouro",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

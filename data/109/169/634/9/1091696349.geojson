@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.458943,
-    "geom:area_square_m":5518889247.099515,
+    "geom:area_square_m":5518889738.922115,
     "geom:bbox":"38.037182,-14.160389,38.826332,-12.916069",
     "geom:latitude":-13.463893,
     "geom:longitude":38.407073,
@@ -118,9 +118,10 @@
         "hasc:id":"MZ.CD.BA",
         "wd:id":"Q508480"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879578,
-    "wof:geomhash":"ce98b9ac28d14eeb246416f96574cfe7",
+    "wof:geomhash":"91d013fc86fec02470f500fd1d295bfa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1091696349,
-    "wof:lastmodified":1690848238,
+    "wof:lastmodified":1695886394,
     "wof:name":"Balama",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

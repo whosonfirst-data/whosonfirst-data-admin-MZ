@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.25123,
-    "geom:area_square_m":3016549590.479442,
+    "geom:area_square_m":3016548961.432015,
     "geom:bbox":"35.162159,-14.109421,36.069576,-13.553683",
     "geom:latitude":-13.821497,
     "geom:longitude":35.573689,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.NS.NG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879772,
-    "wof:geomhash":"45d4ee7a8814f47adc31542c554aabe6",
+    "wof:geomhash":"b8fbae8a30c8b5fa568ed5a685ebbf2e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091701091,
-    "wof:lastmodified":1627522453,
+    "wof:lastmodified":1695886067,
     "wof:name":"Ngauma",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

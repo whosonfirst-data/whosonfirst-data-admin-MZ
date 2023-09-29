@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.503896,
-    "geom:area_square_m":5697832320.549824,
+    "geom:area_square_m":5697832621.750145,
     "geom:bbox":"31.549906,-24.347273,32.639824,-23.224934",
     "geom:latitude":-23.867982,
     "geom:longitude":32.093796,
@@ -100,9 +100,10 @@
         "hasc:id":"MZ.GA.MG",
         "wd:id":"Q5487847"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879701,
-    "wof:geomhash":"3bae61b60ca9899b36766e281bcd7683",
+    "wof:geomhash":"c02f87eecf5f8eae8e56e57ebc8254d9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1091699347,
-    "wof:lastmodified":1690848243,
+    "wof:lastmodified":1695886399,
     "wof:name":"Massingir",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.254977,
-    "geom:area_square_m":3029278848.052745,
+    "geom:area_square_m":3029278962.906673,
     "geom:bbox":"39.404793,-16.47353,40.143768,-15.713491",
     "geom:latitude":-16.093356,
     "geom:longitude":39.804676,
@@ -153,9 +153,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.NM.AN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879575,
-    "wof:geomhash":"c34c99e3e3ae15f48d7c6272173d716e",
+    "wof:geomhash":"1a198a33ee64d6377fa8ee64889fb5fe",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":1091696277,
-    "wof:lastmodified":1636501808,
+    "wof:lastmodified":1695886797,
     "wof:name":"Angoche",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

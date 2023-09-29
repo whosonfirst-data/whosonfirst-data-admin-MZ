@@ -104,6 +104,7 @@
         "hasc:id":"MZ.NM.NR",
         "wd:id":"Q6436058"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879761,
     "wof:geomhash":"df2aeedde9e29fcd7b5259f6741e05c6",
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1091700773,
-    "wof:lastmodified":1694492406,
+    "wof:lastmodified":1696023152,
     "wof:name":"Nacaroa",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

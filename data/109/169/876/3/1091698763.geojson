@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.621461,
-    "geom:area_square_m":6981259177.626272,
+    "geom:area_square_m":6981258535.811881,
     "geom:bbox":"31.952467,-25.313406,32.95507,-24.203913",
     "geom:latitude":-24.701493,
     "geom:longitude":32.438971,
@@ -103,9 +103,10 @@
         "hasc:id":"MZ.MP.MG",
         "wd:id":"Q6484234"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879678,
-    "wof:geomhash":"8c34f7e31c79bc953739aaac090f5e2d",
+    "wof:geomhash":"0232f9adbf6b1582f430d2b62ca9e9be",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1091698763,
-    "wof:lastmodified":1690848244,
+    "wof:lastmodified":1695886400,
     "wof:name":"Magude",
     "wof:parent_id":85674849,
     "wof:placetype":"county",

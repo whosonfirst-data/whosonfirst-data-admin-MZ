@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.124429,
-    "geom:area_square_m":13579559470.514929,
+    "geom:area_square_m":13579558935.207487,
     "geom:bbox":"34.350483,-13.482909,35.417564,-11.569075",
     "geom:latitude":-12.388053,
     "geom:longitude":34.821634,
@@ -100,9 +100,10 @@
         "hasc:id":"MZ.NS.LA",
         "wd:id":"Q15241257"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879656,
-    "wof:geomhash":"66c8bd92e9b40b453701b0c0da9e07e9",
+    "wof:geomhash":"18ca9901fd05111523b2dc77376a2aab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1091698193,
-    "wof:lastmodified":1690848237,
+    "wof:lastmodified":1695886393,
     "wof:name":"Lago",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

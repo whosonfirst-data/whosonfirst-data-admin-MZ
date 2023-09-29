@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.499853,
-    "geom:area_square_m":6003783615.806667,
+    "geom:area_square_m":6003782616.129254,
     "geom:bbox":"38.4324,-14.164414,39.380157,-13.3082",
     "geom:latitude":-13.743559,
     "geom:longitude":38.894539,
@@ -112,9 +112,10 @@
         "hasc:id":"MZ.CD.NM",
         "wd:id":"Q2444738"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879769,
-    "wof:geomhash":"236b4f7c7cae769c50ccee71f151bdad",
+    "wof:geomhash":"9caa854c948c758a51c913d46f8db730",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1091700995,
-    "wof:lastmodified":1690848254,
+    "wof:lastmodified":1695886410,
     "wof:name":"Namuno",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

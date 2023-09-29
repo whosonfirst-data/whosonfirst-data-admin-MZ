@@ -88,6 +88,7 @@
         "hasc:id":"MZ.NM.MS",
         "wd:id":"Q6436077"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879743,
     "wof:geomhash":"a82e3e5d981363b301fcaebe8321f224",
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1091700287,
-    "wof:lastmodified":1694497843,
+    "wof:lastmodified":1695886413,
     "wof:name":"Mossuril",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

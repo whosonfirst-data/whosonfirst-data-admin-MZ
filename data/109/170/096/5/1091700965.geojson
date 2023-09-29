@@ -181,6 +181,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.NM.RN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879767,
     "wof:geomhash":"4587b0579063fb4b5aaa77b9ed2b63c1",
@@ -193,7 +194,7 @@
         }
     ],
     "wof:id":1091700965,
-    "wof:lastmodified":1694492940,
+    "wof:lastmodified":1696023154,
     "wof:name":"Nampula",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

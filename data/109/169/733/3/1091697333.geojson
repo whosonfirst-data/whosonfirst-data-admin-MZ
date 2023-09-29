@@ -89,6 +89,7 @@
         "hasc:id":"MZ.GA.XX",
         "wd:id":"Q2215180"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879624,
     "wof:geomhash":"68853c3cf31bb94a9bea4cc6f2976330",
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1091697333,
-    "wof:lastmodified":1694497842,
+    "wof:lastmodified":1695886397,
     "wof:name":"Cidade de Xai-Xai",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

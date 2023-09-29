@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.287739,
-    "geom:area_square_m":3487317464.424683,
+    "geom:area_square_m":3487317406.063238,
     "geom:bbox":"39.79076,-11.753597,40.654163,-11.051172",
     "geom:latitude":-11.433989,
     "geom:longitude":40.165167,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.CD.MP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879726,
-    "wof:geomhash":"c64f9d0e47192e28938acdcb817c238d",
+    "wof:geomhash":"61f0faec9387dd4579ef831333ac8dfc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091700013,
-    "wof:lastmodified":1627522452,
+    "wof:lastmodified":1695886064,
     "wof:name":"Mocimboa da Praia",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

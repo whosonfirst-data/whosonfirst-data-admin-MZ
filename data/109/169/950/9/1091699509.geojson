@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.IN.HO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879708,
     "wof:geomhash":"5a4dcbf0392d9892a0bb07c762747ca9",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091699509,
-    "wof:lastmodified":1694498108,
+    "wof:lastmodified":1695886798,
     "wof:name":"Maxixe",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

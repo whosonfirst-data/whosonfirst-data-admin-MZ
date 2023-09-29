@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.539881,
-    "geom:area_square_m":6388410808.197715,
+    "geom:area_square_m":6388410808.198453,
     "geom:bbox":"34.0695381165,-17.7011394501,35.3460731506,-16.2574195862",
     "geom:latitude":-16.867345,
     "geom:longitude":34.772666,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.TE.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879756,
-    "wof:geomhash":"7529cd429e891f18bc97cc6d395d2f7c",
+    "wof:geomhash":"0952f8e99653231f683300d598665266",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1091700637,
-    "wof:lastmodified":1566646675,
+    "wof:lastmodified":1695886410,
     "wof:name":"Mutarara",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

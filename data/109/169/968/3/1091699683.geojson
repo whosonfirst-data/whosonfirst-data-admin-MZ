@@ -110,6 +110,7 @@
         "hasc:id":"MZ.CD.AN",
         "wd:id":"Q2640799"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879714,
     "wof:geomhash":"8cf2d16e40be6b5f741b57f9afd2d93f",
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1091699683,
-    "wof:lastmodified":1694497842,
+    "wof:lastmodified":1695886397,
     "wof:name":"Mecufi",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

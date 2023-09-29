@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.IN.HO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879644,
     "wof:geomhash":"b86edc8ba52b1276c805a63bcc22529a",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091697853,
-    "wof:lastmodified":1694498060,
+    "wof:lastmodified":1695886053,
     "wof:name":"Homoine",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

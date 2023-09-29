@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.155385,
-    "geom:area_square_m":13333703911.917038,
+    "geom:area_square_m":13333701984.577288,
     "geom:bbox":"32.363888,-21.582447,34.112133,-20.286787",
     "geom:latitude":-21.042521,
     "geom:longitude":33.27127,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.MN.MZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879669,
-    "wof:geomhash":"5de7d7cd52c205a427b0de900b3effaa",
+    "wof:geomhash":"69e0b0e523ecda4587a0b9580fb8364b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091698535,
-    "wof:lastmodified":1627522448,
+    "wof:lastmodified":1695886056,
     "wof:name":"Machaze",
     "wof:parent_id":85674815,
     "wof:placetype":"county",

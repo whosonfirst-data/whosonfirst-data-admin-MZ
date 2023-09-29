@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.295107,
-    "geom:area_square_m":3528098892.633243,
+    "geom:area_square_m":3528099499.638527,
     "geom:bbox":"39.803406,-15.225465,40.500103,-14.387663",
     "geom:latitude":-14.791901,
     "geom:longitude":40.135338,
@@ -103,9 +103,10 @@
         "hasc:id":"MZ.NM.MN",
         "wd:id":"Q2918508"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879735,
-    "wof:geomhash":"9e513cb79d2aac2f294ca118f2de4bb3",
+    "wof:geomhash":"b5dd25b751273f50f0322d398493149b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1091700177,
-    "wof:lastmodified":1690848256,
+    "wof:lastmodified":1695886412,
     "wof:name":"Monapo",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

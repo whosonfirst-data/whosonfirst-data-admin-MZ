@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.45462,
-    "geom:area_square_m":17523160280.788284,
+    "geom:area_square_m":17523159927.536865,
     "geom:bbox":"36.699909,-13.898727,38.23431,-12.177667",
     "geom:latitude":-13.030274,
     "geom:longitude":37.519621,
@@ -120,9 +120,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.NS.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879696,
-    "wof:geomhash":"163961f865aec1f8a73febb74a701844",
+    "wof:geomhash":"aab83f4caaffcb6f619ba266366bf1a4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1091699257,
-    "wof:lastmodified":1636501809,
+    "wof:lastmodified":1695886798,
     "wof:name":"Marrupa",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

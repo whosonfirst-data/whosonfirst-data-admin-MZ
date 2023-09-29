@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.038012,
-    "geom:area_square_m":12546071546.784212,
+    "geom:area_square_m":12546071878.597582,
     "geom:bbox":"34.96492,-13.164228,36.289318,-11.409412",
     "geom:latitude":-12.17645,
     "geom:longitude":35.560348,
@@ -97,9 +97,10 @@
         "hasc:id":"MZ.NS.SA",
         "wd:id":"Q7417763"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879788,
-    "wof:geomhash":"f14fc3730aad1271b594ed9aaa7bec3d",
+    "wof:geomhash":"8fa5c2c85639f664e399d72e8eda4fab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1091701443,
-    "wof:lastmodified":1690848254,
+    "wof:lastmodified":1695886411,
     "wof:name":"Sanga",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

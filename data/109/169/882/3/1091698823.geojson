@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.942593,
-    "geom:area_square_m":11341621555.452311,
+    "geom:area_square_m":11341621511.76878,
     "geom:bbox":"35.615604,-13.986546,37.005009,-12.668669",
     "geom:latitude":-13.320555,
     "geom:longitude":36.37365,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.NS.MJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879680,
-    "wof:geomhash":"b674f0a67c311b35254648b674dd9e1d",
+    "wof:geomhash":"6d28a172bc093efdd4074e92c5ca2afe",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091698823,
-    "wof:lastmodified":1627522449,
+    "wof:lastmodified":1695886059,
     "wof:name":"Majune",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

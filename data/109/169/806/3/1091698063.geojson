@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.41426,
-    "geom:area_square_m":4757705044.587308,
+    "geom:area_square_m":4757706559.550896,
     "geom:bbox":"34.375523,-22.091051,35.497879,-21.342833",
     "geom:latitude":-21.750166,
     "geom:longitude":34.859112,
@@ -106,9 +106,10 @@
         "hasc:id":"MZ.IN.IS",
         "wd:id":"Q11683219"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879651,
-    "wof:geomhash":"c1cb2df802152898117822629c5e9dfa",
+    "wof:geomhash":"e29ae605e469f42ba19526eb58ef7ea0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1091698063,
-    "wof:lastmodified":1690848248,
+    "wof:lastmodified":1695886405,
     "wof:name":"Inhassoro",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.379843,
-    "geom:area_square_m":4548518573.792961,
+    "geom:area_square_m":4548518637.465977,
     "geom:bbox":"37.672852,-14.819051,38.70031,-14.11857",
     "geom:latitude":-14.43637,
     "geom:longitude":38.126726,
@@ -103,9 +103,10 @@
         "hasc:id":"MZ.NM.LA",
         "wd:id":"Q6436032"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879658,
-    "wof:geomhash":"82e96ac91c125ef959cc8d4f129ec9fa",
+    "wof:geomhash":"5bc8dca47879febecb753fbc62346bf1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1091698233,
-    "wof:lastmodified":1690848243,
+    "wof:lastmodified":1695886400,
     "wof:name":"Lalaua",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

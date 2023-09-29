@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.TE.CG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879589,
     "wof:geomhash":"18a3a985c3a2628ab6be599179e4640e",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091696537,
-    "wof:lastmodified":1694498060,
+    "wof:lastmodified":1695886048,
     "wof:name":"Changara",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

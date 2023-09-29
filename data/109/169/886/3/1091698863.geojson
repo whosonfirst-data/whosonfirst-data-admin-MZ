@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.508192,
-    "geom:area_square_m":6075438448.11875,
+    "geom:area_square_m":6075438208.933597,
     "geom:bbox":"36.695835,-15.194759,37.947205,-14.273657",
     "geom:latitude":-14.798173,
     "geom:longitude":37.390486,
@@ -103,9 +103,10 @@
         "hasc:id":"MZ.NM.MA",
         "wd:id":"Q6436099"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879681,
-    "wof:geomhash":"b651923f4757355e2e90db419f9f7fe2",
+    "wof:geomhash":"148e217a887c820f9239e5a2f26633e7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1091698863,
-    "wof:lastmodified":1690848238,
+    "wof:lastmodified":1695886394,
     "wof:name":"Malema",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

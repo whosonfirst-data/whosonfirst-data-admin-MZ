@@ -99,6 +99,7 @@
         "hasc:id":"MZ.GA.MJ",
         "wd:id":"Q6489660"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879685,
     "wof:geomhash":"77c7a1c6ae3be59e34b77a212a31c4e4",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1091698967,
-    "wof:lastmodified":1694492406,
+    "wof:lastmodified":1696023152,
     "wof:name":"Mandlakaze",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

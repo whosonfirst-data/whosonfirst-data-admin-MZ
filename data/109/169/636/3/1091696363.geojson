@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.MP.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879583,
     "wof:geomhash":"e3c25b80a7baa2e38a74b35850310124",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091696363,
-    "wof:lastmodified":1694498060,
+    "wof:lastmodified":1695886045,
     "wof:name":"Boane",
     "wof:parent_id":85674849,
     "wof:placetype":"county",

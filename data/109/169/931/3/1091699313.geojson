@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.651728,
-    "geom:area_square_m":7427013872.101822,
+    "geom:area_square_m":7427012929.516918,
     "geom:bbox":"34.351501,-23.485704,35.604565,-22.204952",
     "geom:latitude":-22.836913,
     "geom:longitude":35.021388,
@@ -103,9 +103,10 @@
         "hasc:id":"MZ.IN.MS",
         "wd:id":"Q5668856"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879699,
-    "wof:geomhash":"d80cba401c03244c0c5f74432ed1b30d",
+    "wof:geomhash":"96c6407212a15a573f3b8d5132669506",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1091699313,
-    "wof:lastmodified":1690848236,
+    "wof:lastmodified":1695886391,
     "wof:name":"Massinga",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

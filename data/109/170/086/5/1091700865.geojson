@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.171904,
-    "geom:area_square_m":2027446382.121537,
+    "geom:area_square_m":2027446617.525617,
     "geom:bbox":"36.789238,-17.760813,37.365421,-17.182865",
     "geom:latitude":-17.481231,
     "geom:longitude":37.072915,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.ZA.NC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879764,
-    "wof:geomhash":"e8a96a7c5466ee14d9523f6b0a61627f",
+    "wof:geomhash":"f2e9cdf559f4ee63a133b363ca936e09",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1091700865,
-    "wof:lastmodified":1627522454,
+    "wof:lastmodified":1695886068,
     "wof:name":"Namacurra",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.518142,
-    "geom:area_square_m":6149193524.423338,
+    "geom:area_square_m":6149193267.921844,
     "geom:bbox":"36.146255,-16.83115,37.157303,-15.825414",
     "geom:latitude":-16.305629,
     "geom:longitude":36.653583,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.ZA.LU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879661,
-    "wof:geomhash":"ffda3c425d7bd21c159dd985ba418107",
+    "wof:geomhash":"41a540427dff61e216443cadb31b6eda",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091698327,
-    "wof:lastmodified":1627522448,
+    "wof:lastmodified":1695886054,
     "wof:name":"Lugela",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.624313,
-    "geom:area_square_m":7252318306.759483,
+    "geom:area_square_m":7252318273.501072,
     "geom:bbox":"33.89299,-20.565617,34.788086,-19.580845",
     "geom:latitude":-20.039043,
     "geom:longitude":34.372117,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.SO.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879584,
-    "wof:geomhash":"9f17d32f513d298dd90262d178c6958a",
+    "wof:geomhash":"dd600efd13396324b34d5df73e8fda5c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1091696395,
-    "wof:lastmodified":1627522444,
+    "wof:lastmodified":1695886045,
     "wof:name":"Buzi",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.652636,
-    "geom:area_square_m":7682211458.036354,
+    "geom:area_square_m":7682211051.364604,
     "geom:bbox":"35.313103,-18.231964,36.717598,-17.500454",
     "geom:latitude":-17.832918,
     "geom:longitude":36.062597,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.ZA.MP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879738,
-    "wof:geomhash":"310365063e6802876e17796852694d9c",
+    "wof:geomhash":"9a98f62c3abb7b76b503c485850e8261",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091700251,
-    "wof:lastmodified":1627522452,
+    "wof:lastmodified":1695886065,
     "wof:name":"Mopeia",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

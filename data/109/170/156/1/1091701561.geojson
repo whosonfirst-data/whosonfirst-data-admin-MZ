@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.307921,
-    "geom:area_square_m":3675570758.452037,
+    "geom:area_square_m":3675570799.067426,
     "geom:bbox":"33.99136,-15.492231,34.623917,-14.682219",
     "geom:latitude":-15.125688,
     "geom:longitude":34.344551,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.TE.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879793,
-    "wof:geomhash":"c56390b74bd462860847324780d50bfd",
+    "wof:geomhash":"4ad18891ec1a09c117e7916368b0854e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091701561,
-    "wof:lastmodified":1627522456,
+    "wof:lastmodified":1695886074,
     "wof:name":"Tsangano",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

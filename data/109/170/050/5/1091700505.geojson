@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.483114,
-    "geom:area_square_m":5824722458.018725,
+    "geom:area_square_m":5824722165.78111,
     "geom:bbox":"35.415188,-13.329155,36.419323,-12.224082",
     "geom:latitude":-12.824453,
     "geom:longitude":35.812471,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.NS.MM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879751,
-    "wof:geomhash":"17c02d499558aea30fd6ccbf506e1817",
+    "wof:geomhash":"bbcecb22ee50aa3c5564ef0f9bfe4d14",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091700505,
-    "wof:lastmodified":1627522453,
+    "wof:lastmodified":1695886067,
     "wof:name":"Muembe",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

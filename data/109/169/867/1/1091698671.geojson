@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.648154,
-    "geom:area_square_m":7659862227.151027,
+    "geom:area_square_m":7659862368.453783,
     "geom:bbox":"37.062122,-17.669781,38.117184,-16.531883",
     "geom:latitude":-17.10781,
     "geom:longitude":37.62383,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.ZA.MC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879674,
-    "wof:geomhash":"202e569c49df32ef135cfdf0b4f49674",
+    "wof:geomhash":"c1e97b908bcae8fb59f8eab955463235",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091698671,
-    "wof:lastmodified":1627522449,
+    "wof:lastmodified":1695886057,
     "wof:name":"Maganja da Costa",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

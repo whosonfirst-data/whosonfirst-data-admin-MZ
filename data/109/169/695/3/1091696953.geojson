@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.MP.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879611,
     "wof:geomhash":"54148506ab8f3455c200e8984496daeb",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091696953,
-    "wof:lastmodified":1694498061,
+    "wof:lastmodified":1695886061,
     "wof:name":"Cidade da Matola",
     "wof:parent_id":85674849,
     "wof:placetype":"county",

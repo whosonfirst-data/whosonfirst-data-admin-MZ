@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.711859,
-    "geom:area_square_m":8462338613.887712,
+    "geom:area_square_m":8462338227.145743,
     "geom:bbox":"33.365742,-16.617929,34.460361,-15.407207",
     "geom:latitude":-15.972854,
     "geom:longitude":34.003451,
@@ -139,9 +139,10 @@
         "hasc:id":"MZ.TE.MT",
         "wd:id":"Q2403251"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879725,
-    "wof:geomhash":"58d8d596d29ce8607a57ebd7443e0572",
+    "wof:geomhash":"44b34e9b075ff35314c9eedb323dfe9d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1091699971,
-    "wof:lastmodified":1690848236,
+    "wof:lastmodified":1695886797,
     "wof:name":"Moatize",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.829546,
-    "geom:area_square_m":9859135161.693619,
+    "geom:area_square_m":9859136770.543015,
     "geom:bbox":"35.277073,-16.651176,36.602142,-15.260135",
     "geom:latitude":-16.017008,
     "geom:longitude":35.989203,
@@ -103,9 +103,10 @@
         "hasc:id":"MZ.ZA.ML",
         "wd:id":"Q1131922"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879721,
-    "wof:geomhash":"a67a02213872018ad6e81000d14ab68d",
+    "wof:geomhash":"a53fc25c903a4302975437543ab1b6e1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1091699895,
-    "wof:lastmodified":1690848249,
+    "wof:lastmodified":1695886406,
     "wof:name":"Milange",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

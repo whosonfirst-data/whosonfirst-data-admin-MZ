@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.ZA.NI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879775,
     "wof:geomhash":"3300a5880e92d7e7924bff0a5a4b710b",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1091701163,
-    "wof:lastmodified":1694498061,
+    "wof:lastmodified":1695886070,
     "wof:name":"Nicoadala",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

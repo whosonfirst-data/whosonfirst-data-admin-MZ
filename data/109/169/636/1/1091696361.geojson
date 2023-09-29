@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.195157,
-    "geom:area_square_m":2186590870.091589,
+    "geom:area_square_m":2186591086.133057,
     "geom:bbox":"32.903408,-25.380955,33.458328,-24.76243",
     "geom:latitude":-25.025808,
     "geom:longitude":33.175327,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.GA.BM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879581,
-    "wof:geomhash":"602f7fad5a46b8dea227f98c6081b428",
+    "wof:geomhash":"865de44a29976e513af2a5a458feea58",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1091696361,
-    "wof:lastmodified":1627522444,
+    "wof:lastmodified":1695886044,
     "wof:name":"Bilene",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

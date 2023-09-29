@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.CD.PM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879620,
     "wof:geomhash":"e17e8efc1a5f883cf376cd622bc7b03d",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091697197,
-    "wof:lastmodified":1694498061,
+    "wof:lastmodified":1695886070,
     "wof:name":"Cidade de Pemba",
     "wof:parent_id":85674817,
     "wof:placetype":"county",

@@ -92,6 +92,7 @@
         "hasc:id":"MZ.IN.JA",
         "wd:id":"Q5946674"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879614,
     "wof:geomhash":"37e31e266bf0062ac2c4a3f484dabaaf",
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1091697029,
-    "wof:lastmodified":1694497842,
+    "wof:lastmodified":1695886397,
     "wof:name":"Cidade de Inhambane",
     "wof:parent_id":85674845,
     "wof:placetype":"county",

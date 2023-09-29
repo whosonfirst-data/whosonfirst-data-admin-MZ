@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.612744,
-    "geom:area_square_m":7134477293.536384,
+    "geom:area_square_m":7134477348.650207,
     "geom:bbox":"32.776741,-20.243958,33.850288,-19.109716",
     "geom:latitude":-19.670789,
     "geom:longitude":33.264745,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.MN.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879790,
-    "wof:geomhash":"d4f3472b913525e740fb6708da6144fd",
+    "wof:geomhash":"c6642f9caf9fb7c1b273bc266b90e736",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091701483,
-    "wof:lastmodified":1627522456,
+    "wof:lastmodified":1695886073,
     "wof:name":"Sussundenga",
     "wof:parent_id":85674815,
     "wof:placetype":"county",

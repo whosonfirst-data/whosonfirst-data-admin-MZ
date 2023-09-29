@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.495283,
-    "geom:area_square_m":18087943599.151569,
+    "geom:area_square_m":18087943024.929047,
     "geom:bbox":"36.588055,-12.676298,38.487164,-11.259965",
     "geom:latitude":-11.958364,
     "geom:longitude":37.565232,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.NS.MC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879715,
-    "wof:geomhash":"6a6927f8f6c1115988af27bf50fa29c2",
+    "wof:geomhash":"ab2b424a36cd687ecd9f9fb0e1af0d14",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091699731,
-    "wof:lastmodified":1627522452,
+    "wof:lastmodified":1695886063,
     "wof:name":"Mecula",
     "wof:parent_id":85674821,
     "wof:placetype":"county",

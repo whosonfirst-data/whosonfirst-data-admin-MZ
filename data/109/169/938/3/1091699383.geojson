@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.483757,
-    "geom:area_square_m":5351991372.276596,
+    "geom:area_square_m":5351990317.016582,
     "geom:bbox":"32.106552,-26.866438,32.963688,-26.034319",
     "geom:latitude":-26.526892,
     "geom:longitude":32.563104,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.MP.MT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879703,
-    "wof:geomhash":"0a2baf88582e9ed243bd30ade615f7b8",
+    "wof:geomhash":"242893ed80ded6ad54ff978b2987fc83",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091699383,
-    "wof:lastmodified":1627522451,
+    "wof:lastmodified":1695886061,
     "wof:name":"Matutuine",
     "wof:parent_id":85674849,
     "wof:placetype":"county",

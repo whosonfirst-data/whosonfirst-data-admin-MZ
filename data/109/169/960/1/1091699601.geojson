@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.309414,
-    "geom:area_square_m":3690658714.468999,
+    "geom:area_square_m":3690658342.992687,
     "geom:bbox":"39.194008,-15.649422,40.070221,-14.852736",
     "geom:latitude":-15.281907,
     "geom:longitude":39.646605,
@@ -103,9 +103,10 @@
         "hasc:id":"MZ.NM.MC",
         "wd:id":"Q541581"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879710,
-    "wof:geomhash":"64e8c26d706639ff289b3b59d7200cdb",
+    "wof:geomhash":"f8d748b7faf5d32d37b6388d4008e6d9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1091699601,
-    "wof:lastmodified":1690848242,
+    "wof:lastmodified":1695886398,
     "wof:name":"Meconta",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

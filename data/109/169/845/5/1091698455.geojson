@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.604204,
-    "geom:area_square_m":7223107780.964802,
+    "geom:area_square_m":7223107738.915892,
     "geom:bbox":"33.021336,-15.281737,34.07832,-14.14623",
     "geom:latitude":-14.801614,
     "geom:longitude":33.534856,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.TE.MC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879666,
-    "wof:geomhash":"698340fc31fae3e9e7fb3ad01baafcf6",
+    "wof:geomhash":"1468d8414c15ffa797175b426124d1b4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091698455,
-    "wof:lastmodified":1627522448,
+    "wof:lastmodified":1695886055,
     "wof:name":"Macanga",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

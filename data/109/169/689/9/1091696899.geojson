@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.SO.DO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879609,
     "wof:geomhash":"bb7db41447013c373b40414ff902b981",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091696899,
-    "wof:lastmodified":1694498060,
+    "wof:lastmodified":1695886047,
     "wof:name":"Cidade da Beira",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

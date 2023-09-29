@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.375994,
-    "geom:area_square_m":4400333505.721556,
+    "geom:area_square_m":4400333882.258441,
     "geom:bbox":"32.698315,-19.259073,33.453648,-18.344238",
     "geom:latitude":-18.832294,
     "geom:longitude":33.108714,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.MN.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879688,
-    "wof:geomhash":"cbd3517a194f88c49c9cefdbc3896ff8",
+    "wof:geomhash":"b012593453b32b3e7b622b1527a4784e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1091699043,
-    "wof:lastmodified":1636501810,
+    "wof:lastmodified":1695886799,
     "wof:name":"Manica",
     "wof:parent_id":85674815,
     "wof:placetype":"county",

@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.TE.CG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879623,
     "wof:geomhash":"02da210146b69e50dc9d3dadc6da99a2",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091697287,
-    "wof:lastmodified":1694498061,
+    "wof:lastmodified":1695886073,
     "wof:name":"Cidade de Tete",
     "wof:parent_id":85674811,
     "wof:placetype":"county",

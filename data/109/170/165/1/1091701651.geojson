@@ -89,6 +89,7 @@
         "hasc:id":"MZ.GA.XX",
         "wd:id":"Q2215180"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879796,
     "wof:geomhash":"54cdf17f024f5cf609b2fca4f87ecfe7",
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1091701651,
-    "wof:lastmodified":1694497843,
+    "wof:lastmodified":1695886412,
     "wof:name":"Xai-xai",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

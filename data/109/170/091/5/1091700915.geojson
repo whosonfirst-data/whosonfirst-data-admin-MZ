@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.25825,
-    "geom:area_square_m":3071811439.646617,
+    "geom:area_square_m":3071811248.244635,
     "geom:bbox":"36.48122,-16.253559,37.128578,-15.483329",
     "geom:latitude":-15.855276,
     "geom:longitude":36.807057,
@@ -111,9 +111,10 @@
         "hasc:id":"MZ.ZA.NR",
         "wd:id":"Q1131334"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879766,
-    "wof:geomhash":"8c765961e613782b0f5f2904bb72d03e",
+    "wof:geomhash":"ff4c4393f17d7b6ead70fa282baba888",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1091700915,
-    "wof:lastmodified":1690848253,
+    "wof:lastmodified":1695886409,
     "wof:name":"Namarroi",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

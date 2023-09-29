@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"MZ.ZA.NI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879622,
     "wof:geomhash":"3c192d7c04e24df0aa4168bed756055e",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091697259,
-    "wof:lastmodified":1694498061,
+    "wof:lastmodified":1695886070,
     "wof:name":"Cidade de Quelimane",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

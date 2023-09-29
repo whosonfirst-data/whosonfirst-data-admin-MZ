@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.323904,
-    "geom:area_square_m":15078121079.269136,
+    "geom:area_square_m":15078122117.395226,
     "geom:bbox":"32.586021,-23.95216,33.950901,-21.960445",
     "geom:latitude":-22.911699,
     "geom:longitude":33.24966,
@@ -106,9 +106,10 @@
         "hasc:id":"MZ.GA.CG",
         "wd:id":"Q2749205"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879601,
-    "wof:geomhash":"f31c6c70e54a079dcb08ec7ae594c9e1",
+    "wof:geomhash":"65e2f7758a139b4696d6eecb537fe863",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1091696709,
-    "wof:lastmodified":1690848245,
+    "wof:lastmodified":1695886403,
     "wof:name":"Chigubo",
     "wof:parent_id":85674831,
     "wof:placetype":"county",

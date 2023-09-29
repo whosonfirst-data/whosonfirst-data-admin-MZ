@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.305392,
-    "geom:area_square_m":3595792621.591712,
+    "geom:area_square_m":3595792643.786996,
     "geom:bbox":"34.728054,-18.236633,35.462067,-17.361851",
     "geom:latitude":-17.782501,
     "geom:longitude":35.008312,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.SO.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879588,
-    "wof:geomhash":"cec9bb0b7b31bd8b1b730fde450fade9",
+    "wof:geomhash":"3bf91436eff48754d53c75c9621b07e7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091696493,
-    "wof:lastmodified":1627522445,
+    "wof:lastmodified":1695886048,
     "wof:name":"Caia",
     "wof:parent_id":85674835,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.486724,
-    "geom:area_square_m":5774799355.884637,
+    "geom:area_square_m":5774799073.407854,
     "geom:bbox":"38.845428,-16.901962,39.793861,-15.888737",
     "geom:latitude":-16.357195,
     "geom:longitude":39.2703,
@@ -136,9 +136,10 @@
         "hasc:id":"MZ.NM.MO",
         "wd:id":"Q948247"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879733,
-    "wof:geomhash":"ba7081059059b5e5732280761c5cc06d",
+    "wof:geomhash":"9b32005e971b354f5d026e9b3c83384a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1091700155,
-    "wof:lastmodified":1690848251,
+    "wof:lastmodified":1695886799,
     "wof:name":"Moma",
     "wof:parent_id":85674827,
     "wof:placetype":"county",

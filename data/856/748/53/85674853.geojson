@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031277,
-    "geom:area_square_m":347722440.470392,
+    "geom:area_square_m":347722803.424633,
     "geom:bbox":"32.440636,-26.094553,32.995689,-25.810024",
     "geom:latitude":-25.96106,
     "geom:longitude":32.624996,
@@ -256,11 +256,13 @@
         "gn:id":1040649,
         "gp:id":2346314,
         "hasc:id":"MZ.MC",
+        "iso:code":"MZ-MPM",
         "iso:id":"MZ-MPM",
         "qs_pg:id":1091219,
         "wd:id":"Q379658",
         "wk:page":"Maputo Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421167893
     ],
@@ -268,7 +270,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9585e0ec50caff62c4420436bb809530",
+    "wof:geomhash":"7509d7334570a180ff26f579d1a0b109",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -283,7 +285,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690848225,
+    "wof:lastmodified":1695884911,
     "wof:name":"Maputo",
     "wof:parent_id":85632729,
     "wof:placetype":"region",

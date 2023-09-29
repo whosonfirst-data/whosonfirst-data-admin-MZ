@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.194086,
-    "geom:area_square_m":2155899996.49015,
+    "geom:area_square_m":2155900598.479616,
     "geom:bbox":"31.931303,-26.471977,32.402122,-25.674046",
     "geom:latitude":-26.060371,
     "geom:longitude":32.161518,
@@ -103,9 +103,10 @@
         "hasc:id":"MZ.MP.NA",
         "wd:id":"Q6484217"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879762,
-    "wof:geomhash":"c91d1bb2cc3d093365b1e3003fb40bd3",
+    "wof:geomhash":"182c0197c692f56a6ac952818ecae2db",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1091700825,
-    "wof:lastmodified":1690848252,
+    "wof:lastmodified":1695886409,
     "wof:name":"Namaacha",
     "wof:parent_id":85674849,
     "wof:placetype":"county",

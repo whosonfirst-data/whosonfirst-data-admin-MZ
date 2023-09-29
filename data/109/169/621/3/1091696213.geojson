@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.534402,
-    "geom:area_square_m":6362963201.556172,
+    "geom:area_square_m":6362963555.629704,
     "geom:bbox":"37.206654,-16.300774,38.031498,-15.102282",
     "geom:latitude":-15.649321,
     "geom:longitude":37.663844,
@@ -107,9 +107,10 @@
         "hasc:id":"MZ.ZA.AM",
         "wd:id":"Q4736799"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879571,
-    "wof:geomhash":"05afec27ff90500a9b7cacba9d97f9c6",
+    "wof:geomhash":"481d3c25b7a93e851707ce4738304831",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1091696213,
-    "wof:lastmodified":1690848237,
+    "wof:lastmodified":1695886392,
     "wof:name":"Alto Molocue",
     "wof:parent_id":85674839,
     "wof:placetype":"county",

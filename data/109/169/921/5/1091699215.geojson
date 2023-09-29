@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.491986,
-    "geom:area_square_m":5771563289.675756,
+    "geom:area_square_m":5771563160.272097,
     "geom:bbox":"35.291698,-18.960571,36.189751,-17.846783",
     "geom:latitude":-18.425263,
     "geom:longitude":35.740979,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"MZ.SO.MM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MZ",
     "wof:created":1473879694,
-    "wof:geomhash":"dd05a25f04a6d386d26b77d41b66ae26",
+    "wof:geomhash":"72eb78863add5d1e43420b8404a6f549",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091699215,
-    "wof:lastmodified":1627522450,
+    "wof:lastmodified":1695886061,
     "wof:name":"Marromeu",
     "wof:parent_id":85674835,
     "wof:placetype":"county",
