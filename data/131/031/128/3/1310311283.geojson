@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":1035387
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1089512
+        ]
+    },
     "wof:country":"MZ",
     "wof:geomhash":"e6ac28879f5bbf24b321674148d56b79",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1310311283,
-    "wof:lastmodified":1566646376,
+    "wof:lastmodified":1706240537,
     "wof:name":"Chefe Mussongue",
     "wof:parent_id":1091699383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343359785
+    ],
     "wof:tags":[]
 },
   "bbox": [
