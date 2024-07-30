@@ -42,11 +42,11 @@
         "\u039d\u03b1\u03ba\u03ac\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
-        "Cidade de Nacala"
+        "Nacala"
     ],
     "name:eng_x_variant":[
         "Nacala-Porto",
-        "Nacala"
+        "Cidade de Nacala"
     ],
     "name:epo_x_preferred":[
         "Nacala"
@@ -121,6 +121,9 @@
         "Nacala"
     ],
     "name:por_x_preferred":[
+        "Nacala"
+    ],
+    "name:por_x_variant":[
         "Nacala Porto"
     ],
     "name:ron_x_preferred":[
@@ -295,8 +298,8 @@
     "wof:belongsto":[
         102191573,
         85632729,
-        85674827,
-        1091700685
+        1091700685,
+        85674827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -318,7 +321,7 @@
         }
     ],
     "wof:id":421190947,
-    "wof:lastmodified":1690848264,
+    "wof:lastmodified":1722296848,
     "wof:name":"Nacala",
     "wof:parent_id":1091700685,
     "wof:placetype":"locality",
